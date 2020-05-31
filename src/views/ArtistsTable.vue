@@ -63,16 +63,14 @@ export default {
         artistGigs: function () {
             if(this.allMoersFestivalEvents) {
                 return this.allMoersFestivalEvents.reduce((aggregator, event) => {
-                    let eventDescription = event.description || "";
-                    eventDescription = eventDescription.replace(/[\s\u2028]+/g, " ");
-                    const parsedEventDescription = eventDescription.match(/Besetzung:( Besetzung:)?\s*(.+)$/);
-                    const eventLineUp = parsedEventDescription ? parsedEventDescription[2] : "";
+                    const parsedEventDescription = cleanUpDescriptions(event.description);
+                    const eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
                     const artists = eventLineUp
                                         .split(/\)\s*,\s*/)
                                         .filter(a => a)
                                         .map(a => a + ")")
                                         .map(a => {
-                                            const parsedArtist = a.match(/(.+?)\s+(.*)\s*\(([^)]+)\)/) || "";
+                                            const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
                                             const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
                                             const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
                                             const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
@@ -124,5 +122,22 @@ export default {
                 vueInstance.allMoersFestivalEvents = events;
             })
     }
+}
+
+function cleanUpDescriptions(sourceDescription) {
+    if(!sourceDescription) {
+        return "";
+    }
+
+    let eventDescription = sourceDescription
+        .replace(/[\s\u2028]+/g, " ")
+        .replace(/Besetzung:\s+Besetzung:/, "Besetzung: ")
+        .replace(/Blumenthal \(leader\)\s*Niels Klein Trio:/, "Blumenthal (leader), ")
+        .replace(/Besetzung:\s*EOS Kammerorchester K\u00f6ln:/, "Besetzung: " )
+        .replace(/\(dance\) und Dolf Planteijdt/, "(dance), Dolf Planteijdt")
+        .replace(/&amp; Teile des Landesjugendorchester NRW: /, ", ");
+
+    return eventDescription.match(/Besetzung:\s*(.+)$/);
+
 }
 </script>
