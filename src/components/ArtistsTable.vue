@@ -16,11 +16,6 @@
             :multi-column-sortable="true">
 
         </vue-bootstrap-table>
-        <!--<ul>
-            <li v-for="gig in artistGigs" :key="`${gig.artist.surname}_${gig.eventId}`">
-                [{{gig.year}}] {{ gig.artist.surname }}, {{ gig.artist.firstname }} ({{gig.artist.instruments}}): {{ gig.eventName }}
-            </li>
-        </ul>-->
     </div>
 </template>
 
@@ -68,7 +63,8 @@ export default {
         artistGigs: function () {
             if(this.allMoersFestivalEvents) {
                 return this.allMoersFestivalEvents.reduce((aggregator, event) => {
-                    const eventDescription = event.description || "";
+                    let eventDescription = event.description || "";
+                    eventDescription = eventDescription.replace(/[\s\u2028]+/g, " ");
                     const parsedEventDescription = eventDescription.match(/Besetzung:( Besetzung:)?\s*(.+)$/);
                     const eventLineUp = parsedEventDescription ? parsedEventDescription[2] : "";
                     const artists = eventLineUp
