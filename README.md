@@ -7,10 +7,10 @@
 
 ## Kompilieren des Codes zum Deployment auf einem Webserver
 
-`npm install`
-`npm run build`
+* `npm install`
+* `npm run build`
 
 ## Starten eines Entwicklungsserevrs
 
-`npm install`
-`npm run serve`
+* `npm install`
+* `npm run serve`

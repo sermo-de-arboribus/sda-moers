@@ -28,6 +28,7 @@
 import VueBootstrapTable from "vue2-bootstrap-table2";
 
 const axios = require("axios").default;
+const additions = require("../data/additions.json");
 
 export default {
     name: "ArtistsTable",
@@ -110,12 +111,21 @@ export default {
             });
         }
     },
-    mounted: function() {
+    created: function() {
         console.log("fetching data from Moers API");
         const vueInstance = this;
         axios.get("https://meinmoers.lambdadigamma.com/api/v2/moers-festival/events/all")
             .then(function (response) {
-                vueInstance.allMoersFestivalEvents = response.data;
+                const events = response.data.map(ev => {
+                    const eventId = ev.id;
+                    if(additions[eventId]) {
+                        return Object.assign(ev, additions[eventId]);
+                    } else {
+                        return ev;
+                    }
+                })
+
+                vueInstance.allMoersFestivalEvents = events;
             })
     }
 }
