@@ -3,7 +3,7 @@
         <h1>Künstler:innen beim <a href="https://moers-festival.de">Moers Festival</a></h1>
         <p>Eine Tabelle von <a href="https://twitter.com/fruehlingstag">Kai Weber</a> auf der Basis der offenen Festivaldaten von <a href="https://lambdadigamma.com/">Lennart Fischer</a>.
            Den Anstoß zum Aufsetzen dieser Tabelle gab ein <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">Tweet</a>. Vorläufig sind
-           nur die Daten der Konzerte von 2020 enthalten, eine Erweiterung auf die Daten von 2019 ist angestrebt.</p>
+           nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt.</p>
         <vue-bootstrap-table
             :columns="tableColumns"
             defaultOrderColumn="Nachname"
@@ -135,7 +135,8 @@ function cleanUpDescriptions(sourceDescription) {
         .replace(/Blumenthal \(leader\)\s*Niels Klein Trio:/, "Blumenthal (leader), ")
         .replace(/Besetzung:\s*EOS Kammerorchester K\u00f6ln:/, "Besetzung: " )
         .replace(/\(dance\) und Dolf Planteijdt/, "(dance), Dolf Planteijdt")
-        .replace(/&amp; Teile des Landesjugendorchester NRW: /, ", ");
+        .replace(/&amp; Teile des Landesjugendorchester NRW: /, ", ")
+        .replace(/Produktinformation(en)?: (.+)Herstellungsland.+$/, "Besetzung: $2");
 
     return eventDescription.match(/Besetzung:\s*(.+)$/);
 
