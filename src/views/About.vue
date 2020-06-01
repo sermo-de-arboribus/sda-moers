@@ -12,5 +12,7 @@
     <p>Diese Website verwendet keinerlei Cookies und speichert keine persönliche Daten.</p>
     <p>Auf dem Webserver kurzfristig in Log-Dateien abgelegte IP-Adressen werden spätestens binnen 14 Tagen gelöscht.</p>
     <p>Für weitere Fragen zum Datenschutz wenden Sie sich bitte an die unter „Impressum“ genannten Kontaktdaten.</p>
+    <h2>Quellcode</h2>
+    <p>Der Quellcode dieser Seite steht auf <a href="https://github.com/sermo-de-arboribus/sda-moers">Github</a> zur Verfügung.</p>
   </div>
 </template>

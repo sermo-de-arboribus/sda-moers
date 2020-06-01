@@ -110,14 +110,20 @@ export default {
         const vueInstance = this;
         axios.get("https://meinmoers.lambdadigamma.com/api/v2/moers-festival/events/all")
             .then(function (response) {
-                const events = response.data.map(ev => {
-                    const eventId = ev.id;
-                    if(additions[eventId]) {
-                        return Object.assign(ev, additions[eventId]);
-                    } else {
-                        return ev;
-                    }
-                })
+                let events = null;
+
+                if(response.status > 399) {
+                    events = require("../data/backup.json");
+                } else {
+                    events = response.data.map(ev => {
+                        const eventId = ev.id;
+                        if(additions[eventId]) {
+                            return Object.assign(ev, additions[eventId]);
+                        } else {
+                            return ev;
+                        }
+                    })
+                }                
 
                 vueInstance.allMoersFestivalEvents = events;
             })
