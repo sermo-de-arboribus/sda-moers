@@ -4,57 +4,128 @@
         <p>Eine Tabelle von <a href="https://twitter.com/fruehlingstag">Kai Weber</a> auf der Basis der offenen Festivaldaten von <a href="https://lambdadigamma.com/">Lennart Fischer</a>.
            Den Anstoß zum Aufsetzen dieser Tabelle gab ein <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">Tweet</a>. Vorläufig sind
            nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt.</p>
-        <vue-bootstrap-table
+        <vue-good-table
             :columns="tableColumns"
-            defaultOrderColumn="Nachname"
-            :paginated="true"
-            :pageSize="25"
-            :values="tableData"
-            :show-filter="true"
-            :selectable="false"
-            :sortable="true"
-            :multi-column-sortable="true">
+            :fixed-header="true"
+            :pagination-options="paginationOptions"
+            :rows="tableData"
+            :sort-options="sortOptions">
 
-        </vue-bootstrap-table>
+            <template slot="table-row" slot-scope="props">
+                <div v-if="props.column.field == 'links'" class="artistlinks">
+                    <div class="discogs">
+                        <b-button v-for="link in props.row.links.discogs" :href="link.url" :key="link.url" 
+                            :title="`Discogs: ${link.type}`" variant="outline-primary">
+                            <img src="/discogs-logo.png"/>
+                        </b-button>
+                    </div>
+                    <div class="twitter">
+                        <b-button v-for="link in props.row.links.twitter" :href="link.url" :key="link.url"
+                            :title="`Twitter: ${link.type}`" variant="outline-primary">
+                            <img src="/Twitter_Logo_Blue.png" style="width:16px"/>
+                        </b-button>
+                    </div>
+                </div>
+                <span v-else>
+                    {{props.formattedRow[props.column.field]}}
+                </span>
+            </template>
+
+        </vue-good-table>
     </div>
 </template>
 
+<style lang="sass">
+@import "node_modules/vue-good-table/src/styles/style.scss";
+</style>
+
 <script>
-import VueBootstrapTable from "vue2-bootstrap-table2";
+import { VueGoodTable } from 'vue-good-table';
 
 const axios = require("axios").default;
 const additions = require("../data/additions.json");
+const artistlinks = require("../data/artistlinks.json");
 
 export default {
     name: "ArtistsTable",
     components: {
-       VueBootstrapTable
+       VueGoodTable
     },
     data: () => {
         return {
             allMoersFestivalEvents: [],
+            paginationOptions: {
+                allLabel: "alle",
+                enabled: true,
+                mode: "pages",
+                nextLabel: "weiter",
+                ofLabel: "von",
+                pageLabel: "Seite",
+                perPage: 25,
+                perPageDropdown: [25, 50, 100, 200],
+                prevLabel: "zurück",
+                rowsPerPageLabel: "Zeilen pro Seite"
+
+            },
+            sortOptions: {
+                enabled: true,
+                initialSortBy: {field: "surname", type: "asc"}
+            },
             tableColumns: [
                 {
-                    title: "Jahr"
+                    label: "Jahr",
+                    field: "year",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: "Filtere nach Jahr"
+                    },
+                    type: "number",
+                    width: "6%"
                 },
                 {
-                    title: "Vorname"
+                    label: "Vorname",
+                    field: "firstname",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: "Filtere nach Vornamen"
+                    },
                 },
                 {
-                    title: "Nachname"
+                    label: "Nachname",
+                    field: "surname",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: "Filtere nach Nachnamen"
+                    },
                 },
                 {
-                    title: "Instrument(e)"
+                    label: "Instrument(e)",
+                    field: "instruments",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: "Filtere nach Instrumenten"
+                    },
+                    sortable: false
                 },
                 {
-                    title: "Konzert"
+                    label: "Konzert",
+                    field: "concert",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: "Filtere nach Konzerten"
+                    },
                 },
                 {
-                    title: "Startzeit"
+                    label: "Startzeit",
+                    field: "starttime",
+                    type: "date",
+                    dateInputFormat: "yyyy-MM-dd HH:mm:ss",
+                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss"
                 },
                 {
-                    title: "Event-ID",
-                    visible: false
+                    label: "Links",
+                    field: "links",
+                    sortable: false
                 }
             ]
         }
@@ -94,13 +165,14 @@ export default {
         tableData: function() {
             return this.artistGigs.map(ag => {
                 return {
-                    "Jahr": ag.year,
-                    "Vorname": ag.artist.firstname,
-                    "Nachname": ag.artist.surname,
-                    "Instrument(e)": ag.artist.instruments,
-                    "Konzert": ag.eventName,
-                    "Startzeit": ag.eventStartDate,
-                    "Event-ID": ag.eventId
+                    "year": ag.year,
+                    "firstname": ag.artist.firstname,
+                    "surname": ag.artist.surname,
+                    "instruments": ag.artist.instruments,
+                    "concert": ag.eventName,
+                    "starttime": ag.eventStartDate,
+                    "id": ag.eventId,
+                    "links": getArtistLinks([ag.artist.firstname, ag.artist.surname].join(""))
                 }
             });
         }
@@ -147,4 +219,13 @@ function cleanUpDescriptions(sourceDescription) {
     return eventDescription.match(/Besetzung:\s*(.+)$/);
 
 }
+
+function getArtistLinks(artistname) {
+    if(artistlinks[artistname]) {
+        return artistlinks[artistname].links;
+    } else {
+        return { "discogs": [], "twitter": []};
+    }
+}
+
 </script>

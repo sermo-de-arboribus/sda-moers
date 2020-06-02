@@ -1,0 +1,26 @@
+{
+    "Hotep": {
+        "links": {
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2280808-Dave-Hotep"}, {"type": "band", "url": "https://www.discogs.com/artist/2219395-The-Sun-Ra-Arkestra"}],
+            "twitter": [{ "type": "personal", "url": "https://twitter.com/DMHotep"}, {"type": "band", "url": "https://twitter.com/SUNRAARKESTRA"}]
+        }
+    },
+    "Tillamanda": {
+        "links": {
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6040732-Tillamanda"}],
+            "twitter": []
+        }
+    },
+    "MarkusAcher": {
+        "links": {
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
+            "twitter": []
+        }
+    },
+    "MichaAcher": {
+        "links": {
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
+            "twitter": []
+        }
+    }
+}
