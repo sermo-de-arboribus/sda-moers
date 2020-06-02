@@ -16,15 +16,22 @@
                     <div class="discogs">
                         <b-button v-for="link in props.row.links.discogs" :href="link.url" :key="link.url" 
                             :title="`Discogs: ${link.type}`" variant="outline-primary">
-                            <img src="/discogs-logo.png"/>
+                            <img src="/discogs-logo.png" style="width:32px"/>
                         </b-button>
                     </div>
                     <div class="twitter">
                         <b-button v-for="link in props.row.links.twitter" :href="link.url" :key="link.url"
                             :title="`Twitter: ${link.type}`" variant="outline-primary">
-                            <img src="/Twitter_Logo_Blue.png" style="width:16px"/>
+                            <img src="/Twitter_Logo_Blue.png" style="width:32px"/>
                         </b-button>
                     </div>
+                    <div class="twitter">
+                        <b-button v-for="link in props.row.links.bandcamp" :href="link.url" :key="link.url"
+                            :title="`Bandcamp: ${link.type}`" variant="outline-primary">
+                            <img src="/bandcamp-button-bc-circle-aqua-32.png"  style="width:32px" />
+                        </b-button>
+                    </div>
+                    
                 </div>
                 <span v-else>
                     {{props.formattedRow[props.column.field]}}
@@ -40,10 +47,9 @@
 </style>
 
 <script>
-import { VueGoodTable } from 'vue-good-table';
+import { mapActions, mapState } from "vuex";
+import { VueGoodTable } from "vue-good-table";
 
-const axios = require("axios").default;
-const additions = require("../data/additions.json");
 const artistlinks = require("../data/artistlinks.json");
 
 export default {
@@ -53,7 +59,6 @@ export default {
     },
     data: () => {
         return {
-            allMoersFestivalEvents: [],
             paginationOptions: {
                 allLabel: "alle",
                 enabled: true,
@@ -175,30 +180,15 @@ export default {
                     "links": getArtistLinks([ag.artist.firstname, ag.artist.surname].join(""))
                 }
             });
-        }
+        },
+
+        ...mapState(["allMoersFestivalEvents"])
+    },
+    methods: {
+        ...mapActions(["fetchEventsFromApi"])
     },
     created: function() {
-        console.log("fetching data from Moers API");
-        const vueInstance = this;
-        axios.get("https://meinmoers.lambdadigamma.com/api/v2/moers-festival/events/all")
-            .then(function (response) {
-                let events = null;
-
-                if(response.status > 399) {
-                    events = require("../data/backup.json");
-                } else {
-                    events = response.data.map(ev => {
-                        const eventId = ev.id;
-                        if(additions[eventId]) {
-                            return Object.assign(ev, additions[eventId]);
-                        } else {
-                            return ev;
-                        }
-                    })
-                }                
-
-                vueInstance.allMoersFestivalEvents = events;
-            })
+        this.fetchEventsFromApi();
     }
 }
 
@@ -224,7 +214,7 @@ function getArtistLinks(artistname) {
     if(artistlinks[artistname]) {
         return artistlinks[artistname].links;
     } else {
-        return { "discogs": [], "twitter": []};
+        return { "bandcamp": [], "discogs": [], "twitter": []};
     }
 }
 

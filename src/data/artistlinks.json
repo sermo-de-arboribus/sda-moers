@@ -13,14 +13,28 @@
     },
     "MarkusAcher": {
         "links": {
+            "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
             "twitter": []
         }
     },
     "MichaAcher": {
         "links": {
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
+            "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
             "twitter": []
+        }
+    },
+    "MarshallAllen": {
+        "links": {
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/252033-Marshall-Allen"}]
+        }
+    },
+    "MaxAndrzejewski": {
+        "links": {
+            "bandcamp": [{ "type": "personal", "url": "https://maxandrzejewski.bandcamp.com/"}],
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2988944-Max-Andrzejewski"}],
+            "twitter": [{ "type": "personal", "url": "https://twitter.com/AndrzejewskiMax"}]
         }
     }
 }
