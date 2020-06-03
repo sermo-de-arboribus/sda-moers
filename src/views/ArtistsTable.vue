@@ -12,27 +12,18 @@
             :sort-options="sortOptions">
 
             <template slot="table-row" slot-scope="props">
-                <div v-if="props.column.field == 'links'" class="artistlinks">
-                    <div class="discogs">
-                        <b-button v-for="link in props.row.links.discogs" :href="link.url" :key="link.url" 
-                            :title="`Discogs: ${link.type}`" variant="outline-primary">
-                            <img src="/discogs-logo.png" style="width:32px"/>
+                <b-row v-if="props.column.field == 'links'" class="artistlinks" cols="1" cols-sm="2" cols-lg="4">
+                    <template class="col" v-for="(linkArray, linkKey) in props.row.links">
+                        <b-button v-for="link in linkArray" :key="link.url"
+                            :href="link.url"
+                            size="sm"
+                            :title="`${getServiceName(linkKey)}: ${getServiceType(link.type)}`"
+                            variant="outline-primary">
+                            <i v-if="linkKey == 'homepage'" class="fas fa-home" variant="primary" style="font-size:32px;height:32px;width:32px"></i>
+                            <img v-else :src="getLogoUrl(linkKey)" style="width:32px"/>
                         </b-button>
-                    </div>
-                    <div class="twitter">
-                        <b-button v-for="link in props.row.links.twitter" :href="link.url" :key="link.url"
-                            :title="`Twitter: ${link.type}`" variant="outline-primary">
-                            <img src="/Twitter_Logo_Blue.png" style="width:32px"/>
-                        </b-button>
-                    </div>
-                    <div class="twitter">
-                        <b-button v-for="link in props.row.links.bandcamp" :href="link.url" :key="link.url"
-                            :title="`Bandcamp: ${link.type}`" variant="outline-primary">
-                            <img src="/bandcamp-button-bc-circle-aqua-32.png"  style="width:32px" />
-                        </b-button>
-                    </div>
-                    
-                </div>
+                    </template>
+                </b-row>
                 <span v-else>
                     {{props.formattedRow[props.column.field]}}
                 </span>
@@ -130,7 +121,8 @@ export default {
                 {
                     label: "Links",
                     field: "links",
-                    sortable: false
+                    sortable: false,
+                    width: "16%"
                 }
             ]
         }
@@ -185,6 +177,43 @@ export default {
         ...mapState(["allMoersFestivalEvents"])
     },
     methods: {
+        getLogoUrl(serviceKey) {
+            switch(serviceKey) {
+                case "allaboutjazz": return "/aaj-logo.jpg";
+                case "allmusic": return "/allmusic-logo.png";
+                case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
+                case "discogs": return "/discogs-logo.png";
+                case "soundcloud": return "https://w.soundcloud.com/icon/assets/images/orange_white_32-94fc761.png";
+                case "twitter": return "/Twitter_Logo_Blue.png";
+                case "youtube": return "/youtube_social_squircle_red.png";
+                default: return "";
+            }
+        },
+
+        getServiceName(serviceKey) {
+            switch(serviceKey) {
+                case "allaboutjazz": return "All About Jazz";
+                case "allmusic": return "Allmusic";
+                case "bandcamp": return "Bandcamp";
+                case "discogs": return "Discogs";
+                case "homepage": return "Homepage";
+                case "soundcloud": return "Soundcloud";
+                case "twitter": return "Twitter";
+                case "youtube": return "Youtube";
+                default: return "";
+            }
+        },
+
+        getServiceType(typeKey) {
+            switch(typeKey) {
+                case "agency": return "Agentur";
+                case "album": return "Album";
+                case "band": return "Band";
+                case "personal": return "persönliche Seite";
+                default: return "";
+            }
+        },
+
         ...mapActions(["fetchEventsFromApi"])
     },
     created: function() {
