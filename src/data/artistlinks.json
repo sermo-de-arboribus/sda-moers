@@ -303,6 +303,53 @@
             "homepage": [{"type": "personal", "url": "http://www.robbruynen.nl/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rob-bruynen"}]
         }
+    },
+    "BexBurch": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bexburch"}],
+            "bandcamp": [{"type": "personal", "url": "https://bandcamp.com/bexburch"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7006561-Bex-Burch"}],
+            "homepage": [{"type": "band", "url": "https://vulaviel.com/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/vulaviel"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/c/BexBurch"}, {"type": "personal", "url": "https://www.youtube.com/user/sekgura"}]
+        }
+    },
+    "JonasBurgwinkel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jonasburgwinkel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonas-burgwinkel-mn0000999969"}],
+            "bandcamp": [{"type": "personal", "url": "https://jonasburgwinkel.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1142879-Jonas-Burgwinkel"}],
+            "homepage": [{"type": "personal", "url": "http://www.jonasburgwinkel.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jonasburgwinkel"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCy_5QRtT5pHAmS2I9bKB0_A/"}]
+        }
+    },
+    "GeorgeBurton": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/georgeburton"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/george-burton-mn0000634504"}],
+            "bandcamp": [{"type": "personal", "url": "https://georgeburton.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/756548-George-Burton-2"}],
+            "homepage": [{"type": "personal", "url": "http://www.georgeburtonmusic.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/george-burton"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Daporge"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/daporge"}]
+        }
+    },
+    "PaulineBuss": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7384229-Pauline-Buss"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-198580270"}]
+        }
+    },
+    "Marcelo Cabral": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marcelo-cabral-mn0001360954"}],
+            "bandcamp": [{"type": "personal", "url": "https://hominiscanidae.bandcamp.com/track/cad-2"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1973938-Marcelo-Cabral"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/marcelo-cabral/"}]
+        }
     }
 
 }
