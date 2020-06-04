@@ -169,6 +169,115 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/bernadosophie"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCoYO90h5DweZs7irdQ_73kg"}]
         }
+    },
+    "ViolaBlache": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/viola-blache-mn0003286318"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6202363-Viola-Blache"}],
+            "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-642787614"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
+    },
+    "MarvinBlamberg": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5957266-Marvin-Blamberg"}],
+            "homepage": [{"type": "personal", "url": "http://www.marvinblamberg.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/marvinblamberg"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/marvinblamberg"}]
+        }
+    },
+    "HelenBledsoe": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/helenbledsoe"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/helen-bledsoe-mn0002324088"}],
+            "bandcamp": [{"type": "personal", "url": "https://helenbledsoe.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/846513-Helen-Bledsoe"}],
+            "homepage": [{"type": "personal", "url": "http://www.helenbledsoe.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/helenbledsoe"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/HbledsoeFlute"}]
+        }
+    },
+    "HenrikeBlikslager": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.stadt-muenster.de/musikschule/kooperationen/jugendakademie/studierende/henrike-blikslager.html"}]
+        }
+    },
+    "SusanneBlumenthal": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/susanne-blumenthal-mn0002037909"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6102828-Susanne-Blumenthal"}],
+            "homepage": [{"type": "band", "url": "http://www.eos-cologne.com/"}, {"type": "personal", "url": "http://www.susanneblumenthal.com/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/eos-kammerorchester-k-ln"}]
+        }
+    },
+    "JosephineBode": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6227449-Kom-Josephine-Bode"}],
+            "homepage": [{"type": "personal", "url": "https://josephinebode.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kimjosebode"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCk6XKTSU6c1PNPW-MOgTkNw"}]
+        }
+    },
+    "PierreBorel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/pierreborel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pierre-borel-mn0002541690"}],
+            "bandcamp": [{"type": "band", "url": "https://remoteresonator.bandcamp.com/album/live-at-saint-merry"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1761640-Pierre-Borel"}]
+        }
+    },
+    "WimBoth": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wimboth"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wim-both-mn0000776108"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/306547-Wim-Both"}],
+            "homepage": [{"type": "band", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/trompeten/both-100.html"}]
+        }
+    },
+    "GabrielBoyault": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5002414-Gabriel-Boyault"}],
+            "homepage": [{"type": "band", "url": "https://pierreantoinesavoyat.wixsite.com/mmp5tet/gabriel-boyault"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-270667679"}]
+        }
+    },
+    "Benedikt terBraak": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://btbraak.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/benediktterbraak"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC4ECczH0oQHIpZxf5xKhICA"}]
+        }
+    },
+    "RodrigoBrandão": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rodrigo-brand%C3%A3o-mn0002029921/songs"}],
+            "bandcamp": [{"type": "personal", "url": "https://rodrigobrandao.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/854207-Rodrigo-Brand%C3%A3o"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rodrigobrandao-music"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/mcgorilaurbano"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCAZ86fBiV9iiPtC2WKlbqZg"}]
+        }
+    },
+    "JohannesBrecht": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johannes-brecht-mn0003062736"}],
+            "bandcamp": [{"type": "personal", "url": "https://johannesbrecht.bandcamp.com/"}],
+            "homepage": [{"type": "personal", "url": "http://www.johannesbrecht.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/johannesbrechtmusic"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCuWZGy3oLAlSY5ED-gSNJMA"}]
+        }
+    },
+    "RuudBreuls": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ruudbreuls"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ruud-breuls-mn0000975622"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/409153-Ruud-Breuls"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ruud-breuls-534394930"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCaIZEU9Zg-Bz7CHg0WPVkMw"}]
+        }
     }
+    
 
 }
