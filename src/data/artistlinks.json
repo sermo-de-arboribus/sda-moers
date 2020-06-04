@@ -277,7 +277,32 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ruud-breuls-534394930"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCaIZEU9Zg-Bz7CHg0WPVkMw"}]
         }
+    },
+    "CecilBrooks": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cecil-brooks-mn0002457224"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2280809-Cecil-Brooks"}]
+        }
+    },
+    "WillBrooks": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/will-brooks-mn0002082655/songs"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/480407-Will-Brooks"}]
+        }
+    },
+    "JuliaBrüssel": {
+        "links": {
+            "bandcamp": [{"type": "band", "url": "https://umlandrecords.bandcamp.com/album/open"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/watch?v=IOK72DGIjLw"}]
+        }
+    },
+    "RobBruynen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rob-bruynen-mn0000939280"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312873-Rob-Bruynen"}],
+            "homepage": [{"type": "personal", "url": "http://www.robbruynen.nl/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rob-bruynen"}]
+        }
     }
-    
 
 }

@@ -6,24 +6,37 @@
            nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt.</p>
         <vue-good-table
             :columns="tableColumns"
-            :fixed-header="true"
             :pagination-options="paginationOptions"
             :rows="tableData"
             :sort-options="sortOptions">
 
             <template slot="table-row" slot-scope="props">
-                <b-row v-if="props.column.field == 'links'" class="artistlinks" cols="1" cols-sm="2" cols-lg="4">
-                    <template class="col" v-for="(linkArray, linkKey) in props.row.links">
-                        <b-button v-for="link in linkArray" :key="link.url"
-                            :href="link.url"
-                            size="sm"
-                            :title="`${getServiceName(linkKey)}: ${getServiceType(link.type)}`"
-                            variant="outline-primary">
-                            <i v-if="linkKey == 'homepage'" class="fas fa-home" variant="primary" style="font-size:32px;height:32px;width:32px"></i>
-                            <img v-else :src="getLogoUrl(linkKey)" style="width:32px"/>
-                        </b-button>
-                    </template>
+                <b-row v-if="props.column.field == 'links'">
+                    <div style="padding:10px" class="artistlinks" cols="1" cols-sm="2" cols-lg="3">
+                        <template class="col" v-for="(linkArray, linkKey) in props.row.links">
+                            <b-button v-for="link in linkArray" :key="link.url"
+                                :href="link.url"
+                                size="sm"
+                                :title="`${getServiceName(linkKey)}: ${getServiceType(link.type)}`"
+                                variant="outline-primary">
+                                <i v-if="linkKey == 'homepage'" class="fas fa-home" variant="primary" style="font-size:29px"></i>
+                                <img v-else :src="getLogoUrl(linkKey)" style="width:32px"/>
+                            </b-button>
+                        </template>
+                    </div>
                 </b-row>
+                <div v-else-if="props.column.field == 'instruments'">
+                    {{ Array.from(props.row.instruments).sort().join(", ") }}
+                </div>
+
+                <vue-good-table v-else-if="props.column.field == 'concerts'"
+                    :columns="innerTableColumns"
+                    :rows="props.row.concerts"
+                    :sort-options="innerSortOptions"
+                    >
+
+                </vue-good-table>
+
                 <span v-else>
                     {{props.formattedRow[props.column.field]}}
                 </span>
@@ -50,6 +63,37 @@ export default {
     },
     data: () => {
         return {
+            innerSortOptions: {
+                enabled: true,
+                initialSortBy: {field: "starttime", type: "asc"}
+            },
+            innerTableColumns: [
+                {
+                    label: "Konzert",
+                    field: "concert",
+                    width: "50%"
+                },
+                {
+                    label: "Instrument(e)",
+                    field: "instruments",
+                    sortable: false,
+                    width: "15%"
+                },
+                {
+                    label: "Jahr",
+                    field: "year",
+                    type: "number",
+                    width: "10%"
+                },
+                {
+                    label: "Startzeit",
+                    field: "starttime",
+                    type: "date",
+                    dateInputFormat: "yyyy-MM-dd HH:mm:ss",
+                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss",
+                    width: "25%"
+                }
+            ],
             paginationOptions: {
                 allLabel: "alle",
                 enabled: true,
@@ -68,16 +112,6 @@ export default {
                 initialSortBy: {field: "surname", type: "asc"}
             },
             tableColumns: [
-                {
-                    label: "Jahr",
-                    field: "year",
-                    filterOptions: {
-                        enabled: true,
-                        placeholder: "Filtere nach Jahr"
-                    },
-                    type: "number",
-                    width: "6%"
-                },
                 {
                     label: "Vorname",
                     field: "firstname",
@@ -99,24 +133,16 @@ export default {
                     field: "instruments",
                     filterOptions: {
                         enabled: true,
-                        placeholder: "Filtere nach Instrumenten"
-                    },
+                        placeholder: "Instrumentenfilter",
+                        filterFn: (data, filterString) => {
+                            return data.has(filterString);
+                        }
+                    }
+                },
+                {
+                    label: "Konzerte",
+                    field: "concerts",
                     sortable: false
-                },
-                {
-                    label: "Konzert",
-                    field: "concert",
-                    filterOptions: {
-                        enabled: true,
-                        placeholder: "Filtere nach Konzerten"
-                    },
-                },
-                {
-                    label: "Startzeit",
-                    field: "starttime",
-                    type: "date",
-                    dateInputFormat: "yyyy-MM-dd HH:mm:ss",
-                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss"
                 },
                 {
                     label: "Links",
@@ -160,18 +186,37 @@ export default {
         },
 
         tableData: function() {
-            return this.artistGigs.map(ag => {
-                return {
-                    "year": ag.year,
-                    "firstname": ag.artist.firstname,
-                    "surname": ag.artist.surname,
-                    "instruments": ag.artist.instruments,
-                    "concert": ag.eventName,
-                    "starttime": ag.eventStartDate,
-                    "id": ag.eventId,
-                    "links": getArtistLinks([ag.artist.firstname, ag.artist.surname].join(""))
-                }
-            });
+            const gigsGroupedByArtist = this.artistGigs
+                .reduce((agg, gig) => {
+                    const key = `${gig.artist.firstname}${gig.artist.surname}`;
+                    agg[key] = agg[key] || 
+                        {
+                            "firstname": gig.artist.firstname,
+                            "surname": gig.artist.surname,
+                            "links": getArtistLinks([gig.artist.firstname, gig.artist.surname].join(""))
+                        };
+                    agg[key].concerts = agg[key].concerts || [];   
+                    agg[key].concerts.push({
+                        "year": gig.year,
+                        "instruments": gig.artist.instruments,
+                        "concert": gig.eventName,
+                        "starttime": gig.eventStartDate,
+                        "id": gig.eventId
+                    })
+                    agg[key].instruments = agg[key].instruments || new Set();
+                    gig.artist.instruments
+                        .split(",")
+                        .map(i => i.trim())
+                        .forEach(i => agg[key].instruments.add(i));
+
+                    return agg;
+                }, {});            
+
+            return Object.keys(gigsGroupedByArtist)
+                .map(key => {
+                    return gigsGroupedByArtist[key]
+                });
+
         },
 
         ...mapState(["allMoersFestivalEvents"])
