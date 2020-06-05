@@ -1,5 +1,8 @@
 {
     "Hotep": {
+        "canonicalName": { "firstname": "Dave", "surname": "Hotep"}
+    },
+    "DaveHotep": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/DaveHotep"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2280808-Dave-Hotep"}, {"type": "band", "url": "https://www.discogs.com/artist/2219395-The-Sun-Ra-Arkestra"}],
@@ -8,22 +11,19 @@
     },
     "Tillamanda": {
         "links": {
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6040732-Tillamanda"}],
-            "twitter": []
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6040732-Tillamanda"}]
         }
     },
     "MarkusAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
-            "twitter": []
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ]
         }
     },
     "MichaAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
-            "twitter": []
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ]
         }
     },
     "MarshallAllen": {
@@ -343,13 +343,88 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-198580270"}]
         }
     },
-    "Marcelo Cabral": {
+    "MarceloCabral": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marcelo-cabral-mn0001360954"}],
             "bandcamp": [{"type": "personal", "url": "https://hominiscanidae.bandcamp.com/track/cad-2"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1973938-Marcelo-Cabral"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/marcelo-cabral/"}]
         }
+    },
+    "MattCalvert": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mattcalvert"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matt-calvert-mn0002602677"}],
+            "bandcamp": [{"type": "personal", "url": "https://mattcalvert.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/824326-Matt-Calvert"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mattcalvert"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/mjcalv"}]
+        }
+    },
+    "SimonCamatta": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/simoncamatta"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/simon-camatta-mn0000502396"}],
+            "bandcamp": [{"type": "agency", "url": "https://umlandrecords.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/627610-Simon-Camatta"}],
+            "homepage": [{"type": "personal", "url": "http://www.simoncamatta.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/simoncamatta"}]
+        }
+    },
+    "RodrigoCampos": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rodrigo-campos-mn0001539846/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3422640-Rodrigo-Campos-2"}],
+            "homepage": [{"type": "personal", "url": "http://rodrigocampos.art.br/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rodrigo_campos"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/passotorto"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/MrRodrigoACampos"}]
+        }
+    },
+    "DaniloCardoso": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3845686-Danilo-Cardoso"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=c5Mpo-BBoBs"}]
+        }
+    },
+    "BorisCassone": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/boris-cassone-mn0003286064"}],
+            "bandcamp": [{"type": "band", "url": "https://piniol.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2928400-Boris-Cassone"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/duretdoux"}, {"type": "band", "url": "https://soundcloud.com/poil-1"}]
+        }
+    },
+    "MattisCederberg": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mattiscederberg"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mattis-cederberg-mn0000391469"}],
+            "bandcamp": [{"type": "personal", "url": "https://mattiscederberg.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/808879-Mattis-Cederberg"}],
+            "homepage": [{"type": "personal", "url": "https://quesonegro.wordpress.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/thedogmantapes"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/quesonegro"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/cimbassonista"}]
+        }
+    },
+    "VincentChancey": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/vincentchancey"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/vincent-chancey-mn0000178487"}],
+            "bandcamp": [{"type": "personal", "url": "https://nobusinessrecords.bandcamp.com/album/the-spell-the-vincent-chancey-trio-live-1987"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/254240-Vincent-Chancey"}],
+            "homepage": [{"type": "personal", "url": "http://www.vincentchancey.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/vincent-chancey"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Frorn"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCzzxJ6R5_kSiewAWf0kdN0g"}]
+        }
+    },
+    "ChristineChapman": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/christine-chapman-mn0001887344"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/913657-Christine-Chapman"}],
+            "homepage": [{"type": "band", "url": "http://musikfabrik.eu/ueber-uns/mitglieder/christine-chapman.html"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCixPh-QSzRniVTkh7AibUsA"}]
+        }
     }
-
 }

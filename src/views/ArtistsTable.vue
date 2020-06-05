@@ -3,7 +3,9 @@
         <h1>Künstler:innen beim <a href="https://moers-festival.de">Moers Festival</a></h1>
         <p>Eine Tabelle von <a href="https://twitter.com/fruehlingstag">Kai Weber</a> auf der Basis der offenen Festivaldaten von <a href="https://lambdadigamma.com/">Lennart Fischer</a>.
            Den Anstoß zum Aufsetzen dieser Tabelle gab ein <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">Tweet</a>. Vorläufig sind
-           nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt.</p>
+           nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt. Auch soll die Datenhaltung 
+           und Benutzbarkeit der Seite weiter verbessert werden. Welche Maßnahmen bereits angestrebt sind, lässt sich im <a
+           href="https://github.com/sermo-de-arboribus/sda-moers/issues">Issue-Tracker</a> des Code-Repositoriums nachverfolgen.</p>
         <vue-good-table
             :columns="tableColumns"
             :pagination-options="paginationOptions"
@@ -142,7 +144,15 @@ export default {
                 {
                     label: "Konzerte",
                     field: "concerts",
-                    sortable: false
+                    sortable: false,
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: "Konzertfilter",
+                        filterFn: (data, filterString) => {
+                            console.log(data, filterString);
+                            return data.some(g => g.concert.includes(filterString)) || data.some(g => g.year.includes(filterString));
+                        }
+                    }
                 },
                 {
                     label: "Links",
@@ -168,7 +178,7 @@ export default {
                                             const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
                                             const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
                                             const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
-                                            return { instruments, surname, firstname }
+                                            return makeArtistNameCanonical({ instruments, surname, firstname });
                                         });
                     const eventId = event.id;
                     const eventName = event.name;
@@ -290,6 +300,15 @@ function getArtistLinks(artistname) {
     } else {
         return { "bandcamp": [], "discogs": [], "twitter": []};
     }
+}
+
+function makeArtistNameCanonical({instruments, firstname, surname}) {
+    const artistLink = artistlinks[[firstname, surname].join("")];
+    if(artistLink && artistLink.canonicalName) {
+        firstname = artistLink.canonicalName.firstname;
+        surname = artistLink.canonicalName.surname;
+    }
+    return {instruments, firstname, surname}
 }
 
 </script>
