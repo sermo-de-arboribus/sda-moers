@@ -229,7 +229,7 @@ export default {
 
         },
 
-        ...mapState(["allMoersFestivalEvents"])
+        ...mapState("gigdata", ["allMoersFestivalEvents"])
     },
     methods: {
         getLogoUrl(serviceKey) {
@@ -269,7 +269,7 @@ export default {
             }
         },
 
-        ...mapActions(["fetchEventsFromApi"])
+        ...mapActions("gigdata", ["fetchEventsFromApi"])
     },
     created: function() {
         this.fetchEventsFromApi();
