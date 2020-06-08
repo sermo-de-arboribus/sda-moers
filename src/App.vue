@@ -10,7 +10,7 @@
     </nav>
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">Impressum</router-link>
+      <router-link to="/about">{{$t("general.imprint")}}</router-link>
     </div>
     <router-view/>
   </div>

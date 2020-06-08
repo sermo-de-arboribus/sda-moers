@@ -7,10 +7,12 @@
         </i18n>
         <i18n path="artistsTable.intro" tag="p">
             <template v-slot:websiteCreator>
-                <a href="https://twitter.com/fruehlingstag">Kai Weber</a>
+                <a href="https://www.facebook.com/kajetan.tkadlec.9" v-if="locale === 'cs'">Kajetána Tkalce</a>
+                <a href="https://twitter.com/fruehlingstag" v-else>Kai Weber</a>
             </template>
             <template v-slot:dataProvider>
-                <a href="https://lambdadigamma.com/">Lennart Fischer</a>
+                <a href="https://lambdadigamma.com" v-if="locale === 'cs'">Lennarta Fišera</a>
+                <a href="https://lambdadigamma.com/" v-else>Lennart Fischer</a>
             </template>
             <template v-slot:tweet>
                 <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">{{$t("general.tweet")}}</a>
@@ -25,6 +27,22 @@
             :rows="tableData"
             :sort-options="sortOptions">
 
+            <template slot="table-column" slot-scope="props">
+                <span v-if="props.column.label == 'firstname'">
+                    Hejoho
+                    {{ $t("artistsTable.firstname") }}
+                </span>
+                <span v-else-if="props.column.label == 'surname'">
+                    {{ $t("artistsTable.surname") }}
+                </span>
+                <span v-else-if="props.column.label == 'instruments'">
+                    {{ $t("artistsTable.instruments") }}
+                </span>
+                <span v-else-if="props.column.label == 'concerts'">
+                    {{ $t("artistsTable.concerts") }}
+                </span>
+            </template>
+            
             <template slot="table-row" slot-scope="props">
                 <b-row v-if="props.column.field == 'links'">
                     <div style="padding:10px" class="artistlinks" cols="1" cols-sm="2" cols-lg="3">
@@ -49,7 +67,6 @@
                     :rows="props.row.concerts"
                     :sort-options="innerSortOptions"
                     >
-
                 </vue-good-table>
 
                 <span v-else>
@@ -242,7 +259,8 @@ export default {
 
         },
 
-        ...mapState("gigdata", ["allMoersFestivalEvents"])
+        ...mapState("gigdata", ["allMoersFestivalEvents"]),
+        ...mapState("i18n", ["locale"])
     },
     methods: {
         getLogoUrl(serviceKey) {

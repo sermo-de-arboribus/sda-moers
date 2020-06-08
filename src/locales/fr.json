@@ -1,8 +1,14 @@
 {
-    "artistsTable.header": "Artistes sur le {festivalName}",
-    "artistsTable.intro": "Un tableau de {websiteCreator}, que s'appuie sur les données ouvertes du festival par {dataProvider}. Un {tweet} était la cause pour rédiger ce tableau. Provisoirement seulement les concerts des années 2019 et 2020 sont contenu, mais j'aspire à intégrer les données plus viellies aussi. En plus je veux améliorer le maniement du site web et la qualité des données. Si vouz vouz intéressez aux retouches envisagées, je vouz refère à {issueTracker} du répositoire du code.",
-    "general.festivalName": "Festival de Moers",
-    "general.issueTracker": "la gestion des changements",
-    "general.tweet": "tweet",
-    "localeSwitch.chooseLanguage": "choisir de la langue"
-  }
+  "artistsTable.concerts": "Concerts",
+  "artistsTable.firstname": "Prénom",
+  "artistsTable.instruments": "Instruments",
+  "artistsTable.links": "Liens",
+  "artistsTable.surname": "Nom de famille",
+  "artistsTable.header": "Artistes sur le {festivalName}",
+  "artistsTable.intro": "Un tableau de {websiteCreator}, que s'appuie sur les données ouvertes du festival par {dataProvider}. Un {tweet} était la cause pour rédiger ce tableau. Provisoirement seulement les concerts des années 2019 et 2020 sont contenu, mais j'aspire à intégrer les données plus viellies aussi. En plus je veux améliorer le maniement du site web et la qualité des données. Si vouz vouz intéressez aux retouches envisagées, je vouz refère à {issueTracker} du répositoire du code.",
+  "general.festivalName": "Festival de Moers",
+  "general.imprint": "Mentions légales",
+  "general.issueTracker": "la gestion des changements",
+  "general.tweet": "tweet",
+  "localeSwitch.chooseLanguage": "choisir de la langue"
+}

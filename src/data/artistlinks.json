@@ -504,5 +504,40 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-639374284"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxXXpu0FZp9PohuwIfZ9k9w/"}]
         }
+    },
+    "HansDekker": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hansdekker"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hans-dekker-mn0000674388"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/647612-Hans-Dekker"}]
+        }
+    },
+    "PierreDekker": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6648719-Pierre-Dekker-2"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-141145478"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/watch?v=waGn848Etu8"}]
+        }
+    },
+    "ChristopherDell": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/christopherdell"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/christopher-dell-mn0000462209"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312869-Christopher-Dell"}],
+            "homepage": [{"type": "personal", "url": "http://www.christopher-dell.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/christopherdellofficial"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/watch?v=itMSs_cqc00"}, {"type": "personal", "url": "https://www.youtube.com/watch?v=Lra5ybokaa0"}]
+        }
+    },
+    "JulienDesprez": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/juliendesprez"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/julien-desprez-mn0003148607"}],
+            "bandcamp": [{"type": "band", "url": "https://noelakchote.bandcamp.com/album/julien-desprez-no-l-akchot-strand"}, {"type": "band", "url": "https://luislopes.bandcamp.com/album/boa-tarde"},
+                         {"type": "band", "url": "https://darktree.bandcamp.com/album/the-hatch"}, {"type": "band", "url": "https://dubocdesprezloutelier.bandcamp.com/album/tournesol-duboc-desprez-loutelier-live-ackenbush"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3797110-Julien-Desprez"}],
+            "homepage": [{"type": "personal", "url": "http://www.juliendesprez.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/juliendesprez"}]
+        }
     }
 }
