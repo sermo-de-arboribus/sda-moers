@@ -1,10 +1,13 @@
 <template>
   <div id="app">
-    <h1>
-      <b-badge class="logo"><i class="fas fa-music" variant="success"></i></b-badge>
-      <b-badge class="logo"><i class="fas fa-drum" variant="primary"></i></b-badge>
-      <b-badge class="logo"><i class="fas fa-guitar" variant="primary"></i></b-badge>
-    </h1>
+    <nav class="navbar navbar-light bg-light">
+      <span class="navbar-brand">
+        <b-badge class="logo"><i class="fas fa-music" variant="success"></i></b-badge>
+        <b-badge class="logo"><i class="fas fa-drum" variant="primary"></i></b-badge>
+        <b-badge class="logo"><i class="fas fa-guitar" variant="primary"></i></b-badge>
+      </span>
+      <locale-switch/>
+    </nav>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">Impressum</router-link>
@@ -14,6 +17,8 @@
 </template>
 
 <style>
+@import "./styles/flag-icon.css";
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -42,3 +47,14 @@
   margin-right: 0.5em;
 }
 </style>
+
+<script>
+import LocaleSwitch from "./components/LocaleSwitch";
+
+export default {
+  name: "App",
+  components: {
+    LocaleSwitch
+  }
+}
+</script>

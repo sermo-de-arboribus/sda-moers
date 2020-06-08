@@ -1,3 +1,8 @@
 {
-  "message": "hello i18n !!"
+  "artistsTable.header": "Artists at the {festivalName}",
+  "artistsTable.intro": "A table by {websiteCreator} based on open festival data from {dataProvider}. A {tweet} was the cause for setting this table up. For the time being only the concerts of 2019 and 2020 are covered, but an extension to older data is being planned. Furthermore the data handling and usability of the site are supposed to be improved. If you're interested in what improvements are planned, you can have a look at the {issueTracker} of the code repository.",
+  "general.festivalName": "Moers Festival",
+  "general.issueTracker": "issue tracker",
+  "general.tweet": "tweet",
+  "localeSwitch.chooseLanguage": "choose language"
 }

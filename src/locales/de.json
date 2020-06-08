@@ -1,3 +1,8 @@
 {
-  "message": "hello i18n !!"
+  "artistsTable.header": "Künstler:innen beim {festivalName}",
+  "artistsTable.intro": "Eine Tabelle von {websiteCreator} auf der Basis der offenen Festivaldaten von {dataProvider}. Den Anstoß zum Aufsetzen dieser Tabelle gab ein {tweet}. Vorläufig sind nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt. Auch soll die Datenhaltung und Benutzbarkeit der Seite weiter verbessert werden. Welche Maßnahmen bereits angestrebt sind, lässt sich im {issueTracker} des Code-Repositoriums nachverfolgen.",
+  "general.festivalName": "Moers Festival",
+  "general.issueTracker": "Issue-Tracker",
+  "general.tweet": "Tweet",
+  "localeSwitch.chooseLanguage": "Sprache wählen"
 }

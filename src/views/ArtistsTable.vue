@@ -1,11 +1,24 @@
 <template>
     <div class="artists-table">
-        <h1>Künstler:innen beim <a href="https://moers-festival.de">Moers Festival</a></h1>
-        <p>Eine Tabelle von <a href="https://twitter.com/fruehlingstag">Kai Weber</a> auf der Basis der offenen Festivaldaten von <a href="https://lambdadigamma.com/">Lennart Fischer</a>.
-           Den Anstoß zum Aufsetzen dieser Tabelle gab ein <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">Tweet</a>. Vorläufig sind
-           nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt. Auch soll die Datenhaltung 
-           und Benutzbarkeit der Seite weiter verbessert werden. Welche Maßnahmen bereits angestrebt sind, lässt sich im <a
-           href="https://github.com/sermo-de-arboribus/sda-moers/issues">Issue-Tracker</a> des Code-Repositoriums nachverfolgen.</p>
+        <i18n path="artistsTable.header" tag="h1">
+            <template v-slot:festivalName>
+                <a href="https://moers-festival.de">{{$t("general.festivalName")}}</a>
+            </template>
+        </i18n>
+        <i18n path="artistsTable.intro" tag="p">
+            <template v-slot:websiteCreator>
+                <a href="https://twitter.com/fruehlingstag">Kai Weber</a>
+            </template>
+            <template v-slot:dataProvider>
+                <a href="https://lambdadigamma.com/">Lennart Fischer</a>
+            </template>
+            <template v-slot:tweet>
+                <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">{{$t("general.tweet")}}</a>
+            </template>
+            <template v-slot:issueTracker>
+                <a href="https://github.com/sermo-de-arboribus/sda-moers/issues">{{$t("general.issueTracker")}}</a>
+            </template>
+        </i18n>
         <vue-good-table
             :columns="tableColumns"
             :pagination-options="paginationOptions"

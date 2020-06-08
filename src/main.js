@@ -19,6 +19,8 @@ new Vue({
   store,
   i18n,
   mounted() {
+    // inject i18n into store
+    store.commit("i18n/setI18nComponent", i18n);
     // detect preferred user languages, then set i18n accordingly
     const navigatorLanguage = navigator.language.substr(0,2);
     const availableLocales = new Set(["cs", "de", "en", "fr", "zh"]);
@@ -33,7 +35,7 @@ new Vue({
      if (availableLocales.has(locale) && !store.state.i18n.localeSetByBrowserPreference) {
         store.commit("i18n/setLocale", locale)
         store.commit("i18n/setLocaleSetByBrowserPreference", true);
-        i18n.locale = locale;
+        //i18n.locale = locale;
      } else {
          // default locale is set in constructor of i18n via vuex store's default value
      }

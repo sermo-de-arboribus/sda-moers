@@ -426,5 +426,83 @@
             "homepage": [{"type": "band", "url": "http://musikfabrik.eu/ueber-uns/mitglieder/christine-chapman.html"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCixPh-QSzRniVTkh7AibUsA"}]
         }
+    },
+    "HaydenChisholm": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/haydenchisholm"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hayden-chisholm-mn0000728387"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?page=2&q=Hayden%20Chisholm"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/265707-Hayden-Chisholm"}],
+            "homepage": [{"type": "personal", "url": "http://www.softspeakers.com/"}, {"type": "personal", "url": "http://haydenchisholm.net/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/haydenchisholmofficial"}, {"type": "personal", "url": "https://soundcloud.com/strongwaterpressure"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/HaydenSax"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/StrongWaterPressure"}]
+        }
+    },
+    "BryceCloghesy": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4807958-Bryce-Cloghesy"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/GeniusMilitary"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCyzhWlQQO4Xn61AaO-MCSNg"}]
+        }
+    },
+    "SergeCorteyn": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/serge-corteyn-mn0002873295"}],
+            "bandcamp": [{"type": "personal", "url": "https://sergecorteyn.bandcamp.com/releases"}],
+            "homepage": [{"type": "personal", "url": "http://www.sergecorteyn.de/serge.htm"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/serge-corteyn"}]
+        }
+    },
+    "DenisCosmar": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316965-Denis-Cosmar"}]
+        }
+    },
+    "Mattias DeCraene": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mattiasdecraene"}],
+            "bandcamp": [{"type": "personal", "url": "https://werfrecords.bandcamp.com/album/mattiasdecraene"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1989710-Mattias-De-Craene"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mattiasdecraene"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MattiasDeCraene"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWkMqfhuEyyoKT6bx78j6Gg"}]
+        }
+    },
+    "EvaCsizmadia": {
+        "canonicalName": { "firstname": "Éva", "surname": "Czismadia"}
+    },
+    "ÉvaCzismadia": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/%C3va-csizmadia-mn0002957979"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2876366-%C3%89va-Csizmadia"}],
+            "homepage": [{"type": "agency", "url": "https://www.musicbrig.de/lehrer"}]
+        }
+    },
+    "MarieDaniels": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mariedaniels"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marie-daniels-mn0003207303"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316964-Marie-Daniels"}],
+            "homepage": [{"type": "personal", "url": "http://mariedaniels.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mariedanielsmusic"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCZTSPPhXRaFk2tzwl2NKJGg"}]
+        }
+    },
+    "DaveDavis": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davedavis"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dave-davis-mn0000683106"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2280810-Dave-Davis-8"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/sivadda1"}]
+        }
+    },
+    "MarliesDebacker": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7609073-Marlies-Debacker"}],
+            "homepage": [{"type": "personal", "url": "http://www.marliesdebacker.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-639374284"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxXXpu0FZp9PohuwIfZ9k9w/"}]
+        }
     }
 }
