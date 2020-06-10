@@ -1,0 +1,36 @@
+{
+  "artistsTable": {
+    "concerts": "音乐会",
+    "filters": {
+      "byConcerts": "过滤音乐会",
+      "byFirstname": "过滤名",
+      "byInstruments": "过滤乐器",
+      "bySurname": "过滤姓"
+    },
+    "firstname": "名",
+    "header": "乐手和艺术家在 {festivalName}",
+    "instruments": "乐器",
+    "intro": "Eine Tabelle von {websiteCreator} auf der Basis der offenen Festivaldaten von {dataProvider}. Den Anstoß zum Aufsetzen dieser Tabelle gab ein {tweet}. Vorläufig sind nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt. Auch soll die Datenhaltung und Benutzbarkeit der Seite weiter verbessert werden. Welche Maßnahmen bereits angestrebt sind, lässt sich im {issueTracker} des Code-Repositoriums nachverfolgen.",
+    "links": "链接",
+    "pagination": {
+      "all": "每页",
+      "nextLabel": "下个",
+      "ofLabel": "之",
+      "pageLabel": "页",
+      "prevLabel": "上个",
+      "rowsPerPageLabel": "每页的行"
+    },
+    "starttime": "开始",
+    "surname": "姓",
+    "year": "年"
+  },
+  "general": {
+    "festivalName": "默尔斯音乐节 [Moers Festival]",
+    "imprint": "版权​说明",
+    "issueTracker": "Issue-Tracker",
+    "tweet": "推特"
+  },
+  "localeSwitch": {
+    "chooseLanguage": "点语言"
+  }
+}

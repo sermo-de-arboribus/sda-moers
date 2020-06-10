@@ -1,14 +1,36 @@
 {
-    "artistsTable.concerts": "koncerty",
-    "artistsTable.firstname": "Křestní jméno",
-    "artistsTable.instruments": "Nástroje",
-    "artistsTable.links": "Odkazy",
-    "artistsTable.surname": "Příjmení",
-    "artistsTable.header": "Umělkyně a umělci u festivalu „{festivalName}“",
-    "artistsTable.intro": "Tabulka {websiteCreator} na základu otevřených dat festivalu od {dataProvider}. Podnět k sestavením téhle tabulky dal {tweet}. Prozatím jenom obsahuje data koncertů z roků 2019 a 2020, ale rozšíření na starší data bude usilováno. Také chci zlepšit úprava dat a uživatelská přístupnost webové stránky. Které opatření už jsou usilována můžete sledovat v {issueTracker} softwarového repozitáře.",
-    "general.festivalName": "Moers Festival",
-    "general.imprint": "Tiráž",
-    "general.issueTracker": "Issue-Tracker",
-    "general.tweet": "tweet",
-    "localeSwitch.chooseLanguage": "Vybrat jazyk"
+    "artistsTable": {
+        "concerts": "Koncerty",
+        "filters": {
+            "byConcerts": "filtr podle koncertů",
+            "byFirstname": "filtr podle křestního jména",
+            "byInstruments": "filtr podle nástroje",
+            "bySurname": "filtr podle příjmení"
+        },
+        "firstname": "Křestní jméno",
+        "header": "Umělkyně a umělci u festivalu „{festivalName}“",
+        "instruments": "Nástroje",
+        "intro": "Tabulka {websiteCreator} na základu otevřených dat festivalu od {dataProvider}. Podnět k sestavením téhle tabulky dal {tweet}. Prozatím jenom obsahuje data koncertů z roků 2019 a 2020, ale rozšíření na starší data bude usilováno. Také chci zlepšit úprava dat a uživatelská přístupnost webové stránky. Které opatření už jsou usilována můžete sledovat v {issueTracker} softwarového repozitáře.",
+        "links": "Odkazy",
+        "pagination": {
+            "all": "vše",
+            "nextLabel": "dál",
+            "ofLabel": "z",
+            "pageLabel": "strana",
+            "prevLabel": "zpět",
+            "rowsPerPageLabel": "řádky za stranu"
+        },
+        "starttime": "Začátek",
+        "surname": "Příjmení",
+        "year": "Rok"
+    },
+    "general": {
+        "festivalName": "Moers Festival",
+        "imprint": "Tiráž",
+        "issueTracker": "Issue-Tracker",
+        "tweet": "tweet"  
+    },
+    "localeSwitch": {
+        "chooseLanguage": "Vybrat jazyk"
+    }
 }

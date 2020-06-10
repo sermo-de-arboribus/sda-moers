@@ -539,5 +539,60 @@
             "homepage": [{"type": "personal", "url": "http://www.juliendesprez.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/juliendesprez"}]
         }
+    },
+    "JulDillier": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/juldillier"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6343341-Jul-Dillier"}],
+            "homepage": [{"type": "personal", "url": "http://www.juldillier.ch/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-730090251"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC8iyWIADTzC3XJORRhZQbUQ"}]
+        }
+    },
+    "KristofDömötör": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kristof-d%C3%B6m%C3%B6t%C3%B6r-mn0003728150"}],
+            "homepage": [{"type": "personal", "url": "https://www.kristof-doemoetoer.de"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristof-d-m-t-r"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
+        }
+    },
+    "MagdalenaDzeco": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.magdadzeco.com/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCmn6ymEibnd7QfY8vuu2Y7A"}]
+        }
+    },
+    "SilkeEberhard": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/silkeeberhard"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/silke-eberhard-mn0001928070"}],
+            "bandcamp": [{"type": "personal", "url": "https://silkeeberhard-intakt.bandcamp.com"}, {"type": "band", "url": "https://sandyevanssilkeeberhard.bandcamp.com"}, {"type": "band", "url": "https://troubleintheeastrecords.bandcamp.com/album/matsch-und-schnee"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/923082-Silke-Eberhard"}],
+            "homepage": [{"type": "personal", "url": "http://www.silkeeberhard.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/silkeeberhard"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/potsalotsa"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/potsalotsa"}]
+        }
+    },
+    "FranziskaEberhardt": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/franziska-eberhardt-mn0003286302"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7875182-Franziska-Eberhardt"}],
+            "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-642787614"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
+    },
+    "KoenraadEcker": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/koenraad-ecker-mn0002750015"}, {"type": "band", "url": "https://www.allmusic.com/artist/lumisokea-mn0002750021"}],
+            "bandcamp": [{"type": "personal", "url": "https://koenraadecker.bandcamp.com/"}, {"type": "band", "url": "https://lumisokea.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2487858-Koenraad-Ecker"}],
+            "homepage": [{"type": "personal", "url": "https://koenraadecker.wordpress.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/muteboymusic"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC_bSfv4aOs0AgWpAoFLfzxw"}]
+        }
     }
 }

@@ -99,98 +99,10 @@ export default {
                 enabled: true,
                 initialSortBy: {field: "starttime", type: "asc"}
             },
-            innerTableColumns: [
-                {
-                    label: "Konzert",
-                    field: "concert",
-                    width: "50%"
-                },
-                {
-                    label: "Instrument(e)",
-                    field: "instruments",
-                    sortable: false,
-                    width: "15%"
-                },
-                {
-                    label: "Jahr",
-                    field: "year",
-                    type: "number",
-                    width: "10%"
-                },
-                {
-                    label: "Startzeit",
-                    field: "starttime",
-                    type: "date",
-                    dateInputFormat: "yyyy-MM-dd HH:mm:ss",
-                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss",
-                    width: "25%"
-                }
-            ],
-            paginationOptions: {
-                allLabel: "alle",
-                enabled: true,
-                mode: "pages",
-                nextLabel: "weiter",
-                ofLabel: "von",
-                pageLabel: "Seite",
-                perPage: 25,
-                perPageDropdown: [25, 50, 100, 200],
-                prevLabel: "zurück",
-                rowsPerPageLabel: "Zeilen pro Seite"
-
-            },
             sortOptions: {
                 enabled: true,
                 initialSortBy: {field: "surname", type: "asc"}
-            },
-            tableColumns: [
-                {
-                    label: "Vorname",
-                    field: "firstname",
-                    filterOptions: {
-                        enabled: true,
-                        placeholder: "Filtere nach Vornamen"
-                    },
-                },
-                {
-                    label: "Nachname",
-                    field: "surname",
-                    filterOptions: {
-                        enabled: true,
-                        placeholder: "Filtere nach Nachnamen"
-                    },
-                },
-                {
-                    label: "Instrument(e)",
-                    field: "instruments",
-                    filterOptions: {
-                        enabled: true,
-                        placeholder: "Instrumentenfilter",
-                        filterFn: (data, filterString) => {
-                            return data.has(filterString);
-                        }
-                    }
-                },
-                {
-                    label: "Konzerte",
-                    field: "concerts",
-                    sortable: false,
-                    filterOptions: {
-                        enabled: true,
-                        placeholder: "Konzertfilter",
-                        filterFn: (data, filterString) => {
-                            console.log(data, filterString);
-                            return data.some(g => g.concert.includes(filterString)) || data.some(g => g.year.includes(filterString));
-                        }
-                    }
-                },
-                {
-                    label: "Links",
-                    field: "links",
-                    sortable: false,
-                    width: "16%"
-                }
-            ]
+            }
         }
     },
     computed: {
@@ -225,6 +137,100 @@ export default {
             }            
         },
 
+        innerTableColumns: function() {
+            return [
+                {
+                    label: this.$t("artistsTable.concerts"),
+                    field: "concert",
+                    width: "50%"
+                },
+                {
+                    label: this.$t("artistsTable.instruments"),
+                    field: "instruments",
+                    sortable: false,
+                    width: "15%"
+                },
+                {
+                    label: this.$t("artistsTable.year"),
+                    field: "year",
+                    type: "number",
+                    width: "10%"
+                },
+                {
+                    label: this.$t("artistsTable.starttime"),
+                    field: "starttime",
+                    type: "date",
+                    dateInputFormat: "yyyy-MM-dd HH:mm:ss",
+                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss",
+                    width: "25%"
+                }
+            ]
+        },
+
+        paginationOptions: function() {
+            return {
+                allLabel: this.$t("artistsTable.pagination.all"),
+                enabled: true,
+                mode: "pages",
+                nextLabel: this.$t("artistsTable.pagination.nextLabel"),
+                ofLabel: this.$t("artistsTable.pagination.ofLabel"),
+                pageLabel: this.$t("artistsTable.pagination.pageLabel"),
+                perPage: 25,
+                perPageDropdown: [25, 50, 100, 200],
+                prevLabel: this.$t("artistsTable.pagination.prevLabel"),
+                rowsPerPageLabel: this.$t("artistsTable.pagination.rowsPerPageLabel")
+            }
+        },
+        tableColumns: function() {
+            return [
+                {
+                    label: this.$t("artistsTable.firstname"),
+                    field: "firstname",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: this.$t("artistsTable.filters.byFirstname")
+                    },
+                },
+                {
+                    label: this.$t("artistsTable.surname"),
+                    field: "surname",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: this.$t("artistsTable.filters.bySurname")
+                    },
+                },
+                {
+                    label: this.$t("artistsTable.instruments"),
+                    field: "instruments",
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: this.$t("artistsTable.filters.byInstruments"),
+                        filterFn: (data, filterString) => {
+                            return data.has(filterString);
+                        }
+                    }
+                },
+                {
+                    label: this.$t("artistsTable.concerts"),
+                    field: "concerts",
+                    sortable: false,
+                    filterOptions: {
+                        enabled: true,
+                        placeholder: this.$t("artistsTable.filters.byConcerts"),
+                        filterFn: (data, filterString) => {
+                            console.log(data, filterString);
+                            return data.some(g => g.concert.includes(filterString)) || data.some(g => g.year.includes(filterString));
+                        }
+                    }
+                },
+                {
+                    label: this.$t("artistsTable.links"),
+                    field: "links",
+                    sortable: false,
+                    width: "16%"
+                }
+            ]
+        },
         tableData: function() {
             const gigsGroupedByArtist = this.artistGigs
                 .reduce((agg, gig) => {
@@ -260,7 +266,7 @@ export default {
         },
 
         ...mapState("gigdata", ["allMoersFestivalEvents"]),
-        ...mapState("i18n", ["locale"])
+        ...mapState("i18n", ["i18nComponent", "locale"])
     },
     methods: {
         getLogoUrl(serviceKey) {

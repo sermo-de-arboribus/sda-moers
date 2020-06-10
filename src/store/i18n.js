@@ -6,10 +6,6 @@ module.exports = {
     state: {
         availableLocales: [
             {
-                "code": "cn",
-                "name": "中文"
-            },
-            {
                 "code": "cs",
                 "name": "česky"
             },
@@ -24,6 +20,10 @@ module.exports = {
             {
                 "code": "fr",
                 "name": "français"
+            },
+            {
+                "code": "zh",
+                "name": "中文"
             }
         ],
         i18nComponent: null,

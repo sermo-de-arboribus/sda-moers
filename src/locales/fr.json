@@ -1,14 +1,36 @@
 {
-  "artistsTable.concerts": "Concerts",
-  "artistsTable.firstname": "Prénom",
-  "artistsTable.instruments": "Instruments",
-  "artistsTable.links": "Liens",
-  "artistsTable.surname": "Nom de famille",
-  "artistsTable.header": "Artistes sur le {festivalName}",
-  "artistsTable.intro": "Un tableau de {websiteCreator}, que s'appuie sur les données ouvertes du festival par {dataProvider}. Un {tweet} était la cause pour rédiger ce tableau. Provisoirement seulement les concerts des années 2019 et 2020 sont contenu, mais j'aspire à intégrer les données plus viellies aussi. En plus je veux améliorer le maniement du site web et la qualité des données. Si vouz vouz intéressez aux retouches envisagées, je vouz refère à {issueTracker} du répositoire du code.",
-  "general.festivalName": "Festival de Moers",
-  "general.imprint": "Mentions légales",
-  "general.issueTracker": "la gestion des changements",
-  "general.tweet": "tweet",
-  "localeSwitch.chooseLanguage": "choisir de la langue"
+  "artistsTable": {
+    "concerts": "Concerts",
+    "filters": {
+      "byConcerts": "filtre aux concerts",
+      "byFirstname": "filtre aux prénoms",
+      "byInstruments": "filtr aux instruments",
+      "bySurname": "filtr aux noms de famille"
+    },
+    "firstname": "Prénom",
+    "instruments": "Instruments",
+    "links": "Liens",
+    "header": "Artistes sur le {festivalName}",
+    "intro": "Un tableau de {websiteCreator}, que s'appuie sur les données ouvertes du festival par {dataProvider}. Un {tweet} était la cause pour rédiger ce tableau. Provisoirement seulement les concerts des années 2019 et 2020 sont contenu, mais j'aspire à intégrer les données plus viellies aussi. En plus je veux améliorer le maniement du site web et la qualité des données. Si vouz vouz intéressez aux retouches envisagées, je vouz refère à {issueTracker} du répositoire du code.",
+    "pagination": {
+      "all": "tout",
+      "nextLabel": "prochaine",
+      "ofLabel": "de",
+      "pageLabel": "page",
+      "prevLabel": "précédente",
+      "rowsPerPageLabel": "lignes par page"
+    },
+    "starttime": "Début",
+    "surname": "Nom de famille",
+    "year": "Année"
+  },
+  "general": {
+    "festivalName": "Festival de Moers",
+    "imprint": "Mentions légales",
+    "issueTracker": "la gestion des changements",
+    "tweet": "tweet"  
+  },
+  "localeSwitch": {
+    "chooseLanguage": "choisir de la langue"
+  }
 }

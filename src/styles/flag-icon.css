@@ -18,10 +18,10 @@
 .flag-icon.flag-icon-squared {
   width: 1em;
 }
-.flag-icon-cn {
+.flag-icon-zh {
   background-image: url(../assets/flags/4x3/cn.svg);
 }
-.flag-icon-cn.flag-icon-squared {
+.flag-icon-zh.flag-icon-squared {
   background-image: url(../assets/flags/1x1/cn.svg);
 }
 .flag-icon-cs {

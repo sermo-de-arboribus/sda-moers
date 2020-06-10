@@ -1,13 +1,15 @@
 <template>
-  <div class="about">
+  <div class="about container">
     <h1>Impressum</h1>
     <p>Dies ist eine private Website von <br/>
       <br/>
        Kai Weber<br/>
+       Superzuschauer des mœrs festival 2020<br/>
        Mühleweg 7<br/>
        72138 Kirchentellinsfurt<br/>
        sermo_de_arboribus[das-At-Zeichen]seznam.cz
     </p>
+    <img src="../assets/Moers-Superzuschauer.jpg" style="width:50%"/>
     <h2>Datenschutzerklärung</h2>
     <p>Diese Website verwendet keinerlei Cookies und speichert keine persönliche Daten.</p>
     <p>Auf dem Webserver kurzfristig in Log-Dateien abgelegte IP-Adressen werden spätestens binnen 14 Tagen gelöscht.</p>

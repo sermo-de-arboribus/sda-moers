@@ -1,14 +1,28 @@
 {
-  "artistsTable.concerts": "Concerts",
-  "artistsTable.firstname": "First name",
-  "artistsTable.instruments": "Instruments",
-  "artistsTable.links": "Links",
-  "artistsTable.surname": "Surname",
-  "artistsTable.header": "Artists at the {festivalName}",
-  "artistsTable.intro": "A table by {websiteCreator} based on open festival data from {dataProvider}. A {tweet} was the cause for setting this table up. For the time being only the concerts of 2019 and 2020 are covered, but an extension to older data is being planned. Furthermore the data handling and usability of the site are supposed to be improved. If you're interested in what improvements are planned, you can have a look at the {issueTracker} of the code repository.",
-  "general.festivalName": "Moers Festival",
-  "general.imprint": "Imprint",
-  "general.issueTracker": "issue tracker",
-  "general.tweet": "tweet",
-  "localeSwitch.chooseLanguage": "choose language"
+  "artistsTable": {
+    "concerts": "Concerts",
+    "filters": {
+      "byConcerts": "filter by concerts",
+      "byFirstname": "filter by first name",
+      "byInstruments": "filter by instrument",
+      "bySurname": "filter by surname"
+    },
+    "firstname": "First name",
+    "header": "Artists at the {festivalName}",
+    "instruments": "Instruments",
+    "intro": "A table by {websiteCreator} based on open festival data from {dataProvider}. A {tweet} was the cause for setting this table up. For the time being only the concerts of 2019 and 2020 are covered, but an extension to older data is being planned. Furthermore the data handling and usability of the site are supposed to be improved. If you're interested in what improvements are planned, you can have a look at the {issueTracker} of the code repository."  ,
+    "links": "Links",
+    "starttime": "Starting time",
+    "surname": "Surname",
+    "year": "Year"
+  },
+  "general": {
+    "festivalName": "Moers Festival",
+    "imprint": "Imprint",
+    "issueTracker": "issue tracker",
+    "tweet": "tweet"
+  },
+  "localeSwitch": {
+    "chooseLanguage": "choose language"
+  }
 }

@@ -7,7 +7,7 @@ import "bootstrap-vue/dist/bootstrap-vue.css"
 import "@fortawesome/fontawesome-free/css/all.css"
 import router from "./router"
 import store from "./store"
-import i18n from './i18n'
+import i18n from "./i18n"
 
 Vue.config.productionTip = false
 
@@ -41,4 +41,4 @@ new Vue({
      }
   },
   render: h => h(App)
-}).$mount('#app');
+}).$mount("#app");
