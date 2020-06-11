@@ -30,6 +30,11 @@
         "issueTracker": "Issue-Tracker",
         "tweet": "tweet"  
     },
+    "htmlHeader": {
+        "description": "Tabulka na základu otevřených dat festivalu Moers Festival. Všechny zúčastnějící umělkyně a umělci jsou sepsáni a múžou být roztříděni a filtrováni podle různých kritérií",
+        "keywords": "Moers Festival, improvizační umělci, jazzové hudebníci, otevřená data",
+        "title": "Umělkyně a umělci u festivalu „Moers Festival“"
+    },
     "localeSwitch": {
         "chooseLanguage": "Vybrat jazyk"
     }

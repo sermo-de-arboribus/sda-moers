@@ -594,5 +594,44 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/muteboymusic"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC_bSfv4aOs0AgWpAoFLfzxw"}]
         }
+    },
+    "PetterEldh": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/pettereldh"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/petter-eldh-mn0002403085"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2363900-Petter-Eldh"}],
+            "homepage": [{"type": "personal", "url": "http://pettereldh.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pettereldh"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/results?search_query=Petter+Eldh"}]
+        }
+    },
+    "CamilleÉmaille": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://camilleemaille.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6051156-Camille-%C3%89maille"}],
+            "homepage": [{"type": "personal", "url": "https://camilleemaille.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/camille-emaille"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChg03mroGV5xUEqyDh7zD3Q"}]
+        }
+    },
+    "FelicitasErben": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/felicitas-erben-mn0003286298"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7875183-Felicitas-Erben"}],
+            "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/felicitas-erben"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
+    },
+    "HeleneErben": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/helene-erben-mn0003286303"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7875185-Helene-Erben"}],
+            "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/felicitas-erben"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
     }
 }

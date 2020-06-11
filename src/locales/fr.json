@@ -30,6 +30,11 @@
     "issueTracker": "la gestion des changements",
     "tweet": "tweet"  
   },
+  "htmlHeader": {
+    "description": "Un tableau que s'appuie sur les données ouvertes du festival Moers Festival. Les artistes et musiciens peuvent être trié et filtré selon plusieurs critères.",
+    "keywords": "Moers Festival, musique improvisée, musiciens improvisateurs, musiciens du jazz, données ouvertes",
+    "title": "Artistes sur le Moers Festival"
+  },
   "localeSwitch": {
     "chooseLanguage": "choisir de la langue"
   }

@@ -22,6 +22,11 @@
     "issueTracker": "issue tracker",
     "tweet": "tweet"
   },
+  "htmlHeader": {
+    "description": "A table listing musicians who played at the Moers Festivals, using open festival data. The table provides sorting and filtering functions as well as links to further information on every artist",
+    "keywords": "Moers Festival, improvised music, improvisers, jazz musicians, open data",
+    "title": "Artists at the Moers Festival"
+  },
   "localeSwitch": {
     "chooseLanguage": "choose language"
   }

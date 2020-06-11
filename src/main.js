@@ -1,6 +1,7 @@
 import Vue from "vue"
 import App from "./App.vue"
 import { BootstrapVue } from "bootstrap-vue"
+import VueHeadful from 'vue-headful';
 
 import "bootstrap/dist/css/bootstrap.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
@@ -10,6 +11,7 @@ import store from "./store"
 import i18n from "./i18n"
 
 Vue.config.productionTip = false
+Vue.component("vue-headful", VueHeadful);
 
 // Install BootstrapVue
 Vue.use(BootstrapVue);
@@ -35,7 +37,6 @@ new Vue({
      if (availableLocales.has(locale) && !store.state.i18n.localeSetByBrowserPreference) {
         store.commit("i18n/setLocale", locale)
         store.commit("i18n/setLocaleSetByBrowserPreference", true);
-        //i18n.locale = locale;
      } else {
          // default locale is set in constructor of i18n via vuex store's default value
      }

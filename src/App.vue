@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <vue-headful 
+      :description="$t('htmlHeader.description')"
+      :keywords="$t('htmlHeader.keywords')"
+      :lang="currentLanguage"
+      :title="$t('htmlHeader.title')" />
     <nav class="navbar navbar-light bg-light">
       <span class="navbar-brand">
         <b-badge class="logo"><i class="fas fa-music" variant="success"></i></b-badge>
@@ -55,6 +60,11 @@ export default {
   name: "App",
   components: {
     LocaleSwitch
+  },
+  computed: {
+    currentLanguage() {
+      return this.$store.state.i18n.locale;
+    }
   }
 }
 </script>

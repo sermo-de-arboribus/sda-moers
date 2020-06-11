@@ -1,5 +1,6 @@
-import Vue from "vue"
-import VueI18n from "vue-i18n"
+import Vue from "vue";
+import VueI18n from "vue-i18n";
+import store from "./store";
 
 Vue.use(VueI18n)
 
@@ -17,7 +18,7 @@ function loadLocaleMessages () {
 }
 
 export default new VueI18n({
-  locale: "de", // store.state.i18n.locale,
+  locale: store.state.i18n.locale,
   fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || "en",
   messages: loadLocaleMessages()
 })

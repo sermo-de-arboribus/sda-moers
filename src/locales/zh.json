@@ -1,36 +1,41 @@
 {
   "artistsTable": {
-    "concerts": "音乐会",
+    "concerts": "演出节目",
     "filters": {
-      "byConcerts": "过滤音乐会",
-      "byFirstname": "过滤名",
-      "byInstruments": "过滤乐器",
-      "bySurname": "过滤姓"
+      "byConcerts": "选项",
+      "byFirstname": "选项",
+      "byInstruments": "选项",
+      "bySurname": "选项"
     },
     "firstname": "名",
-    "header": "乐手和艺术家在 {festivalName}",
-    "instruments": "乐器",
-    "intro": "Eine Tabelle von {websiteCreator} auf der Basis der offenen Festivaldaten von {dataProvider}. Den Anstoß zum Aufsetzen dieser Tabelle gab ein {tweet}. Vorläufig sind nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt. Auch soll die Datenhaltung und Benutzbarkeit der Seite weiter verbessert werden. Welche Maßnahmen bereits angestrebt sind, lässt sich im {issueTracker} des Code-Repositoriums nachverfolgen.",
+    "header": "出席{festivalName}的音乐人/艺术家",
+    "instruments": "演奏乐器",
+    "intro": "这是{websiteCreator}根据{dataProvider}的该音乐节共享资源建立的一个表单，方便音乐爱好者们查询。成因，只缘自推特上的闲谈。目前，本表单内容仅涵盖2019与2020两届音乐节。但往届资料也计划在今后逐步添补完善。同时，在数据处理与使用便利方面，也将不断作出改进。假如您对计划改进的具体内容感兴趣，可以点击{issueTracker}查看。感谢您的到访。相遇，即是有缘。",
     "links": "链接",
     "pagination": {
-      "all": "每页",
-      "nextLabel": "下个",
+      "all": "全部",
+      "nextLabel": "下页",
       "ofLabel": "之",
       "pageLabel": "页",
-      "prevLabel": "上个",
-      "rowsPerPageLabel": "每页的行"
+      "prevLabel": "上页",
+      "rowsPerPageLabel": "每页栏数"
     },
-    "starttime": "开始",
+    "starttime": "开演时间",
     "surname": "姓",
-    "year": "年"
+    "year": "年份"
   },
   "general": {
     "festivalName": "默尔斯音乐节 [Moers Festival]",
     "imprint": "版权​说明",
-    "issueTracker": "Issue-Tracker",
+    "issueTracker": "“提案追踪”",
     "tweet": "推特"
   },
+  "htmlHeader": {
+    "description": "该音乐节共享资源建立的一个表单，方便音乐爱好者们查询。",
+    "keywords": "默尔斯音乐节, 音乐即兴",
+    "title": "出席默尔斯音乐节 [Moers Festival]的音乐人/艺术家"
+  },
   "localeSwitch": {
-    "chooseLanguage": "点语言"
+    "chooseLanguage": "选择语言"
   }
 }

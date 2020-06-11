@@ -30,6 +30,11 @@
     "issueTracker": "Issue-Tracker",
     "tweet": "Tweet"
   },
+  "htmlHeader": {
+    "description": "Eine Tabelle auf der Basis der offenen Festivaldaten des Moers Festivals. Alle teilnehmenden Künstler:innen werden aufgelistet und können nach verschiedenen Kriterien gefiltert und sortiert werden.",
+    "keywords": "Moers Festival, Improvisationskünstler, Jazzmusiker, offene Daten",
+    "title": "Künstler:innen beim „Moers Festival“"
+  },
   "localeSwitch": {
     "chooseLanguage": "Sprache wählen"
   }
