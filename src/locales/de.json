@@ -1,4 +1,15 @@
 {
+  "aboutPage": {
+    "atSign": "das-At-Zeichen",
+    "germany": "Deutschland",
+    "imprint": "Impressum",
+    "privacyHeader": "Datenschutzerklärung",
+    "privacyLine1": "Diese Website verwendet keinerlei Cookies und speichert keine persönliche Daten außer IP-Adressen.",
+    "privacyLine2": "Auf dem Webserver kurzfristig in Log-Dateien abgelegte IP-Adressen werden spätestens binnen 14 Tagen gelöscht und an niemanden weitergegeben.",
+    "privacyLine3": "Für weitere Fragen zum Datenschutz wenden Sie sich bitte an die unter „Impressum“ genannten Kontaktdaten.",
+    "privateWebsiteOf": "Dies ist eine private Website von",
+    "superViewer": "Superzuschauer des mœrs festival 2020"
+  },
   "artistsTable": {
     "concerts": "Konzerte",
     "filters": {

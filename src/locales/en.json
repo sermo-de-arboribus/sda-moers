@@ -1,4 +1,15 @@
 {
+  "aboutPage": {
+    "atSign": "fill-in-the-at-symbol",
+    "germany": "Germany",
+    "imprint": "Imprint",
+    "privacyHeader": "Privacy policy",
+    "privacyLine1": "This website does not use any cookies and does not save any personal data other than a temporary logging of IP adresses.",
+    "privacyLine2": "IP addresses temporarily stored in log files on the web server will be deleted within 14 days at the latest and will not be passed on to anyone.",
+    "privacyLine3": "For further questions about data protection, please use the contact details given in the “Imprint” section above.",
+    "privateWebsiteOf": "This is a private webpage of",
+    "superViewer": "Super viewer of mœrs festival 2020"
+  },
   "artistsTable": {
     "concerts": "Concerts",
     "filters": {

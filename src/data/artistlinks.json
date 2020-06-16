@@ -633,5 +633,83 @@
             "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
         }
+    },
+    "BryanEubanks": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bryaneubanks"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bryan-eubanks-mn0003648644"}],
+            "bandcamp": [{"type": "personal", "url": "https://bryaneubanks.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/333313-Bryan-Eubanks"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/eubanks"}]
+        }
+    },
+    "PeterEvans": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/peterevans"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-evans-mn0000055024"}],
+            "bandcamp": [{"type": "personal", "url": "https://peterevansmusic.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/878952-Peter-Evans-2"}],
+            "homepage": [{"type": "personal", "url": "http://pevans.squarespace.com/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/peterevans10281"}]
+        }
+    },
+    "MarieFenske": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marie-fenske-mn0003286308"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7875187-Marie-Fenske"}],
+            "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-642787614"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
+    },
+    "JudithFerstl": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/judith-ferstl-mn0003769363"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5234763-Judith-Ferstl"}],
+            "homepage": [{"type": "personal", "url": "https://judithferstl.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/judithferstl"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC1Rb5gDo_bDsFnfQiPUS0Yw"}]
+        }
+    },
+    "JohannesFink": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johannesfink"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johannes-fink-mn0000144317"}],
+            "bandcamp": [{"type": "band", "url": "https://smpmusic.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/367705-Johannes-Fink"}],
+            "homepage": [{"type": "personal", "url": "http://www.johannesfink.com/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/potsalotsaxl"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWQEAdCKV_d6lq04gF7kQzg"}]
+        }
+    },
+    "Tobias “Eckbert”Foller": {
+        "canonicalName": { "firstname": "Tobias", "surname": "Foller"}
+    },
+    "TobiasFoller": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182780-Tobias-Foller"}, {"type": "band", "url": "https://www.discogs.com/artist/1817435-Eckbert"}]
+        }
+    },
+    "GregFox": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/gregfox"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/greg-fox-mn0003288532"}],
+            "bandcamp": [{"type": "personal", "url": "https://gregfox.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1692386-Greg-Fox-2"}],
+            "homepage": [{"type": "personal", "url": "http://gregfox.space/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/gdfx"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/GDF_X"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/c/GregoryFox1111"}]
+        }
+    },
+    "ThiagoFrança": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/tag-thiago-franca"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thiago-franca-mn0002040939"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2852653-Thiago-Fran%C3%A7a"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/thiagofrancaofficial"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/thiagosax"}]
+        }
     }
 }

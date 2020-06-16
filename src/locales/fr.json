@@ -1,4 +1,15 @@
 {
+  "aboutPage": {
+    "atSign": "ici-l'arobas",
+    "germany": "Allemagne",
+    "imprint": "Mentions légales",
+    "privacyHeader": "Données personnelles",
+    "privacyLine1": "Diese Website verwendet keinerlei Cookies und speichert keine persönliche Daten außer IP-Adressen.",
+    "privacyLine2": "Les adresses IP stockées pour une courte période dans les fichiers journaux sur le serveur Web seront supprimées dans les 14 jours au plus tard et ne seront transmises à personne.",
+    "privacyLine3": "Pour toute autre question sur la protection des données, veuillez utiliser les coordonnées fournies sous «Mentions légales».",
+    "privateWebsiteOf": "Ceci est un site web particulier de",
+    "superViewer": "Super spectateur du mœrs festival 2020"
+  },
   "artistsTable": {
     "concerts": "Concerts",
     "filters": {

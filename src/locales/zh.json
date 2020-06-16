@@ -1,4 +1,15 @@
 {
+  "aboutPage": {
+    "atSign": "老鼠号",
+    "germany": "德国",
+    "imprint": "版权​说明",
+    "privacyHeader": "数据​保护说明",
+    "privacyLine1": "本网站不使用cookie，除IP地址外，不保存任何个人数据。",
+    "privacyLine2": "在日志文件中在短时间内存储在Web服务器上的IP地址最迟将在14天内删除，并且不会传递给任何人。",
+    "privacyLine3": "有关数据保护的其他问题，请使用“版本说明”中提供的联系方式。",
+    "privateWebsiteOf": "这是私人的网站，有​责任：",
+    "superViewer": "默尔斯音乐节的超级粉丝"
+  },
   "artistsTable": {
     "concerts": "演出节目",
     "filters": {
