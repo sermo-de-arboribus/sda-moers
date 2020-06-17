@@ -711,5 +711,56 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/thiagofrancaofficial"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/thiagosax"}]
         }
+    },
+    "HannahFreienstein": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/hannah-freienstein-a498b593"}, {"type": "band", "url": "https://www.dancefloor1700.com/%C3%BCber-uns-1/"}]
+        }
+    },
+    "DavidFriedman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davidfriedman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-friedman-mn0000633601"}],
+            "bandcamp": [{"type": "personal", "url": "https://davidfriedman-official.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/19274-David-Friedman"}],
+            "homepage": [{"type": "personal", "url": "http://www.david-friedman.de/"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/malletmuserecords"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcidQwO8IluwG9BHxygGs6Q"}]
+        }
+    },
+    "FelixFritsche": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316967-Felix-Fritsche"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/felix-fritsche"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCBUxt8DN8Bxza626ZV6sCow"}]
+        }
+    },
+    "ValentinGarvie": {
+        "canonicalName": { "firstname": "Valentín", "surname": "Garvie"}
+    },
+    "ValentínGarvie": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/valentin-garvie-mn0002590104"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/870673-Valentin-Garvie"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/search?q=Valentin%20Garvie"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCECG9arGqKndRozkc_SZVBQ"}]
+        }
+    },
+    "LaiaGenç": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/laia-genc-mn0001473784"}],
+            "bandcamp": [{"type": "band", "url": "https://wismart.bandcamp.com/album/laia-genc-liaison-tonique-talisman"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1104917-Laia-Genc"}],
+            "homepage": [{"type": "personal", "url": "http://www.laiagenc.com/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/laia-genc-liaisontonique"}, {"type": "band", "url": "https://soundcloud.com/plots"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LaiaGenc"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/LaiaGenc"}]
+        }
+    },
+    "SebastianGerhartz": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4751408-Sebastian-Gerhartz"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sebastiangerhartz"}]
+        }
     }
 }

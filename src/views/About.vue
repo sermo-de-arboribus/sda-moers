@@ -20,7 +20,7 @@
       <p>{{$t("aboutPage.privacyLine3")}}</p>
     </section>
     <section>
-      <h2>Quellcode</h2>
+      <h2>{{$t("aboutPage.sourceCodeHeader")}}</h2>
       <p>Der Quellcode dieser Seite steht auf <a href="https://github.com/sermo-de-arboribus/sda-moers">Github</a> zur Verfügung.</p>
     </section>
     <hr/>
