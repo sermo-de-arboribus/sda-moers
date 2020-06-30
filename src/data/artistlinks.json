@@ -762,5 +762,74 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4751408-Sebastian-Gerhartz"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sebastiangerhartz"}]
         }
+    },
+    "NikitaGerkusov": {
+        "links": {
+            "homepage": [{"type": "band", "url": "https://www.aunerquartett.at/nikita"}],
+            "linkedin": [{"type": "personal", "url": "https://at.linkedin.com/in/nikita-gerkusov-311089151"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/nikitagerkusov"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCKsyMsNrV3-R_mHYHhPzK5Q"}]
+        }
+    },
+    "HeinerGoebbels": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/heinergoebbels"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/heiner-goebbels-mn0001327668"}],
+            "bandcamp": [{"ype": "personal", "url": "https://idischidiangelica.bandcamp.com/album/the-italian-concerto"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/204657-Heiner-Goebbels"}],
+            "homepage": [{"type": "personal", "url": "https://www.heinergoebbels.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/heiner-goebbels"}]
+        }
+    },
+    "JohnGoldsby": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johngoldsby"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/john-goldsby-mn0000223976"}],
+            "bandcamp": [{"type": "personal", "url": "https://goldsby.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312862-John-Goldsby"}],
+            "homepage": [{"type": "personal", "url": "https://john.goldsby.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/johngoldsby"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/johngoldsby"}]
+        }
+    },
+    "ChillyGonzales": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/chilly-gonzales-mn0002475940"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/15588-Gonzales"}],
+            "homepage": [{"type": "personal", "url": "http://chillygonzales.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/chillygonzales"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/chillygonzales"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/TheChillygonzales"}]
+        }
+    },
+    "MathiasGötz": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mathias-g%C3%B6tz-mn0001095288"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1120598-Mathias-G%C3%B6tz"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCkz1_Syv86Kr1mWatXk8T4Q"}]
+        }
+    },
+    "GuilhermeGranado": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/guilhermegranado"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/guilherme-granado-mn0001014468"}],
+            "bandcamp": [{"type": "personal", "url": "https://guilhermegranado.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3120072-Guilherme-Granado"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/granose"}]
+        }
+    },
+    "GeordieGreep": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/geordie-greep-mn0003852713"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6967892-Geordie-Greep"}]
+        }
+    },
+    "ShawnGrocott": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/shawn-grocott-mn0003524975"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3284525-Shawn-Grocott"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/shawnandthewolf"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCw-6_po2PikqJQXJQSLyGeg"}]
+        }
     }
 }
