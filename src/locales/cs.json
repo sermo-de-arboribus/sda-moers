@@ -3,12 +3,15 @@
         "atSign": "zavináč",
         "germany": "Německo",
         "imprint": "Tiráž",
+        "liabilityNoteHeader": "Ručení",
+        "liabilityNoteContent": "Za webové stránky třetích stran, na které odkazuju, nesou odpovědnost jejich provozovatelé.",
         "privacyHeader": "Ochrana dat",
         "privacyLine1": "Tato stránka web nepoužívá žádné cookies a neukládá žádné osobní údaje.",
         "privacyLine2": "IP adresy uložené na webovém serveru v log souborech budou smazány nejpozději do 14 dnů a nebudou nikomu předávány.",
         "privacyLine3": "Pro další dotazy ohledně ochrany údajů použijte kontaktní údaje uvedené v části „Tiráž“.",    
         "privateWebsiteOf": "To je soukromá webová stránka od",
         "sourceCodeHeader": "Zdrojový kód",
+        "sourceCodeContent": "Zdrojový kód se nachází na stranu {githublink}.",
         "superViewer": "Superdivák festivalu mœrs"
     },
     "artistsTable": {

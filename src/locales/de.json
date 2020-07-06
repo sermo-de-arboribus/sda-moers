@@ -3,12 +3,15 @@
     "atSign": "das-At-Zeichen",
     "germany": "Deutschland",
     "imprint": "Impressum",
+    "liabilityNoteHeader": "Haftungshinweis",
+    "liabilityNoteContent": "Diese Seite enthält eine große Anzahl von Links zu weiteren Informationsangeboten der hier genannten Künstlerinnen und Künstler. Für alle Links erfolgte eine oberflächliche inhaltliche Kontrolle. Eine Haftung für Links auf beleidigende oder strafrechtlich relevante Inhalte kann nach deutschem Recht nicht pauschal ausgeschlossen werden. Dennoch weise ich hier darauf hin, dass für den Inhalt der verlinkten Seiten ausschließlich deren Betreiber verantwortlich sind. Sollten Sie feststellen, dass sich hinter meinen Linkzielen Inhalte finden, die eine zivil- oder strafrechtliche Verwantwortlichkeit meinerseits auslösen können, freue ich mich über einen Hinweis, damit ich den beanstandungswürdigen Link entfernen kann.",
     "privacyHeader": "Datenschutzerklärung",
     "privacyLine1": "Diese Website verwendet keinerlei Cookies und speichert keine persönliche Daten außer IP-Adressen.",
     "privacyLine2": "Auf dem Webserver kurzfristig in Log-Dateien abgelegte IP-Adressen werden spätestens binnen 14 Tagen gelöscht und an niemanden weitergegeben.",
     "privacyLine3": "Für weitere Fragen zum Datenschutz wenden Sie sich bitte an die unter „Impressum“ genannten Kontaktdaten.",
     "privateWebsiteOf": "Dies ist eine private Website von",
     "sourceCodeHeader": "Quellcode",
+    "sourceCodeContent": "Der Quellcode dieser Seite steht auf {githublink} zur Verfügung.",
     "superViewer": "Superzuschauer des mœrs festival 2020"
   },
   "artistsTable": {

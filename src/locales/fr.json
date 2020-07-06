@@ -3,12 +3,15 @@
     "atSign": "ici-l'arobas",
     "germany": "Allemagne",
     "imprint": "Mentions légales",
+    "liabilityNoteHeader": "Responsabilité des liens",
+    "liabilityNoteContent": "Mon offre contient des liens conduisant vers des sites web de tiers qui ne sont pas soumis à notre influence. Concernant le contenu des sites liés, le fournisseur ou l’opérateur des sites liés est seul responsable dudit contenu. Nous ne sommes responsables de l’exactitude des informations inscrites dans les sites web étrangers liés avec notre site. J'ai contrôlé les sites mis en lien pendant le référencement concernant des violations éventuelles du droit et n’ai émis aucune réclamation. Au cas où des contenus passibles de contravention nous serons notifiés, nous nous engageons à enlever les liens de ce genre au plus tôt.",
     "privacyHeader": "Données personnelles",
     "privacyLine1": "Diese Website verwendet keinerlei Cookies und speichert keine persönliche Daten außer IP-Adressen.",
     "privacyLine2": "Les adresses IP stockées pour une courte période dans les fichiers journaux sur le serveur Web seront supprimées dans les 14 jours au plus tard et ne seront transmises à personne.",
     "privacyLine3": "Pour toute autre question sur la protection des données, veuillez utiliser les coordonnées fournies sous «Mentions légales».",
     "privateWebsiteOf": "Ceci est un site web particulier de",
     "sourceCodeHeader": "Code source",
+    "sourceCodeContent": "Le code source est mis à disposition sur le site web {githublink}.",
     "superViewer": "Super spectateur du mœrs festival 2020"
   },
   "artistsTable": {

@@ -3,12 +3,15 @@
     "atSign": "老鼠号",
     "germany": "德国",
     "imprint": "版权​说明",
+    "liabilityNoteHeader": "责任通知书",
+    "liabilityNoteContent": "此处提供的指向音乐家的许多资源的链接只是为了方便起见，仅供参考； 它们不构成本网站编辑的认可或认可。 对于外部站点或后续链接的准确性，合法性或内容，我不承担任何责任。 请与外部站点联系以获取有关其内容的问题的答案。 如果您从我的网站上找到任何链接后发现违反法律，请告诉我。 我将在得知链接违法后立即删除该链接。",
     "privacyHeader": "数据​保护说明",
     "privacyLine1": "本网站不使用cookie，除IP地址外，不保存任何个人数据。",
     "privacyLine2": "在日志文件中在短时间内存储在Web服务器上的IP地址最迟将在14天内删除，并且不会传递给任何人。",
     "privacyLine3": "有关数据保护的其他问题，请使用“版本说明”中提供的联系方式。",
     "privateWebsiteOf": "这是私人的网站，有​责任：",
     "sourceCodeHeader": "源代码",
+    "sourceCodeContent": "网站的源代码在{githublink}上找到.",
     "superViewer": "默尔斯音乐节的超级粉丝"
   },
   "artistsTable": {

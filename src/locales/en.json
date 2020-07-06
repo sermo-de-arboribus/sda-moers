@@ -3,12 +3,15 @@
     "atSign": "fill-in-the-at-symbol",
     "germany": "Germany",
     "imprint": "Imprint",
+    "liabilityNoteHeader": "Disclaimer for External Links",
+    "liabilityNoteContent": "Links to a number of sources on the musicians presented here are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval by the editor of this website. I bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content. If you find any contravention of the law following any of the links going out from my website, please let me know. I shall promptly delete a link upon becoming aware that it violates the law.",
     "privacyHeader": "Privacy policy",
     "privacyLine1": "This website does not use any cookies and does not save any personal data other than a temporary logging of IP adresses.",
     "privacyLine2": "IP addresses temporarily stored in log files on the web server will be deleted within 14 days at the latest and will not be passed on to anyone.",
     "privacyLine3": "For further questions about data protection, please use the contact details given in the “Imprint” section above.",
     "privateWebsiteOf": "This is a private webpage of",
     "sourceCodeHeader": "Source code",
+    "sourceCodeContent": "The source code of this website is available on {githublink}.",
     "superViewer": "Super viewer of mœrs festival 2020"
   },
   "artistsTable": {

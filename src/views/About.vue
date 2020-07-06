@@ -20,8 +20,16 @@
       <p>{{$t("aboutPage.privacyLine3")}}</p>
     </section>
     <section>
+      <h2>{{ $t("aboutPage.liabilityNoteHeader")}}</h2>
+      <p>{{ $t("aboutPage.liabilityNoteContent")}}</p>
+    </section>
+    <section>
       <h2>{{$t("aboutPage.sourceCodeHeader")}}</h2>
-      <p>Der Quellcode dieser Seite steht auf <a href="https://github.com/sermo-de-arboribus/sda-moers">Github</a> zur Verfügung.</p>
+      <i18n path="aboutPage.sourceCodeContent">
+        <template v-slot:githublink>
+          <a href="https://github.com/sermo-de-arboribus/sda-moers">GitHub</a>
+        </template>
+      </i18n>
     </section>
     <hr/>
     <section>

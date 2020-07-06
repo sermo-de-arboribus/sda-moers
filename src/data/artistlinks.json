@@ -831,5 +831,68 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/shawnandthewolf"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCw-6_po2PikqJQXJQSLyGeg"}]
         }
+    },
+    "PhilippGropper": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/philippgropper"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/philipp-gropper-mn0002022762"}],
+            "bandcamp": [{"type": "agency", "url": "https://whyplayjazz.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2321896-Philipp-Gropper"}],
+            "homepage": [{"type": "personal", "url": "http://philippgropper.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/whyplayjazz/sets/philipp-groppers-philm-2"}],
+            "youtube": [{ "type": "personal", "url": "https://www.youtube.com/channel/UCd37XFv86sLbzDpzxqMy9LA"}]
+        }
+    },
+    "GerhardGschlößl": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gerhard-gschl%C3%B6ssl-mn0001044463"}],
+            "bandcamp": [{"type": "band", "url": "https://danilogallo.bandcamp.com/album/gg-junction"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/826319-Gerhard-Gschl%C3%B6%C3%9Fl"}],
+            "homepage": [{"type": "personal", "url": "http://www.gerhardgschloessl.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/gerhardgschloessl"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/gastellogastello"}]
+        }
+    },
+    "AndiHaberl": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andi-haberl-mn0000552077"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/619846-Andreas-Haberl"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/andihabi"}]
+        }
+    },
+    "Carsten “Hans-Dieter Zimmermann”Hackler": {
+        "canonicalName": { "firstname": "Carsten", "surname": "Hackler" }
+    },
+    "CarstenHackler": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182779-Carsten-Hackler"}]
+        }
+    },
+    "AndreasHaderer": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/andyhaderer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andreas-haderer-mn0001607000"}, {"type": "personal", "url": "https://www.allmusic.com/artist/andy-haderer-mn0000089080"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312863-Andy-Haderer"}],
+            "homepage": [{"type": "agency", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/trompeten/haderer-100.html"}]
+        }
+    },
+    "ChristianHammer": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/christianhammer"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2546091-Christian-Hammer"}],
+            "homepage": [{"type": "personal", "url": "http://jazzhammer.de/"}, {"type": "band", "url": "https://hammerplus3.wordpress.com"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC-f-KQhgdSb7rBb5MChfwjQ"}]
+        }
+    },
+    "GunterHampel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/gunterhampel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gunter-hampel-mn0000648681"}],
+            "bandcamp": [{"type": "personal", "url": "https://gunterhampel.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/254755-Gunter-Hampel"}],
+            "homepage": [{"type": "personal", "url": "http://www.gunterhampelmusic.de/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/GunterHampel"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxIdFbCf318affvsfhJH-Bg"}]
+        }
     }
 }
