@@ -335,7 +335,7 @@ export default {
         this.loading = true;
         this.fetchEventsFromApi(() => {
             that.loading = false;
-            that.$refs.vgt.changePage(parseInt(that.page));
+            that.$refs.vgt.changePage(parseInt(that.currentPage));
         });
     }
 }
