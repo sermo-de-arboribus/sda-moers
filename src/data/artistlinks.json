@@ -894,5 +894,66 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/GunterHampel"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxIdFbCf318affvsfhJH-Bg"}]
         }
+    },
+    "Ruomi LeeHampel": {
+        "canonicalName": {
+            "firstname": "Ruomi",
+            "surname": "Lee-Hampel"
+        }
+    },
+    "RuomiLee-Hampel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1656378-Ruomi-Lee-Hampel"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC06rstTOSzbmnzmTXjvkBWg"}]
+        }
+    },
+    "VolhaHanchar": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.musikschule-henneberger.de/volha-hanchar-lehrerportraet-hp/"}]
+        }
+    },
+    "ElisabethHarnik": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/elisabeth-harnik-mn0002102098"}],
+            "bandcamp": [{"type": "personal", "url": "https://elisabethharnik.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2613358-Elisabeth-Harnik"}],
+            "homepage": [{"type": "personal", "url": "http://www.elisabeth-harnik.at/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/austria-1"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCS6qVSTsQ_umsfCP_NpTXjg"}]
+        }
+    },
+    "ThomasHarres": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thomas-harres-mn0003672120"}],
+            "bandcamp": [{"type": "personal", "url": "https://salgado.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3796542-Thomas-Harres"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tsharres"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/ThomasHarres"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Tsharres"}]
+        }
+    },
+    "FlorianHartlieb": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2096289-Florian-Hartlieb"}],
+            "homepage": [{"type": "personal", "url": "http://www.florian-hartlieb.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/florianhartlieb"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/florianhartlieb"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/florianhartlieb"}]
+        }
+    },
+    "LydiaHaurenherm": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4478978-Lydia-Haurenherm"}]
+        }
+    },
+    "PaulHeller": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/paulheller"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paul-heller-mn0000748407"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/306560-Paul-Heller"}],
+            "homepage": [{"type": "personal", "url": "http://www.paul-heller.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/paulhellerofficial"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC0wWgPy6NNlUjK_n_gELNXw"}]
+        }
     }
 }

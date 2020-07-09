@@ -6,8 +6,9 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/',
+    path: '/:perPage?/:page?',
     name: 'Home',
+    props: true,
     component: ArtistsTable
   },
   {

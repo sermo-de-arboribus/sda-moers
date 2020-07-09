@@ -21,11 +21,15 @@
                 <a href="https://github.com/sermo-de-arboribus/sda-moers/issues">{{$t("general.issueTracker")}}</a>
             </template>
         </i18n>
+        <vue-loading v-if="loading" type="spin" color="blue"></vue-loading>
         <vue-good-table
             :columns="tableColumns"
             :pagination-options="paginationOptions"
             :rows="tableData"
-            :sort-options="sortOptions">
+            :sort-options="sortOptions"
+            @on-page-change="onPageChange"
+            @on-per-page-change="onPageChange"
+            ref="vgt">
 
             <template slot="table-column" slot-scope="props">
                 <span v-if="props.column.label == 'firstname'">
@@ -85,20 +89,24 @@
 <script>
 import { mapActions, mapState } from "vuex";
 import { VueGoodTable } from "vue-good-table";
+import { VueLoading } from "vue-loading-template";
 
 const artistlinks = require("../data/artistlinks.json");
 
 export default {
     name: "ArtistsTable",
     components: {
-       VueGoodTable
+       VueGoodTable,
+       VueLoading
     },
+    props: ["page", "perPage"],
     data: () => {
         return {
             innerSortOptions: {
                 enabled: true,
                 initialSortBy: {field: "starttime", type: "asc"}
             },
+            loading: false,
             sortOptions: {
                 enabled: true,
                 initialSortBy: {field: "surname", type: "asc"}
@@ -112,16 +120,16 @@ export default {
                     const parsedEventDescription = cleanUpDescriptions(event.description);
                     const eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
                     const artists = eventLineUp
-                                        .split(/\)\s*,\s*/)
-                                        .filter(a => a)
-                                        .map(a => a + ")")
-                                        .map(a => {
-                                            const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
-                                            const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
-                                            const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
-                                            const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
-                                            return makeArtistNameCanonical({ instruments, surname, firstname });
-                                        });
+                                    .split(/\)\s*,\s*/)
+                                    .filter(a => a)
+                                    .map(a => a + ")")
+                                    .map(a => {
+                                        const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
+                                        const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
+                                        const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
+                                        const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
+                                        return makeArtistNameCanonical({ instruments, surname, firstname });
+                                    });
                     const eventId = event.id;
                     const eventName = event.name;
                     const eventStartDate = event.start_date;
@@ -135,6 +143,14 @@ export default {
             } else {
                 return [];
             }            
+        },
+
+        currentPage: function() {
+            return this.page ? parseInt(this.page) : 1;
+        },
+
+        currentPerPage: function() {
+            return this.perPage ? parseInt(this.perPage) : 25;
         },
 
         innerTableColumns: function() {
@@ -175,12 +191,14 @@ export default {
                 nextLabel: this.$t("artistsTable.pagination.nextLabel"),
                 ofLabel: this.$t("artistsTable.pagination.ofLabel"),
                 pageLabel: this.$t("artistsTable.pagination.pageLabel"),
-                perPage: 25,
+                perPage: this.currentPerPage,
                 perPageDropdown: [25, 50, 100, 200],
                 prevLabel: this.$t("artistsTable.pagination.prevLabel"),
-                rowsPerPageLabel: this.$t("artistsTable.pagination.rowsPerPageLabel")
+                rowsPerPageLabel: this.$t("artistsTable.pagination.rowsPerPageLabel"),
+                setCurrentPage: this.currentPage
             }
         },
+
         tableColumns: function() {
             return [
                 {
@@ -306,10 +324,19 @@ export default {
             }
         },
 
+        onPageChange(params) {
+            this.$router.push(`/${params.currentPerPage}/${params.currentPage}`)
+        },
+
         ...mapActions("gigdata", ["fetchEventsFromApi"])
     },
     created: function() {
-        this.fetchEventsFromApi();
+        let that = this;
+        this.loading = true;
+        this.fetchEventsFromApi(() => {
+            that.loading = false;
+            that.$refs.vgt.changePage(parseInt(that.page));
+        });
     }
 }
 

@@ -13,21 +13,23 @@ module.exports = {
     }
     },
     actions: {
-    fetchEventsFromApi({ commit, state }) {
+        fetchEventsFromApi({ commit, state }, callback) {
 
-        let events = null;
+            let events = null;
 
-        if(state.useRemoteApi) {
-        axios.get("https://meinmoers.lambdadigamma.com/api/v2/moers-festival/events/all")
-            .then(function (response) {
-                events = addAdditionalData(response.data);
+            if(state.useRemoteApi) {
+                axios.get("https://meinmoers.lambdadigamma.com/api/v2/moers-festival/events/all")
+                    .then(function (response) {
+                        events = addAdditionalData(response.data);
+                        commit("updateEvents", events);
+                        callback();
+                })
+            } else {
+                events = addAdditionalData(require("../data/backup.json"));
                 commit("updateEvents", events);
-            })
-        } else {
-        events = addAdditionalData(require("../data/backup.json"));
-        commit("updateEvents", events);
+                callback();
+            }
         }
-    }
     }
 }
 
