@@ -293,6 +293,7 @@ export default {
                 case "allmusic": return "/allmusic-logo.png";
                 case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
                 case "discogs": return "/discogs-logo.png";
+                case "radiohoerer": return "/radio-icon.png";
                 case "soundcloud": return "https://w.soundcloud.com/icon/assets/images/orange_white_32-94fc761.png";
                 case "twitter": return "/Twitter_Logo_Blue.png";
                 case "youtube": return "/youtube_social_squircle_red.png";
@@ -307,6 +308,7 @@ export default {
                 case "bandcamp": return "Bandcamp";
                 case "discogs": return "Discogs";
                 case "homepage": return "Homepage";
+                case "radiohoerer": return "Radiohörer @ Friends of Alan";
                 case "soundcloud": return "Soundcloud";
                 case "twitter": return "Twitter";
                 case "youtube": return "Youtube";
@@ -320,6 +322,7 @@ export default {
                 case "album": return "Album";
                 case "band": return "Band";
                 case "personal": return "persönliche Seite";
+                case "search": return "Suchtrefferseite";
                 default: return "";
             }
         },

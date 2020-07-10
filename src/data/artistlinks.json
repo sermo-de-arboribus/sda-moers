@@ -6,6 +6,7 @@
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/DaveHotep"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2280808-Dave-Hotep"}, {"type": "band", "url": "https://www.discogs.com/artist/2219395-The-Sun-Ra-Arkestra"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Dave+Hotep"}],
             "twitter": [{ "type": "personal", "url": "https://twitter.com/DMHotep"}, {"type": "band", "url": "https://twitter.com/SUNRAARKESTRA"}]
         }
     },
@@ -17,13 +18,15 @@
     "MarkusAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ]
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Markus+Acher"}]
         }
     },
     "MichaAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ]
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Micha+Acher"}]
         }
     },
     "MarshallAllen": {
@@ -891,6 +894,7 @@
             "bandcamp": [{"type": "personal", "url": "https://gunterhampel.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/254755-Gunter-Hampel"}],
             "homepage": [{"type": "personal", "url": "http://www.gunterhampelmusic.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Gunter+Hampel"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/GunterHampel"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxIdFbCf318affvsfhJH-Bg"}]
         }
