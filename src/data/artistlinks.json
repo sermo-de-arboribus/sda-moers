@@ -955,5 +955,36 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/paulhellerofficial"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC0wWgPy6NNlUjK_n_gELNXw"}]
         }
+    },
+    "HelenHenfling": {
+        "links": {
+            "bandcamp": [{"type": "band", "url": "https://gewalt.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5014427-Helen-Henfling"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/gewaltband"}],
+            "youtube": [{"type": "personale", "url": "https://www.youtube.com/user/HelenJagger"}]
+        }
+    },
+    "MatthiasHeße": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.schlosstheater-moers.de/?ensemble-mitglied=matthias-hese"}]
+        }
+    },
+    "ErhardHirt": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/erhard-hirt-mn0001833147"}],
+            "bandcamp": [{"type": "agency", "url": "https://nurnichtnur.bandcamp.com/album/acoustics"}, {"type": "agency", "url": "https://destination-out.bandcamp.com/album/total-music-meeting-1983"}, {"type": "agency", "url": "https://destination-out.bandcamp.com/album/zwischen-den-pausen"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/732227-Erhard-Hirt"}],
+            "homepage": [{"type": "personal", "url": "http://www.erhardhirt.de/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC7C-m6N9z4fD06sM5HM_eAQ"}]
+        }
+    },
+    "LisaHofmaninger": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/lisahofmaninger"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7209664-Lisa-Hofmaninger"}],
+            "homepage": [{"type": "personal", "url": "http://lisahofmaninger.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lisa-hofmaninger"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCroetYbyUAr-Ml9YlxNExYg"}]
+        }
     }
 }
