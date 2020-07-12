@@ -1020,16 +1020,52 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reinier-vanhoudt-mn0001906812"}],
             "bandcamp": [{"type": "personal", "url": "https://reiniervanhoudt.bandcamp.com/"},
-                {"type": "agency", "url": "https://matiere-memoire.bandcamp.com/album/mmxx-04-les-champs-lissajous"},
-                {"type": "agency", "url": "https://contemporaryseries.bandcamp.com/album/dead-beats"},
-                {"type": "agency", "url": "https://elsewheremusic.bandcamp.com/album/lettres-et-replis"},
-                {"type": "agency", "url": "https://hallowground.bandcamp.com/album/reinier-van-houdt-paths-of-the-errant-gaze"},
-                {"type": "band", "url": "https://michaelpisaro.bandcamp.com/album/shades-of-eternal-night"}],
+                {"type": "album", "url": "https://matiere-memoire.bandcamp.com/album/mmxx-04-les-champs-lissajous"},
+                {"type": "agenalbumcy", "url": "https://contemporaryseries.bandcamp.com/album/dead-beats"},
+                {"type": "album", "url": "https://elsewheremusic.bandcamp.com/album/lettres-et-replis"},
+                {"type": "album", "url": "https://hallowground.bandcamp.com/album/reinier-van-houdt-paths-of-the-errant-gaze"},
+                {"type": "album", "url": "https://michaelpisaro.bandcamp.com/album/shades-of-eternal-night"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/272708-Reinier-Van-Houdt"}],
             "homepage": [{"type":"personal", "url": "http://www.reiniervanhoudt.nl/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Reinier+van+Houdt%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/reiniervanhoudt"}, {"type": "personal", "url": "https://soundcloud.com/reinier-van-houdt"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC5JpHKHLinLQkcuqfFmbh_Q"}]
+        }
+    },
+    "Ching MeiHuang": {
+        "canonicalName": {
+            "firstname": "Ching-Mei",
+            "surname": "Huang"
+        }
+    },
+    "Ching-MeiHuang": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "http://www.samadhyana.com/ching-meihuang"}, {"type": "agency", "url": "https://www.nrw-lfdk.de/app/mitglied/ching-mei-huang"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=3jqdCcegz1c"}]
+        }
+    },
+    "Carl LudwigHübsch": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/carl-ludwig-h%C3%BCbsch-mn0000980422"}],
+            "bandcamp": [{"type": "personal", "url": "https://carlludwighuebsch.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/306973-Carl-Ludwig-H%C3%BCbsch"}],
+            "homepage": [{"type": "personal", "url": "http://www.huebsch.me/index.php/en/biography"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Carl%20Ludwig%20H%C3%BCbsch%22"}],
+            "soundcloud": [{"type": "search", "url": "https://soundcloud.com/search?q=Carl%20Ludwig%20H%C3%BCbsch"}],
+            "twitter": [{"type": "search", "url": "https://twitter.com/clhuebsch"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Carl_Ludwig_H%C3%BCbsch"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Carl_Ludwig_H%C3%BCbsch"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCAPNf80Md9my6UeL8mhVIfA"}]
+        }
+    },
+    "AndyHunter": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/andyhunter"}],
+            "bandcamp": [{"type": "personal", "url": "https://hunterandy.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1468949-Andy-Hunter-3"}],
+            "homepage": [{"type": "personal", "url": "http://www.hunterandy.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Andy%20Hunter%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andy_Hunter_(Posaunist)"}]}],
+            "youtube": [{"type": "search", "url": "https://www.youtube.com/c/WDRBIGBAND/search?query=Andy+Hunter"}]
         }
     }
 }

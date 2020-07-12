@@ -17,7 +17,7 @@ import { mapMutations, mapState } from "vuex";
 export default {
     name: "LanguageSwitch",
     computed: {
-        ...mapState("i18n", ["availableLocales", "locale", "setLocaleSetByBrowserPreference"])
+        ...mapState("i18n", ["availableLocales", "locale"])
     },
     methods: {
         switchToLocale(locale) {
@@ -25,7 +25,7 @@ export default {
             this.setLocaleSetByBrowserPreference(false);
         },
 
-        ...mapMutations("i18n", ["setLocale"])
+        ...mapMutations("i18n", ["setLocale", "setLocaleSetByBrowserPreference"])
     }
 }
 </script>
