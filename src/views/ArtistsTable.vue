@@ -50,14 +50,14 @@
             <template slot="table-row" slot-scope="props">
                 <b-row v-if="props.column.field == 'links'">
                     <div style="padding:10px" class="artistlinks" cols="1" cols-sm="2" cols-lg="3">
-                        <template class="col" v-for="(linkArray, linkKey) in props.row.links">
+                        <template class="col" v-for="linkArray in props.row.links">
                             <b-button v-for="link in linkArray" :key="link.url"
                                 :href="link.url"
                                 size="sm"
-                                :title="`${getServiceName(linkKey)}: ${getServiceType(link.type)}`"
+                                :title="link.htmlTitle"
                                 variant="outline-primary">
-                                <i v-if="linkKey == 'homepage'" class="fas fa-home" variant="primary" style="font-size:29px"></i>
-                                <img v-else :src="getLogoUrl(linkKey)" style="width:32px"/>
+                                <i v-if="link.faIconClass" :class="link.faIconClass" variant="primary" style="font-size:28px;height:32px;width:32px"></i>
+                                <img v-else :src="link.logoUrl" style="height:32px;width:32px"/>
                             </b-button>
                         </template>
                     </div>
@@ -143,6 +143,63 @@ export default {
             } else {
                 return [];
             }            
+        },
+
+        artistLinks: function() {
+            
+            const al = {}
+
+            Object.keys(artistlinks).forEach(akey => {
+
+                al[akey] = {};
+                
+                if (artistlinks[akey].canonicalName) {
+                    al[akey].canonicalName = artistlinks[akey].canonicalName
+                }
+
+                if (artistlinks[akey].links) {
+                    al[akey].links = Object.keys(artistlinks[akey].links).reduce((acc, l) => {
+
+                        let links = [];
+                        for (const link of artistlinks[akey].links[l]) {
+
+                            let faIconClass;
+                            switch(l) {
+                                case "homepage": 
+                                    faIconClass = "fas fa-home";
+                                    break;
+                                case "wikipedia": 
+                                    faIconClass = "fab fa-wikipedia-w"
+                                    break;
+                                default:
+                                    break;
+                            }
+
+                            if (link.locales && link.locales.find(l => l.locale == this.locale)) {
+
+                                links.push({
+                                    faIconClass,
+                                    htmlTitle: `${this.getServiceName(l)}: ${this.getServiceType(link.type)}`,
+                                    logoUrl: this.getLogoUrl(l),
+                                    type: link.type, 
+                                    url: link.locales.find(l => l.locale == this.locale).url
+                                });
+                            } else if (link.url) {
+                                link.faIconClass = faIconClass;
+                                link.htmlTitle= `${this.getServiceName(l)}: ${this.getServiceType(link.type)}`;
+                                link.logoUrl = this.getLogoUrl(l)
+                                links.push(link);
+                            } else {
+                                return acc;
+                            }
+                        }
+
+                        return Object.assign(acc, {[l]: links});
+                    }, {});
+                }
+            })
+
+            return al;
         },
 
         currentPage: function() {
@@ -257,7 +314,7 @@ export default {
                         {
                             "firstname": gig.artist.firstname,
                             "surname": gig.artist.surname,
-                            "links": getArtistLinks([gig.artist.firstname, gig.artist.surname].join(""))
+                            "links": this.getArtistLinks(gig.artist.firstname, gig.artist.surname)
                         };
                     agg[key].concerts = agg[key].concerts || [];   
                     agg[key].concerts.push({
@@ -287,6 +344,13 @@ export default {
         ...mapState("i18n", ["i18nComponent", "locale"])
     },
     methods: {
+
+        getArtistLinks(firstname, surname) {
+            const artistKey = [firstname, surname].join("");
+            const artistData = this.artistLinks[artistKey];
+            return artistData ? artistData.links : []
+        },
+
         getLogoUrl(serviceKey) {
             switch(serviceKey) {
                 case "allaboutjazz": return "/aaj-logo.jpg";
@@ -295,7 +359,7 @@ export default {
                 case "discogs": return "/discogs-logo.png";
                 case "radiohoerer": return "/radio-icon.png";
                 case "soundcloud": return "https://w.soundcloud.com/icon/assets/images/orange_white_32-94fc761.png";
-                case "twitter": return "/Twitter_Logo_Blue.png";
+                case "twitter": return "/Twitter_Logo_Blue.png";                
                 case "youtube": return "/youtube_social_squircle_red.png";
                 default: return "";
             }
@@ -311,6 +375,7 @@ export default {
                 case "radiohoerer": return "Radiohörer @ Friends of Alan";
                 case "soundcloud": return "Soundcloud";
                 case "twitter": return "Twitter";
+                case "wikipedia": return "Wikipedia";
                 case "youtube": return "Youtube";
                 default: return "";
             }
@@ -359,14 +424,6 @@ function cleanUpDescriptions(sourceDescription) {
 
     return eventDescription.match(/Besetzung:\s*(.+)$/);
 
-}
-
-function getArtistLinks(artistname) {
-    if(artistlinks[artistname]) {
-        return artistlinks[artistname].links;
-    } else {
-        return { "bandcamp": [], "discogs": [], "twitter": []};
-    }
 }
 
 function makeArtistNameCanonical({instruments, firstname, surname}) {

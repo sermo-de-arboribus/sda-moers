@@ -6,7 +6,7 @@
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/DaveHotep"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2280808-Dave-Hotep"}, {"type": "band", "url": "https://www.discogs.com/artist/2219395-The-Sun-Ra-Arkestra"}],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Dave+Hotep"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Dave+Hotep%22"}],
             "twitter": [{ "type": "personal", "url": "https://twitter.com/DMHotep"}, {"type": "band", "url": "https://twitter.com/SUNRAARKESTRA"}]
         }
     },
@@ -19,20 +19,21 @@
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Markus+Acher"}]
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Markus+Acher%22"}]
         }
     },
     "MichaAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Micha+Acher"}]
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Micha+Acher%22"}]
         }
     },
     "MarshallAllen": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/MarshallAllen"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/252033-Marshall-Allen"}]
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/252033-Marshall-Allen"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Marshall+Allen%22"}]
         }
     },
     "MaxAndrzejewski": {
@@ -53,7 +54,6 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/antonisanissegos"}],
             "bandcamp": [{ "type": "personal", "url": "https://antonisanissegos.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/604920-Antonis-Anissegos"}],
-            "flickr": [{ "type": "personal", "url": "http://www.flickr.com/photos/enstase/"}],
             "homepage": [{ "type": "personal", "url": "http://enstase.wordpress.com/"}],
             "soundcloud": [{ "type": "personal", "url": "http://soundcloud.com/antonis-anissegos"}],
             "youtube": [{ "type": "personal", "url": "http://www.youtube.com/user/enstase"}]
@@ -894,7 +894,7 @@
             "bandcamp": [{"type": "personal", "url": "https://gunterhampel.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/254755-Gunter-Hampel"}],
             "homepage": [{"type": "personal", "url": "http://www.gunterhampelmusic.de/"}],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=Gunter+Hampel"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Gunter+Hampel%22"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/GunterHampel"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxIdFbCf318affvsfhJH-Bg"}]
         }
@@ -965,7 +965,7 @@
             "bandcamp": [{"type": "band", "url": "https://gewalt.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5014427-Helen-Henfling"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/gewaltband"}],
-            "youtube": [{"type": "personale", "url": "https://www.youtube.com/user/HelenJagger"}]
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/HelenJagger"}]
         }
     },
     "MatthiasHeße": {
@@ -989,6 +989,47 @@
             "homepage": [{"type": "personal", "url": "http://lisahofmaninger.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lisa-hofmaninger"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCroetYbyUAr-Ml9YlxNExYg"}]
+        }
+    },
+    "JonathanHofmeister": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonathan-hofmeister-mn0003566411"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4369590-Jonathan-Hofmeister"}],
+            "homepage": [{"type": "personal", "url": "https://jonathanhofmeister.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jonathan-hofmeister"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-ucIkUQGNAmP5zXVztZHPA"}]
+        }
+    },
+    "JohanHörlen": {
+        "canonicalName": {
+            "firstname": "Johan",
+            "surname": "Hörlén"
+        }
+    },
+    "JohanHörlén": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johan-h%C3%B6rl%C3%A9n-mn0000174212"}],
+            "bandcamp": [{"type": "band", "url": "https://hunterandy.bandcamp.com/album/confluence"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/622520-Johan-H%C3%B6rl%C3%A9n"}],
+            "homepage": [{"type": "band", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/saxofone/hoerlen-100.html"}],
+            "radiohoerer": [{"type": "personal", "urL": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Johan+H%C3%B6rl%C3%A9n%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johan_H%C3%B6rl%C3%A9n"}]}]
+        }
+    },
+    "Reinier vanHoudt": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reinier-vanhoudt-mn0001906812"}],
+            "bandcamp": [{"type": "personal", "url": "https://reiniervanhoudt.bandcamp.com/"},
+                {"type": "agency", "url": "https://matiere-memoire.bandcamp.com/album/mmxx-04-les-champs-lissajous"},
+                {"type": "agency", "url": "https://contemporaryseries.bandcamp.com/album/dead-beats"},
+                {"type": "agency", "url": "https://elsewheremusic.bandcamp.com/album/lettres-et-replis"},
+                {"type": "agency", "url": "https://hallowground.bandcamp.com/album/reinier-van-houdt-paths-of-the-errant-gaze"},
+                {"type": "band", "url": "https://michaelpisaro.bandcamp.com/album/shades-of-eternal-night"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/272708-Reinier-Van-Houdt"}],
+            "homepage": [{"type":"personal", "url": "http://www.reiniervanhoudt.nl/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Reinier+van+Houdt%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/reiniervanhoudt"}, {"type": "personal", "url": "https://soundcloud.com/reinier-van-houdt"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC5JpHKHLinLQkcuqfFmbh_Q"}]
         }
     }
 }
