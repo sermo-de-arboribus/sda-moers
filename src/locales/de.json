@@ -35,6 +35,13 @@
       "prevLabel": "zurück",
       "rowsPerPageLabel": "Zeilen pro Seite"
     },
+    "serviceTypes": {
+      "agency": "Agentur/Label",
+      "album": "Albenseite",
+      "band": "Bandseite",
+      "personal": "persönliche Seite",
+      "search": "Suchtrefferseite"
+    },
     "starttime": "Startzeit",
     "surname": "Nachname",
     "year": "Jahr"

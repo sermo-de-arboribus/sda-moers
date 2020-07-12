@@ -27,6 +27,21 @@
     "instruments": "Instruments",
     "intro": "A table by {websiteCreator} based on open festival data from {dataProvider}. A {tweet} was the cause for setting this table up. For the time being only the concerts of 2019 and 2020 are covered, but an extension to older data is being planned. Furthermore the data handling and usability of the site are supposed to be improved. If you're interested in what improvements are planned, you can have a look at the {issueTracker} of the code repository."  ,
     "links": "Links",
+    "pagination": {
+      "all": "all",
+      "nextLabel": "next",
+      "ofLabel": "of",
+      "pageLabel": "page",
+      "prevLabel": "previous",
+      "rowsPerPageLabel": "rows per page"
+    },
+    "serviceTypes": {
+      "agency": "agency or label page",
+      "album": "album page",
+      "band": "band page",
+      "personal": "personal page",
+      "search": "search hits"
+    },
     "starttime": "Starting time",
     "surname": "Surname",
     "year": "Year"

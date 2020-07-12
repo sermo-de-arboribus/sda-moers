@@ -383,11 +383,11 @@ export default {
 
         getServiceType(typeKey) {
             switch(typeKey) {
-                case "agency": return "Agentur";
-                case "album": return "Album";
-                case "band": return "Band";
-                case "personal": return "persönliche Seite";
-                case "search": return "Suchtrefferseite";
+                case "agency": return this.$t("artistsTable.serviceTypes.agency");
+                case "album": return this.$t("artistsTable.serviceTypes.album");
+                case "band": return this.$t("artistsTable.serviceTypes.band");
+                case "personal": return this.$t("artistsTable.serviceTypes.personal");
+                case "search": return this.$t("artistsTable.serviceTypes.search");
                 default: return "";
             }
         },

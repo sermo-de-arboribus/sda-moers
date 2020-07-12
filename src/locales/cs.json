@@ -35,6 +35,13 @@
             "prevLabel": "zpět",
             "rowsPerPageLabel": "řádky za stranu"
         },
+        "serviceTypes": {
+            "agency": "agentura",
+            "album": "album",
+            "band": "skupinová strana",
+            "personal": "osobní strana",
+            "search": "hledání"
+        },
         "starttime": "Začátek",
         "surname": "Příjmení",
         "year": "Rok"

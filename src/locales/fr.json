@@ -35,6 +35,13 @@
       "prevLabel": "précédente",
       "rowsPerPageLabel": "lignes par page"
     },
+    "serviceTypes": {
+      "agency": "agence ou label",
+      "album": "page album",
+      "band": "page groupe",
+      "personal": "page personelle",
+      "search": "résultats de recherche"
+    },
     "starttime": "Début",
     "surname": "Nom de famille",
     "year": "Année"

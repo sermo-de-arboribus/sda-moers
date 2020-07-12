@@ -35,6 +35,13 @@
       "prevLabel": "上页",
       "rowsPerPageLabel": "每页栏数"
     },
+    "serviceTypes": {
+      "agency": "代理处的网页",
+      "album": "专辑的网页",
+      "band": "乐队的网页",
+      "personal": "自身的网页",
+      "search": "搜寻的网页"
+    },
     "starttime": "开演时间",
     "surname": "姓",
     "year": "年份"

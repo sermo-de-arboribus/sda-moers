@@ -1067,5 +1067,22 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andy_Hunter_(Posaunist)"}]}],
             "youtube": [{"type": "search", "url": "https://www.youtube.com/c/WDRBIGBAND/search?query=Andy+Hunter"}]
         }
+    },
+    "TimIsford": {
+        "canonicalName": {
+            "firstname": "Tim",
+            "surname": "Isfort"
+        }
+    },
+    "TimIsfort": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-tim-isfort"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tim-isfort-mn0003676965"}, {"type": "band", "url": "https://www.allmusic.com/artist/tim-isfort-orchestra-mn0001308315"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/466164-Tim-Isfort"}],
+            "homepage": [{"type": "personal", "url": "http://www.tim-isfort.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Tim%20Isfort%22"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/myanmarmeetseurope"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tim_Isfort"}]}]
+        }
     }
 }
