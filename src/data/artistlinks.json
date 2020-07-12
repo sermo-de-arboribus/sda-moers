@@ -791,6 +791,7 @@
             "bandcamp": [{"type": "personal", "url": "https://goldsby.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312862-John-Goldsby"}],
             "homepage": [{"type": "personal", "url": "https://john.goldsby.de/"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2009/11/16/the-jazz-session-110-john-goldsby/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/johngoldsby"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/johngoldsby"}]
         }
@@ -1083,6 +1084,52 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Tim%20Isfort%22"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/myanmarmeetseurope"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tim_Isfort"}]}]
+        }
+    },
+    "EliseJacoberger": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/elise-jacoberger-mn0003080757"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7098716-Elise-Jacoberger"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/eljak13"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ensemble_Proton_Bern"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/ensembleprotonbern"}]
+        }
+    },
+    "HilaryJeffery": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hilaryjeffery"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hilary-jeffery-mn0002161425"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/160680-Hilary-Jeffery"}],
+            "homepage": [{"type": "personal", "url": "http://www.hiljef.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Hilary%20Jeffery%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/hiljef"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/hiljupiter"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hilary_Jeffery"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCHIP3vdyCl7GPBXxpRB4c7A/featured"}]
+        }
+    },
+    "MalteJehmlich": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4565847-Malte-Jehmlich"}],
+            "homepage": [{"type": "agency", "url": "https://sputnic.tv/"}]
+        }
+    },
+    "JanJelinek": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/janjelinek"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-jelinek-mn0000177310"}],
+            "bandcamp": [
+                {"type": "personal", "url": "https://janjelinek.bandcamp.com/"}, 
+                {"type": "band", "url": "https://asunajanjelinek.bandcamp.com/"},
+                {"type": "band", "url": "https://masayoshifujiitajanjelinek.bandcamp.com/"},
+                {"type": "band", "url": "https://computersoupjanjelinek.bandcamp.com/"},
+                {"type": "album", "url": "https://saj-rec.bandcamp.com/album/puls-plus-puls"}
+            ],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6465-Jan-Jelinek"}],
+            "homepage": [{"type": "personal", "url": "http://www.janjelinek.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Jan%20Jelinek%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jelinek85"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Jelinek"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jan_Jelinek"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jan_Jelinek"}]}]
         }
     }
 }

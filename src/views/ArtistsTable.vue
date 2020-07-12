@@ -357,6 +357,7 @@ export default {
                 case "allmusic": return "/allmusic-logo.png";
                 case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
                 case "discogs": return "/discogs-logo.png";
+                case "jazzsession": return "/tjs-squarelogo.jpg";
                 case "radiohoerer": return "/radio-icon.png";
                 case "soundcloud": return "https://w.soundcloud.com/icon/assets/images/orange_white_32-94fc761.png";
                 case "twitter": return "/Twitter_Logo_Blue.png";                
@@ -372,6 +373,7 @@ export default {
                 case "bandcamp": return "Bandcamp";
                 case "discogs": return "Discogs";
                 case "homepage": return "Homepage";
+                case "jazzsession": return "The Jazz Session";
                 case "radiohoerer": return "Radiohörer @ Friends of Alan";
                 case "soundcloud": return "Soundcloud";
                 case "twitter": return "Twitter";
