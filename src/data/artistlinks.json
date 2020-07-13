@@ -1022,7 +1022,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reinier-vanhoudt-mn0001906812"}],
             "bandcamp": [{"type": "personal", "url": "https://reiniervanhoudt.bandcamp.com/"},
                 {"type": "album", "url": "https://matiere-memoire.bandcamp.com/album/mmxx-04-les-champs-lissajous"},
-                {"type": "agenalbumcy", "url": "https://contemporaryseries.bandcamp.com/album/dead-beats"},
+                {"type": "album", "url": "https://contemporaryseries.bandcamp.com/album/dead-beats"},
                 {"type": "album", "url": "https://elsewheremusic.bandcamp.com/album/lettres-et-replis"},
                 {"type": "album", "url": "https://hallowground.bandcamp.com/album/reinier-van-houdt-paths-of-the-errant-gaze"},
                 {"type": "album", "url": "https://michaelpisaro.bandcamp.com/album/shades-of-eternal-night"}],
@@ -1130,6 +1130,145 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Jan%20Jelinek%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jelinek85"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Jelinek"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jan_Jelinek"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jan_Jelinek"}]}]
+        }
+    },
+    "Sven-ÅkeJohansson": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-sven-ake-johansson"}],
+            "allmusic": [{"type": "search", "url": "https://www.allmusic.com/artist/sven-%C3ke-johansson-mn0000041828"}],
+            "bandcamp": [
+                {"type": "album", "agency": "https://saj-rec.bandcamp.com/"},
+                {"type": "album", "url": "https://nivuniconnu.bandcamp.com/album/blue-for-a-moment"},
+                {"type": "album", "url": "https://nivuniconnu.bandcamp.com/album/grau-gr-n-welk-satt"},
+                {"type": "album", "url": "https://destination-out.bandcamp.com/album/schallplatten-und-plastikblumen"}
+            ],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/310258-Sven-%C3%85ke-Johansson"}],
+            "homepage": [{"type": "personal", "url": "http://www.sven-akejohansson.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Sven-%C3%85ke%20Johansson%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sven-akejohansson"}],
+            "wikipedia": [{"type": "personal", "locales": [
+                {"locale": "de", "url": "https://de.wikipedia.org/wiki/Sven-%C3%85ke_Johansson"},
+                {"locale": "en", "url": "https://en.wikipedia.org/wiki/Sven-%C3%85ke_Johansson"},
+                {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Sven-%C3%85ke_Johansson"}
+            ]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC80sEAmlXVsZ2RO-Lw-uncA/"}]
+        }
+    },
+    "VolkerKamp": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/volker-kamp-mn0003314495"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/448689-Volker-Kamp"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Volker%20Kamp%22"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCCf3tYi_spy4ADmCCL6eCAQ"}]
+        }
+    },
+    "NadjaKarasjew": {
+        "links": {
+            "homepage": [{"type": "band", "url": "http://www.weltenentdecker.com/"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWu_f5016Ck0NbiZU--KSig/"}]
+        }
+    },
+    "OonaKastner": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://oonakastner.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4544981-Oona-Kastner"}],
+            "homepage": [{"type": "personal", "url": "https://www.oona-kastner.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/oonakastner-music"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/oonakastner"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Oona_Kastner"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCFuKDAsiPvEKqtEwtK8NqWQ"}]
+        }
+    },
+    "AchimKaufmann": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/achimkaufmann"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/achim-kaufmann-mn0000961771"}],
+            "bandcamp": [{"type": "personal", "url": "https://achimkaufmanntrokaan.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1065641-Achim-Kaufmann"}],
+            "homepage": [{"type": "personal", "url": "http://www.achimkaufmann.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Achim%20Kaufmann%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/achimkaufmann"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Achim_Kaufmann"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCbeXFDDZnwLXM4KyQO44TuQ"}]
+        }
+    },
+    "MakotoKawabata": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/makoto-kawabata-mn0000667653"}],
+            "bandcamp": [{"type": "personal", "url": "https://kawabata-makoto.bandcamp.com/"}, {"type": "album", "url": "https://geoffleigh.bandcamp.com/album/spatial-roots"}, {"type": "album", "url": "https://geoffleigh.bandcamp.com/album/villa-k"}, {"type": "album", "url": "https://richardyoungs-vhf.bandcamp.com/album/makoto-kawabata-richard-youngs"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/115177-Makoto-Kawabata"}],
+            "homepage": [{"type": "band", "url": "http://www.acidmothers.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/makoto-kawabata-1"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/SpeedGuru69"}],
+            "wikipedia": [
+                {"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Kawabata_Makoto"}]},
+                {"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Acid_Mothers_Temple"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Acid_Mothers_Temple"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Acid_Mothers_Temple"}]}
+            ],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC00md447fcbmnp_VVo-L6qA"}]
+        }
+    },
+    "LukasKeller": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3334715-Lukas-Keller-2"}],
+            "homepage": [{"type": "personal", "url": "http://www.lukas-keller.com/bio.html"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lukas-keller-726625412"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCmr-A3ediH97-B3mRjI2XiA"}]
+        }
+    },
+    "UliKempendorff": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ulikempendorff"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/uli-kempendorff-mn0002106557"}],
+            "bandcamp": [{"type": "album", "url": "https://whyplayjazz.bandcamp.com/album/heal-the-rich"}, {"type": "album", "url": "https://otherunwise.bandcamp.com/album/movements"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/572557-Uli-Kempendorff"}],
+            "homepage": [{"type": "personal", "url": "http://www.ulikempendorff.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Uli%20Kempendorff%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/field-2"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Uli_Kempendorff"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/hanswernicke"}]
+        }
+    },
+    "ErwanKeravec": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/erwankeravec"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/erwan-keravec-mn0001568215"}],
+            "bandcamp": [{"type": "album", "url": "https://omlott.bandcamp.com/album/inhale-volume-i"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3529697-Erwan-Keravec"}],
+            "homepage": [{"type": "personal", "url": "http://www.erwan-keravec.eu/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Erwan%20Keravec%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "search", "url": "https://soundcloud.com/search?q=Erwan%20Keravec"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Erwan_Keravec"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCllUAJ6e74BNk_x2VQVYbxA"}]
+        }
+    },
+    "StefanKeune": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/stefankeune"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/stefan-keune-mn0000723795"}],
+            "bandcamp": [{"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/fractions"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/397553-Stefan-Keune"}],
+            "homepage": [{"type": "personal", "url": "https://stefankeune.com/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Stefan_Keune"}]}],
+            "youtube": [{"type": "search", "url": "https://www.youtube.com/results?search_query=Stefan+Keune"}]
+        }
+    },
+    "FranklinKiermyer": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/franklinkiermyer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/franklin-kiermyer-mn0000173959"}],
+            "bandcamp": [{"type": "personal", "url": "https://kiermyer.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1117180-Franklin-Kiermyer"}],
+            "homepage": [{"type": "personal", "url": "https://kiermyer.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kiermyer"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/kiermyer"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Franklin_Kiermyer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Franklin_Kiermyer"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kiermyer"}]
+        }
+    },
+    "St.Kirchhoff": {
+        "canonicalName": {
+            "firstname": "Stefan",
+            "surname": "Kirchhoff"
         }
     }
 }
