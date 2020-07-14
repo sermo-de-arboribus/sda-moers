@@ -1270,5 +1270,69 @@
             "firstname": "Stefan",
             "surname": "Kirchhoff"
         }
+    },
+    "StefanKirchhoff": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://stkirchhoff.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2905715-Stefan-Kirchhoff"}],
+            "homepage": [{"type": "personal", "url": "http://www.stkirchhoff.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-487910551"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/schanasa"}]
+        }
+    },
+    "JanKlare": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-klare-mn0001603439"}],
+            "bandcamp": [{"type": "personal", "url": "https://jakeplaymo.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312870-Jan-Klare"}],
+            "homepage": [{"type": "personal", "url": "http://www.janklare.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jan%20Klare%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jan-40"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Klare"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/janklare"}]
+        }
+    },
+    "NielsKlein": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/niels-klein-mn0000999971"}],
+            "bandcamp": [{"type": "album", "url": "https://nwogrecords.bandcamp.com/album/tubes-and-wires"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1791576-Niels-Klein"}],
+            "homepage": [{"type": "personal", "url": "http://www.niels-klein.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Niels%20Klein%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/niels-klein"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Niels_Klein"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Niels_Klein"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC7E4EESGWiGXyHMOtWZ-PbA"}]
+        }
+    },
+    "RaphaelKlemm": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/raphaelklemm"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/raphael-klemm-mn0002844507"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4794970-Raphael-Klemm"}],
+            "homepage": [{"type": "personal", "url": "https://www.raphaelklemm.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Raphael%20Klemm%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Raphael_Klemm"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC2rnMP8_EmA3U9hIrYK0z7w"}]
+        }
+    },
+    "SusanneKnoop": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://sumaknoop.de/"}]
+        }
+    },
+    "LuisaKohla": {
+        "links": {
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/luisa-kohla"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChZSFz55QudWhuY8UybX5PA"}]    
+        }
+    },
+    "AthinaKontou": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5095126-Athina-Kontou"}],
+            "homepage": [{"type": "personal", "url": "https://athinakontou.jimdo.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Athina%20Kontou%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Athina_Kontou"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCOoKt0qqCaY7Mcyjt1nofEQ"}]
+        }
     }
 }
