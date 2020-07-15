@@ -1334,5 +1334,32 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Athina_Kontou"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCOoKt0qqCaY7Mcyjt1nofEQ"}]
         }
+    },
+    "LizKosack": {
+        "links": {
+            "bandcamp": [{"type": "album", "url": "https://driedorangerecords.bandcamp.com/album/full-moon-day-kosack-schnug-moss-miller"}, {"type": "album", "url": "https://troubleintheeastrecords.bandcamp.com/album/poles-and-pulse"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5132872-Liz-Kosack"}],
+            "homepage": [{"type": "personal", "url": "https://www.zardkom.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Liz%20Kosack%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Liz_Kosack"}]}]
+        }
+    },
+    "RuppeKoselleck": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7120623-Ruppe-Koselleck"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/BPtakeovR"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ruppe_Koselleck"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/rkoselleck"}]
+        }
+    },
+    "AchimKrämer": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-achim-kramer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/achim-kr%C3%A4mer-mn0001923269"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/275355-Achim-Kr%C3%A4mer"}],
+            "homepage": [{"type": "agency", "url": "http://www.rheinlaender.de/bands/achim_kraemer.htm"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Achim_Kr%C3%A4mer"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCskweEfHo7SGt_TcGgYPH6Q"}]
+        }
     }
 }
