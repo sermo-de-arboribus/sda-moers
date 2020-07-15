@@ -1361,5 +1361,69 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Achim_Kr%C3%A4mer"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCskweEfHo7SGt_TcGgYPH6Q"}]
         }
+    },
+    "AnaKravanja": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allmusic.com/artist/ana-kravanja-mn0003712456"}],
+            "bandcamp": [{"type": "band", "url": "https://anakravanjasamokutin.bandcamp.com/releases"}, {"type": "band", "url": "https://anakravanjatijanastankovic.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3487114-Ana-Kravanja"}],
+            "homepage": [{"type": "agency", "url": "https://www.sploh.si/en/about-sploh/artists/ana-kravanja"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-152749840"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/ckapal"}]
+        }
+    },
+    "AlmutKühne": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/almut-k%C3%BChne-mn0003490785"}],
+            "bandcamp": [{"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/silver-white-archives"}, {"type": "album", "url": "https://fancymusic.bandcamp.com/album/deuce-crossings"}, {"type": "album", "url": "https://meinradkneer.bandcamp.com/album/meinrad-kneers-phosphoros-ensemble-plays-christian-morgenstern"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2321879-Almut-K%C3%BChne"}],
+            "homepage": [{"type": "personal", "url": "http://www.almutkuehne.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Almut%20K%C3%BChne%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/almutkuhne/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Almut_K%C3%BChne"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCi7jfYZQOpOgiJX0sFTTIIw"}]
+        }
+    },
+    "JürgenKupke": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/j%C3%BCrgen-kupke-mn0000121892"}],
+            "bandcamp": [{"type": "album", "url": "https://hanshassler.bandcamp.com/album/hassler"}, {"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/oct-1-98-the-clarinet-trio"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/631267-J%C3%BCrgen-Kupke"}],
+            "homepage": [{"type": "personal", "url": "http://www.juergenkupke.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22J%C3%BCrgen%20Kupke%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/potsalotsaxl"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/J%C3%BCrgen_Kupke"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCPM9hqHyqwlnEDYMDs8JS-Q"}]
+        }
+    },
+    "VincentLabhenn": {
+        "links": {
+        }
+    },
+    "JedrzejLagodzinski": {
+        "canonicalName": {
+            "firstname": "Jędrzej",
+            "surname": "Łagodziński"
+        }
+    },
+    "JędrzejŁagodziński": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://jedrzejlagodzinski.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1959677-J%C4%99drzej-%C5%81agodzi%C5%84ski"}],
+            "homepage": [{"type": "personal", "url": "http://jedrzejlagodzinski.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jedrzejlagodzinski"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCQULVwlSmP1xFyonDKIarRQ"}]
+        }
+    },
+    "CatherineLamb": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-catherine-lamb"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/catherine-lamb-mn0000404975"}],
+            "bandcamp": [{"type": "personal", "url": "https://blackpollenpress.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/918370-Catherine-Lamb"}],
+            "homepage": [{"type": "personal", "url": "http://sacredrealism.org/catlamb/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Catherine%20Lamb%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/catherine-lamb"}]
+        }
     }
 }
