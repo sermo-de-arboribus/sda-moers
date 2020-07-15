@@ -11,7 +11,10 @@
          {{ $t("aboutPage.germany")}}<br/>
          sermo_de_arboribus[{{$t("aboutPage.atSign")}}]seznam.cz
       </p>
-      <img src="../assets/Moers-Superzuschauer.jpg" style="width:50%"/>
+      <figure>
+        <img src="../assets/Moers-Superzuschauer.jpg" style="width:50%"/>
+        <figcaption>Photo by <a href="http://blog.sina.com.cn/dreamtalking">懒村姑</a></figcaption>
+      </figure>
     </section>
     <section>
       <h2>{{ $t("aboutPage.privacyHeader")}}</h2>
