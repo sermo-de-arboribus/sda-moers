@@ -691,7 +691,9 @@
     },
     "TobiasFoller": {
         "links": {
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182780-Tobias-Foller"}, {"type": "band", "url": "https://www.discogs.com/artist/1817435-Eckbert"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182780-Tobias-Foller"}, {"type": "band", "url": "https://www.discogs.com/artist/1817435-Eckbert"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Horst_Hansen_Trio"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w/"}]
         }
     },
     "GregFox": {
@@ -869,7 +871,9 @@
     },
     "CarstenHackler": {
         "links": {
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182779-Carsten-Hackler"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182779-Carsten-Hackler"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Horst_Hansen_Trio"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w/"}]
         }
     },
     "AndreasHaderer": {
@@ -1465,6 +1469,64 @@
             "homepage": [{"type": "personal", "url": "https://www.cecileondesmartenot.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/cecilelartigau"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/clartigau_ondes"}]
+        }
+    },
+    "CavanaLee-Hampel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2907142-Cavana-Lee-Hampel"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Cavana%20Lee-Hampel%22&category_name=nach-hoeren"}]
+        }
+    },
+    "Lars “Hubert” Leibl": {
+        "canonicalName": {
+            "firstname": "Lars",
+            "surname": "Leibl"
+        }
+    },
+    "LarsLeibl": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182774-Lars-Leibl"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Horst_Hansen_Trio"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w/"}]
+        }
+    },
+    "YannickLestra": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5113210-Yannick-Lestra"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Yannick%20Lestra%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yannick-lestra"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-JQ9U0pw4kED0i-nE6EGVw"}]
+        }
+    },
+    "YaroslavLikhachev": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yaroslavlikhachev"}],
+            "homepage": [{"type": "personal", "url": "https://www.yaroslavlikhachev.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yaroslav-likhachev"}],
+            "twitter": {"type": "personal", "url": "https://twitter.com/LikhachevSound"},            
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCUyjL_97NaiwW33o3Gj-cgw"}]
+        }
+    },
+    "ChristianLillinger": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/christian-lillinger-mn0002512897"}],
+            "bandcamp": [{"type": "personal", "url": "https://christianlillinger.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1764935-Christian-Lillinger"}],
+            "homepage": [{"type": "personal", "url": "https://www.christianlillinger.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Christian%20Lillinger%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/christianlillinger84"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Christian_Lillinger"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Christian_Lillinger"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC_-oF6ei1BfoeQctl7qMI1A"}]
+        }
+    },
+    "KayLübke": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kay-lubke-mn0001016309"}],
+            "bandcamp": [{"type": "album", "url": "https://silkeeberhard-intakt.bandcamp.com/album/the-being-inn"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1257584-Kay-L%C3%BCbke"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Kay%20L%C3%BCbke%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kay-l-bke"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCIViQJRIouZMze_MB1g53XA"}]
         }
     }
 }
