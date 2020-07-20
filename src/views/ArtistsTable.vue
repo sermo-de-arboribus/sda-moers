@@ -118,7 +118,8 @@ export default {
             if(this.allMoersFestivalEvents) {
                 return this.allMoersFestivalEvents.reduce((aggregator, event) => {
                     const parsedEventDescription = cleanUpDescriptions(event.description);
-                    const eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
+                    let eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
+                    eventLineUp = eventLineUp.replace(/\r\n/, " ")
                     const artists = eventLineUp
                                     .split(/\)\s*,\s*/)
                                     .filter(a => a)
@@ -157,6 +158,7 @@ export default {
                     al[akey].canonicalName = artistlinks[akey].canonicalName
                 }
 
+try {
                 if (artistlinks[akey].links) {
                     al[akey].links = Object.keys(artistlinks[akey].links).reduce((acc, l) => {
 
@@ -197,6 +199,11 @@ export default {
                         return Object.assign(acc, {[l]: links});
                     }, {});
                 }
+} catch (err) {
+    console.log("error when running on key " + akey);
+    console.error(err);
+
+}
             })
 
             return al;

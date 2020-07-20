@@ -1503,7 +1503,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yaroslavlikhachev"}],
             "homepage": [{"type": "personal", "url": "https://www.yaroslavlikhachev.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yaroslav-likhachev"}],
-            "twitter": {"type": "personal", "url": "https://twitter.com/LikhachevSound"},            
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LikhachevSound"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCUyjL_97NaiwW33o3Gj-cgw"}]
         }
     },
@@ -1527,6 +1527,47 @@
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Kay%20L%C3%BCbke%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kay-l-bke"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCIViQJRIouZMze_MB1g53XA"}]
+        }
+    },
+    "BenoîtLugué": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://benoitlugue.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1714683-Beno%C3%AEt-Lugu%C3%A9"}],
+            "homepage": [{"type": "personal", "url": "http://www.benoitlugue.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-992402403"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/BenoitLugue"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/fadamusic"}]
+        }
+    },
+    "LolaMalique": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://lolamalique.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lolamalique"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LolaMalique"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCekdD_KRTVpTn8XMehg_hpw"}]
+        }
+    },
+    "JuçaraMarçal": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ju%C3%A7ara-mar%C3%A7al-mn0003341271"}],
+            "bandcamp": [{"type": "personal", "url": "https://jucaramarcal.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3422648-Ju%C3%A7ara-Mar%C3%A7al"}],
+            "homepage": [{"type": "personal", "url": "http://jucaramarcal.com.br/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jucaramarcal"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/jucaramarcal"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCKZomy9tyG-iMUpDDDB761A"}]
+        }
+    },
+    "BartMaris": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bartmaris"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bart-maris-mn0000126226"}],
+            "bandcamp": [{"type": "personal", "url": "https://bartmaris.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/239948-Bart-Maris"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bart%20Maris%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "search", "url": "https://soundcloud.com/trompetgesnotter"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bart_Maris"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Bart_Maris"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCvp1w2X2_HRvhDGuXFiMX8A"}]
         }
     }
 }
