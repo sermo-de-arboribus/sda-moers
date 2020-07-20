@@ -10,7 +10,7 @@ module.exports = {
     mutations: {
     updateEvents(state, data) {
         state.allMoersFestivalEvents = data;
-    }
+        }
     },
     actions: {
         fetchEventsFromApi({ commit, state }, callback) {

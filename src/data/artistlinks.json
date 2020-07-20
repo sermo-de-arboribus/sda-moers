@@ -472,6 +472,13 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWkMqfhuEyyoKT6bx78j6Gg"}]
         }
     },
+    "LenaCzerniawska": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5856821-Lena-Czerniawska"}],
+            "homepage": [{"type": "personal", "url": "https://lenaczerniawska.weebly.com/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LenaCzerniawska"}]
+        }
+    },
     "EvaCsizmadia": {
         "canonicalName": { "firstname": "Éva", "surname": "Czismadia"}
     },

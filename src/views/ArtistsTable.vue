@@ -158,7 +158,6 @@ export default {
                     al[akey].canonicalName = artistlinks[akey].canonicalName
                 }
 
-try {
                 if (artistlinks[akey].links) {
                     al[akey].links = Object.keys(artistlinks[akey].links).reduce((acc, l) => {
 
@@ -199,11 +198,6 @@ try {
                         return Object.assign(acc, {[l]: links});
                     }, {});
                 }
-} catch (err) {
-    console.log("error when running on key " + akey);
-    console.error(err);
-
-}
             })
 
             return al;
@@ -422,7 +416,7 @@ function cleanUpDescriptions(sourceDescription) {
         return "";
     }
 
-    let eventDescription = sourceDescription
+    const eventDescription = sourceDescription
         .replace(/[\s\u2028]+/g, " ")
         .replace(/Besetzung:\s+Besetzung:/, "Besetzung: ")
         .replace(/Blumenthal \(leader\)\s*Niels Klein Trio:/, "Blumenthal (leader), ")
