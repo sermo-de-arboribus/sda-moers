@@ -1576,5 +1576,66 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bart_Maris"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Bart_Maris"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCvp1w2X2_HRvhDGuXFiMX8A"}]
         }
+    },
+    "PatriciaMartin": {
+        "canonicalName": {
+            "firstname": "Patricia M.",
+            "surname": "Martin"
+        }
+    },
+    "Patricia M.Martin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/patricia-martin-mn0002235341/discography"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1352095-Patricia-Martin-2"}],
+            "homepage": [{"type": "agency", "url": "https://www.folkwang-uni.de/home/hochschule/personen/lehrende/vollanzeige/personen-detail/prof-patricia-m-martin"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/studio-neue-musik-paint-it-black-schwarz-in-der-musik-werke-von-u-a-klaus-lang-julian-eastman/"}]
+        }
+    },
+    "MasanaMatsushita": {
+        "canonicalName": {
+            "firstname": "Masanao",
+            "surname": "Matsushita"
+        }
+    },
+    "MasanaoMatsushita": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6697565-Masanao-Matsushita"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/chanmeryasei"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCK3U8SOmXzC-lLckx6BKjpg"}]
+        }
+    },
+    "Lara KatharinaMay": {
+        "links": {
+        }
+    },
+    "EmmetMcDonald": {
+        "canonicalName": {
+            "firstname": "Emmett",
+            "surname": "McDonald"
+        }
+    },
+    "EmmettMcDonald": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/emmet-mcdonald-mn0001232094"}],
+            "allaboutjazz": [{"type": "personal", "url": "https://www.discogs.com/artist/2133204-Emmett-McDonald"}],
+            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/emmett-mcdonald-34694285/"}]
+        }
+    },
+    "MarcMeeuwissen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marc-meeuwissen-mn0001370344"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/343498-Marc-Meeuwissen"}],
+            "homepage": [{"type": "agency", "url": "https://www.igloorecords.be/artist/marc-meeuwissen/?lang=en"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Marc%20Meeuwissen%22&category_name=nach-hoeren"}]
+        }
+    },
+    "RaissaMehner": {
+        "links": {
+            "bandcamp": [{"type": "album", "url": "https://anniebloch.bandcamp.com/track/12-16-feat-raissa-mehner"}, {"type": "band", "url": "https://larizamusic.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7924540-Raissa-Mehner"}],
+            "homepage": [{"type": "band", "url": "https://www.larizamusic.com/epk/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/bloch-mehner"}, {"type": "band", "url": "https://soundcloud.com/larizamusic"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCG1qKMkth9Q6fIKm4_8dauQ"}]
+        }
     }
 }

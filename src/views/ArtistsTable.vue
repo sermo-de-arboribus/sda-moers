@@ -50,8 +50,8 @@
             <template slot="table-row" slot-scope="props">
                 <b-row v-if="props.column.field == 'links'">
                     <div style="padding:10px" class="artistlinks" cols="1" cols-sm="2" cols-lg="3">
-                        <template class="col" v-for="linkArray in props.row.links">
-                            <b-button v-for="link in linkArray" :key="link.url"
+                        <template class="col" v-for="links in props.row.links">
+                            <b-button v-for="link in links" :key="link.url"
                                 :href="link.url"
                                 size="sm"
                                 :title="link.htmlTitle"
