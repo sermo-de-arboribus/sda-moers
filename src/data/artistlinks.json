@@ -76,7 +76,8 @@
         "links": {
             "allmusic": [{ "type": "personal", "url": "https://www.allmusic.com/artist/antoine-arnera-mn0003286062"}, {"type": "band", "url": "https://www.allmusic.com/artist/poil-mn0003286090"}],
             "bandcamp": [{"type": "band", "url": "https://poil.bandcamp.com/"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2928404-Antoine-Arnera"}, { "type": "band", "url": "https://www.discogs.com/artist/2928403-Poil-2"}]
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2928404-Antoine-Arnera"}, { "type": "band", "url": "https://www.discogs.com/artist/2928403-Poil-2"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Poil_(groupe)"}]}],
         }
     },
     "RezaAskari": {
@@ -1636,6 +1637,42 @@
             "homepage": [{"type": "band", "url": "https://www.larizamusic.com/epk/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/bloch-mehner"}, {"type": "band", "url": "https://soundcloud.com/larizamusic"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCG1qKMkth9Q6fIKm4_8dauQ"}]
+        }
+    },
+    "RajeshMehta": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/rajeshmehta"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rajesh-mehta-mn0000865602"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/836336-Rajesh-Mehta"}],
+            "homepage": [{"type": "personal", "url": "https://orka-m.tumblr.com/"}, {"type": "personal", "url": "https://rajeshmehta-archive.tumblr.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rajesh-mehta-1"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Rajesh_Mehta"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/orkamvideo"}]
+        }
+    },
+    "GuilhemMeier": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/guilhem-meier-mn0002852718"}],
+            "bandcamp": [{"type": "band", "url": "https://poil.bandcamp.com/"}, {"type": "band", "url":"https://piniol.bandcamp.com/"}, {"type": "band", "url": "https://legrandsbam.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2928401-Guilhem-Meier"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/poil-1"}, {"type": "band", "url": "https://soundcloud.com/grandsbam"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Poil_(groupe)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCRTkRiDCoyoVTtUbxPeTJgw"}]
+        }
+    },
+    "AndreMeisner": {
+        "canonicalName": {
+            "firstname": "André",
+            "surname": "Meisner"
+        }
+    },
+    "AndréMeisner": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andre-meisner-mn0003038933"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3334152-Andre-Meisner"}],
+            "homepage": [{"type": "personal", "url": "https://www.andremeisner.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/andremeisnerofficial"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/asparaguschild"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCp5XkBqek3Up6q-XRAsYFpQ"}]
         }
     }
 }
