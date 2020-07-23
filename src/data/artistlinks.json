@@ -77,7 +77,7 @@
             "allmusic": [{ "type": "personal", "url": "https://www.allmusic.com/artist/antoine-arnera-mn0003286062"}, {"type": "band", "url": "https://www.allmusic.com/artist/poil-mn0003286090"}],
             "bandcamp": [{"type": "band", "url": "https://poil.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2928404-Antoine-Arnera"}, { "type": "band", "url": "https://www.discogs.com/artist/2928403-Poil-2"}],
-            "wikipedia": [{"type": "band", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Poil_(groupe)"}]}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Poil_(groupe)"}]}]
         }
     },
     "RezaAskari": {
@@ -804,6 +804,19 @@
             "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2009/11/16/the-jazz-session-110-john-goldsby/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/johngoldsby"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/johngoldsby"}]
+        }
+    },
+    "RuthGoller": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ruthgoller"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/search/all/Ruth%20Goller"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/938577-Ruth-Goller"}],
+            "homepage": [{"type": "personal", "url": "https://ruthgoller.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ruth%20Goller%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ruth-goller"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/ruthgoller"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Melt_Yourself_Down"}]}, {"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Acoustic_Ladyland"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Acoustic_Ladyland"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCR8hYKTwlIJ27EwTjiuubnQ"}]
         }
     },
     "ChillyGonzales": {
@@ -1673,6 +1686,32 @@
             "homepage": [{"type": "personal", "url": "https://www.andremeisner.de/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/andremeisnerofficial"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/asparaguschild"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCp5XkBqek3Up6q-XRAsYFpQ"}]
+        }
+    },
+    "MartiMelià": {
+        "canonicalName": {
+            "firstname": "Martí",
+            "surname": "Melià Margañon"
+        }
+    },
+    "MartíMelià Margañon": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marti-melia-mn0003128175"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3962334-Marti-Meli%C3%A0"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCfXsQKzdSnVxAhxGq6LjZ9g"}]
+        }
+    },
+    "Till “Eberhardt”Menzer": {
+        "canonicalName": {
+            "firstname": "Till",
+            "surname": "Menzer"
+        }
+    },
+    "TillMenzer": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5182767-Till-Menzer"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Horst_Hansen_Trio"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w/"}]
         }
     }
 }
