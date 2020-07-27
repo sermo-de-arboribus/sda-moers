@@ -1746,5 +1746,39 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/peter-meyer"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/melttrio"}]
         }
+    },
+    "TaraMiddleton": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/taramiddleton"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tara-middelton-mn0003430896"}],
+            "bandcamp": [{"type": "band", "url": "https://liquidlight1.bandcamp.com/"}, {"type": "band", "url": "https://rock-a-bye.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7126662-Tara-Middleton"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tara%20Middleton%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Jupitergirlblue"}]
+        }
+    },
+    "PhilMinton": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/philminton"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/phil-minton-mn0000845323"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=Phil%20Minton"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/202316-Phil-Minton"}],
+            "homepage": [{"type": "personal", "url": "http://www.philminton.co.uk/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Phil%20Minton%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "search", "url": "https://soundcloud.com/search?q=Phil%20Minton"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Phil_Minton"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Phil_Minton"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Phil_Minton"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCNKGzbiHHNhaHndAoUno07w"}]
+        }
+    },
+    "TylerMitchell": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/tylermitchell"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tyler-mitchell-mn0001246093/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/435398-Tyler-Mitchell"}],,
+            "homepage": [{"type": "personal", "url": "https://tylermitchelljazz.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tyler%20Mitchell%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tyler-mitchell-bass"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tyler_Mitchell_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tyler_Mitchell"}]}]
+        }
     }
 }
