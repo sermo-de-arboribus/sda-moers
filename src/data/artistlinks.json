@@ -1774,11 +1774,49 @@
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/tylermitchell"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tyler-mitchell-mn0001246093/"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/435398-Tyler-Mitchell"}],,
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/435398-Tyler-Mitchell"}],
             "homepage": [{"type": "personal", "url": "https://tylermitchelljazz.com/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tyler%20Mitchell%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tyler-mitchell-bass"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tyler_Mitchell_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tyler_Mitchell"}]}]
         }
+    },
+    "WolfgangMitterer": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wolfgangmitterer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wolfgang-mitterer-mn0001953791"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/52041-Wolfgang-Mitterer"}],
+            "homepage": [{"type": "personal", "url": "https://www.wolfgangmitterer.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Wolfgang+Mitterer%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wolfgang-mitterer"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Mitterer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Mitterer"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Wolfgang_Mitterer"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCGI0TjEoTvsYHtT0fvH1cPg"}]
+        }
+    },
+    "CaseyMoir": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/caseymoir"}],
+            "allmusic": [{"type": "band", "url": "https://www.allmusic.com/artist/casey-moir-band-mn0003413702"}],
+            "bandcamp": [{"type": "album", "url": "https://hearhererecords.bandcamp.com/album/rabbit-hole"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6106988-Casey-Moir"}],
+            "homepage": [{"type": "personal", "url": "http://casey.moir.se/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Casey%20Moir%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/caseymoir"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCblWnz3Ytn9eJBL-PuV-ekQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCukkNN_3JFSsS_1t0xUtl0A"}]
+        }
+    },
+    "Andre O.Möller": {
+        "canonicalName": {
+            "firstname": "André O.",
+            "surname": "Möller"
+        }
+    },
+    "André O.Möller": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1149845-Andr%C3%A9-O-M%C3%B6ller"}],
+            "homepage": [{"type": "agency", "url": "https://ausland-berlin.de/andre-o-moeller"}, {"type": "agency", "url": "https://www.wandelweiser.de/moeller/home.html"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCrvzWaur-1zVylO6ajDwpKQ"}]
+        }
     }
+
 }
