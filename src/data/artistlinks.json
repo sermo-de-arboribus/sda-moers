@@ -794,6 +794,15 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCKsyMsNrV3-R_mHYHhPzK5Q"}]
         }
     },
+    "SiriGjære": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/siri-gj%C3%A6re-mn0001428520"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/838476-Siri-Gj%C3%A6re"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/tr-nderh-ns"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Siri_Gj%C3%A6re"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCya-0KNWx97aaHYFdyo5UNA"}]
+        }
+    },
     "HeinerGoebbels": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/heinergoebbels"}],
@@ -970,6 +979,20 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tsharres"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/ThomasHarres"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Tsharres"}]
+        }
+    },
+    "JimHart": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jimhart"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jim-hart-mn0000911476"}],
+            "bandcamp": [{"type": "personal", "url": "https://jimhart.bandcamp.com/"}, {"type": "personal", "url": "https://jimhartivoneame.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/597026-Jim-Hart"}],
+            "homepage": [{"type": "personal", "url": "http://www.jimhart.co.uk/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jim%20Hart%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jimhart"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/hartvibe"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jim_Hart"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jim_Hart_(musician)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mrjj27"}]
         }
     },
     "FlorianHartlieb": {
@@ -1816,6 +1839,46 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1149845-Andr%C3%A9-O-M%C3%B6ller"}],
             "homepage": [{"type": "agency", "url": "https://ausland-berlin.de/andre-o-moeller"}, {"type": "agency", "url": "https://www.wandelweiser.de/moeller/home.html"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCrvzWaur-1zVylO6ajDwpKQ"}]
+        }
+    },
+    "StanleyMorgan": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/stanley-morgan-mn0000786143"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/279828-Stanley-Morgan"}]
+        }
+    },
+    "AlexMorsey": {
+        "canonicalName": {
+            "firstname": "Alexander",
+            "surname": "Morsey"
+        }
+    },
+    "AlexanderMorsey": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/alex-morsey-mn0001997350"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2546095-Alexander-Morsey"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Alex%20Morsey%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Alexander_Morsey"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC-Y9CaQ4YMYVClKGNoSLljQ/"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC2RXlwR4a0GqKxhfUQRaGvQ"}]
+        }
+    },
+    "FilipeNader": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/filipe-nader-mn0003848138"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4430647-Filipe-Nader"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/FilipeNader"}]
+        }
+    },
+    "ToshimaruNakamura": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/toshimarunakamura"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/toshimaru-nakamura-mn0000743388"}],
+            "bandcamp": [{"type": "album", "url": "https://room40.bandcamp.com/album/nimb-9"}, {"type": "album", "url": "https://thedimcoast.bandcamp.com/album/no-input-mixing-board-8"}, {"type": "album", "url": "https://erstwhilerecords.bandcamp.com/album/maruto"}, {"type": "album", "url": "https://amplify2020.bandcamp.com/album/nimb-61"}, {"type": "album", "url": "https://erstwhilerecords.bandcamp.com/album/between"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/53826-Toshimaru-Nakamura"}],
+            "homepage": [{"type": "personal", "url": "http://www.toshimarunakamura.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/toshimarunakamura"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/toshimarunakam"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Toshimaru_Nakamura"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Toshimaru_Nakamura"}, {"locale": "zh", "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%BB%B6%E5%92%8C"}]}]
         }
     }
 
