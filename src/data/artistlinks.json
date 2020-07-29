@@ -635,6 +635,13 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChg03mroGV5xUEqyDh7zD3Q"}]
         }
     },
+    "PeterEngelhardt": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-engelhardt-mn0003222007"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1594790-Peter-Engelhardt"}],
+            "homepage": [{"type": "personal", "url": "http://www.peterengelhardt.com/Peter_Engelhardt/Home.html"}, {"type": "band", "url": "http://www.birth-control.de/members_peter_e.htm"}]
+        }
+    },
     "FelicitasErben": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/felicitas-erben-mn0003286298"}],
@@ -1880,6 +1887,56 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/toshimarunakam"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Toshimaru_Nakamura"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Toshimaru_Nakamura"}, {"locale": "zh", "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%BB%B6%E5%92%8C"}]}]
         }
+    },
+    "MichihikoNakanishi": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7238374-Michihiko-Nakanishi"}],
+            "homepage": [{"type": "personal", "url": "https://mitchthebassman.wixsite.com/website"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nknmitch"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/m_nakanishi"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-7tXDkR0XyCwASG4sjrpAQ"}]
+        }
+    },
+    "Dag MagnusNarvesen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/dagmagnusnarvesen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dag-magnus-narvesen-mn0003077631"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2072158-Dag-Magnus-Narvesen"}],
+            "homepage": [{"type": "personal", "url": "https://dagmagnus.com"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Dag%20Magnus%20Narvesen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dagmagnus"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC6RLz4ZvjiQh9HGFs5qaSYg"}]
+        }
+    },
+    "ElsonNascimento": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/elsonnascimento"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/elson-nascimento-mn0001255983"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1309329-Elson-Nascimento"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Elson%20Nascimento%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/elsonnascimento"}]
+        }
+    },
+    "JohannnesNebel": {
+        "canonicalName": {
+            "firstname": "Johannes",
+            "surname": "Nebel"
+        }
+    },
+    "JohannesNebel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4316969-Johannes-Nebel"}],
+            "homepage": [{"type": "band", "url": "https://thetrif.yolasite.com/"}]
+        }
+    },
+    "JensNeufang": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jensneufang"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jens-neufang-mn0001299532"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/306556-Jens-Neufang"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jens%20Neufang%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jens_Neufang"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChqESBX65iNPxtF65eNRZ5w"}]
+        }
     }
-
 }
