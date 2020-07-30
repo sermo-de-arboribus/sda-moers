@@ -1039,6 +1039,11 @@
             "homepage": [{"type": "agency", "url": "https://www.schlosstheater-moers.de/?ensemble-mitglied=matthias-hese"}]
         }
     },
+    "LauraHiller": {
+        "links": {
+            "homepage": [{"type": "band", "url": "http://www.weltenentdecker.com/spatzenschwatzen"}, {"type": "agency", "url": "https://www.musikundkunstschule-velbert.de/wir-ueber-uns/kollegium/laura-hiller/"}]
+        }
+    },
     "ErhardHirt": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/erhard-hirt-mn0001833147"}],
@@ -1343,6 +1348,20 @@
             "homepage": [{"type": "personal", "url": "http://www.stkirchhoff.de/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-487910551"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/schanasa"}]
+        }
+    },
+    "DodoKis": {
+        "canonicalName": {
+            "firstname": "Dodó",
+            "surname": "Kis"
+        }
+    },
+    "DodóKis": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kis-dod%C3%B3-mn0003274730"}],
+            "homepage": [{"type": "personal", "url": "https://kidobo.wixsite.com/dodo"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dodokis"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/asavercsoportom"}]
         }
     },
     "JanKlare": {
@@ -1937,6 +1956,92 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jens%20Neufang%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jens_Neufang"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChqESBX65iNPxtF65eNRZ5w"}]
+        }
+    },
+    "NikolausNeuser": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nikolaus-neuser-mn0002435918"}],
+            "bandcamp": [{"type": "band", "url": "https://silkeeberhardnikolausneuserwithtalibam.bandcamp.com/"}, {"type": "album", "url": "https://tvlrec.bandcamp.com/album/tvl-026-toxicodendron-radicans"}, {"type": "album", "url": "https://soundanatomy.bandcamp.com/album/trialectics"}, {"type": "album", "url": "https://ernestorodrigues.bandcamp.com/album/plot"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/572561-Nikolaus-Neuser"}],
+            "homepage": [{"type": "personal", "url": "http://www.nikolausneuser.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Nikolaus%20Neuser%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nikolaus-neuser"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/NeuserNikolaus"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Nikolaus_Neuser"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/0112358132134usw"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCBxYL9zKDdNVUdbky7pnwqg"}]
+        }
+    },
+    "DanNicholls": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/dannicholls"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dan-nicholls-mn0003118916"}],
+            "bandcamp": [{"type": "album", "url": "https://loopcollective.bandcamp.com/album/ruins"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3457571-Dan-Nicholls"}],
+            "homepage": [{"type": "personal", "url": "http://www.dan-nicholls.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Dan%20Nicholls%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/thrashmetaljazz"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/dannichollsmusic"}]
+        }
+    },
+    "MaggieNicols": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maggienicols"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maggie-nicols-mn0000047842"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/sweet-and-sours"}, {"type": "album", "url": "https://stevemoyes.bandcamp.com/album/3rd-july-2003"}, {"type": "album", "url": "https://peterurpeth.bandcamp.com/album/other-worlds-ep"}, {"type": "album", "url": "https://jazzdorseries.bandcamp.com/album/denis-charolles-maggie-nicols-david-chevallier-magique-live-at-kesselhaus-berlin-06062013-2"}, {"type": "album", "url": "https://miazabelka.bandcamp.com/album/w"}, {"type": "album", "url": "https://ireneschweizer.bandcamp.com/album/jubilee-concert"}, {"type": "album", "url": "https://ireneschweizer.bandcamp.com/album/splitting-image"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/239931-Maggie-Nicols"}],
+            "homepage": [{"type": "personal", "url": "http://www.maggienicols.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Maggie%20Nicols%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/musicalmag"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Maggie_Nicols"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Maggie_Nicols"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/maggienicolson"}]
+        }
+    },
+    "FrankNiehusmann": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frank-niehusmann-mn0001701860"}],
+            "bandcamp": [{"type": "personal", "url": "https://nurnichtnur.bandcamp.com/album/kabel"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/189251-Frank-Niehusmann"}],
+            "homepage": [{"type": "personal", "url": "http://www.niehusmann.org/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/niehusmann-hein"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCbUf7KcWpc4ThKJbOapIKDw"}]
+        }
+    },
+    "AngelikaNiescier": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/angelikaniescier"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/angelika-niescier-mn0001451016"}],
+            "bandcamp": [{"type": "personal", "url": "https://angelikaniescierintakt.bandcamp.com/"}, {"type": "personal", "url": "https://niescierjenssonmclemore.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2559933-Angelika-Niescier"}],
+            "homepage": [{"type": "personal", "url": "http://www.angelika-niescier.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Angelika%20Niescier%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "search", "url": "https://soundcloud.com/angelikaniescier"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Angelika_Niescier"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCy_ezI1wOfTjn0wJMSEmo2g"}]
+        }
+    },
+    "EtienneNillesen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/etiennenillesen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/etienne-nillesen-mn0003252760"}],
+            "bandcamp": [{"type": "personal", "url": "https://etiennenillesen.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2649625-Etienne-Nillesen"}],
+            "homepage": [{"type": "personal", "url": "http://etiennenillesen.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Etienne%20Nillesen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/etiennenillesen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Etienne_Nillesen"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCKI7l-oh54d9tZZ4JQLFo_g"}]
+        }
+    },
+    "LudwigNuss": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ludwignuss"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ludwig-nuss-mn0000306569"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/312872-Ludwig-Nu%C3%9F"}],
+            "homepage": [{"type": "personal", "url": "http://www.ludwignuss.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ludwig%20Nuss%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ludwignuss"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ludwig_Nuss"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC4YOSOTTr9y1QKtVF9XMuaw"}]
         }
     }
 }
