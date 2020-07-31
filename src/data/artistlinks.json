@@ -862,6 +862,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCkz1_Syv86Kr1mWatXk8T4Q"}]
         }
     },
+    "EmilioGordoa": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/emiliogordoa"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/emilio-gordoa-mn0003671031"}],
+            "bandcamp": [{"type": "album", "url": "https://wildsonico.bandcamp.com/album/warteland"}, {"type": "album", "url": "https://soundanatomy.bandcamp.com/album/natura-venomous"}, {"type": "album", "url": "https://tonelist.bandcamp.com/album/berlin-split"}, {"type": "album", "url": "https://ernestorodrigues.bandcamp.com/album/sowieso"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4715444-Emilio-Gordoa"}],
+            "homepage": [{"type": "personal", "url": "http://www.emiliogordoa.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Emilio%20Gordoa%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/emilio-gordoa"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]}],
+            "youtube": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]
+        }
+    },
     "GuilhermeGranado": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/guilhermegranado"}],
@@ -2042,6 +2055,55 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ludwignuss"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ludwig_Nuss"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC4YOSOTTr9y1QKtVF9XMuaw"}]
+        }
+    },
+    "QadiraOechsle-Ali": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.modelmanagement.com/model/qadira-oechsle-ali/"}, {"type": "band", "url": "https://www.startnext.com/shakeyin"}]
+        }
+    },
+    "BerndOezsevim": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bernd-oezsevim-mn0002698824"}],
+            "discogs": [{"type": "personal", "urL": "https://www.discogs.com/de/artist/1962885-Bernd-Oezsevim"}],
+            "homepage": [{"type": "agency", "url": "http://www.real-live-jazz.de/musiker-einzeln/Artist/show/oezsevim.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bernd%20Oezsevim%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/berndoezsevim"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bernd_Oezsevim"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWWelntytK5UeUJqZD3-25g"}]
+        }
+    },
+    "LaurinOppermann": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4215825-Laurin-Oppermann"}],
+            "homepage": [{"type": "personal", "url": "https://www.laurinoppermann.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/laurin-oppermann"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCJbHbi6Qi3bCJp-JluErJ9g"}]
+        }
+    },
+    "YukoOshima": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yukooshima"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/yuko-oshima-mn0003417070"}],
+            "bandcamp": [{"type": "album", "url": "https://keepurbanguild.bandcamp.com/album/healing"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1275527-Yuko-Oshima"}],
+            "homepage": [{"type": "personal", "url": "http://yukooshima.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Yuko%20Oshima%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yuko-oshima"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/tayuurau"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/tayuurau"}]
+        }
+    },
+    "MathildaOverlöper": {
+        "links": {
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/watch?v=KT01P9vNjx4"}]
+        }
+    },
+    "KeithO’Brien": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/keith-obrien-mn0003766789"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4292863-Keith-OBrien"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/keith-obrienmusic"}]
         }
     }
 }
