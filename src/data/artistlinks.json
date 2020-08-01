@@ -1901,6 +1901,11 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC-Y9CaQ4YMYVClKGNoSLljQ/"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC2RXlwR4a0GqKxhfUQRaGvQ"}]
         }
     },
+    "Sein HlaMyaing": {
+        "links": {
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCyNUE6j65gqKkfcT8vhQDsg"}]
+        }
+    },
     "FilipeNader": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/filipe-nader-mn0003848138"}],
@@ -2104,6 +2109,14 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/keith-obrien-mn0003766789"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4292863-Keith-OBrien"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/keith-obrienmusic"}]
+        }
+    },
+    "DJPatex": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dj-patex-mn0001391340"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/95943-DJ-Patex"}],
+            "homepage": [{"type": "personal", "url": "http://www.djpatex.com/"}, {"type": "agency", "url": "http://www.satt.org/musik/10_08_patex.html"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dj-patex"}]
         }
     }
 }
