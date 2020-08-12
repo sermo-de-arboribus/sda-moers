@@ -453,6 +453,20 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/StrongWaterPressure"}]
         }
     },
+    "GeraldCleaver": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/geraldcleaver"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gerald-cleaver-mn0000945381"}],
+            "bandcamp": [{"type": "band", "url": "https://geraldcleaversblackhost.bandcamp.com/releases"}, {"type": "album", "url": "https://577records.bandcamp.com/album/signs"}, {"type": "album", "url": "https://sunnysidezone.com/album/live-at-firehouse-12"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/295598-Gerald-Cleaver"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2011/01/17/the-jazz-session-232-gerald-cleaver/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Gerald%20Cleaver%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/gerald-cleaver"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/a_good_question"}],
+            "wikipedia": [{"type": "personal", "locales": [[{"locale": "de", "url": "https://de.wikipedia.org/wiki/Gerald_Cleaver"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Gerald_Cleaver_(musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Gerald_Cleaver_(musicien)"}]]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC927aMLXyxbzGLt2sJaQ2Qw"}]
+        }
+    },
     "BryceCloghesy": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4807958-Bryce-Cloghesy"}],
@@ -2067,6 +2081,19 @@
             "homepage": [{"type": "agency", "url": "https://www.modelmanagement.com/model/qadira-oechsle-ali/"}, {"type": "band", "url": "https://www.startnext.com/shakeyin"}]
         }
     },
+    "JoschaOetz": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/joschaoetz"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joscha-oetz-mn0001848042"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/515292-Joscha-Oetz"}],
+            "homepage": [{"type": "personal", "url": "http://www.joschaoetz.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Joscha%20Oetz%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/joschaoetz"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/JoschaOetz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Joscha_Oetz"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/joschaoetz"}]
+        }
+    },
     "BerndOezsevim": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bernd-oezsevim-mn0002698824"}],
@@ -2117,6 +2144,132 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/95943-DJ-Patex"}],
             "homepage": [{"type": "personal", "url": "http://www.djpatex.com/"}, {"type": "agency", "url": "http://www.satt.org/musik/10_08_patex.html"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dj-patex"}]
+        }
+    },
+    "Erik KimestadPedersen": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4322243-Erik-Kimestad-Pedersen"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/erik-kimestad-pedersen"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCHV2oXQeR01AB_67XrVFLDQ"}]
+        }
+    },
+    "NicolasPerrin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nicolas-perrin-mn0000914113"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/934966-Nicolas-Perrin"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-89203348"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCo_Lfg85luRxdfEW6PJq8iA"}]
+        }
+    },
+    "OlivierPeters": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/olivierpeters"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/olivier-peters-mn0000966300"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1308901-Olivier-Peters"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Olivier%20Peters%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Olivier_Peters"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCr0IQ6A6MtlMRY_qMwf_PIQ"}]
+        }
+    },
+    "SisselPettersen": {
+        "canonicalName": {
+            "firstname": "Sissel Vera",
+            "surname": "Pettersen"
+        }
+    },
+    "Sissel VeraPettersen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/sisselverapettersen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sissel-vera-pettersen-mn0001051930"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2553267-Sissel-Vera-Pettersen"}],
+            "homepage": [{"type": "personal", "url": "sisselvera.net"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Sissel%20Vera%20Pettersen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sisselvera"}, {"type": "agency", "url": "https://soundcloud.com/sisselverapettersen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sissel_Vera_Pettersen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Sissel_Vera_Pettersen"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/audioapnea"}]
+        }
+    },
+    "IsabelPfeiffer-Poensgen": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.land.nrw/de/isabel-pfeiffer-poensgen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Isabel_Pfeiffer-Poensgen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Isabel_Pfeiffer-Poensgen"}]}]
+        }
+    },
+    "JanPhilipp": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-philipp-mn0003783215"}],
+            "bandcamp": [{"type": "personal", "url": "https://janphilipp.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6504460-Jan-Philipp"}],
+            "homepage": [{"type": "personal", "url": "https://janphilipp.net/bio/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jan%20Philipp%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/philippjan"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Philipp"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-PWzQ2ucPGZGsUJsHswVUQ"}]
+        }
+    },
+    "TheresiaPhilipp": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/theresiaphilipp"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/theresia-philipp-mn0003207339"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4985846-Theresia-Philipp"}],
+            "homepage": [{"type": "personal", "url": "http://theresiaphilipp.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Theresia%20Philipp%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/theresia-phi"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Theresia_Philipp"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCbnSeiXuS_oHbK80o_e5bEA"}]
+        }
+    },
+    "HerbertPirker": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/herbertpirker"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/herbert-pirker-mn0000918596"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1238631-Herbert-Pirker"}],
+            "homepage": [{"type": "personal", "url": "http://www.herbertpirker.com/herbertpirker.com/home_news.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Herbert%20Pirker%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/snarebert"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Herbert_Pirker"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/herbertpirker"}]
+        }
+    },
+    "DolfPlanteijdt": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dolf-planteijdt-mn0000172485"}],
+            "discogs": [{"type":"personal", "url": "https://www.discogs.com/de/artist/638764-Dolf-Planteijdt"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dolf-planteijdt"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/dolfplant"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/dolfkoeienverhuur"}]
+        }
+    },
+    "TeresePletkute": {
+        "canonicalName": {
+            "firstname": "Teresė",
+            "surname": "Pletkutė"
+        }
+    },
+    "TeresėPletkutė": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.instagram.com/terese_pletkute/"}, {"type": "agency", "url": "http://www.musikschule-saarn.de/terese-pletkute.html"}, {"type": "agency", "url": "https://www.musicbox-oxana.de/node/306"}]
+        }
+    },
+    "ChadPopple": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/chadpopple"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/chad-popple-mn0000791624"}],
+            "bandcamp": [{"type": "personal", "url": "https://chadpopple.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/329077-Chad-Popple"}],
+            "homepage": [{"type": "personal", "url": "https://www.chadpopple.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/chadpopple"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCAePTEpEKOVg-FbH3j_xWFw"}]
+        }
+    },
+    "AxelPorath": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/axel-porath-mn0003153906"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/412216-Axel-Porath"}],
+            "homepage": [{"type": "band", "url": "https://www.musikfabrik.eu/de/ensemble/mitglieder/axel-porath"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Axel%20Porath%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Musikfabrik"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/MusikFabrik"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ensemble_Musikfabrik"}]}]
         }
     }
 }
