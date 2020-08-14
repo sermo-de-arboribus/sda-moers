@@ -2271,5 +2271,40 @@
             "twitter": [{"type": "band", "url": "https://twitter.com/Musikfabrik"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/MusikFabrik"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ensemble_Musikfabrik"}]}]
         }
+    },
+    "MariáPortugal": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4977417-Mari%C3%A1-Portugal"}],
+            "homepage": [{"type": "personal", "url": "https://www.mportugal.com.br/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/vixemariah"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/vixemariah"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mari%C3%A1_Portugal"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/vixemariah"}]
+        }
+    },
+    "AdrianProst": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/adrian-prost-mn0003207213"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3076064-Adrian-Prost"}],
+            "homepage": [{"type": "agency", "url": "https://www.nw.de/lokal/kreis_herford/buende/3244495_Mit-Zug-zum-Erfolg.html"}]
+        }
+    },
+    "MaxPunktezahl": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/max-punktezahl-mn0000769083"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/360506-Max-Punktezahl"}]
+        }
+    },
+    "WolfgangPuschnig": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wolfgangpuschnig"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wolfgang-puschnig-mn0000573010"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/44117-Wolfgang-Puschnig"}],
+            "homepage": [{"type": "personal", "url": "http://www.puschnig.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Wolfgang%20Puschnig%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wolfgang-puschnig"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Puschnig"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Puschnig"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCjtGIGYHbWoF6FOweNjh_6A"}]
+        }
     }
 }
