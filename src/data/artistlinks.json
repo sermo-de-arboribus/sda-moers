@@ -304,6 +304,17 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/480407-Will-Brooks"}]
         }
     },
+    "NielsBroos": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-niels-broos"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/niels-broos-mn0002725673"}],
+            "bandcamp": [{"type": "personal", "url": "https://nielsbroos.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1654178-Niels-Broos"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Niels%20Broos%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nielsbroos"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzwNnO0Yd0o4kyJWCsBC48Q"}]
+        }
+    },
     "JuliaBrüssel": {
         "links": {
             "bandcamp": [{"type": "band", "url": "https://umlandrecords.bandcamp.com/album/open"}],
@@ -777,6 +788,13 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316967-Felix-Fritsche"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/felix-fritsche"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCBUxt8DN8Bxza626ZV6sCow"}]
+        }
+    },
+    "OttoGardner": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/otto-gardner-mn0002645618"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5368474-Otto-Gardner"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Otto_Gardner"}]}]
         }
     },
     "ValentinGarvie": {
@@ -2305,6 +2323,50 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wolfgang-puschnig"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Puschnig"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Puschnig"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCjtGIGYHbWoF6FOweNjh_6A"}]
+        }
+    },
+    "IdrisRahman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/idrisrahman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/idris-rahman-mn0002437793"}],
+            "bandcamp": [{"type": "band", "url": "https://tamaridris.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/394246-Idris-Rahman"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Idris%20Rahman%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Idris_Rahman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Idris_Rahman"}]}]
+        }
+    },
+    "LouisRastig": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/louis-rastig-mn0002579243"}],
+            "bandcamp": [{"type": "album", "url": "https://matthiasbauer.bandcamp.com/album/bauer-4-family-affairs"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2089829-Louis-Rastig"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/louis-rastig"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCw7Rcfmdj9vDOD-pKxZwWDA"}]
+        }
+    },
+    "GildaRazani": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gilda-razani-mn0001563668"}],
+            "bandcamp": [{"type": "personal", "url": "https://gildarazanisubvision.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4316966-Gilda-Razani"}],
+            "homepage": [{"type": "personal", "url": "http://www.gildarazani.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-337990693"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/GildaRazani"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCqcapc_I-GwHh6GnzSZ0yQA"}]
+        }
+    },
+    "JoshuaRedman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/joshuaredman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joshua-redman-mn0000280434"}],
+            "bandcamp": [{"type": "band", "url": "https://redmanmehldaumcbrideblade.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/95092-Joshua-Redman"}],
+            "homepage": [{"type": "personal", "url": "http://www.joshuaredman.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Joshua%20Redman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/joshuaredman"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Joshua_Redman"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Joshua_Redman"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Joshua_Redman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Joshua_Redman"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Joshua_Redman"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCYVABQOvAepx3-6mYxW95Gw"}]
         }
     }
 }
