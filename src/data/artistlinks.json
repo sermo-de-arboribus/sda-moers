@@ -126,6 +126,13 @@
             "homepage": [{"type": "personal", "url": "http://www.damirbacikin.com/"}]
         }
     },
+    "JochenBalke": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6018030-Jochen-Balke"}],
+            "homepage": [{"type": "personal", "url": "http://siriusimages.de/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/siriusimages"}]
+        }
+    },
     "FaridBarron": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/faridbarron"}],
@@ -1622,6 +1629,14 @@
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w/"}]
         }
     },
+    "FrederikLeroux-Roels": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frederik-leroux-mn0002945403"}],
+            "bandcamp": [{"type": "band", "url": "https://rubenmachtelinckxfrederikleroux.bandcamp.com/"}, {"type": "band", "url": "https://frederiklerouxkrisvanderstraeten.bandcamp.com/"}, {"type":"album", "url": "https://wool-e-tapes.bandcamp.com/album/wether-kaaistraat-27-herzamelen-c34"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1142881-Frederik-Leroux"}],
+            "youtube": [{"type": "personale", "url": "https://www.youtube.com/user/FrederikLeroux"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC_CXyaYWM0kx7XDeS7FZ2dA"}]
+        }
+    },
     "YannickLestra": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5113210-Yannick-Lestra"}],
@@ -1910,6 +1925,17 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1149845-Andr%C3%A9-O-M%C3%B6ller"}],
             "homepage": [{"type": "agency", "url": "https://ausland-berlin.de/andre-o-moeller"}, {"type": "agency", "url": "https://www.wandelweiser.de/moeller/home.html"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCrvzWaur-1zVylO6ajDwpKQ"}]
+        }
+    },
+    "FrankMöller": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/knarf-rell%C3%B6m-mn0002331755"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/68704-Knarf-Rell%C3%B6m"}],
+            "homepage": [{"type": "personal", "url": "http://www.knarfrelloem.org/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Knarf%20Rell%C3%B6m%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/knarfrellom"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Knarf_Rell%C3%B6m"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCO56kR3m3KGPLzptIozWjLQ"}]
         }
     },
     "StanleyMorgan": {
@@ -2368,5 +2394,96 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Joshua_Redman"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Joshua_Redman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Joshua_Redman"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Joshua_Redman"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCYVABQOvAepx3-6mYxW95Gw"}]
         }
+    },
+    "Karl IvarRefseth": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/karl-ivar-refseth-mn0001044471"}],
+            "bandcamp": [{"type": "band", "url": "https://karlivarrefsethtrio.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/518819-Karl-Ivar-Refseth"}],
+            "homepage": [{"type": "personal", "url": "http://www.karlivarrefseth.no/karlivarrefseth.no/Index.html"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/karl-ivar-refseth-1"}, {"type": "band", "url": "https://soundcloud.com/karlivarrefsethtrio"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/kirefseth"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Karl_Ivar_Refseth"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kirefseth"}]
+        }
+    },
+    "KnarfRellöm": {
+        "canonicalName": {
+            "firstname": "Frank",
+            "surname": "Möller"
+        }
+    },
+    "Jean-FrançoisRiffaud": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jean-fran%C3%A7ois-riffaud-mn0003331184"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4695325-Jean-Fran%C3%A7ois-Riffaud"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jean-Fran%C3%A7ois%20Riffaud%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/jean_riffaud"}]
+        }
+    }, 
+    "JasminRilke": {
+        "links": {
+            "bandcamp": [{"type": "band", "url": "http://aivery.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3649938-Jasmin-Maria-Rilke"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jessmen"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/jessmen"}, {"type": "band", "url": "https://www.youtube.com/channel/UC8GxVqausy6-ITH8nAh_Ibw"}]
+        }
+    },
+    "RaffaëlleRinaudo": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rafa%C3%ABlle-rinaudo-mn0003168734"}],
+            "bandcamp": [{"type": "band", "url": "https://five38.bandcamp.com/"}]
+        }
+    },
+    "JanRoder": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/janroder"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-roder-mn0001947606"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1290961-Jan-Roder"}],
+            "homepage": [{"type": "personal", "url": "http://www.janroder.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jan%20Roder%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Roder"}]}]
+        }
+    },
+    "Frederik LerouxRoels": {
+        "canonicalName": {
+            "firstname": "Frederik",
+            "surname": "Leroux-Roels"
+        }
+    },
+    "Live MariaRoggen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/live-maria-roggen-mn0000265240"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/238345-Live-Maria-Roggen"}],
+            "homepage": [{"type": "personal", "url": "http://www.livemaria.no/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Live%20Maria%20Roggen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/live-maria-roggen"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LiveMaRoggen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Live_Maria_Roggen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Live_Maria_Roggen"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWg6f_7UwKpcoy8FW6b0Y3g"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCO-CsSmuDE3qFhEV_vDkE-A"}]
+        }
+    },
+    "ThomasRohrer": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-thomas-rohrer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thomas-rohrer-mn0001634055"}],
+            "bandcamp": [{"type": "band", "url": "https://carlosissathomasrohrer.bandcamp.com/"}, {"type": "band", "url": "https://rohrersomervell.bandcamp.com/"}, {"type": "album", "url": "https://miadyberg.bandcamp.com/album/paralelepipidos"}, {"type": "album", "url": "https://qtvlabel.bandcamp.com/album/qtv-016-f-rceps"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1563782-Thomas-Rohrer"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/thomasrohrer"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCKWC928v_50Lwryfr9N6dOA"}]
+        }
+    },
+    "KristofRoseeuw": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/kristofroseeuw"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kristof-roseeuw-mn0001398079"}],
+            "bandcamp": [{"type": "personal", "url": "https://bandcamp.com/kristofroseeuw"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/343663-Kristof-Roseeuw"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Kristof%20Roseeuw%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristofroseeuw"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Mrdoublebasss"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kristofroseeuw"}]
+        }
     }
+
 }
