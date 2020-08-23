@@ -1814,6 +1814,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/asparaguschild"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCp5XkBqek3Up6q-XRAsYFpQ"}]
         }
     },
+    "Adam PultzMelbye": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/adampultzmelbye"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/adam-pultz-melbye-mn0001438371"}],
+            "bandcamp": [{"type": "personal", "url": "https://adampultz.bandcamp.com/"}, {"type": "album", "url": "https://ernestorodrigues.bandcamp.com/album/the-distant-sound-within"}, {"type": "album", "url": "https://harrisjostrom.bandcamp.com/album/hyvink-by-move"}, {"type": "personal", "url": "https://tonelist.bandcamp.com/album/berlin-split"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1323691-Adam-Pultz-Melbye"}],
+            "homepage": [{"type": "personal", "url": "http://www.adampultz.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Adam%20Pultz%20Melbye%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/adampultz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Adam_Pultz_Melbye"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCR7oW1BHs8IZ9ikYSAERNkQ"}]
+        }
+    },
     "MartiMelià": {
         "canonicalName": {
             "firstname": "Martí",
@@ -2483,6 +2496,40 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristofroseeuw"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/Mrdoublebasss"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kristofroseeuw"}]
+        }
+    },
+    "CarlRosman": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/carl-rosman-mn0002220228"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/870674-Carl-Rosman"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Carl%20Rosman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/carlrosman"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/CarlRosman"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Carl_Rosman"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCogANG8D7qw7buFFkApJFcw"}]
+        }
+    },
+    "VincentRoyer": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/vincent-royer-mn0000849553"}],
+            "bandcamp": [{"type": "album", "url": "https://subrosalabel.bandcamp.com/album/intimate-rituals-performed-by-vincent-royer"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/409054-Vincent-Royer"}],
+            "homepage": [{"type": "personal", "url": "http://vincent-royer.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Vincent%20Royer%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Vincent_Royer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Vincent_Royer"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC1nV2ajyrpmiXUbpn2sWDsA"}]
+        }
+    },
+    "TakuroSaito": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://takurosaito.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6410530-Takuro-Saito"}]
+        }
+    },
+    "TakurouSaito": {
+        "canonicalName": {
+            "firstname": "Takuro",
+            "surname": "Saito"
         }
     }
 
