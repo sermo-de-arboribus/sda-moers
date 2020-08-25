@@ -610,6 +610,14 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
         }
     },
+    "MatthiasDymke": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matthias-dymke-mn0000662778"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7920752-Matthias-Dymke"}],
+            "homepage": [{"type": "personal", "url": "http://www.matthiasdymke.de/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/KAYQ321"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCmVWZbXJfyYJIC_BJVMLJtg"}]
+        }
+    },
     "MagdalenaDzeco": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://www.magdadzeco.com/"}],
@@ -1634,7 +1642,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frederik-leroux-mn0002945403"}],
             "bandcamp": [{"type": "band", "url": "https://rubenmachtelinckxfrederikleroux.bandcamp.com/"}, {"type": "band", "url": "https://frederiklerouxkrisvanderstraeten.bandcamp.com/"}, {"type":"album", "url": "https://wool-e-tapes.bandcamp.com/album/wether-kaaistraat-27-herzamelen-c34"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1142881-Frederik-Leroux"}],
-            "youtube": [{"type": "personale", "url": "https://www.youtube.com/user/FrederikLeroux"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC_CXyaYWM0kx7XDeS7FZ2dA"}]
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/FrederikLeroux"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC_CXyaYWM0kx7XDeS7FZ2dA"}]
         }
     },
     "YannickLestra": {
@@ -1901,6 +1909,11 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tyler%20Mitchell%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tyler-mitchell-bass"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tyler_Mitchell_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tyler_Mitchell"}]}]
+        }
+    },
+    "MiroslavMitrovi\u0107": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.facebook.com/events/2141030209307960/"}, {"type": "agency", "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/corso/dk-heroes-102.html"}]
         }
     },
     "WolfgangMitterer": {
@@ -2531,6 +2544,91 @@
             "firstname": "Takuro",
             "surname": "Saito"
         }
+    },
+    "TaikoSaito": {
+        "canonicalName": {
+            "firstname": "Taiko",
+            "surname": "Saitō"
+        }
+    },
+    "TaikoSaitō": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-taiko-saito"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/taiko-saito-mn0001991157"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/634343-Taiko-Saito"}],
+            "homepage": [{"type": "personal", "url": "http://taikosaito.net/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Taiko%20Saito%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yoriemusic-1"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/TaikoSaito"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Taiko_Sait%C5%8D"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/yozaemonchi"}]
+        }
+    },
+    "MaxSantner": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6043978-Max-Santner"}],
+            "homepage": [{"type": "personal", "url": "https://www.maxsantner.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Max%20Santner%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/maxsantner"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCPQFqOL70P_zUHe4zP1eaIQ"}]
+        }
+    },
+    "TorunnSævik": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/torunn-sævik-mn0002604160"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1208489-Torunn-S%C3%A6vik"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Torunn%20S%C3%A6vik%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/trondheim-voices"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCxmibO8B3lF_sKFbv8V8yxQ"}]
+        }
+    },
+    "TorunnSÆvik": {
+        "canonicalName": {
+            "firstname": "Torunn",
+            "surname": "Sævik"
+        }
+    },
+    "ChristineSchäfer": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7542025-Christine-Sch%C3%A4fer-4"}]
+        }
+    },
+    "JohannesSchleiermacher": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johannesschleiermacher"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johannes-schleiermacher-mn0001044468"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/791618-Johannes-Schleiermacher"}],
+            "homepage": [{"type": "personal", "url": "wordpress.johannes-schleiermacher.de"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Johannes%20Schleiermacher%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/johannes-schleiermacher"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johannes_Schleiermacher"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/TheEskalator"}]
+        }
+    },
+    "AnjaSchmiel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2401208-Anja-M-Schmiel"}],
+            "homepage": [{"type": "band", "url": "https://e-mex.de/anja-schmiel/"}]
+        }
+    },
+    "DennisSchmitz": {
+        "canonicalName": {
+            "firstname": "Dennis Alexander",
+            "surname": "Schmitz"
+        }
+    },
+    "Dennis AlexanderSchmitz": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.k-k-t.de/stuecke/comfort-zone"}]
+        }
+    },
+    "Georges-EmmanuelSchneider": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/georges-emmanuel-schneider-mn0003658132"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5956431-Georges-Emmanuel-Schneider"}],
+            "homepage": [{"type": "personal", "url": "https://www.ge-schneider.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ge-schneider"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/GESManagement"}]
+        }
     }
-
 }
