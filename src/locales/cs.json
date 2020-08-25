@@ -27,6 +27,7 @@
         "instruments": "Nástroje",
         "intro": "Tabulka {websiteCreator} na základu otevřených dat festivalu od {dataProvider}. Podnět k sestavením téhle tabulky dal {tweet}. Prozatím jenom obsahuje data koncertů z roků 2019 a 2020, ale rozšíření na starší data bude usilováno. Také chci zlepšit úprava dat a uživatelská přístupnost webové stránky. Které opatření už jsou usilována můžete sledovat v {issueTracker} softwarového repozitáře.",
         "links": "Odkazy",
+        "notes": "Poznámky",
         "pagination": {
             "all": "vše",
             "nextLabel": "dál",

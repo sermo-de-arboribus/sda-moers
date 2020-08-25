@@ -11,8 +11,9 @@
         }
     },
     "Tillamanda": {
-        "links": {
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6040732-Tillamanda"}]
+        "canonicalName": {
+            "firstname": "Till",
+            "surname": "Steinebach"
         }
     },
     "MarkusAcher": {
@@ -840,6 +841,14 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sebastiangerhartz"}]
         }
     },
+    "JonasGerigk": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://jonasgerigk.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7150908-Jonas-Gerigk"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-606124835"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCGMojSZYTFYvYf7MRCn4mXQ"}]
+        }
+    },
     "NikitaGerkusov": {
         "links": {
             "homepage": [{"type": "band", "url": "https://www.aunerquartett.at/nikita"}],
@@ -920,6 +929,19 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/emilio-gordoa"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]}],
             "youtube": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]
+        }
+    },
+    "SebastianGramss": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/sebastiangramss"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sebastian-gramss-mn0001007756"}],
+            "bandcamp": [{"type": "album", "url": "https://ditzner.bandcamp.com/album/free-flight"}, {"type": "album", "url": "https://andrewlevine.bandcamp.com/album/european-electro-acoustic-chamber-music"}, {"type": "album", "url": "https://freeelephant.bandcamp.com/album/looks-like-me"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/694162-Sebastian-Gramss"}],
+            "homepage": [{"type": "personal", "url": "http://sebastiangramss.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Sebastian%20Gramss%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sebastian-gramss"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sebastian_Gramss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Sebastian_Gramss"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Sebastian_Gramss"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCOGgo4i7ZwehR7mOPdCdFzw"}]
         }
     },
     "GuilhermeGranado": {
@@ -1448,6 +1470,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC7E4EESGWiGXyHMOtWZ-PbA"}]
         }
     },
+    "MatthiasKleiner": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6059273-Matthias-Kleiner"}],
+            "homepage": [{"type": "band", "url": "https://www.wiebkeschroedertrio.de/trio/"}]
+        }
+    },
     "RaphaelKlemm": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/raphaelklemm"}],
@@ -1912,8 +1940,9 @@
         }
     },
     "MiroslavMitrovi\u0107": {
-        "links": {
-            "homepage": [{"type": "agency", "url": "https://www.facebook.com/events/2141030209307960/"}, {"type": "agency", "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/corso/dk-heroes-102.html"}]
+        "canonicalName": {
+            "firstname": "Miroslav",
+            "surname": "Stanojevi\u0107"
         }
     },
     "WolfgangMitterer": {
@@ -1962,6 +1991,13 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/knarfrellom"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Knarf_Rell%C3%B6m"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCO56kR3m3KGPLzptIozWjLQ"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Knarf Rellöm",
+            "de": "Künstlername: Knarf Rellöm",
+            "en": "Artist's name: Knarf Rellöm",
+            "fr": "Pseudonyme: Knarf Rellöm",
+            "zh": "笔名: Knarf Rellöm"
         }
     },
     "StanleyMorgan": {
@@ -2629,6 +2665,48 @@
             "homepage": [{"type": "personal", "url": "https://www.ge-schneider.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ge-schneider"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/GESManagement"}]
+        }
+    },
+    "HansSchneider": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-hans-schneider"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hans-schneider-mn0001357528"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/317923-Hans-Schneider"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hans_Schneider_(Bassist)"}]}]
+        }
+    },
+    "MichaelSchönhuth": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.uni-trier.de/index.php?id=43516"}, {"type": "agency", "url": "http://www.irtg-diversity.com/index.php?page=people&person=michael_schoenhuth&id=1160"}]
+        }
+    },
+    "LeonardSchrahe": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "http://www.amg-bensberg.de/auszeichnungen/10579/"}, {"type": "agency", "url": "https://www.bonn.de/pressemitteilungen/2019/november/ensembles-der-staedtischen-musikschule-holen-top-platzierungen.php"}]
+        }
+    },
+    "MiroslavStanojevi\u0107": {
+        "links": {
+            "homepage": [{"type": "band", "url": "https://www.facebook.com/DorcolKafanaHeroes/"}, {"type": "agency", "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/corso/dk-heroes-102.html"}]
+        },
+        "notes": {
+            "cs": "Jméno umělce je nesprávně uveden jako Miroslav Mitrović na webové stránce festivalu Moers. Hayden Chisholm mi sdelil e-mailem v sprnu 2020 že správným jménem se ten klávesník jmenuje Miroslav Stanojević.",
+            "de": "Der Name des Künstlers wird auf der Moers-Website fälschlicherweise mit Miroslav Mitrovi\u0107 angegeben. Hayden Chisholm teilte mir auf Nachfrage am 25.08.2020 per E-Mail mit, dass der korrekte Name jedoch Miroslav Stanojevi\u0107 lautet.",
+            "en": "This artist's name is listed incorrectly as Miroslav Mitrovi\u0107 on the Moers festival's website. Hayden Chisholm told me via e-mail on August 25, 2000, that the correct name of this musicians is Miroslav Stanojevi\u0107.",
+            "fr": "Le nom de cet artiste est allégué incorrectement sur le site web du Moers Festival comme Miroslav Mitrovi\u0107. Par e-mail Hayden Chisholm m'a communiqué, que le nom correcte est Miroslav Stanojević.",
+            "zh": "在默尔斯音乐节的网站上，该音乐家的名字被错误地命名为Miroslav Mitrovi\u0107。 Hayden Chisholm于2020年8月25日通过电子邮件通知我，正确的名字是Miroslav Stanojevi\u0107"
+        }
+    },
+    "TillSteinebach": {
+        "links": {
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6040732-Tillamanda"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Tillamanda",
+            "de": "Künstlername: Tillamanda",
+            "en": "Artist's name: Tillamanda",
+            "fr": "Pseudonyme: Tillamanda",
+            "zh": "笔名: Tillamanda"
         }
     }
 }

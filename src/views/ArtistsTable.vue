@@ -33,7 +33,6 @@
 
             <template slot="table-column" slot-scope="props">
                 <span v-if="props.column.label == 'firstname'">
-                    Hejoho
                     {{ $t("artistsTable.firstname") }}
                 </span>
                 <span v-else-if="props.column.label == 'surname'">
@@ -44,6 +43,9 @@
                 </span>
                 <span v-else-if="props.column.label == 'concerts'">
                     {{ $t("artistsTable.concerts") }}
+                </span>
+                <span v-else-if="props.column.label == 'notes'">
+                    {{ $t("artistsTable.notes") }}
                 </span>
             </template>
             
@@ -73,9 +75,13 @@
                     >
                 </vue-good-table>
 
-                <span v-else>
-                    {{props.formattedRow[props.column.field]}}
-                </span>
+                <div v-else-if="props.column.field == 'notes'">
+                    {{ props.row.notes ? props.row.notes[locale] : "" }}
+                </div>
+
+                <div v-else>
+                    <p>{{props.formattedRow[props.column.field]}}</p>
+                </div>
             </template>
 
         </vue-good-table>
@@ -198,6 +204,10 @@ export default {
                         return Object.assign(acc, {[l]: links});
                     }, {});
                 }
+
+                if (artistlinks[akey].notes) {
+                    al[akey].notes = artistlinks[akey].notes;
+                }
             })
 
             return al;
@@ -300,6 +310,11 @@ export default {
                     }
                 },
                 {
+                    label: this.$t("artistsTable.notes"),
+                    field: "notes",
+                    sortable: false
+                },
+                {
                     label: this.$t("artistsTable.links"),
                     field: "links",
                     sortable: false,
@@ -315,7 +330,8 @@ export default {
                         {
                             "firstname": gig.artist.firstname,
                             "surname": gig.artist.surname,
-                            "links": this.getArtistLinks(gig.artist.firstname, gig.artist.surname)
+                            "links": this.getArtistLinks(gig.artist.firstname, gig.artist.surname),
+                            "notes": this.getArtistNotes(gig.artist.firstname, gig.artist.surname)
                         };
                     agg[key].concerts = agg[key].concerts || [];   
                     agg[key].concerts.push({
@@ -350,6 +366,12 @@ export default {
             const artistKey = [firstname, surname].join("");
             const artistData = this.artistLinks[artistKey];
             return artistData ? artistData.links : []
+        },
+
+        getArtistNotes(firstname, surname) {
+            const artistKey = [firstname, surname].join("");
+            const artistData = this.artistLinks[artistKey];
+            return artistData ? artistData.notes : null;
         },
 
         getLogoUrl(serviceKey) {
