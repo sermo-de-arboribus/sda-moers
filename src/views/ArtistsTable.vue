@@ -445,7 +445,7 @@ function cleanUpDescriptions(sourceDescription) {
         .replace(/Besetzung:\s*EOS Kammerorchester K\u00f6ln:/, "Besetzung: " )
         .replace(/\(dance\) und Dolf Planteijdt/, "(dance), Dolf Planteijdt")
         .replace(/&amp; Teile des Landesjugendorchester NRW: /, ", ")
-        .replace(/Produktinformation(en)?: (.+)Herstellungsland.+$/, "Besetzung: $2");
+        .replace(/Produktinformation(en)?: (.+)Herstellungsl[aä]nd(er)?.+$/, "Besetzung: $2");
 
     return eventDescription.match(/Besetzung:\s*(.+)$/);
 

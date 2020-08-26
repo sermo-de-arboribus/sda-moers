@@ -91,6 +91,17 @@
             "wikipedia": [{"type": "band", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Poil_(groupe)"}]}]
         }
     },
+    "ToneÅse": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tone-%C3se-mn0003675116"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1198255-Tone-%C3%85se"}],
+            "homepage": [{"type": "personal", "url": "http://www.toneaase.no/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tone%20%C3%85se%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tone-se"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tone_%C3%85se"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tone_%C3%85se"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCJ6XeCWG15jQhjmyoWHbbPw"}]
+        }
+    },
     "RezaAskari": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reza-askari-mn0003146290"}],
@@ -2423,6 +2434,12 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Idris_Rahman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Idris_Rahman"}]}]
         }
     },
+    "ShyamRastogi": {
+        "links": {
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/neckarganga"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCc9k9BspHucjV1IZx2n4Krw"}]
+        }
+    },
     "LouisRastig": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/louis-rastig-mn0002579243"}],
@@ -2683,6 +2700,77 @@
     "LeonardSchrahe": {
         "links": {
             "homepage": [{"type": "agency", "url": "http://www.amg-bensberg.de/auszeichnungen/10579/"}, {"type": "agency", "url": "https://www.bonn.de/pressemitteilungen/2019/november/ensembles-der-staedtischen-musikschule-holen-top-platzierungen.php"}]
+        }
+    },
+    "RobertSchröck": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/robertschrock"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/robert-schrock-mn0002349144"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4144019-Robert-Schr%C3%B6ck"}],
+            "homepage": [{"type": "personal", "url": "https://www.robert-schroeck.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Robert%20Schr%C3%B6ck%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/robert-schr-ck"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/LaB00mDeluxe/"}]
+        }
+    },
+    "WiebkeSchröder": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6059275-Wiebke-Schr%C3%B6der-2"}],
+            "homepage": [{"type": "personal", "url": "http://wiebkeschroeder.com/"}, {"type": "band", "url": "https://www.wiebkeschroedertrio.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wiebke_schroeder"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCinr-hmBqOfj1zmnT4PVRhw"}]
+        }
+    },
+    "KaiSchumacher": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kai-schumacher-mn0002387800"}],
+            "bandcamp": [{"type": "personal", "url":"https://kaischumacher.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3899132-Kai-Schumacher"}],
+            "homepage": [{"type": "personal", "url": "http://www.kaischumacher.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kai-schumacher"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Kai_Schumacher"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kai_Schumacher"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kaischumacherpiano"}]
+        }
+    },
+    "JudithSchwarz": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/judithschwarz"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7692545-Judith-Schwarz-2"}],
+            "homepage": [{"type": "personal", "url": "https://www.judithschwarz.at/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Judith%20Schwarz%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/chuffdrone"}],
+            "wikipedia": [{"type": "personal", "localeS": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Judith_Schwarz"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCIAO5s4FTRA-aLWXyRgJV_w"}]
+        }
+    },
+    "KnoelScott": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/knoelscott"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/knoel-scott-mn0000102721"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/263455-Noel-Scott"}],
+            "homepage": [{"type": "personal", "url": "http://knoelscott.co.uk/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Knoel%20Scott%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/knoel-scott"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Knoelra9"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Knoel_Scott"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/altogladness"}, {"type": "band", "url": "https://www.youtube.com/channel/UCXAY7qJQk-NRW5FqlIL9KNQ"}]
+        }
+    },
+    "RichardScott": {
+        "links": {
+            "bandcamp":[{"type": "personal", "url": "https://richardscott.bandcamp.com/"}, {"type": "album", "url": "https://cuspeditions.bandcamp.com/album/richard-scott-several-circles"}, {"type": "agency", "url": "https://soundanatomy.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/177195-Richard-Scott"}],
+            "homepage": [{"type": "personal", "url": "http://richard-scott.net/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Richard%20Scott%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/bastardscience"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCyU7tcNimViKY9ne5MFwjXw"}]
+        }
+    },
+    "WimSegers": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wim-segers-mn0002962586"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3204400-Wim-Segers"}],
+            "soundcloud": [{"type": "band", "url":"https://soundcloud.com/compro_oro"}]
         }
     },
     "MiroslavStanojevi\u0107": {
