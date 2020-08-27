@@ -210,6 +210,7 @@
             "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-642787614"}],
             "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sjaella"}]}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
         }
     },
@@ -1650,6 +1651,18 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/clartigau_ondes"}]
         }
     },
+    "LouisLaurain": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/louislaurain"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/louis-laurain-mn0003027591"}],
+            "bandcamp": [{"type": "band", "url": "https://warneckelaurain.bandcamp.com/"}, {"type": "album", "url": "https://remoteresonator.bandcamp.com/album/live-at-saint-merry"}, {"type": "album", "url": "https://rodolpheloubatiere.bandcamp.com/album/au-dehors"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3079518-Louis-Laurain"}],
+            "homepage": [{"type": "personal", "url": "http://louislaurain.blogspot.fr/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Louis%20Laurain%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/louis-laurain-1"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC9l1YiBnAG3eR7r8057iw_A"}]
+        }
+    },
     "PaulineLeblond": {
         "links": {
             "discogs": [{"type": "band", "url": "https://www.discogs.com/de/artist/6970978-Pauline-Leblond-Double-Quartet"}],
@@ -2771,6 +2784,42 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wim-segers-mn0002962586"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3204400-Wim-Segers"}],
             "soundcloud": [{"type": "band", "url":"https://soundcloud.com/compro_oro"}]
+        }
+    },
+    "Marie-CharlotteSeidel": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marie-charlotte-seidel-mn0003286307"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7875181-Marie-Charlotte-Seidel"}],
+            "homepage": [{"type": "band", "url": "http://www.sjaella.de/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-642787614"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sjaella"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
+    },
+    "BertholdSeliger": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/berthold-seliger-mn0002066751"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2050002-Berthold-Seliger"}],
+            "homepage": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Berthold_Seliger_(Autor)"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Berthold%20Seliger%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"tpye": "search", "url": "https://soundcloud.com/search?q=Berthold%20Seliger"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/BertholdSeliger"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Berthold_Seliger_(Autor)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCc7hZ_WDia6iymrXPsoURBQ"}]
+        }
+    },
+    "MohammadSharar": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mohammad-ali-sharar-mn0003968917"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3880490-Mohammad-Sharar"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC8iK_47r9x2umY8WHbMWj2A"}, {"type": "band", "url": "https://www.youtube.com/channel/UC4yFh-28ICCl4B9SlXjGiMQ"}]
+        }
+    },
+    "OliverSiegel": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-siegel-mn0002597351"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/509947-Oliver-Siegel"}]
         }
     },
     "MiroslavStanojevi\u0107": {
