@@ -2866,6 +2866,12 @@
             "surname": "Smith jr."
         }
     },
+    "Wayne AnthonySmith": {
+        "canonicalName": {
+            "firstname": "Wayne Anthony",
+            "surname": "Smith jr."
+        }
+    },
     "Wayne AnthonySmith jr.": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wayne-a-smith-jr-mn0002457476"}],
@@ -2873,6 +2879,24 @@
             "homepage": [{"type": "personal", "url": "http://www.waynesmithjr.com/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Wayne%20Anthony%20Smith%22&category_name=nach-hoeren"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/JeevesIam"}]
+        }
+    },
+    "Günter BabySommer": {
+        "canonicalName": {
+            "firstname": "Günter",
+            "surname": "Sommer"
+        }
+    },
+    "GünterSommer": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/g%C3%BCnter-sommer-mn0000117701"}],
+            "bandcamp": [{"type": "agency", "url": "https://guenterbabysommer.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/h-rmusik"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/312587-G%C3%BCnter-Sommer"}],
+            "homepage": [{"type": "personal", "url": "http://www.babysommer.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22G%C3%BCnter%20Baby%20Sommer%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/babysommer"}, {"type": "band", "url": "https://soundcloud.com/jesperlovdalgunterbabysommer"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/G%C3%BCnter_Sommer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Sommer"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/G%C3%BCnter_Sommer"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/G%C3%BCnter_Sommer"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCLZyCYlggmqlJ_2yrcSYsGg"}]
         }
     },
     "MiroslavStanojevi\u0107": {
@@ -2884,7 +2908,18 @@
             "de": "Der Name des Künstlers wird auf der Moers-Website fälschlicherweise mit Miroslav Mitrovi\u0107 angegeben. Hayden Chisholm teilte mir auf Nachfrage am 25.08.2020 per E-Mail mit, dass der korrekte Name jedoch Miroslav Stanojevi\u0107 lautet.",
             "en": "This artist's name is listed incorrectly as Miroslav Mitrovi\u0107 on the Moers festival's website. Hayden Chisholm told me via e-mail on August 25, 2000, that the correct name of this musicians is Miroslav Stanojevi\u0107.",
             "fr": "Le nom de cet artiste est allégué incorrectement sur le site web du Moers Festival comme Miroslav Mitrovi\u0107. Par e-mail Hayden Chisholm m'a communiqué, que le nom correcte est Miroslav Stanojević.",
-            "zh": "在默尔斯音乐节的网站上，该音乐家的名字被错误地命名为Miroslav Mitrovi\u0107。 Hayden Chisholm于2020年8月25日通过电子邮件通知我，正确的名字是Miroslav Stanojevi\u0107"
+            "zh": "在默尔斯音乐节的官网上，该音乐家的名字误作Miroslav Mitrovi\u0107。 经笔者与Hayden Chisholm核实，当时出席演奏的音乐家为Miroslav Stanojevi\u0107。"
+        }
+    },
+    "Zelko \"Paganini\"Stefanović": {
+        "canonicalName": {
+            "firstname": "Željko",
+            "surname": "Stefanović"
+        }
+    },
+    "ŽeljkoStefanović": {
+        "links": {
+            "homepage": [{"type": "band", "url": "https://www.facebook.com/DorcolKafanaHeroes/"}, {"type": "agency", "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/corso/dk-heroes-102.html"}]
         }
     },
     "TillSteinebach": {
