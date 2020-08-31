@@ -312,6 +312,15 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCaIZEU9Zg-Bz7CHg0WPVkMw"}]
         }
     },
+    "LeonBrichard": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/leonbrichard"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/leon-brichard-mn0003236841"}],
+            "bandcamp": [{"type": "band", "url":"https://wildflowermusic.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3556668-Leon-Brichard"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Leon%20Brichard%22&category_name=nach-hoeren"}]
+        }
+    },
     "CecilBrooks": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cecil-brooks-mn0002457224"}],
@@ -2922,6 +2931,18 @@
             "homepage": [{"type": "band", "url": "https://www.facebook.com/DorcolKafanaHeroes/"}, {"type": "agency", "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/corso/dk-heroes-102.html"}]
         }
     },
+    "OliverSteidle": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/oliversteidle"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-steidle-mn0000062418"}],
+            "bandcamp": [{"type": "band", "url": "https://uncannyvalley7.bandcamp.com/"}, {"type": "band", "url": "https://derrotebereich-intakt.bandcamp.com/"}, {"type": "album", "url": "https://smpmusic.bandcamp.com/album/credo"}, {"type": "album", "url": "https://smpmusic.bandcamp.com/album/selig-fink-steidle-live-auf-aeg"}, {"type": "album", "url": "https://zarekberlin.bandcamp.com/album/salz"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1983908-Oliver-Steidle"}],
+            "homepage": [{"type": "personal", "url": "http://www.oliversteidle.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Oliver%20Steidle%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/smolynmusic"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCnH0ysYT1Le8ynm73T0NI-w"}]
+        }
+    },
     "TillSteinebach": {
         "links": {
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6040732-Tillamanda"}]
@@ -2932,6 +2953,87 @@
             "en": "Artist's name: Tillamanda",
             "fr": "Pseudonyme: Tillamanda",
             "zh": "艺名: Tillamanda"
+        }
+    },
+    "ColinStetson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/colinstetson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/colin-stetson-mn0000636213"}],
+            "bandcamp": [{"type": "personal", "url": "https://colinstetson.bandcamp.com/"}, {"type": "band", "url": "https://stetsonneufeldduo.bandcamp.com/"}, {"type": "album", "url": "https://gustafsson1.bandcamp.com/album/stones"}],
+            "discogs": [{"type": "personal", "Url": "https://www.discogs.com/artist/262225-Colin-Stetson"}],
+            "homepage": [{"type": "personal", "url": "http://colinstetson.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Colin%20Stetson%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/colin-stetson"}],
+            "twitter": [{"type": "personal", "url": "http://twitter.com/colin_stetson"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Colin_Stetson"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Colin_Stetson"}, {"locale": "en", "url": "http://en.wikipedia.org/wiki/Colin_Stetson"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Colin_Stetson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Colin_Stetson"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/farmermandog"}]            
+        }
+    },
+    "JamesStewart": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jamesstewart"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/search/all/James%20Stewart"}, {"type": "personal", "url": "https://www.allmusic.com/artist/james-stuart-mn0003430879"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22James%20Stewart%22&category_name=nach-hoeren"}]
+        }
+    },
+    "LukeStewart": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/lukestewart"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/luke-stewart-mn0003455414"}],
+            "bandcamp": [{"type": "personal", "url": "https://lukestewart.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4636986-Luke-Stewart-2"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Luke%20Stewart%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/luke-stewart-5"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Luke_Stewart"}]}]
+        }
+    },
+    "LorenStillman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/lorenstillman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/loren-stillman-mn0000283428"}, {"type": "band", "url": "https://www.allmusic.com/artist/loren-stillman-quartet-mn0002143492"}],
+            "bandcamp": [{"type": "personal", "url": "https://lorenstillman.bandcamp.com/"}, {"type": "album", "url": "https://kevinmackenzie.bandcamp.com/album/revenge-of-the-hammer-ladies"}, {"type": "album", "url": "https://christophirniger.bandcamp.com/album/open-city"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1611507-Loren-Stillman"}],
+            "homepage": [{"type": "personal", "url": "http://www.lorenstillman.com/live/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Loren%20Stillman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/loren-stillman"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/lorenstillman"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Loren_Stillman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Loren_Stillman"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCt2e-8EVkPJV6FflXggeKWA"}]
+        }
+    },
+    "VaniaStojno": {
+        "canonicalName": {
+            "firstname": "Vania",
+            "surname": "Stojnov"
+        }
+    },
+    "VaniaStojnov": {
+        "links": {
+            "homepage": [{"type": "band", "url": "https://www.facebook.com/DorcolKafanaHeroes/"}, {"type": "agency", "url": "https://www1.wdr.de/radio/cosmo/programm/sendungen/corso/dk-heroes-102.html"}]
+        }
+    },
+    "KarolinaStrassmayer": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/karolinastrassmayer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/karolina-strassmayer-mn0000120156"}],
+            "bandcamp": [{"type": "album", "url": "https://klaro.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/832666-Karolina-Strassmayer" }],
+            "homepage": [{"type": "personal", "url": "http://karolinastrassmayer.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Karolina%20Strassmayer%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Karolina_Strassmayer"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/duenorth232"}]
+        }
+    },
+    "KarolinaStrassmeyer": {
+        "canonicalName": {
+            "firstname": "Karolina",
+            "surname": "Strassmayer"
+        }
+    },
+    "JamesStuart": {
+        "canonicalName": {
+            "firstname": "James",
+            "surname": "Stewart"
         }
     }
 }
