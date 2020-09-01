@@ -1919,6 +1919,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCfXsQKzdSnVxAhxGq6LjZ9g"}]
         }
     },
+    "HuguesMayot": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/huguesmayot"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hugues-mayot-mn0003859207"}],
+            "bandcamp": [{"type": "album", "url": "https://sylvainehelary77.bandcamp.com/album/episodes"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1070542-Hugues-Mayot"}],
+            "homepage": [{"type": "personal", "url": "http://huguesmayot.wix.com/hugues"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Hugues%20Mayot%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/hugues-mayot"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCrtH7Oa8KvoOX1kGA2qFt0w"}]
+        }
+    },
     "Till “Eberhardt”Menzer": {
         "canonicalName": {
             "firstname": "Till",
@@ -2464,6 +2476,15 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/394246-Idris-Rahman"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Idris%20Rahman%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Idris_Rahman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Idris_Rahman"}]}]
+        }
+    },
+    "EmreRamazanoglu": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/emre-ramazanoglu-mn0002008836"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/448647-Emre-Ramazanoglu"}],
+            "homepage": [{"type": "personal", "url": "http://www.emremusic.com/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Emre_Ram"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCbuHEcBYP2xnv7gvvY6v-BQ/"}]
         }
     },
     "ShyamRastogi": {
@@ -3034,6 +3055,67 @@
         "canonicalName": {
             "firstname": "James",
             "surname": "Stewart"
+        }
+    },
+    "MariaSuwelack": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maria-suwelack-mn0003530126"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7238310-Maria-Suwelack"}]
+        }
+    },
+    "MariaSuwelak": {
+        "canonicalName": {
+            "firstname": "Maria",
+            "surname": "Suwelack"
+        }
+    },
+    "TobiasSykora": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7883454-Tobias-Sykora"}],
+            "homepage": [{"type": "personal", "url": "https://tobias-sykora.de/"}, {"type": "band", "url": "http://www.weltenentdecker.com/spatzenschwatzen"}]
+        }
+    },
+    "AndreaTaeggi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andrea-taeggi-mn0002749926"}],
+            "bandcamp": [{"type": "personal", "url": "https://andreataeggi.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2487859-Andrea-Taeggi"}],
+            "homepage": [{"type": "personal", "url": "https://andreataeggi.wordpress.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Andrea%20Taeggi%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/gondwana_andreataeggi"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/andreataeg"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCq6aQ9LhtFJsJTTWCKsGnrQ"}]
+        }
+    },
+    "PieterTheuns": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pieter-theuns-mn0003878639"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4443431-Pieter-Theuns-2"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pietertheuns"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/PieterTheuns"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC6MTKcGUShUBHef5etIrDYQ"}]
+        }
+    },
+    "ArminThommesen": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1371948-Armin-Thommesen"}]
+        }
+    },
+    "ArminThommessen": {
+        "canonicalName": {
+            "firstname": "Armin",
+            "surname": "Thommesen"
+        }
+    },
+    "Danny RayThompson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/dannyraythompson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/danny-ray-thompson-mn0000955414"}],
+            "bandcamp": [{"type": "album", "url": "https://jimslowerlounge.bandcamp.com/album/danny-ray-thompson"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/252039-Danny-Ray-Thompson"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Danny%20Ray%20Thompson%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/PicotheMusician"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Danny_Ray_Thompson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Danny_Ray_Thompson"}]}]
         }
     }
 }
