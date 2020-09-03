@@ -856,6 +856,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/LaiaGenc"}]
         }
     },
+    "MarcosGerez": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3251717-Marcos-Gerez"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/marcos-gerez"}]
+        }
+    },
     "SebastianGerhartz": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4751408-Sebastian-Gerhartz"}],
@@ -2012,16 +2018,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCGI0TjEoTvsYHtT0fvH1cPg"}]
         }
     },
-    "CaseyMoir": {
+    "FrankMöbus": {
         "links": {
-            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/caseymoir"}],
-            "allmusic": [{"type": "band", "url": "https://www.allmusic.com/artist/casey-moir-band-mn0003413702"}],
-            "bandcamp": [{"type": "album", "url": "https://hearhererecords.bandcamp.com/album/rabbit-hole"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6106988-Casey-Moir"}],
-            "homepage": [{"type": "personal", "url": "http://casey.moir.se/"}],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Casey%20Moir%22&category_name=nach-hoeren"}],
-            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/caseymoir"}],
-            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCblWnz3Ytn9eJBL-PuV-ekQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCukkNN_3JFSsS_1t0xUtl0A"}]
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frank-m%C3%B6bus-mn0000559889"}],
+            "bandcamp": [{"type": "band", "url": "https://derrotebereich-intakt.bandcamp.com/"}, {"type": "album", "url": "https://arjunamusic-records.bandcamp.com/album/from-the-inside-of-a-cloud"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/257431-Frank-M%C3%B6bus"}],
+            "homepage": [{"type": "personal", "url": "http://www.frankmoebus.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Frank%20M%C3%B6bus%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Frank_M%C3%B6bus_(Gitarrist)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCo1EEV-JOCbmEQ-LeasmSBw"}]
         }
     },
     "Andre O.Möller": {
@@ -2053,6 +2058,18 @@
             "en": "Artist's name: Knarf Rellöm",
             "fr": "Pseudonyme: Knarf Rellöm",
             "zh": "艺名: Knarf Rellöm"
+        }
+    },
+    "CaseyMoir": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/caseymoir"}],
+            "allmusic": [{"type": "band", "url": "https://www.allmusic.com/artist/casey-moir-band-mn0003413702"}],
+            "bandcamp": [{"type": "album", "url": "https://hearhererecords.bandcamp.com/album/rabbit-hole"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6106988-Casey-Moir"}],
+            "homepage": [{"type": "personal", "url": "http://casey.moir.se/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Casey%20Moir%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/caseymoir"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCblWnz3Ytn9eJBL-PuV-ekQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCukkNN_3JFSsS_1t0xUtl0A"}]
         }
     },
     "StanleyMorgan": {
@@ -3116,6 +3133,67 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Danny%20Ray%20Thompson%22&category_name=nach-hoeren"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/PicotheMusician"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Danny_Ray_Thompson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Danny_Ray_Thompson"}]}]
+        }
+    },
+    "HeinTint": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://wolftest2.weebly.com/home.html"}]
+        }
+    },
+    "ThorstenTöpp": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thorsten-t%C3%B6pp-mn0003534456"}],
+            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/thorsten-töpp-913aa7133/"}]
+        }
+    },
+    "ChrisTordini": {
+        "canonicalName": {
+            "firstname": "Christopher",
+            "surname": "Tordini"
+        }
+    },
+    "ChristopherTordini": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/christordini"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/christopher-tordini-mn0002608290"}],
+            "bandcamp": [{"type": "personal", "url": "https://christordini.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1992159-Christopher-Tordini"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Chris%20Tordini%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/ChrisTordini"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Christopher_Tordini"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Chris_Tordini"}]}]
+        }
+    },
+    "MariaTrautmann": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4408371-Maria-Trautmann"}],
+            "homepage": [{"type": "personal", "url": "http://www.maria-trautmann.de/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Maria_Trautmann_%28Musikerin%29"}]}]
+        }
+    },
+    "MichaelTroy": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-michael-troy"}],
+            "discogs": [{"type": "band", "url": "https://www.discogs.com/artist/7560862-Scatter-The-Atoms-That-Remain"}]
+        }
+    },
+    "MikeTroy": {
+        "canonicalName": {
+            "firstname": "Michael",
+            "surname": "Troy"
+        }
+    },
+    "JanningTrumann": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-janning-trumann"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/janning-trumann-mn0003788153"}, {"type": "personal", "url": "https://www.allmusic.com/artist/janning-truman-mn0002844433"}],
+            "bandcamp": [{"type": "personal", "url": "https://janningtrumann.bandcamp.com/"}, {"type": "band", "url": "https://janningtrumann6.bandcamp.com/"}, {"type": "album", "url": "https://trillmann.bandcamp.com/album/f-n"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4182583-Janning-Trumann"}],
+            "homepage": [{"type": "personal", "url": "http://www.janningtrumann.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Janning%20Trumann%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-62304406"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/JanningT"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Janning_Trumann"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCRUVlsxRW5foxJPxMoV6TLg"}]
         }
     }
 }
