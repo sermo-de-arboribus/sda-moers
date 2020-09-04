@@ -246,6 +246,12 @@
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/eos-kammerorchester-k-ln"}]
         }
     },
+    "JoséBode": {
+        "canonicalName": {
+            "firstname": "Josephine",
+            "surname": "Bode"
+        }
+    },
     "JosephineBode": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6227449-Kom-Josephine-Bode"}],
@@ -319,6 +325,12 @@
             "bandcamp": [{"type": "band", "url":"https://wildflowermusic.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3556668-Leon-Brichard"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Leon%20Brichard%22&category_name=nach-hoeren"}]
+        }
+    },
+    "LeonBritchard": {
+        "canonicalName": {
+            "firstname": "Leon",
+            "surname": "Britchard"
         }
     },
     "CecilBrooks": {
@@ -722,6 +734,20 @@
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/felicitas-erben"}],
             "twitter": [{"type": "band", "url": "https://twitter.com/Sjaella"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/user/SjaellaAcappella6"}]
+        }
+    },
+    "KorhanErel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/korhanerel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/korhan-erel-mn0002790648"}],
+            "bandcamp": [{"type": "personal", "url": "https://korhanerel.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/642922-Korhan-Erel"}],
+            "homepage": [{"type": "personal", "url": "https://korhanerel.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Korhan%20Erel%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/korhanerel"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/korhanerel"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Korhan_Erel"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/korhanerel"}]
         }
     },
     "BryanEubanks": {
@@ -1311,6 +1337,12 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Jelinek"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jan_Jelinek"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jan_Jelinek"}]}]
         }
     },
+    "JakobJentgens": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7081493-Jakob-Jentgens"}],
+            "homepage": [{"type": "personal", "url": "https://jakobjentgens.de/"}]
+        }
+    },
     "Sven-ÅkeJohansson": {
         "links": {
             "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-sven-ake-johansson"}],
@@ -1623,6 +1655,13 @@
             "homepage": [{"type": "personal", "url": "http://sacredrealism.org/catlamb/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Catherine%20Lamb%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/catherine-lamb"}]
+        }
+    },
+    "JanLammert": {
+        "discogs": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4846934-Jan-Lammert"}],
+            "homepage": [{"type": "personal", "url": "https://www.janlammert.com/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Qlyxx"}]
         }
     },
     "RobertLandferman": {
@@ -3074,6 +3113,14 @@
             "surname": "Stewart"
         }
     },
+    "TobySummerfield": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/toby-summerfield-mn0001315065"}],
+            "bandcamp": [{"type": "personal", "url": "https://tobysummerfield.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1441493-Toby-Summerfield"}],
+            "homepage": [{"type": "personal", "url": "tobysummerfield.com"}]
+        }
+    },
     "MariaSuwelack": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maria-suwelack-mn0003530126"}],
@@ -3194,6 +3241,95 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/JanningT"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Janning_Trumann"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCRUVlsxRW5foxJPxMoV6TLg"}]
+        }
+    },
+    "AtsushiTsuyama": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/atsushi-tsuyama-mn0001897669"}],
+            "bandcamp": [{"type": "album", "url": "https://daub-label.bandcamp.com/album/live-at-bears"}]
+        }
+    },
+    "MarkusTürk": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/markus-t%C3%BCrk-mn0000252007"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/532013-Markus-T%C3%BCrk"}],
+            "homepage": [{"type": "personal", "url": "http://www.markustuerk.de/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Markus_T%C3%BCrk"}]}]
+        }
+    },
+    "BirgitUhler": {
+        "canonicalName": {
+            "firstname": "Birgit",
+            "surname": "Ulher"
+        }
+    },
+    "BirgitUlher": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/birgitulher"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/birgit-ulher-mn0000097757"}],
+            "bandcamp": [{"type": "album", "url": "https://auditionrecords.bandcamp.com/album/proportions"}, {"type": "album", "url": "https://e-numbers.bandcamp.com/album/hochdruckzone-e134"}, {"type": "album", "url": "https://anothertimbre.bandcamp.com/album/choices"}, {"type": "album", "url": "https://leonelkaplan.bandcamp.com/album/stereo-trumpet"}, {"type": "search", "url": "https://bandcamp.com/search?q=Birgit%20Ulher"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/377227-Birgit-Ulher"}],
+            "homepage": [{"type": "personal", "url": "http://www.birgit-ulher.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Birgit%20Ulher%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "search", "url": "https://soundcloud.com/birgit-ulher"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Birgit_Ulher"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCngNvmFArTotzzjBAgk_3Vw"}]
+        }
+    },
+    "PeterVandenberghe": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/petervandenberghe"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-vandenberghe-mn0001396221"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/310282-Peter-Vandenberghe"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Peter%20Vandenberghe%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/too-noisy-fish"}, {"type": "band", "url": "https://soundcloud.com/zeinduo"}]
+        }
+    },
+    "BrunoVansina": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/brunovansina"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bruno-vansina-mn0002326900"}],
+            "discogs": [{"type": "discogs", "url": "https://www.discogs.com/artist/343499-Bruno-Vansina"}],
+            "homepage": [{"type": "personal", "url": "http://www.brunovansina.be/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bruno%20Vansina%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/brunovansina"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCVRhbYeGOFRCFaSIyYIMdPg"}]
+        }
+    },
+    "JonVarley": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jon-varley-mn0003942102"}],
+            "bandcamp": [{"type": "personal", "url": "https://jonvarley.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4556912-Jon-Varley"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Crack_Cloud"}]}]
+        }
+    },
+    "NoahVarley": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/noah-varley-mn0003968906"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4807957-Noah-Varley"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Crack_Cloud"}]}]
+        }
+    },
+    "PeterVeale": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-veale-mn0000205186"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/846748-Peter-Veale"}],
+            "homepage": [{"type": "band", "url": "https://www.musikfabrik.eu/en/ensemble/members/peter-veale"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Peter%20Veale%22&category_name=nach-hoeren"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChFpsE8iIXTzb84E3cRDZZw/"}]
+        }
+    },
+    "TomVerbeke": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tom-verbeke-mn0003880341"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7576147-Tom-Verbeke"}]
+        }
+    },
+    "MartinVerborg": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2546087-Martin-Verborg"}],
+            "homepage": [{"type": "band", "url": "http://www.sephardics.de/band/"}]
         }
     }
 }
