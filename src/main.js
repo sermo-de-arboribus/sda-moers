@@ -20,7 +20,10 @@ new Vue({
   router,
   store,
   i18n,
-  mounted() {
+  created() {
+    // initialize gig data in vuex store
+    this.$store.dispatch("gigdata/fetchEventsFromApi", function() {});
+
     // inject i18n into store
     store.commit("i18n/setI18nComponent", i18n);
     // detect preferred user languages, then set i18n accordingly

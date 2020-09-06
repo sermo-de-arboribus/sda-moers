@@ -93,11 +93,9 @@
 </style>
 
 <script>
-import { mapActions, mapState } from "vuex";
+import { mapActions, mapGetters, mapMutations, mapState } from "vuex";
 import { VueGoodTable } from "vue-good-table";
 import { VueLoading } from "vue-loading-template";
-
-const artistlinks = require("../data/artistlinks.json");
 
 export default {
     name: "ArtistsTable",
@@ -112,7 +110,6 @@ export default {
                 enabled: true,
                 initialSortBy: {field: "starttime", type: "asc"}
             },
-            loading: false,
             sortOptions: {
                 enabled: true,
                 initialSortBy: {field: "surname", type: "asc"}
@@ -120,98 +117,6 @@ export default {
         }
     },
     computed: {
-        artistGigs: function () {
-            if(this.allMoersFestivalEvents) {
-                return this.allMoersFestivalEvents.reduce((aggregator, event) => {
-                    const parsedEventDescription = cleanUpDescriptions(event.description);
-                    let eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
-                    eventLineUp = eventLineUp.replace(/\r\n/, " ")
-                    const artists = eventLineUp
-                                    .split(/\)\s*,\s*/)
-                                    .filter(a => a)
-                                    .map(a => a + ")")
-                                    .map(a => {
-                                        const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
-                                        const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
-                                        const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
-                                        const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
-                                        return makeArtistNameCanonical({ instruments, surname, firstname });
-                                    });
-                    const eventId = event.id;
-                    const eventName = event.name;
-                    const eventStartDate = event.start_date;
-                    const eventEndDate = event.end_date;
-                    const year = eventStartDate.substr(0,4);
-                    artists.forEach(a => {
-                        aggregator.push({ artist: a, eventId, eventName, eventStartDate, eventEndDate, year})
-                    });
-                    return aggregator;
-                }, [])
-            } else {
-                return [];
-            }            
-        },
-
-        artistLinks: function() {
-            
-            const al = {}
-
-            Object.keys(artistlinks).forEach(akey => {
-
-                al[akey] = {};
-                
-                if (artistlinks[akey].canonicalName) {
-                    al[akey].canonicalName = artistlinks[akey].canonicalName
-                }
-
-                if (artistlinks[akey].links) {
-                    al[akey].links = Object.keys(artistlinks[akey].links).reduce((acc, l) => {
-
-                        let links = [];
-                        for (const link of artistlinks[akey].links[l]) {
-
-                            let faIconClass;
-                            switch(l) {
-                                case "homepage": 
-                                    faIconClass = "fas fa-home";
-                                    break;
-                                case "wikipedia": 
-                                    faIconClass = "fab fa-wikipedia-w"
-                                    break;
-                                default:
-                                    break;
-                            }
-
-                            if (link.locales && link.locales.find(l => l.locale == this.locale)) {
-
-                                links.push({
-                                    faIconClass,
-                                    htmlTitle: `${this.getServiceName(l)}: ${this.getServiceType(link.type)}`,
-                                    logoUrl: this.getLogoUrl(l),
-                                    type: link.type, 
-                                    url: link.locales.find(l => l.locale == this.locale).url
-                                });
-                            } else if (link.url) {
-                                link.faIconClass = faIconClass;
-                                link.htmlTitle= `${this.getServiceName(l)}: ${this.getServiceType(link.type)}`;
-                                link.logoUrl = this.getLogoUrl(l)
-                                links.push(link);
-                            } else {
-                                return acc;
-                            }
-                        }
-
-                        return Object.assign(acc, {[l]: links});
-                    }, {});
-                }
-
-                if (artistlinks[akey].notes) {
-                    al[akey].notes = artistlinks[akey].notes;
-                }
-            })
-
-            return al;
-        },
 
         currentPage: function() {
             return this.page ? parseInt(this.page) : 1;
@@ -323,41 +228,11 @@ export default {
             ]
         },
         tableData: function() {
-            const gigsGroupedByArtist = this.artistGigs
-                .reduce((agg, gig) => {
-                    const key = `${gig.artist.firstname}${gig.artist.surname}`;
-                    agg[key] = agg[key] || 
-                        {
-                            "firstname": gig.artist.firstname,
-                            "surname": gig.artist.surname,
-                            "links": this.getArtistLinks(gig.artist.firstname, gig.artist.surname),
-                            "notes": this.getArtistNotes(gig.artist.firstname, gig.artist.surname)
-                        };
-                    agg[key].concerts = agg[key].concerts || [];   
-                    agg[key].concerts.push({
-                        "year": gig.year,
-                        "instruments": gig.artist.instruments,
-                        "concert": gig.eventName,
-                        "starttime": gig.eventStartDate,
-                        "id": gig.eventId
-                    })
-                    agg[key].instruments = agg[key].instruments || new Set();
-                    gig.artist.instruments
-                        .split(",")
-                        .map(i => i.trim())
-                        .forEach(i => agg[key].instruments.add(i));
-
-                    return agg;
-                }, {});            
-
-            return Object.keys(gigsGroupedByArtist)
-                .map(key => {
-                    return gigsGroupedByArtist[key]
-                });
-
+            return this.artists;
         },
 
-        ...mapState("gigdata", ["allMoersFestivalEvents"]),
+        ...mapGetters("gigdata", ["artists", "artistGigs", "artistLinks"]),
+        ...mapState("gigdata", ["allMoersFestivalEvents", "currentTablePage", "loading"]),
         ...mapState("i18n", ["i18nComponent", "locale"])
     },
     methods: {
@@ -374,90 +249,28 @@ export default {
             return artistData ? artistData.notes : null;
         },
 
-        getLogoUrl(serviceKey) {
-            switch(serviceKey) {
-                case "allaboutjazz": return "/aaj-logo.jpg";
-                case "allmusic": return "/allmusic-logo.png";
-                case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
-                case "discogs": return "/discogs-logo.png";
-                case "jazzsession": return "/tjs-squarelogo.jpg";
-                case "radiohoerer": return "/radio-icon.png";
-                case "soundcloud": return "https://w.soundcloud.com/icon/assets/images/orange_white_32-94fc761.png";
-                case "twitter": return "/Twitter_Logo_Blue.png";                
-                case "youtube": return "/youtube_social_squircle_red.png";
-                default: return "";
-            }
-        },
-
-        getServiceName(serviceKey) {
-            switch(serviceKey) {
-                case "allaboutjazz": return "All About Jazz";
-                case "allmusic": return "Allmusic";
-                case "bandcamp": return "Bandcamp";
-                case "discogs": return "Discogs";
-                case "homepage": return "Homepage";
-                case "jazzsession": return "The Jazz Session";
-                case "radiohoerer": return "Radiohörer @ Friends of Alan";
-                case "soundcloud": return "Soundcloud";
-                case "twitter": return "Twitter";
-                case "wikipedia": return "Wikipedia";
-                case "youtube": return "Youtube";
-                default: return "";
-            }
-        },
-
-        getServiceType(typeKey) {
-            switch(typeKey) {
-                case "agency": return this.$t("artistsTable.serviceTypes.agency");
-                case "album": return this.$t("artistsTable.serviceTypes.album");
-                case "band": return this.$t("artistsTable.serviceTypes.band");
-                case "personal": return this.$t("artistsTable.serviceTypes.personal");
-                case "search": return this.$t("artistsTable.serviceTypes.search");
-                default: return "";
-            }
-        },
-
         onPageChange(params) {
             this.$router.push(`/${params.currentPerPage}/${params.currentPage}`)
         },
 
-        ...mapActions("gigdata", ["fetchEventsFromApi"])
+        ...mapActions("gigdata", ["fetchEventsFromApi"]),
+        ...mapMutations("gigdata", ["setCurrentTablePage", "setVueGoodTableInstance", "updateVueTablePage"])
     },
-    created: function() {
-        let that = this;
-        this.loading = true;
-        this.fetchEventsFromApi(() => {
-            that.loading = false;
-            that.$refs.vgt.changePage(parseInt(that.currentPage));
-        });
+
+    mounted: function() {
+        console.log("Artiststable mounted");
+        this.setVueGoodTableInstance(this.$refs.vgt);
+        this.setCurrentTablePage(this.page);
+        console.log("stored current table page in vuex store: " + this.page);
+    },
+
+    watch: {
+        page: function(newPageValue) {
+            console.log("watch page");
+            this.setCurrentTablePage(newPageValue);
+            this.updateVueTablePage();
+        }
     }
-}
-
-function cleanUpDescriptions(sourceDescription) {
-    if(!sourceDescription) {
-        return "";
-    }
-
-    const eventDescription = sourceDescription
-        .replace(/[\s\u2028]+/g, " ")
-        .replace(/Besetzung:\s+Besetzung:/, "Besetzung: ")
-        .replace(/Blumenthal \(leader\)\s*Niels Klein Trio:/, "Blumenthal (leader), ")
-        .replace(/Besetzung:\s*EOS Kammerorchester K\u00f6ln:/, "Besetzung: " )
-        .replace(/\(dance\) und Dolf Planteijdt/, "(dance), Dolf Planteijdt")
-        .replace(/&amp; Teile des Landesjugendorchester NRW: /, ", ")
-        .replace(/Produktinformation(en)?: (.+)Herstellungsl[aä]nd(er)?.+$/, "Besetzung: $2");
-
-    return eventDescription.match(/Besetzung:\s*(.+)$/);
-
-}
-
-function makeArtistNameCanonical({instruments, firstname, surname}) {
-    const artistLink = artistlinks[[firstname, surname].join("")];
-    if(artistLink && artistLink.canonicalName) {
-        firstname = artistLink.canonicalName.firstname;
-        surname = artistLink.canonicalName.surname;
-    }
-    return {instruments, firstname, surname}
 }
 
 </script>

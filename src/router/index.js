@@ -1,21 +1,26 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import ArtistsTable from '../views/ArtistsTable.vue'
+import Vue from "vue"
+import VueRouter from "vue-router"
+import ArtistsTable from "../views/ArtistsTable.vue"
 
 Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/about',
-    name: 'About',
+    path: "/about",
+    name: "About",
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import(/* webpackChunkName: "about" */ "../views/About.vue")
   },
   {
-    path: '/:perPage?/:page?',
-    name: 'Home',
+    path: "/export",
+    name: "Export",
+    component: () => import(/* webpackChunkName: "export" */ "../views/Export.vue")
+  },
+  {
+    path: "/:perPage?/:page?",
+    name: "Home",
     props: true,
     component: ArtistsTable
   }

@@ -47,7 +47,11 @@
     "surname": "Surname",
     "year": "Year"
   },
+  "exportPage": {
+    "header": "Data export"
+  },
   "general": {
+    "export": "Export data",
     "festivalName": "Moers Festival",
     "imprint": "Imprint",
     "issueTracker": "issue tracker",

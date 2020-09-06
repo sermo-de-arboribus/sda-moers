@@ -47,7 +47,11 @@
         "surname": "Příjmení",
         "year": "Rok"
     },
+    "exportPage": {
+        "header": "Export dat"
+    },
     "general": {
+        "export": "Export dat",
         "festivalName": "Moers Festival",
         "imprint": "Tiráž",
         "issueTracker": "Issue-Tracker",

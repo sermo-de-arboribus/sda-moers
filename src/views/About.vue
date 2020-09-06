@@ -13,7 +13,7 @@
       </p>
       <figure>
         <img src="../assets/Moers-Superzuschauer.jpg" style="width:50%"/>
-        <figcaption>Photo by <a href="http://blog.sina.com.cn/dreamtalking">懒村姑</a></figcaption>
+        <figcaption>Photo by 懒村姑 (<a href="http://blog.sina.com.cn/dreamtalking">Sina</a>)</figcaption>
       </figure>
     </section>
     <section>

@@ -20,14 +20,14 @@
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/137761-Markus-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Markus+Acher%22"}]
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/?s=%22Markus+Acher%22&category_name=nach-hoeren"}]
         }
     },
     "MichaAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Micha+Acher%22"}]
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Micha%20Acher%22&category_name=nach-hoeren"}]
         }
     },
     "MarshallAllen": {
@@ -330,7 +330,7 @@
     "LeonBritchard": {
         "canonicalName": {
             "firstname": "Leon",
-            "surname": "Britchard"
+            "surname": "Brichard"
         }
     },
     "CecilBrooks": {
@@ -407,6 +407,12 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7384229-Pauline-Buss"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-198580270"}]
+        }
+    },
+    "KerimButz": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7496536-Kerim-Butz"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/KerimButz"}]
         }
     },
     "MarceloCabral": {
@@ -1291,6 +1297,18 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tim_Isfort"}]}]
         }
     },
+    "ShahzadIsmaily": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/shahzadismaily"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/shahzad-ismaily-mn0000096312"}],
+            "bandcamp": [{"type": "band", "url": "https://leoabrahamsshahzadismaily.bandcamp.com/"}, {"type": "band", "url": "https://shahzadismailynielsvanheertum.bandcamp.com/"}, {"type": "album", "url": "https://merzandise.com/album/dreams-of-sleep-and-wakes-of-sound-2"}, {"type": "album", "url": "https://blydeblyant.bandcamp.com/album/hindsight-bias"}, {"type": "album", "url": "https://blydeblyant.bandcamp.com/album/abc"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/449290-Shahzad-Ismaily"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Shahzad%20Ismaily%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "agency", "url": "https://twitter.com/figureight8"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Shahzad_Ismaily"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Shahzad_Ismaily"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC3RUIzsdu2oQOJwX4eYkicw"}]
+        }
+    },
     "EliseJacoberger": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/elise-jacoberger-mn0003080757"}],
@@ -1566,6 +1584,20 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCOoKt0qqCaY7Mcyjt1nofEQ"}]
         }
     },
+    "ItzokKoren": {
+        "canonicalName": {
+            "firstname": "Iztok",
+            "surname": "Koren"
+        }
+    },
+    "IztokKoren": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/iztok-koren-mn0003712458"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1800212-Iztok-Koren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/siromband"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/iztokstein"}]
+        }
+    },
     "LizKosack": {
         "links": {
             "bandcamp": [{"type": "album", "url": "https://driedorangerecords.bandcamp.com/album/full-moon-day-kosack-schnug-moss-miller"}, {"type": "album", "url": "https://troubleintheeastrecords.bandcamp.com/album/poles-and-pulse"}],
@@ -1658,7 +1690,7 @@
         }
     },
     "JanLammert": {
-        "discogs": {
+        "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4846934-Jan-Lammert"}],
             "homepage": [{"type": "personal", "url": "https://www.janlammert.com/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Qlyxx"}]
@@ -2897,7 +2929,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/berthold-seliger-mn0002066751"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2050002-Berthold-Seliger"}],
-            "homepage": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Berthold_Seliger_(Autor)"}],
+            "homepage": [{"type": "personal", "url": "https://www.bseliger.de/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Berthold%20Seliger%22&category_name=nach-hoeren"}],
             "soundcloud": [{"tpye": "search", "url": "https://soundcloud.com/search?q=Berthold%20Seliger"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/BertholdSeliger"}],
@@ -3330,6 +3362,59 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2546087-Martin-Verborg"}],
             "homepage": [{"type": "band", "url": "http://www.sephardics.de/band/"}]
+        }
+    },
+    "TeunVerbruggen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/teunverbruggen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/teun-verbruggen-mn0001332767"}],
+            "bandcamp": [{"type": "agency", "url": "https://teunverbruggen.bandcamp.com/"}, {"type": "album", "url": "https://stilll-off.bandcamp.com/album/black-swan"}, {"type": "album", "url": "https://mnoad.bandcamp.com/album/andrew-claes-drones-geometrix"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/343502-Teun-Verbruggen"}],
+            "homepage": [{"type": "personal", "url": "http://teunverbruggen.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Teun%20Verbruggen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/teunverbruggen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Teun_Verbruggen"}]}]
+        }
+    },
+    "PeterVermeersch": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/petervermeersch"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-vermeersch-mn0000843998"}],
+            "bandcamp": [{"type": "album", "url": "https://stilll-off.bandcamp.com/album/weg"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/220919-Peter-Vermeersch"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pvh-4"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Peter_Vermeersch"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Peter_Vermeersch"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_Vermeersch_(musicus)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChAKWeh7yNrRuECSv5U5wsg"}]
+        }
+    },
+    "JonasVerwijnen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonas-verwijnen-mn0002363899"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/401157-Jonas-Verwijnen"}],
+            "homepage": [{"type": "personal", "url": "https://de.linkedin.com/in/jonas-verwijnen-71a29611"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jonas-kaiku"}]
+        }
+    },
+    "HenningVetter": {
+        "links": {
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/roterfunke"}]
+        }
+    },
+    "HansVisser": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://hanskovisser.bandcamp.com/"}, {"type": "band", "url": "https://plankruutntoone.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7947239-Hans-Visser-6"}],
+            "homepage": [{"type": "personal", "url": "https://demisluktezigeuner.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/demisluktezigeuner"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCdawz0uHA27EZxNDi3792xw"}]
+        }
+    },
+    "KatharinaVogt": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/katharina-vogt-mn0003828636"}],
+            "homepage": [{"type": "personal", "url": "https://www.xing.com/profile/Katharina_Vogt16"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/katharina-vogt-89076233"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kathikochbut"}]
         }
     }
 }

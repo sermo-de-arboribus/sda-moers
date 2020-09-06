@@ -47,7 +47,11 @@
     "surname": "Nom de famille",
     "year": "Année"
   },
+  "exportPage": {
+    "header": "Exportation des données"
+  },
   "general": {
+    "export": "Exportation des données",
     "festivalName": "Festival de Moers",
     "imprint": "Mentions légales",
     "issueTracker": "la gestion des changements",
