@@ -66,7 +66,7 @@ export default {
                     surname: a.surname,
                     notes: a.notes,
                     concerts: a.concerts.map(c => `${c.concert}, [${c.starttime}], (${c.instruments})`).join(" | "),
-                    instruments: Array.from(a.instruments).join(", "),
+                    instruments: a.instruments.join(", "),
                     links: keys.map(lkey => a.links[lkey].map(l => l.url).join(", ")).join(", ")
                 }
             })

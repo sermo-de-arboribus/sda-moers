@@ -94,6 +94,7 @@ module.exports = {
 
             return Object.keys(gigsGroupedByArtist)
                 .map(key => {
+                    gigsGroupedByArtist[key].instruments = Array.from(gigsGroupedByArtist[key].instruments).sort();
                     return gigsGroupedByArtist[key]
                 });
         },

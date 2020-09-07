@@ -65,7 +65,7 @@
                     </div>
                 </b-row>
                 <div v-else-if="props.column.field == 'instruments'">
-                    {{ Array.from(props.row.instruments).sort().join(", ") }}
+                    {{ props.row.instruments.join(", ") }}
                 </div>
 
                 <vue-good-table v-else-if="props.column.field == 'concerts'"
@@ -260,8 +260,8 @@ export default {
     mounted: function() {
         console.log("Artiststable mounted");
         this.setVueGoodTableInstance(this.$refs.vgt);
-        this.setCurrentTablePage(this.page);
-        console.log("stored current table page in vuex store: " + this.page);
+        this.setCurrentTablePage(this.currentPage);
+        console.log("stored current table page in vuex store: " + this.currentPage);
     },
 
     watch: {

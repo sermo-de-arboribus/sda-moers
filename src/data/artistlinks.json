@@ -1318,6 +1318,13 @@
             "youtube": [{"type": "band", "url": "https://www.youtube.com/user/ensembleprotonbern"}]
         }
     },
+    "LennertJacobs": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/lennert-jacobs-mn0003510549"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1078337-Lennert-Jacobs"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCIwJy_xd4q4TjhHcFITmmkw"}]
+        }
+    },
     "HilaryJeffery": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hilaryjeffery"}],
@@ -3415,6 +3422,39 @@
             "homepage": [{"type": "personal", "url": "https://www.xing.com/profile/Katharina_Vogt16"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/katharina-vogt-89076233"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kathikochbut"}]
+        }
+    },
+    "Luise IsabelVolkmann": {
+        "canonicalName": {
+            "firstname": "Luise",
+            "surname": "Volkmann"
+        }
+    },
+    "LuiseVolkmann": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/luisevolkmann"}],
+            "bandcamp": [{"type": "personal", "url": "https://luisevolkmann.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5388585-Luise-Volkmann"}],
+            "homepage": [{"type": "personal", "url": "https://luisevolkmann.jimdofree.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Luise%20Volkmann%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/luisevolkmann"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LuiseVolkmann"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Luise_Volkmann"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCZ578I91jA1Yy5-O7HoQfcA"}]
+        }
+    },
+    "BilianaVoutchkova": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bilianavoutchkova"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/biliana-voutchkova-mn0001452356"}],
+            "bandcamp": [{"type": "personal", "url": "https://bilianavoutchkova.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2205072-Biliana-Voutchkova"}],
+            "homepage": [{"type": "personal", "url": "www.bilianavoutchkova.net"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Biliana%20Voutchkova%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/biliana"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/twitbiliana"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Biliana_Voutchkova"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/tubebiliana"}]
         }
     }
 }
