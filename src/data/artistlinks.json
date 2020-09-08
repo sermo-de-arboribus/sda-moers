@@ -1666,6 +1666,14 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCPM9hqHyqwlnEDYMDs8JS-Q"}]
         }
     },
+    "SamoKutin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/samo-kutin-mn0003712457"}],
+            "bandcamp": [{"type": "band", "url": "https://anakravanjasamokutin.bandcamp.com/releases"}, {"type": "album", "url": "https://sploh.bandcamp.com/album/plovilo"}, {"type": "album", "url": "https://sploh.bandcamp.com/album/stutter-and-strike"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2534451-Samo-Kutin"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/siromband"}]
+        }
+    },
     "VincentLabhenn": {
         "links": {
         }
@@ -2965,6 +2973,15 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/509947-Oliver-Siegel"}]
         }
     },
+    "MorganSimpson": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/morgan-simpson-mn0003852716"}],
+            "bandcamp": [{"type": "band", "url": "https://bmblackmidi.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6967891-Morgan-Simpson"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/morgangsimpson"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/MorganGSimpsonDrums"}]
+        }
+    },
     "HarriSjöström": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harri-sj%C3%B6str%C3%B6m-mn0001815288"}],
@@ -3455,6 +3472,57 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/twitbiliana"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Biliana_Voutchkova"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/tubebiliana"}]
+        }
+    },
+    "PatrickWagner": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/patrick-wagner-mn0002983397"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/324236-Patrick-Wagner"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Biliana%20Voutchkova%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Surrogat_(Band)"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC8GxVqausy6-ITH8nAh_Ibw"}]
+        }
+    },
+    "AndreasWahl": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/andreaswahl"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andreas-wahl-mn0002521293"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/776616-Andreas-Wahl"}],
+            "homepage": [{"type": "personal", "url": "https://andreaswahl.net/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kapellmeisterle"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andreas_Wahl_(Gitarrist)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCQgGAIqNXGhEn6gtS0v4gTQ"}]
+        }
+    },
+    "DeborahWalker": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/deborah-walker-mn0000814406"}],
+            "bandcamp": [{"type": "album", "url": "https://ellirecords.bandcamp.com/album/starflux"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1330264-Deborah-Walker"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lellodeb"}]
+        }
+    },
+    "FlorianWalter": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/florian-walter-mn0002744997"}],
+            "bandcamp": [{"type": "album", "url": "https://kuhzunft.bandcamp.com/album/hell-bruit"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2935037-Florian-Walter-2"}],
+            "homepage": [{"type": "personal", "url": "http://florianwalter.yolasite.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Florian%20Walter%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/florianwalter-2"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Florian_Walter"}]}]
+        }
+    },
+    "LudwigWandinger": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-ludwig-wandinger"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ludwig-wandinger-mn0003720570"}],
+            "bandcamp": [{"type": "personal", "url": "https://albanwinter.bandcamp.com/"}, {"type": "album", "url": "https://averagenegative.bandcamp.com/album/the-gloss-effect"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6759227-Ludwig-Wandinger"}],
+            "homepage": [{"type": "personal", "url": "https://www.ludwigwandinger.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Ludwig%20Wandinger%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ludwig-wandinger"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/AlbanWinter"}]
         }
     }
 }
