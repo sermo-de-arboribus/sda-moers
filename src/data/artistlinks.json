@@ -145,6 +145,14 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/siriusimages"}]
         }
     },
+    "MoritzBaranczyk": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/moritzbaranczyk"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6289422-Moritz-Baranczyk"}],
+            "homepage": [{"type": "agency", "url": "http://www.real-live-jazz.de/musiker-einzeln/Artist/show/baranczyk.html"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/moritz-baranczyk"}]
+        }
+    },
     "FaridBarron": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/faridbarron"}],
@@ -266,6 +274,19 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pierre-borel-mn0002541690"}],
             "bandcamp": [{"type": "band", "url": "https://remoteresonator.bandcamp.com/album/live-at-saint-merry"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1761640-Pierre-Borel"}]
+        }
+    },
+    "AntonioBorghini": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/antonioborghini"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/antonio-borghini-mn0000821485"}],
+            "bandcamp": [{"type": "album", "url": "https://elgallorojorecords.bandcamp.com/album/six-dances-under"}, {"type": "album", "url": "https://meinradkneer.bandcamp.com/album/sequoia-rotations"}],
+            "discogs": [{"type": "discogs", "url": "https://www.discogs.com/artist/1063815-Antonio-Borghini"}],
+            "homepage": [{"type": "personal", "url": "antonioborghini.com"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Antonio%20Borghini%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/mrafi-1"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Antonio_Borghini"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCB9ro1CT23t2alxd-wPlGWQ"}]
         }
     },
     "WimBoth": {
@@ -1825,6 +1846,16 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/christianlillinger84"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Christian_Lillinger"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Christian_Lillinger"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC_-oF6ei1BfoeQctl7qMI1A"}]
+        }
+    },
+    "HannesLingens": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hanneslingens"}],
+            "bandcamp": [{"type": "personal", "url": "https://hanneslingens.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/743840-Hannes-Lingens"}],
+            "homepage": [{"type": "personal", "url": "http://www.hanneslingens.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Hannes%20Lingens%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/hannes-lingens"}]
         }
     },
     "KayLübke": {
@@ -3523,6 +3554,146 @@
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Ludwig%20Wandinger%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ludwig-wandinger"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/AlbanWinter"}]
+        }
+    },
+    "MartinWangermée": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/martin-wangerm%C3%A9e-mn0003187683"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4071233-Martin-Wangerm%C3%A9e"}],
+            "homepage": [{"type": "personal", "url": "http://www.martinwangermee.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-155732459"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/martinwangermee59"}]
+        }
+    },
+    "UteWassermann": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/utewassermann"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ute-wassermann-mn0002007772"}],
+            "bandcamp": [{"type": "album", "url": "https://jaapblonk.bandcamp.com/album/wassermann-blonk-vorfeld"}, {"type": "album", "url": "https://soundanatomy.bandcamp.com/album/natura-venomous"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/384210-Ute-Wassermann"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ute%20Wassermann%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/utewassermann"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ute_Wassermann"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ute_Wassermann"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCQOuoeh02gP0N2N63I3Y-FA"}]
+        }
+    },
+    "Rie MiyamaWatanabe": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rie-watanabe-mn0002583001"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2712675-Rie-Watanabe"}],
+            "homepage": [{"type": "personal", "url": "http://riewatanabe.net/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Rie%20Watanabe%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rie-watanabe-percussion"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Ringorie5"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCK42Az0KvrtLEmzoWOZSRRg"}]
+        }
+    },
+    "Charlotte JohannaWeber": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.jugend-musiziert.org/wettbewerbe/regionalwettbewerbe/duisburg/ergebnisse.html?tx_solr%5Bfilter%5D%5B1%5D=ageGroup%3AIV"}]
+        }
+    },
+    "CharlotteWeber": {
+        "canonicalName": {
+            "firstname": "Charlotte Johanna",
+            "surname": "Weber"
+        }
+    },
+    "Lukas “Manfred”Weber": {
+        "canonicalName": {
+            "firstname": "Jan-Lukas",
+            "lastname": "Weber"
+        }
+    },
+    "Jan-LukasWeber": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182775-Jan-Lukas-Weber"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Manfred",
+            "de": "Künstlername: Manfred",
+            "en": "Artist's name: Manfred",
+            "fr": "Pseudonyme: Manfred",
+            "zh": "艺名: Manfred"
+        }
+    },
+    "ChrisWeddle": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/chris-weddle-752583a9/?originalSubdomain=de"}]
+        }
+    },
+    "MaxWehner": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4777875-Max-Wehner"}]
+        }
+    },
+    "HannahWeirich": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hannah-weirich-mn0002645116"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2624516-Hannah-Weirich"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCgI6mz__SwMtOG-xrJuEVlA"}]
+        }
+    },
+    "AndreasWerliin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andreas-werliin-mn0001047433"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1141624-Andreas-Werliin"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Andreas%20Werliin%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andreas_Werliin"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCgzuD2OWMW8uolLua29jWgA"}]
+        }
+    },
+    "MoritzWesp": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/moritz-wesp-mn0003207309"}],
+            "bandcamp": [{"type": "personal", "url": "https://moritzwesp.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4408369-Moritz-Wesp"}],
+            "homepage": [{"type": "personal", "url": "https://moritzwesp.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Moritz%20Wesp%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/moritzwesp"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Moritz_Wesp"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC2haqSqY142fcGYVPLAiNbw"}]
+        }
+    },
+    "JonasWestergaard": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-jonas-westergaard__4685"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonas-westergaard-mn0000985312"}],
+            "bandcamp": [{"type": "album", "url": "https://oliverlake.bandcamp.com/album/lake-tchicai-osgood-westergaard"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/672028-Jonas-Westergaard"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jonas%20Westergaard%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jonas_Westergaard"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jonas_Westergaard"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCiCBVzc1fK34PqJyHS-CFfg"}]
+        }
+    },
+    "DavisWhitfield": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/daviswhitfield"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/davis-whitfield-mn0003593751"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5491420-Davis-Whitfield"}],
+            "homepage": [{"type": "personal", "url": "https://daviswhitfieldpiano.wixsite.com/"}]
+        }
+    },
+    "HajoWiesemann": {
+        "links": {
+            "discogs": [{"type": "https://www.discogs.com/artist/7658470-Hajo-Wiesemann"}],
+            "homepage": [{"type": "band", "url": "http://www.weltenentdecker.com/spatzenschwatzen"}]
+        }
+    },
+    "DirkWietheger": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dirk-wietheger-mn0003031333"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2712676-Dirk-Wietheger"}],
+            "homepage": [{"type": "band", "url": "https://www.musikfabrik.eu/de/ensemble/mitglieder/dirk-wietheger"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Dirk%20Wietheger%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/MusikFabrik"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ensemble_Musikfabrik"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCwYfCdiCU6el_5fIB1LZGnw"}]
+        }
+    },
+    "HenrikeWille": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "http://www.das-juelicht.de/nachrichten/artikel/16480.php"}]
         }
     }
 }
