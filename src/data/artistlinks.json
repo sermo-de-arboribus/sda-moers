@@ -2762,6 +2762,11 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCogANG8D7qw7buFFkApJFcw"}]
         }
     },
+    "ÉmilieRougier": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1183310-Emilie-Rougier"}]
+        }
+    },
     "VincentRoyer": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/vincent-royer-mn0000849553"}],
@@ -3398,6 +3403,13 @@
             "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Crack_Cloud"}]}]
         }
     },
+    "JérômeVassereau": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jerome-vassereau-mn0003962112"}],
+            "bandcamp": [{"type": "band", "url": "https://binidu.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3055268-J%C3%A9r%C3%B4me-Vassereau"}]
+        }
+    },
     "PeterVeale": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-veale-mn0000205186"}],
@@ -3602,7 +3614,7 @@
     "Lukas “Manfred”Weber": {
         "canonicalName": {
             "firstname": "Jan-Lukas",
-            "lastname": "Weber"
+            "surname": "Weber"
         }
     },
     "Jan-LukasWeber": {
@@ -3694,6 +3706,64 @@
     "HenrikeWille": {
         "links": {
             "homepage": [{"type": "agency", "url": "http://www.das-juelicht.de/nachrichten/artikel/16480.php"}]
+        }
+    },
+    "EmilyWittbrodt": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6457039-Emily-Wittbrodt"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/schoerkenwittbrodtbeyer"}]
+        }
+    },
+    "TobeWouters": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tobe-wouters-mn0001526723"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/549861-Tobe-Wouters"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcVR55aHgIclm77NP-ZrvJg"}]
+        }
+    },
+    "JasonYarde": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jasonyarde"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jason-yarde-mn0000808792"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/230302-Jason-Yarde"}],
+            "homepage": [{"type": "personal", "url": "http://www.joyandears.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jason%20Yarde%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/joyandears"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/JoYaNdEaRs"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jason_Yarde"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCbrtmYTpCwiPVCNKdcwljzw"}]
+        }
+    },
+    "TatsuyaYoshida": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/tatsuyayoshida"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tatsuya-yoshida-mn0000962828"}],
+            "bandcamp": [{"type": "personal", "url": "https://yoshidatatsuya.bandcamp.com/"}, {"type": "album", "url": "https://magaibutsuothers.bandcamp.com/album/ascension"}, {"type": "album", "url": "https://magaibutsuothers.bandcamp.com/album/live-in-japan"}, {"type": "album", "url": "https://satokofujii.bandcamp.com/album/baikamo"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/welcome-in-the-void"}, {"type": "personal", "url": "https://cuneiformrecords.bandcamp.com/album/process-and-reality"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/223249-Tatsuya-Yoshida"}],
+            "homepage": [{"type": "personal", "url": "http://magaibutsu.com/mgb/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tatsuya%20Yoshida%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/magaibutsu"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Tatsuya_Yoshida"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Tatsuya_Yoshida"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tatsuya_Yoshida"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMFAI2xEEumdcO9Msjw7boQ"}]
+        }
+    },
+    "YegorZabelov": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://yegorzabelov.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6477638-Yegor-Zabelov"}],
+            "homepage": [{"type": "personal", "url": "https://yegorzabelov.bandcamp.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Yegor%20Zabelov%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yegor-zabelov-1"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/YZTrio"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCJBpEb7BrtXpHdQEI-X6sNQ"}]
+        }
+    },
+    "SusanneZapf": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/susanne-zapf-mn0002784729"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/993610-Susanne-Zapf"}],
+            "homepage": [{"type": "personal", "url": "http://susannezapf.blogspot.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/susanne-zapf"}]
         }
     }
 }
