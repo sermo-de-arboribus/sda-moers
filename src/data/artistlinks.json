@@ -643,6 +643,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/watch?v=itMSs_cqc00"}, {"type": "personal", "url": "https://www.youtube.com/watch?v=Lra5ybokaa0"}]
         }
     },
+    "AnkeDemirsoy": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5576213-Anke-Demirsoy"}],
+            "homepage": [{"type": "agency", "url": "https://www.nmz.de/autoren/anke-demirsoy"}]
+        }
+    },
     "JulienDesprez": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/juliendesprez"}],
@@ -3764,6 +3770,52 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/993610-Susanne-Zapf"}],
             "homepage": [{"type": "personal", "url": "http://susannezapf.blogspot.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/susanne-zapf"}]
+        }
+    },
+    "KonstantinZelenin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/konstantin-zelenin-mn0003725696"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7223112-Konstantin-Zelenin"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/zelko2210"}]
+        }
+    },
+    "AchimZepezauer": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://kuhzunft.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4154978-Achim-Zepezauer"}],
+            "homepage": [{"type": "personal", "url": "http://www.kuhzunft.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Achim%20Zepezauer%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kuhzunft"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Tokiloki2"}]
+        }
+    },
+    "MirelaZhulali": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7736767-Mirela-Zhulali"}],
+            "homepage": [{"type": "agency", "url": "https://www.internationale-klavierschule.com/klavierlehrer/klavierunterricht-in-essen/klavierunterricht-bei-mirela-zhulali/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCjw6ipKDIUwzSv3HF5A3NHw"}]
+        }
+    },
+    "PhilipZoubek": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/philippzoubek"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/philip-zoubek-mn0002599327"}],
+            "bandcamp": [{"type": "personal", "url": "https://philipzoubek.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1079616-Philip-Zoubek"}],
+            "homepage": [{"type": "personal", "url": "https://www.philipzoubek.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Philip%20Zoubek%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/philip-zoubek"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Philip_Zoubek"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCMa2eBfYI6AS39grpHauXzA"}]
+        }
+    },
+    "FlorianZwißler": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/florian-zwissler-mn0002583068"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4850018-Florian-Zwi%C3%9Fler"}],
+            "homepage": [{"type": "personal", "url": "http://www.florianzwissler.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Florian%20Zwi%C3%9Fler%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Zwissler"}]
         }
     }
 }
