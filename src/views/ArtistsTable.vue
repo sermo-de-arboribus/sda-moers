@@ -150,7 +150,7 @@ export default {
                     field: "starttime",
                     type: "date",
                     dateInputFormat: "yyyy-MM-dd HH:mm:ss",
-                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss",
+                    dateOutputFormat: "yyyy-MM-dd",
                     width: "25%"
                 }
             ]
@@ -189,6 +189,8 @@ export default {
                         enabled: true,
                         placeholder: this.$t("artistsTable.filters.bySurname")
                     },
+                    sortable: true,
+                    sortFn: this.sortSurnames
                 },
                 {
                     label: this.$t("artistsTable.instruments"),
@@ -251,6 +253,20 @@ export default {
 
         onPageChange(params) {
             this.$router.push(`/${params.currentPerPage}/${params.currentPage}`)
+        },
+
+        sortSurnames(x, y, col, rowX, rowY) {
+            // if both surnames are the same, sort by firstname
+            if(x === y) {
+                return ("" + rowX.firstname).localeCompare(rowY.firstname);
+            }
+
+            // sort empty surname entries towards the end of the list
+            if(!x) {
+                return 1
+            }
+
+            return x.localeCompare(y);
         },
 
         ...mapActions("gigdata", ["fetchEventsFromApi"]),

@@ -2,6 +2,7 @@
 
 const additions = require("../data/additions.json");
 const artistlinks = require("../data/artistlinks.json");
+const legacyGigData = require("../data/legacy-gigs.json");
 const axios = require("axios").default;
 
 module.exports = {
@@ -122,7 +123,7 @@ module.exports = {
                         aggregator.push({
                             artist: a, 
                             eventDescriptionDE: event.description,
-                            eventDescriptionEN: event.extras.descriptionEN,
+                            eventDescriptionEN: event.extras ? event.extras.descriptionEN : null,
                             eventId: event.id,
                             eventName: event.name,
                             eventStartDate,
@@ -200,14 +201,16 @@ module.exports = {
 }
 
 function addAdditionalData(events) {
-    return events.map(ev => {
+    const updatedEvents = events.map(ev => {
       const eventId = ev.id;
       if(additions[eventId]) {
           return Object.assign(ev, additions[eventId]);
       } else {
           return ev;
       }
-  })
+    });
+
+    return [...updatedEvents, ...legacyGigData]
 }
 
 function cleanUpDescriptions(sourceDescription) {
