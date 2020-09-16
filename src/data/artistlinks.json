@@ -2,18 +2,83 @@
     "Hotep": {
         "canonicalName": { "firstname": "Dave", "surname": "Hotep"}
     },
-    "DaveHotep": {
-        "links": {
-            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/DaveHotep"}],
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2280808-Dave-Hotep"}, {"type": "band", "url": "https://www.discogs.com/artist/2219395-The-Sun-Ra-Arkestra"}],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Dave+Hotep%22"}],
-            "twitter": [{ "type": "personal", "url": "https://twitter.com/DMHotep"}, {"type": "band", "url": "https://twitter.com/SUNRAARKESTRA"}]
-        }
-    },
     "Tillamanda": {
         "canonicalName": {
             "firstname": "Till",
             "surname": "Steinebach"
+        }
+    },
+    "Harem4": {
+        "canonicalName": { "firstname": "", "surname": "Harem 4"}
+    },
+    "EivindAarset": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/eivindaarset"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/eivind-aarset-mn0000327745"}],
+            "bandcamp": [{"type": "personal", "url": "https://eivindaarset.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/32272-Eivind-Aarset"}],
+            "homepage": [{"type": "personal", "url": "https://eivindaarset.com"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Eivind%20Aarset%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/eivind-aarset"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/EivindAarset"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Eivind_Aarset"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/EivindAarset"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCPUQPnNslSPdvNXF41S4t8g"}]
+        }
+    },
+    "MariëAbe": {
+        "canonicalName": { "firstname": "Marié", "surname": "Abe"}
+    },
+    "MariéAbe": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marie-abe-mn0002613686"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3058283-Mari%C3%A9-Abe"}],
+            "homepage": [{"type": "band", "url": "http://thejaponizeelephants.com/marie-abe"}, {"type": "agency", "url": "http://www.bu.edu/musicology/faculty/marie-abe"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmJh0pFEH4JxYOFXztt93Ig"}]
+        }
+    },
+    "LennatAberg": {
+        "canonicalName": { "firstname": "Lennart", "surname": "Åberg" }
+    },
+    "LennartÅberg": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/lennart-%C3berg-mn0000238338"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/277541-Lennart-%C3%85berg"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Lennart%20%C3%85berg%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/lennartaberg4"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Lennart_%C3%85berg"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Lennart_%C3%85berg"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCOtvi8vQOe26MgKsasrC0kg"}]
+        }
+    },
+    "SophieAbraham": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-sophie-abraham"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sophie-abraham-mn0002992752"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3592310-Sophie-Abraham"}],
+            "homepage": [{"type": "personal", "url": "http://sophie-abraham.com/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC9ePpCkatqMhJqdpEliQEgw"}]
+        }
+    },
+    "BrianAbrahams": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-brian-abrahams"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/brian-abrahams-mn0000050988"}, {"type": "personal", "url": "https://www.allmusic.com/artist/brian-abrahams-mn0001828866"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/387185-Brian-Abrahams"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Brian_Abrahams"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Brian_Abrahams"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kademax47"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC1ApU3XLRnOMfFXk-zT5MfA"}]
+        }
+    },
+    "Muhal RichardAbrams": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/muhalrichardabrams"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/muhal-richard-abrams-mn0000509696"}],
+            "bandcamp": [{"type": "agency", "url": "https://muhalrichardabrams.bandcamp.com/"}, {"type": "abum", "url": "https://karlrecords.bandcamp.com/album/celestial-birds"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/295402-Muhal-Richard-Abrams"}],
+            "homepage": [{"type": "personal", "url": "http://www.muhalrichardabrams.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Muhal%20Richard%20Abrams%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/muhal-richard-abrams"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/groovemu"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Muhal_Richard_Abrams"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Muhal_Richard_Abrams"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Muhal_Richard_Abrams"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Muhal_Richard_Abrams"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Muhal_Richard_Abrams"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCly56HLNi5sYuwtG3irIcFw"}]
         }
     },
     "MarkusAcher": {
@@ -1212,6 +1277,17 @@
             "homepage": [{"type": "band", "url": "http://www.weltenentdecker.com/spatzenschwatzen"}, {"type": "agency", "url": "https://www.musikundkunstschule-velbert.de/wir-ueber-uns/kollegium/laura-hiller/"}]
         }
     },
+    "ChrisHinze": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/chrishinze"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/chris-hinze-mn0000097090"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/167748-Chris-Hinze"}],
+            "homepage": [{"type": "personal", "url": "https://www.chrishinze.nl/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Chris%20Hinze%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/ChrisHinze"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Chris_Hinze"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Chris_Hinze"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Chris_Hinze"}]}]
+        }
+    },
     "ErhardHirt": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/erhard-hirt-mn0001833147"}],
@@ -1255,6 +1331,14 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johan_H%C3%B6rl%C3%A9n"}]}]
         }
     },
+    "DaveHotep": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/DaveHotep"}],
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2280808-Dave-Hotep"}, {"type": "band", "url": "https://www.discogs.com/artist/2219395-The-Sun-Ra-Arkestra"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Dave+Hotep%22"}],
+            "twitter": [{ "type": "personal", "url": "https://twitter.com/DMHotep"}, {"type": "band", "url": "https://twitter.com/SUNRAARKESTRA"}]
+        }
+    },
     "Reinier vanHoudt": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reinier-vanhoudt-mn0001906812"}],
@@ -1281,6 +1365,15 @@
         "links": {
             "homepage": [{"type": "agency", "url": "http://www.samadhyana.com/ching-meihuang"}, {"type": "agency", "url": "https://www.nrw-lfdk.de/app/mitglied/ching-mei-huang"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=3jqdCcegz1c"}]
+        }
+    },
+    "KlausHübner": {
+        "notes": {
+            "cs": "Možná, že umíněný hudebník je Ralf Hübner, který byl dlouhodobým hudebníkem v skupin Alberta Mangelsdorffera.",
+            "de": "Möglicherweise handelt es sich hier um Ralf Hübner, der lange Jahre Schlagzeug bei Albert Mangelsdorff spielte.",
+            "en": "Possibly this artist is in fact Ralf Hübner, who played drums in Albert Mangelsdorff's groups for many years.",
+            "fr": "Possiblement c'est Ralf Hübner, un batteur dans les groupes d'Albert Mangelsdorff",
+            "zh": "可能是打击​乐手拉尔夫·赫布纳（Ralf Hübner）。"
         }
     },
     "Carl LudwigHübsch": {
@@ -1890,6 +1983,18 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lolamalique"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/LolaMalique"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCekdD_KRTVpTn8XMehg_hpw"}]
+        }
+    },
+    "AlbertMangelsdorff": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/albertmangelsdorff"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/albert-mangelsdorff-mn0000615170"}],
+            "bandcamp": [{"type": "album", "url": "https://amori.bandcamp.com/album/the-wake-keeping"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/297020-Albert-Mangelsdorff"}],
+            "homepage": [{"type": "agency", "url": "http://www.albert-mangelsdorff.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Albert%20Mangelsdorff%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/albert-mangelsdorff"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Albert_Mangelsdorff"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Albert_Mangelsdorff"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Albert_Mangelsdorff"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Albert_Mangelsdorff"}]}]
         }
     },
     "JuçaraMarçal": {
@@ -2784,6 +2889,21 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC1nV2ajyrpmiXUbpn2sWDsA"}]
         }
     },
+    "TorunnSævik": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/torunn-sævik-mn0002604160"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1208489-Torunn-S%C3%A6vik"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Torunn%20S%C3%A6vik%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/trondheim-voices"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCxmibO8B3lF_sKFbv8V8yxQ"}]
+        }
+    },
+    "TorunnSÆvik": {
+        "canonicalName": {
+            "firstname": "Torunn",
+            "surname": "Sævik"
+        }
+    },
     "TakuroSaito": {
         "links": {
             "bandcamp": [{"type": "personal", "url": "https://takurosaito.bandcamp.com/"}],
@@ -2824,19 +2944,16 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCPQFqOL70P_zUHe4zP1eaIQ"}]
         }
     },
-    "TorunnSævik": {
+    "HeinzSauer": {
         "links": {
-            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/torunn-sævik-mn0002604160"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1208489-Torunn-S%C3%A6vik"}],
-            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Torunn%20S%C3%A6vik%22&category_name=nach-hoeren"}],
-            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/trondheim-voices"}],
-            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCxmibO8B3lF_sKFbv8V8yxQ"}]
-        }
-    },
-    "TorunnSÆvik": {
-        "canonicalName": {
-            "firstname": "Torunn",
-            "surname": "Sævik"
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/heinzsauer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/heinz-sauer-mn0000596958"}],
+            "bandcamp": [{"type": "album", "url": "https://jazzdorseries.bandcamp.com/album/heinz-sauer-daniel-erdmann-4tet-special-relativity-live-at-kesselhaus-06062013"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/352972-Heinz-Sauer"}],
+            "homepage": [{"type": "personal", "url": "www.heinzsauer.de"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Heinz%20Sauer%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/heinzsauer"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Heinz_Sauer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Heinz_Sauer"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Heinz_Sauer"}]}]
         }
     },
     "ChristineSchäfer": {
@@ -3000,6 +3117,15 @@
             "homepage": [{"type": "personal", "url": "https://www.facebook.com/jonathan.sell.52"}, {"type": "band", "url": "https://www.hazart-trio.de/"}, {"type": "band", "url": "https://beyondborders.band/"}, {"type": "band", "url": "https://www.theswindlers.de"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-849661391-285711310"}, {"type": "band", "url": "https://soundcloud.com/beyondbordersband"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC4Bdvukde5WHMB1f-ZUdHqw"}, {"type": "band", "url": "https://www.youtube.com/channel/UCWrN16mT4v2m13st7B4q1Hg"}]
+        }
+    },
+    "JimShapiro": {
+        "notes": {
+            "cs": "Nespletejte s Jamesem Gordonem „Jimem“ Shapirem, bubeníkem skupiny Veruca Salt!",
+            "de": "Nicht zu verwechseln mit James Gordon „Jim“ Shapiro, dem Schlagzeuger der Rockband Veruca Salt.",
+            "en": "Not to be confused with James Gordon \"Jim\" Shapiro, the drummer of alternative rock band Veruca Salt.",
+            "fr": "Ne confondez pas avec James Gordon « Jim » Shapiro, batteur du groupe Veruca Salt",
+            "zh": "不要与摇滚乐队Veruca Salt的鼓手James Gordon “Jim” Shapiro混淆。"
         }
     },
     "MohammadSharar": {
@@ -3615,6 +3741,18 @@
         "canonicalName": {
             "firstname": "Charlotte Johanna",
             "surname": "Weber"
+        }
+    },
+    "EberhardWeber": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/eberhardweber"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/eberhard-weber-mn0000796060"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/169989-Eberhard-Weber"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2007/08/20/the-jazz-session-26-eberhard-weber/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Eberhard%20Weber%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/eberhard-weber"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Eberhard_Weber"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Eberhard_Weber_(Musiker)"}, {"type": "en", "url": "https://en.wikipedia.org/wiki/Eberhard_Weber"}, {"type": "fr", "url": "https://fr.wikipedia.org/wiki/Eberhard_Weber"}, {"tpye": "nl", "url": "https://nl.wikipedia.org/wiki/Eberhard_Weber"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMhhNZHm-KxoILcM2LCffig"}]
         }
     },
     "Lukas “Manfred”Weber": {

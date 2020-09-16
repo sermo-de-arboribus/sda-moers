@@ -256,14 +256,19 @@ export default {
         },
 
         sortSurnames(x, y, col, rowX, rowY) {
+
             // if both surnames are the same, sort by firstname
             if(x === y) {
-                return ("" + rowX.firstname).localeCompare(rowY.firstname);
+                return ("" + rowX.firstname).localeCompare("" + rowY.firstname);
             }
 
             // sort empty surname entries towards the end of the list
             if(!x) {
                 return 1
+            }
+
+            if(!y) {
+                return -1
             }
 
             return x.localeCompare(y);
