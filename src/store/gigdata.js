@@ -279,6 +279,7 @@ function getServiceType(typeKey, i18n) {
         case "agency": return i18n.t("artistsTable.serviceTypes.agency");
         case "album": return i18n.t("artistsTable.serviceTypes.album");
         case "band": return i18n.t("artistsTable.serviceTypes.band");
+        case "interview": return i18n.t("artistsTable.serviceTypes.interview");
         case "personal": return i18n.t("artistsTable.serviceTypes.personal");
         case "search": return i18n.t("artistsTable.serviceTypes.search");
         default: return "";

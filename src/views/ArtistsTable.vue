@@ -106,6 +106,7 @@ export default {
     props: ["page", "perPage"],
     data: () => {
         return {
+            debugMode: false,
             innerSortOptions: {
                 enabled: true,
                 initialSortBy: {field: "starttime", type: "asc"}
@@ -152,6 +153,11 @@ export default {
                     dateInputFormat: "yyyy-MM-dd HH:mm:ss",
                     dateOutputFormat: "yyyy-MM-dd",
                     width: "25%"
+                },
+                {
+                    label: "ID",
+                    field: "id",
+                    hidden: !this.debugMode
                 }
             ]
         },
@@ -279,10 +285,8 @@ export default {
     },
 
     mounted: function() {
-        console.log("Artiststable mounted");
         this.setVueGoodTableInstance(this.$refs.vgt);
         this.setCurrentTablePage(this.currentPage);
-        console.log("stored current table page in vuex store: " + this.currentPage);
     },
 
     watch: {

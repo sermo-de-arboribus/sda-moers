@@ -11,6 +11,29 @@
     "Harem4": {
         "canonicalName": { "firstname": "", "surname": "Harem 4"}
     },
+    "TapioAaltonen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tapio-mongo-aaltonen-mn0002299993"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/332615-Mongo-Aaltonen"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCI6iqiCiZeZZCQaNuTke5-A"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Mongo Aaltonen",
+            "de": "Künstlername: Mongo Aaltonen",
+            "en": "Artist's name: Mongo Aaltonen",
+            "fr": "Pseudonyme: Mongo Aaltonen",
+            "zh": "艺名: Mongo Aaltonen"
+        }
+    },
+    "Tapio \"Mongo\"Aaltonen": {
+        "canonicalName": { "firstname": "Tapio", "surname": "Aaltonen"}
+    },
+    "LordAaqil": {
+        "canonicalName": { "firstname": "Micah", "surname": "Pitts"}
+    },
+    "LordAaquil": { 
+        "canonicalName": { "firstname": "Micah", "surname": "Pitts"}
+    },
     "EivindAarset": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/eivindaarset"}],
@@ -24,6 +47,24 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Eivind_Aarset"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Eivind_Aarset"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/EivindAarset"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCPUQPnNslSPdvNXF41S4t8g"}]
         }
+    },
+    "BouchaibAbdelhadi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bouchaib-abdelhadi-mn0000395743"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/734046-Bouchaib-Abdelhadi"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Bouchaib_Abdelhadi"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/bobaib7"}]
+        },
+        "notes": {
+            "cs": "",
+            "de": "Auf der Moers-Festival-Website ist der Vorname fälschlicherweise als „Bouchalb“ aufgeführt.",
+            "en": "On the website of Moers Festival the given name is incorrectly spelled \"Bouchalb\"",
+            "fr": "",
+            "zh": ""
+        }
+    },
+    "BouchalbAbdelhadi": { 
+        "canonicalName": { "firstname": "Bouchaib", "surname": "Abdelhadi"}
     },
     "MariëAbe": {
         "canonicalName": { "firstname": "Marié", "surname": "Abe"}
@@ -456,6 +497,29 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rob-bruynen"}]
         }
     },
+    "RainerBüchel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/537146-Rainer-Buechel"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}]
+        }
+    },
+    "NorbertBüllmeier": {
+        "canonicalName": { "firstname": "Norbert", "surname": "Büllmeyer"}
+    },
+    "NorbertBüllmeyer": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/362453-Norbert-B%C3%BCllmeyer"}],
+            "homepage": [{"type": "band", "url": "http://akkordeon-orchester-dabringhausen.de/index.html"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}]
+        }
+    },
+    "WolfgangBüllmeyer": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wolfgang-bullmeyer-mn0001209910"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3262267-Wolfgang-B%C3%BCllmeyer"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}]
+        }
+    },
     "BexBurch": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bexburch"}],
@@ -712,6 +776,20 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5576213-Anke-Demirsoy"}],
             "homepage": [{"type": "agency", "url": "https://www.nmz.de/autoren/anke-demirsoy"}]
+        }
+    },
+    "AmyDenio": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-amy-denio__30514"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/amy-denio-mn0000766780"}],
+            "bandcamp": [{"type": "personal", "url": "https://amydenio.bandcamp.com/"}, {"type": "album", "url": "https://aphoniarecordings.bandcamp.com/album/sub-rosa"}, {"type": "album", "url": "https://bhhstuff.bandcamp.com/album/bret-hart-amy-denio-improvised-duets-2001-digital"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/270152-Amy-Denio"}],
+            "homepage": [{"type": "personal", "url": "http://www.amydenio.com/"}, {"type": "personal", "url": "https://amydenio.me/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Amy%20Denio%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/amy-denio"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/AmyDenio"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Amy_Denio"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Amy_Denio"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/deniaural"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCWvua5eiLSf9OpTk7Hu5H5w"}]
         }
     },
     "JulienDesprez": {
@@ -1172,6 +1250,13 @@
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC-f-KQhgdSb7rBb5MChfwjQ"}]
         }
     },
+    "BasilHammoudi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/basil-hammoudi-mn0001224488"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/493775-Basil-Hammoudi"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}, {"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Organisation_zur_Verwirklichung_gemeinsamer_Musikkonzepte"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Organisation_(band)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Organisation_(groupe)"}]}]
+        }
+    },
     "GunterHampel": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/gunterhampel"}],
@@ -1297,6 +1382,22 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC7C-m6N9z4fD06sM5HM_eAQ"}]
         }
     },
+    "JohanHörlen": {
+        "canonicalName": {
+            "firstname": "Johan",
+            "surname": "Hörlén"
+        }
+    },
+    "JohanHörlén": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johan-h%C3%B6rl%C3%A9n-mn0000174212"}],
+            "bandcamp": [{"type": "band", "url": "https://hunterandy.bandcamp.com/album/confluence"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/622520-Johan-H%C3%B6rl%C3%A9n"}],
+            "homepage": [{"type": "band", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/saxofone/hoerlen-100.html"}],
+            "radiohoerer": [{"type": "personal", "urL": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Johan+H%C3%B6rl%C3%A9n%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johan_H%C3%B6rl%C3%A9n"}]}]
+        }
+    },
     "LisaHofmaninger": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/lisahofmaninger"}],
@@ -1315,21 +1416,15 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-ucIkUQGNAmP5zXVztZHPA"}]
         }
     },
-    "JohanHörlen": {
-        "canonicalName": {
-            "firstname": "Johan",
-            "surname": "Hörlén"
+    "AndreasHohmann": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/462399-Andreas-Hohmann"}],
+            "homepage": [{"type": "interview", "url": "https://web.archive.org/web/20040917070307/http://www.kraftwerk.mdis.de/hohmann.htm"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}]
         }
     },
-    "JohanHörlén": {
-        "links": {
-            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johan-h%C3%B6rl%C3%A9n-mn0000174212"}],
-            "bandcamp": [{"type": "band", "url": "https://hunterandy.bandcamp.com/album/confluence"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/622520-Johan-H%C3%B6rl%C3%A9n"}],
-            "homepage": [{"type": "band", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/saxofone/hoerlen-100.html"}],
-            "radiohoerer": [{"type": "personal", "urL": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Johan+H%C3%B6rl%C3%A9n%22"}],
-            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johan_H%C3%B6rl%C3%A9n"}]}]
-        }
+    "AndreasHomann": {
+        "canonicalName": { "firstname": "Andreas", "surname": "Hohmann"}
     },
     "DaveHotep": {
         "links": {
@@ -2635,6 +2730,15 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/snarebert"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Herbert_Pirker"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/herbertpirker"}]
+        }
+    },
+    "MicahPitts": {
+        "notes": {
+            "cs": "Umělecké jméno: Lord Aaqil",
+            "de": "Künstlername: Lord Aaqil",
+            "en": "Artist's name: Lord Aaqil",
+            "fr": "Pseudonyme: Lord Aaqil",
+            "zh": "艺名: Lord Aaqil"
         }
     },
     "DolfPlanteijdt": {
