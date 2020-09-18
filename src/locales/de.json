@@ -25,7 +25,8 @@
     "firstname": "Vorname",
     "header": "Künstler:innen beim {festivalName}",
     "instruments": "Instrumente",
-    "intro": "Eine Tabelle von {websiteCreator} auf der Basis der offenen Festivaldaten von {dataProvider}. Den Anstoß zum Aufsetzen dieser Tabelle gab ein {tweet}. Vorläufig sind nur die Daten der Konzerte von 2019 und 2020 enthalten, eine Erweiterung auf ältere Daten ist angestrebt. Auch soll die Datenhaltung und Benutzbarkeit der Seite weiter verbessert werden. Welche Maßnahmen bereits angestrebt sind, lässt sich im {issueTracker} des Code-Repositoriums nachverfolgen.",
+    "intro": "Willkommen auf {websiteCreator}s Seite mit Infos zu Musikerinnen und Musikern, die seit 1972 beim Moers Festival aufgetreten sind. Die hier bereitgestellte Tabelle stellt im Gegensatz zur offiziellen Festival-Homepage nicht so sehr die Bands oder Bandleader ins Zentrum, sondern die einzelnen Musikerinnen und Musiker. Über die Filterfunktion lassen sich so leichter Zusammenhänge erschließen, als über eine einfache Textsuche.",
+    "intro2": "Anlass und Motivation für diese Website habe ich in einem {guestarticle} beim Radiohörer beschrieben. Den ursprünglichen Anstoß zum Aufsetzen dieser Tabelle gab ein {tweet}. Die Informationen der Seite basieren für die Jahre 2019 und 2020 auf den offenen Festivaldaten von {dataProvider}, Daten zu den früheren Festivals stammen von der Festival-Homepage und werden sukzessive durch Infos aus den Programmheften ergänzt werden. Die Links und Anmerkungen habe ich selbst ergänzt. Über die Funktion „Datenexport“ lassen sich die Informationen auch für eigene Zwecke herunterladen.",
     "links": "Links",
     "notes": "Anmerkungen",
     "pagination": {
@@ -54,6 +55,7 @@
   "general": {
     "export": "Datenexport",
     "festivalName": "Moers Festival",
+    "guestarticle": "Gastbeitrag",
     "imprint": "Impressum",
     "issueTracker": "Issue-Tracker",
     "tweet": "Tweet"

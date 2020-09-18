@@ -21,6 +21,14 @@
                 <a href="https://github.com/sermo-de-arboribus/sda-moers/issues">{{$t("general.issueTracker")}}</a>
             </template>
         </i18n>
+        <i18n path="artistsTable.intro2" tag="p">
+            <template v-slot:guestarticle>
+                <a href="https://radio.friendsofalan.de/gastbeitrag-kai-weber-und-das-moers-festival-20109-2020-als-datenbank-und-das-projekt-coding-da-vinci/">{{$t("general.guestarticle")}}</a>
+            </template>
+            <template v-slot:tweet>
+                <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">{{$t("general.tweet")}}</a>
+            </template>
+        </i18n>
         <vue-loading v-if="loading" type="spin" color="blue"></vue-loading>
         <vue-good-table
             :columns="tableColumns"

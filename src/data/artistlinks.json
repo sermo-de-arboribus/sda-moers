@@ -66,6 +66,30 @@
     "BouchalbAbdelhadi": { 
         "canonicalName": { "firstname": "Bouchaib", "surname": "Abdelhadi"}
     },
+    "Adnan ShananAbdulamir": {
+        "canonicalName": { "firstname": "Adnan", "surname": "Shanan"}
+    },
+    "AhmedAbdullah": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ahmedabdullah"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ahmed-abdullah-mn0000505933"}],
+            "bandcamp": [{"type": "album", "url": "https://silkheart.bandcamp.com/album/liquid-magic"}, {"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/live"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/269222-Ahmed-Abdullah"}],
+            "homepage": [{"type": "personal", "url": "https://www.ahmedian.com/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ahmed_Abdullah"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ahmed_Abdullah"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ahmed_Abdullah"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ahmed_Abdullah"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCl2hPr4lp5lkulBVGuw_SVQ"}]
+        },
+        "notes": {
+            "cs": "Narozen jako Leroy Bland",
+            "de": "Geburtsname Leroy Bland",
+            "en": "Born as Leroy Bland",
+            "fr": "Née Leroy Bland",
+            "zh": "出生​姓名Leroy Bland"
+        }
+    },
+    "Adnan ShananAbdullamir": {
+        "canonicalName": { "firstname": "Adnan", "surname": "Shanan"}
+    },
     "MariëAbe": {
         "canonicalName": { "firstname": "Marié", "surname": "Abe"}
     },
@@ -88,6 +112,11 @@
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/lennartaberg4"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Lennart_%C3%85berg"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Lennart_%C3%85berg"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCOtvi8vQOe26MgKsasrC0kg"}]
+        }
+    },
+    "YasuhikoAbeta": {
+        "links": {
+            "homepage": [{"type": "band", "url": "http://shibusa.net/sche2/sche30.cgi?cm=1"}]
         }
     },
     "SophieAbraham": {
@@ -249,6 +278,12 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6018030-Jochen-Balke"}],
             "homepage": [{"type": "personal", "url": "http://siriusimages.de/"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/siriusimages"}]
+        }
+    },
+    "StellaBanks": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/774468-Stella-Banks"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC8CsIo_TUMhzPjj_vXouskA"}]
         }
     },
     "MoritzBaranczyk": {
@@ -615,6 +650,18 @@
             "bandcamp": [{"type": "band", "url": "https://piniol.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2928400-Boris-Cassone"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/duretdoux"}, {"type": "band", "url": "https://soundcloud.com/poil-1"}]
+        }
+    },
+    "PhilipCatherine": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/philipcatherine"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/philip-catherine-mn0000287463"}],
+            "bandcamp": [{"type": "album", "url": "https://igloorecords.bandcamp.com/album/philip-catherine-oscar"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/297693-Philip-Catherine"}],
+            "homepage": [{"type": "personal", "url": "http://www.philipcatherine.com/"}],
+            "radiohoerer": [{"type": "search", "url": "!https://radio.friendsofalan.de/?s=%22Philip%20Catherine%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/philip-catherine"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Philip_Catherine"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Philip_Catherine"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Philip_Catherine"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Philip_Catherine"}]}]
         }
     },
     "MattisCederberg": {
@@ -1022,6 +1069,19 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcidQwO8IluwG9BHxygGs6Q"}]
         }
     },
+    "FredFrith": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/fredfrith"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/fred-frith-mn0000178916"}],
+            "bandcamp": [{"type": "agency", "url": "https://fred-frith.bandcamp.com/"}, {"type": "agency", "url": "https://fredfrith.bandcamp.com/"}, {"type": "album", "url": "https://idischidiangelica.bandcamp.com/album/stone-brick-glass-wood-wire"}, {"type": "album", "url": "https://crammed-discs.bandcamp.com/album/the-top-of-his-head"}, {"type": "album", "url": "https://rusconi.bandcamp.com/album/live-in-europe"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/78003-Fred-Frith"}],
+            "homepage": [{"type": "personal", "url": "http://www.fredfrith.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Fred%20Frith%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/fredfrith"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Fred_Frith"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Fred_Frith"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Fred_Frith"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Fred_Frith"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Fred_Frith"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCieQhVVWGJBI1yUxzSBWu1g"}]
+        }
+    },
     "FelixFritsche": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316967-Felix-Fritsche"}],
@@ -1334,6 +1394,26 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4478978-Lydia-Haurenherm"}]
         }
     },
+    "AliHaurand": {
+        "canonicalName": { "firstname": "Alfred", "surname": "Haurand"}
+    },
+    "AlfredHaurand": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/alihaurand"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ali-haurand-mn0001330619"}, {"type": "personal", "url": "https://www.allmusic.com/artist/alfred-haurand-mn0001328336"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/395689-Ali-Haurand"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ali%20Haurand%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ali_Haurand"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ali_Haurand"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCjYhH8OadzGYQXms6r_r0FQ"}]
+        },
+        "notes": {
+            "cs": "Přezdívka: Ali",
+            "de": "Spitzname: Ali",
+            "en": "Nickname: Ali",
+            "fr": "Sobriquet: Ali",
+            "zh": "外号: Ali"
+        }
+    },
     "PaulHeller": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/paulheller"}],
@@ -1396,6 +1476,18 @@
             "homepage": [{"type": "band", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/saxofone/hoerlen-100.html"}],
             "radiohoerer": [{"type": "personal", "urL": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Johan+H%C3%B6rl%C3%A9n%22"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johan_H%C3%B6rl%C3%A9n"}]}]
+        }
+    },
+    "Jasper van'tHof": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jaspervanthof"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jasper-vant-hof-mn0000175485"}],
+            "bandcamp": [{"type": "band", "url": "https://davidfriedmanandjaspervanthof.bandcamp.com/"}, {"type": "album", "url": "https://futuramarge.bandcamp.com/album/whybecause"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/149325-Jasper-Vant-Hof"}],
+            "homepage": [{"type": "personal", "url": "https://www.jaspervanthof.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jasper%20Van%27t%20Hof%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jaspervanthof"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jasper_van%E2%80%99t_Hof"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jasper_van_%27t_Hof"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jasper_van_%27t_Hof"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jasper_van_%27t_Hof"}]}]
         }
     },
     "LisaHofmaninger": {
@@ -1493,6 +1585,14 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Andy%20Hunter%22"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andy_Hunter_(Posaunist)"}]}],
             "youtube": [{"type": "search", "url": "https://www.youtube.com/c/WDRBIGBAND/search?query=Andy+Hunter"}]
+        }
+    },
+    "JanHuydts": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-huydts-mn0001398806"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/768342-Jan-Huydts"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Huydts"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCZSDv7Wp4uTGuMhtBgPywYg"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCfxOrqrN0NxxcZTNmAQdy-Q"}]
         }
     },
     "TimIsford": {
@@ -2395,6 +2495,13 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCblWnz3Ytn9eJBL-PuV-ekQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCukkNN_3JFSsS_1t0xUtl0A"}]
         }
     },
+    "GarciaMorales": {
+        "links": {
+            "allmusic": [{"type":"personal", "url": "https://www.allmusic.com/artist/garcia-morales-mn0001237322"}, {"type": "personal", "url": "https://www.allmusic.com/artist/garcia-morales-mn0001097561"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/256298-Garcia-Morales"}],
+            "homepage": [{"type": "agency", "url": "https://www.jazzinbelgium.com/person/garcia.morales"}]
+        }
+    },
     "StanleyMorgan": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/stanley-morgan-mn0000786143"}],
@@ -2993,6 +3100,14 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC1nV2ajyrpmiXUbpn2sWDsA"}]
         }
     },
+    "Leo deRuiter": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1622482-Leo-De-Ruiter"}, {"type": "personal", "url": "https://www.discogs.com/de/artist/2302926-Leo-de-Ruyter"}]
+        }  
+    },
+    "Leo deRuyter": {
+        "canonicalName": { "firstname": "Leo de", "surname": "Ruiter" }
+    },
     "TorunnSævik": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/torunn-sævik-mn0002604160"}],
@@ -3221,6 +3336,13 @@
             "homepage": [{"type": "personal", "url": "https://www.facebook.com/jonathan.sell.52"}, {"type": "band", "url": "https://www.hazart-trio.de/"}, {"type": "band", "url": "https://beyondborders.band/"}, {"type": "band", "url": "https://www.theswindlers.de"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-849661391-285711310"}, {"type": "band", "url": "https://soundcloud.com/beyondbordersband"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC4Bdvukde5WHMB1f-ZUdHqw"}, {"type": "band", "url": "https://www.youtube.com/channel/UCWrN16mT4v2m13st7B4q1Hg"}]
+        }
+    },
+    "AdnanShanan": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3486174-%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D8%B4%D9%86%D8%A7%D9%86"}],
+            "homepage": [{"type": "band", "url": "https://web.archive.org/web/20080127215550/http://www.faridamaqam4u.com/cv4_en.php"}, {"type": "band", "url": "https://sarband.de/Adnan.shtml"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/adnannuga"}]
         }
     },
     "JimShapiro": {
@@ -3569,6 +3691,14 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/JanningT"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Janning_Trumann"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCRUVlsxRW5foxJPxMoV6TLg"}]
+        }
+    },
+    "PeterTrunk": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-trunk-mn0001563000"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/382100-Peter-Trunk"}],
+            "radiohoerer": [{"type": "search", "url": "!https://radio.friendsofalan.de/?s=%22Peter%20Trunk%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Trunk"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Peter_Trunk"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_Trunk"}]}]
         }
     },
     "AtsushiTsuyama": {
