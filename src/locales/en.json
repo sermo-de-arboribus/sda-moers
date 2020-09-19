@@ -25,7 +25,8 @@
     "firstname": "First name",
     "header": "Artists at the {festivalName}",
     "instruments": "Instruments",
-    "intro": "A table by {websiteCreator} based on open festival data from {dataProvider}. A {tweet} was the cause for setting this table up. For the time being only the concerts of 2019 and 2020 are covered, but an extension to older data is being planned. Furthermore the data handling and usability of the site are supposed to be improved. If you're interested in what improvements are planned, you can have a look at the {issueTracker} of the code repository."  ,
+    "intro": "Welcome to {websiteCreator}'s page with infos on musicians who have played at Moers Festival since 1972. Unlike the festival's official website this table here puts a spotlight on the individual artists rather than bands and bandleaders. By using the sorting and filtering functions for artists, years or instruments it is eay to find answers to your individual questions.",
+    "intro2": "I have described the origin and motivation for creating this website (in German) in a {guestarticle} on the radio listener's blog. The impetus was given by a {tweet}. For the years 2019 and 2020 the information on this website is based on the open festival data of {dataProvider}, data of the earlier festivals is taken from the festival's website and is being appended by information from the program documents. The links to further information on the artists have also been added by me. If you want to download the data for your own purposes, feel free to do so using the data export link above.",
     "links": "Links",
     "notes": "Notes",
     "pagination": {
@@ -54,6 +55,7 @@
   "general": {
     "export": "Export data",
     "festivalName": "Moers Festival",
+    "guestarticle": "guest article",
     "imprint": "Imprint",
     "issueTracker": "issue tracker",
     "tweet": "tweet"

@@ -22,6 +22,10 @@
             </template>
         </i18n>
         <i18n path="artistsTable.intro2" tag="p">
+            <template v-slot:dataProvider>
+                <a href="https://lambdadigamma.com" v-if="locale === 'cs'">Lennarta Fišera</a>
+                <a href="https://lambdadigamma.com/" v-else>Lennart Fischer</a>
+            </template>
             <template v-slot:guestarticle>
                 <a href="https://radio.friendsofalan.de/gastbeitrag-kai-weber-und-das-moers-festival-20109-2020-als-datenbank-und-das-projekt-coding-da-vinci/">{{$t("general.guestarticle")}}</a>
             </template>

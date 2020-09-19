@@ -708,6 +708,16 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/StrongWaterPressure"}]
         }
     },
+    "GünterChristmann": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/g%C3%BCnter-christmann-mn0000944375"}],
+            "bandcamp": [{"type": "album", "url": "https://matsgustafsson.bandcamp.com/album/one-to-two"}, {"type": "album", "url": "https://guysegers1.bandcamp.com/album/sometimes-crosswise-1992-12-06-full-album"}, {"type": "album", "url": "https://saj-rec.bandcamp.com/album/johansson-christmann-gustafsson-im-podewil-berlin-1993-vol-i-mittwoch"}, {"type": "album", "url": "https://saj-rec.bandcamp.com/album/johansson-christmann-gustafsson-im-podewil-berlin-1993-vol-ii-donnerstag"}, {"type": "album", "url": "https://conditionwestrecordings.bandcamp.com/album/close-together"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/297025-G%C3%BCnter-Christmann"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22G%C3%BCnter%20Christmann%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/G%C3%BCnter_Christmann"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmNITH9WNMnf1cu_n1ZH_qg"}]
+        }
+    },
     "GeraldCleaver": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/geraldcleaver"}],
@@ -3224,6 +3234,16 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hans-schneider-mn0001357528"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/317923-Hans-Schneider"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hans_Schneider_(Bassist)"}]}]
+        }
+    },
+    "DetlefSchönenberg": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/detlef-sch%C3%B6nenberg-mn0002929204"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/spielt-schlagzeug"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/358371-Detlef-Sch%C3%B6nenberg"}],
+            "homepage": [{"type": "personal", "url": "https://www.transformationjetzt.de/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Detlef_Sch%C3%B6nenberg"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCS_iUo4atkMnTEYBGuFqG_A"}]
         }
     },
     "MichaelSchönhuth": {
