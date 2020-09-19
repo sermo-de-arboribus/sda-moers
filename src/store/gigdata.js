@@ -167,14 +167,14 @@ module.exports = {
                                     break;
                             }
 
-                            if (link.locales && link.locales.find(l => l.locale == this.locale)) {
+                            if (link.locales && link.locales.find(l => l.locale == rootState.i18n.locale)) {
 
                                 links.push({
                                     faIconClass,
                                     htmlTitle: `${getServiceName(l)}: ${getServiceType(link.type, rootState.i18n.i18nComponent)}`,
                                     logoUrl: getLogoUrl(l),
                                     type: link.type, 
-                                    url: link.locales.find(l => l.locale == this.locale).url
+                                    url: link.locales.find(l => l.locale == rootState.i18n.locale).url
                                 });
                             } else if (link.url) {
                                 link.faIconClass = faIconClass;

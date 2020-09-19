@@ -3939,7 +3939,7 @@
     "start_date":"1985-05-26 00:00:00",
     "name":"Mathias Rüegg & Vienna Art Choir feat. Wolfgang Puschnig \/ Christian Radovan (CH\/AUT\/USA\/DE)",
     "id":"d6e885",
-    "description":"Besetzung: Mathias Rüegg, (comp, arr, ld), Renate Bochdansky (soprano), Maria Bayer (alto), Lis Malina (alto), Sharon Natalie (alto), Karin Riessner (alto), Peter Jelosits (tenor), Kurt Azesberger (tenor), Christof Pinz (b), Lauren Newton (leadvoc, solovoc), Johannes Prinz (b, leader of the choir), Wolfgang Puschnig (as, bcl, fl, picc, exotic fl), Herbert Joos (flh, Alphorn), Christian Radovan (tb), Woody Schabata (dulcimer, xyl)"
+    "description":"Besetzung: Mathias Rüegg (comp, arr, ld), Renate Bochdansky (soprano), Maria Bayer (alto), Lis Malina (alto), Sharon Natalie (alto), Karin Riessner (alto), Peter Jelosits (tenor), Kurt Azesberger (tenor), Christof Pinz (b), Lauren Newton (leadvoc, solovoc), Johannes Prinz (b, leader of the choir), Wolfgang Puschnig (as, bcl, fl, picc, exotic fl), Herbert Joos (flh, Alphorn), Christian Radovan (tb), Woody Schabata (dulcimer, xyl)"
    },
    {
     "start_date":"1985-05-26 00:00:00",
@@ -5354,475 +5354,613 @@
    {
     "start_date":"2003-06-06 00:00:00",
     "name":"Gangbe Brass Band (BEN)",
-    "id":"d7e1179",
+    "id":"d7e1183",
     "description":"Besetzung: Aristide Agondanou (voc, tp, perc), Martial Ahouandjinou (voc, tb), Willy David A. Benni (voc, tp, perc), Benoit Avihoue (voc, tp, perc), Athanase O. Dehoumon (voc, tp, sax, perc), Lucien Gbaguidi (sax), Jean d\u0092’Arc Gnonlonfoun (voc, perc), Samuel Gnonlonfoun (voc, tp, perc), Joseph Houessou (voc, tb, perc), James Vodounnon (voc, tb, euphonium)"
    },
    {
     "start_date":"2003-06-06 00:00:00",
     "name":"Sun Ra Arkestra (USA)",
-    "id":"d7e1184",
+    "id":"d7e1189",
     "description":"Besetzung: Marshall Allen (as, fl, dir), Art Jenkins (voc), Lewis Keel (ts) Rey Scott (bs), Noel Scott (as), Michael Ray (tp) Fred Adams (tp), Dave Davis (tb), Tyrone Hill (tb), Dave Hotep (g), Elson Nascimento (perc), Bill Davis (b), Luqman Ali (dr)"
    },
    {
     "start_date":"2003-06-06 00:00:00",
     "name":"WHO Trio (CH\/USA)",
-    "id":"d7e1189",
+    "id":"d7e1196",
     "description":"Besetzung: Michel Wintsch (p), Bänz Oester (b), Gerry Hemingway (dr)"
    },
    {
     "start_date":"2003-06-06 00:00:00",
     "name":"Ljiljana Buttler & Mostar Sevdah Reunion (SRB\/BIH)",
-    "id":"d7e1194",
+    "id":"d7e1202",
     "description":"Besetzung: Ljiljana Buttler (voc), Ilijaz Delic (voc), Mustafa Santic (acc, cl), Milic Petrovic (g), Sandi Durakovic (rhythm guitar), Kosta Latinovic (double bass), Nedeljko Kovacevic (v), Sead Avdic (dr)"
    },
    {
     "start_date":"2003-06-07 00:00:00",
     "name":"Samir & Wissam Joubran (PAL)",
-    "id":"d7e1203",
+    "id":"d7e1213",
     "description":"Besetzung: Samir Joubran (oud), Wissam Joubran (oud)"
    },
    {
     "start_date":"2003-06-07 00:00:00",
     "name":"Michiel Borstlap - Bill Bruford Duo (NL\/GB)",
-    "id":"d7e1208",
+    "id":"d7e1219",
     "description":"Besetzung: Michiel Borstlap (p), Bill Bruford (dr)"
    },
    {
     "start_date":"2003-06-07 00:00:00",
     "name":"Pierre Audétat Group (CH)",
-    "id":"d7e1213",
+    "id":"d7e1225",
     "description":"Besetzung: Pierre Audétat (sampler), Laurent Poget (eg), Jean-Jacques Pedretti (tb), Christophe Turchi (as)"
    },
    {
     "start_date":"2003-06-07 00:00:00",
     "name":"Chan Band (JPN)",
-    "id":"d7e1219",
+    "id":"d7e1232",
     "description":"Besetzung: Ayako Sasaki (voc, key), Yoichiro Kita (tp), Yoshiyuki Kawaguchi (reeds), Keiko Komori (reeds), Kazuhisa Uchihashi (g), Daisuke Fuwa (b), Mari Sekine (dr), Sayaka Nakada (dance), Yumi Wada (dance), Mayumi Fukuzaki (dance), Kenichiro Hoshino (butoh-dance), Masashi Sugiyama (happenist), Atsushi Tanaka (sound engineer) Yasuhiko Abeta (stage director)"
    },
    {
     "start_date":"2003-06-07 00:00:00",
     "name":"Mariem Hassan & Leyoad (ESH)",
-    "id":"d7e1224",
+    "id":"d7e1238",
     "description":"Besetzung: Mariem Hassan (voc, tbal), Shueta (voc, tbal), Faknash (voc, tbal, dance), Jeirana (voc, tbal, dance), Aziza Brahim (voc, perc), Nayim Alal (voc, g, tidinit), Feku (g, b)"
    },
    {
     "start_date":"2003-06-07 00:00:00",
     "name":"Ojos de Brujo (ESP)",
-    "id":"d7e1229",
+    "id":"d7e1244",
     "description":"Besetzung: Ramón Giménez (flamenco guitar), Paco Lomeña (flamenco guitar, jaleos, palmas), Marina \"La Canillas\" (voc, jipjopeo), Juanlu \"Er Canijo\" (b), Xavi Turull (cajón flamenco, tablas, congas, cooking), Panko (scratchism), Max (bongó, darbouka, tablas, congas, beat box), Sergio Ramos (cajón flamenco, dr)"
    },
    {
     "start_date":"2003-06-08 00:00:00",
     "name":"Corrie van Binsbergen 4 (NL)",
-    "id":"d7e1238",
+    "id":"d7e1255",
     "description":"Besetzung: Corrie van Binsbergen (g), Pieter Jan Cramer (p, acc), Ernst Glerum (b), Nout Ingen-Howaz (dr), Guigou Chenevier (dr)"
    },
    {
     "start_date":"2003-06-08 00:00:00",
     "name":"Savina Yannatou & Primavera en Salonico (GRE)",
-    "id":"d7e1243",
+    "id":"d7e1261",
     "description":"Besetzung: Savina Yannatou (voc), Lamia Bedioui (voc), Yannis Alexandris (oud, g, tamboura), Kostas Vomvolos (kanoun, acc, caliba, tamboura), Kyriakos Gouventas (v), Haris Lambrakis (nay), Tassos Misyrlis (clo), Michalis Siganidis (double-bass), Lefteris Ahgouridakis (perc) Antonis Maratos (perc)"
    },
    {
     "start_date":"2003-06-08 00:00:00",
     "name":"Demierre\/Guy\/Niggli - (CH\/GB)",
-    "id":"d7e1248",
+    "id":"d7e1268",
     "description":"Besetzung: Jacques Demierre (p), Barry Guy (double-bass), Lucas Niggli (dr, perc)"
    },
    {
     "start_date":"2003-06-08 00:00:00",
     "name":"Rajery (MAD)",
-    "id":"d7e1253",
+    "id":"d7e1274",
     "description":"Besetzung: Rajery Randrianarisoa (voc, valiha), Raymond Rakotoarisoa (voc), Jean Charles Razanakoto (g), Radanz (eb), Judicael Vahiniry Rabaroelina (dr, perc)"
    },
    {
     "start_date":"2003-06-08 00:00:00",
     "name":"Charles Lloyd Quartet (USA)",
-    "id":"d7e1258",
+    "id":"d7e1280",
     "description":"Besetzung: Charles Lloyd (ts, fl, taragato), Geri Allen (p), Bob Hurst (b), Eric Harland (dr)"
+   },
+   {
+    "start_date":"2003-06-08 00:00:00",
+    "name":"Amadou & Mariam@African Dance Night",
+    "id":"d7e1290",
+    "description":"Besetzung: Amadou Bagayoko (voc, g), Mariam Doumbia (voc), Hervé SAMB (g), Cheick Tidiane Seck (keyb), Laurent Griffon (b), Stéphane San Juan (dr), Boubacar Dembélé (perc)"
+   },
+   {
+    "start_date":"2003-06-08 00:00:00",
+    "name":"Sally Nyolo@African Dance Night",
+    "id":"d7e1295",
+    "description":"Besetzung: Sally Nyolo (voc) 7 musicians on stage, N.N."
+   },
+   {
+    "start_date":"2003-06-08 00:00:00",
+    "name":"Cheb Mami@African Dance Night",
+    "id":"d7e1302",
+    "description":"Besetzung: Cheb Mami (voc) other musicians: N.N."
    },
    {
     "start_date":"2003-06-09 00:00:00",
     "name":"George Russell & the Living Time Orchestra (USA)",
-    "id":"d7e1267",
+    "id":"d7e1311",
     "description":"Besetzung: Palle Mikkelborg (tp), Stanton Davis (tp), Stuart Brooks (tp), Dave Bargeron (tb), Richard Edwards (tb), Andy Sheppard (sax), Chris Biscoe (sax), Pete Hurt (sax), Hiraoke Honshuku (fl, elec), Brad Hatfield ( key), Steve Lodder (key), Mike Walker (g), Bill Urmson (eb), Pat Hollenbeck (perc), George Russell (ld)"
    },
    {
     "start_date":"2003-06-09 00:00:00",
     "name":"Kazutoki Umezu \u0084KiKi\" Band (JPN)",
-    "id":"d7e1273",
+    "id":"d7e1317",
     "description":"Besetzung: Kazutoki Umezu (as), Kido Natsuki (eg), Hayakawa Takeharu (eb), Niida Kozo (dr)"
    },
    {
     "start_date":"2003-06-09 00:00:00",
     "name":"Steamboat Switzerland Extended Ensemble (CH\/GB\/USA\/NL) plays ORANGE SLICE by David Dramm",
-    "id":"d7e1278",
+    "id":"d7e1323",
     "description":"Besetzung: Dominik Blum (hammond organ, analog synthesizer, p), Gerard Bouwhuis (sampling keyb, p), Marino Pliakas (eb), Pete Wilson (eb), Lucas Niggli (dr, perc), Remo Signer (dr, perc), Marco Blaauw (tp), Reijer Dorresteijn (tp), Bob Koertshuis (tp), Willy Strehler (live sound), Clare Gallagher (monitor sound), David Dramm (live electronics)"
    },
    {
     "start_date":"2003-06-09 00:00:00",
     "name":"Sanda Weigl & Gipsy Killer (DE\/USA)",
-    "id":"d7e1283",
+    "id":"d7e1329",
     "description":"Besetzung: Sanda Weigl (voc), Anthony Coleman (p, key), Ted Reichman (acc), Doug Wiselman (cl), Curtis Hasselbrink (tb), Pablo Aslan (b), Roberto Rodriguez (dr)"
    },
    {
     "start_date":"2003-06-09 00:00:00",
     "name":"Mercan Dede (TUR)",
-    "id":"d7e1288",
+    "id":"d7e1336",
     "description":"Besetzung: Mercan Dede (voc, ney, bendir, tt, samples, electronic sounds), Husnu Senlendirici (cl), Gosksel Baktagir (kanun), Mehmet Akatay (perc), Scott Russel (dr), Mira Burke (dance)"
+   },
+   {
+    "start_date":"2003-06-09 00:00:00",
+    "name":"Dampfschiff II (Morning project)",
+    "id":"d7e1344",
+    "description":"Besetzung: Dominik Blum (hammond, p, analog electronics), Marino Pliakas (g,el-b), Hans Martin Müller (fl, conferencier), Jacques Demierre (p), Anne La Berge (fl, elec), Hervé Provini (dr, elec), Sabine von Werra (voc, elec), Norbert Möslang (cracked everyday-electronics), Erik M. (electronics), Lucas Niggli (dr, perc)"
+   },
+   {
+    "start_date":"2003-06-09 00:00:00",
+    "name":"electronic lounge III (Morning Project)",
+    "id":"d7e1350",
+    "description":"Besetzung: Frank Schulte (electr, conception), Anna Homler (voc, perf, sounds), Claus von Bebber (turntables, electr), Kalle Laar (g, electr), Jan St. Werner (electr), Martin Tétreault (electr), Xavier Garcia (electr), Rosa Barba (film, installation), Michael Vorfeld (light, installation)"
    },
    {
     "start_date":"2002-05-17 00:00:00",
     "name":"The African Jazz Allstars (ZAF\/TAN\/NIG\/GHA\/SUD\/CON)",
-    "id":"d7e1310",
+    "id":"d7e1377",
     "description":"Besetzung: Lucky Ranku (g, ld), Pinise Saul (voc), Claude Deppa (tp), Fayyaz Virji (tb), Bukky Leo (ts), Tony Kofi (bs), Ntshuks Bonga (as), Dele Sosimi (p), Sami el Salahi (b), Brice Wassy (dr), Koko Kayinda (perc)"
    },
    {
     "start_date":"2002-05-17 00:00:00",
     "name":"Ronald Snijders Kaseko Jazz (SUR\/NL)",
-    "id":"d7e1315",
+    "id":"d7e1383",
     "description":"Besetzung: Ronald Snijders (fl), Franklin Ceasar (reeds), Alwin Reingout (tb), Joe Rivera (tp), Robin van Geerke (key), Robby Alberga (g), Randy Wintertal (b), Danielle Felter (kawina bench), Glenn Kloppenburg (skratjiedrum), Cherish Snijders (hari kawina drum), Chantal Snijders (koti kawina drum), Varensja Snijders (timba kawina drum), Walther Muringen (dr)"
    },
    {
     "start_date":"2002-05-17 00:00:00",
     "name":"William Cepeda Afro-Rican Jazz Band (PUR)",
-    "id":"d7e1320",
+    "id":"d7e1389",
     "description":"Besetzung: Rico William Cepeda (tb), Omar Kabir (tp), Miguel Zenon (as, fl), Uli G. (keyb), Paul Romero (g), Tony Batista (b), Jorge Perez (dr), Roland Morales (perc)"
    },
    {
     "start_date":"2002-05-18 00:00:00",
     "name":"Per Henrik Wallin Trio (SWE)",
-    "id":"d7e1329",
+    "id":"d7e1401",
     "description":"Besetzung: Per Henrik Wallin (p), Niels Ölmedal (b), Steve Reid (dr)"
    },
    {
     "start_date":"2002-05-18 00:00:00",
     "name":"Steamboat Switzerland (CH)",
-    "id":"d7e1334",
+    "id":"d7e1407",
     "description":"Besetzung: Dominik Blum (hammond organ, p, electronics), Marino Pliakas (b, electronics) Lucas Niggli (dr, perc)"
    },
    {
     "start_date":"2002-05-18 00:00:00",
     "name":"LucEx & 4 walls (GB\/NL)",
-    "id":"d7e1339",
+    "id":"d7e1413",
     "description":"Besetzung: Phil Minton (voc), Veryan Weston (p), Luc Ex (b), Michael Vatcher (dr, perc)"
    },
    {
     "start_date":"2002-05-18 00:00:00",
     "name":"Misha Alperin's & Moscow Art Trio feat. Eli Kristin Hovdsveen Hagen (RUS\/NOR)",
-    "id":"d7e1344",
+    "id":"d7e1419",
     "description":"Besetzung: Arkady Shilkloper (frh, voice), Segey Starostin (voc, cl, folk reeds), Misha Alperin (p), Eli Kristin Hovdsveen Hagen (voc, plastic tubes)"
    },
    {
     "start_date":"2002-05-18 00:00:00",
-    "name":"Louis Sclavis & ,,Napoli's Walls\" (FRA\/DK)",
-    "id":"d7e1350",
+    "name":"Louis Sclavis & „Napoli's Walls“ (FRA\/DK)",
+    "id":"d7e1425",
     "description":"Besetzung: Louis Sclavis (reeds), Médéric Collignon (tp, voc), Hasse Poulsen (g), Vincent Courtois (clo)"
    },
    {
     "start_date":"2002-05-18 00:00:00",
     "name":"Shibusa-Shirazu Orchestra (JPN\/CH)",
-    "id":"d7e1355",
+    "id":"d7e1432",
     "description":"Besetzung: Daisuke Fuwa (b, ld, comp, cond), Aya Murodate (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Walter Bucheli (pan-fl), Yuji Katsui (v), Takashi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tesu Hirosawa (ts), Nobuhiro Nakane (tb), Naoki Hanajima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Ichiro Kitoh (bs), Yoshiyuki Kawaguchi (reeds), Keiko Komori (reeds), Takayuki Kato (g), Jiro Sarutani (g), Hiroshi Higo (b), Yasuhiro Yoshigaki (dr), Masahiro Uemura (dr), Mari Sekine (perc), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), Toyo Matsubara (butoh-dance), Mayumi Shirasaki (butoh-dance), Saburo Tokuhisa (butoh-dance), Shinichi Watabe (actor), Masashi Sugiyama (happenist), Aki Ono (stage art), Gahaku Aoyama (stage art), Yasuhiko Abeta (stage director), Atsushi Tanaka (sounds), Jun Masuyama (instrument keeper), Teruto Soejima (producer)"
+   },
+   {
+    "start_date":"2002-05-18 00:00:00",
+    "name":"Con Moto (Morning Project)",
+    "id":"d7e1442",
+    "description":"Besetzung: Günter Christmann (clo, tb, film), Urs Leimgruber (reeds), Alexander Frangenheim (cb), Elke Schipper (sound poetry), Fine Kwiatkowski (dance), David Zambrano (dance)"
+   },
+   {
+    "start_date":"2002-05-18 00:00:00",
+    "name":"Dampfschiff Schweiz (Morning Project)",
+    "id":"d7e1448",
+    "description":"Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, b-cl), Christian Weber (b, electronics), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)"
+   },
+   {
+    "start_date":"2002-05-18 00:00:00",
+    "name":"Electronic Lounge „radio“ project 97 MHz",
+    "id":"d7e1454",
+    "description":"Besetzung: Frank Schulte (electr), Philip Jeck (electr), Jochen Bohnes (electr), Marcus Schmickler (electr), eRikm (electr), Jacob K (electr)"
+   },
+   {
+    "start_date":"2002-05-18 00:00:00",
+    "name":"Electronic Lounge teatime",
+    "id":"d7e1459",
+    "description":"Besetzung: Ekkehard Ehlers (electr), Jan St. Werner (electr), Anthony Moore (electr)"
+   },
+   {
+    "start_date":"2002-05-18 00:00:00",
+    "name":"Shibusa-Shirazu Orchestra (Morning Session)",
+    "id":"d7e1465",
+    "description":"Besetzung: Daisuke Fuwa (b, ld, comp, cond), Aya Murodate (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Walter Bucheli (pan-fl), Yuji Katsui (v), Takashi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tesu Hirosawa (ts), Nobuhiro Nakane (tb), Naoki Hanajima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Ichiro Kitoh (bs), Yoshiyuki Kawaguchi (reeds), Keiko Komori (reeds), Takayuki Kato (g), Jiro Sarutani (g), Hiroshi Higo (b), Yasuhiro Yoshigaki (dr), Masahiro Uemura (dr), Mari Sekine (perc), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), Toyo Matsubara (butoh-dance), Mayumi Shirasaki (butoh-dance), Saburo Tokuhisa (butoh-dance), Shinichi Watabe (actor), Masashi Sugiyama (happenist), Aki Ono (stage art), Gahaku Aoyama (stage art), Yasuhiko Abeta (stage director), Atsushi Tanaka (sounds)"
    },
    {
     "start_date":"2002-05-19 00:00:00",
     "name":"Kroyt (NOR)",
-    "id":"d7e1364",
+    "id":"d7e1476",
     "description":"Besetzung: Kristin Asbjornsen (voc), Øyvind Brandtsegg (vibes, programming), Thomas Dahl (g), Magnus Torkildsen (sound), Atle Ramsoy Halle (live filming)"
    },
    {
     "start_date":"2002-05-19 00:00:00",
     "name":"Revolution³ (GB\/FR\/DE)",
-    "id":"d7e1369",
+    "id":"d7e1482",
     "description":"Besetzung: eRikm (tt), philip jeck (tt), fshuttle services (tt, elec)"
    },
    {
     "start_date":"2002-05-19 00:00:00",
     "name":"Lucas Niggli Zoom (CH)",
-    "id":"d7e1374",
+    "id":"d7e1488",
     "description":"Besetzung: Nils Wogram (tb), Phillip Schaufelberger (g), Lucas Niggli (dr, perc)"
    },
    {
     "start_date":"2002-05-19 00:00:00",
     "name":"Tous Dehors - 'Dommage à Glenn' (FRA)",
-    "id":"d7e1379",
+    "id":"d7e1494",
     "description":"Besetzung: Laurent Dehors (reeds, cornemuse), Catherine Delaunay (reeds), Michel Massot (tb, tu), Jacky Lignon (acc), Jean Marc Quillet (vib, marimbaphone), David Chevallier (g), Francois Merville (dr), Bertrand Bigot (effects, sounds)"
    },
    {
     "start_date":"2002-05-19 00:00:00",
-    "name":"Vienna Art Orchestra - ,,Art & Fun.25\" (AUT\/CH)",
-    "id":"d7e1384",
+    "name":"Vienna Art Orchestra - „Art & Fun.25“ (AUT\/CH)",
+    "id":"d7e1501",
     "description":"Besetzung: Mathias Rüegg (ld), Anna Lauvergnac (voc), Thorsten Benkenstein (tp), Matthieu Michel (tp), Bumi Fian (tp), Thomas Gansch (tp), Adrian Mears (tb, didgeridoo), Robert Bachner (tb), Christian Muthspiel (tb), Ed Partyka (tb, tu), Klaus Dickbauer (reeds, fl), Florian Bramböck (reeds), Harry Sokal (reeds), Andy Scherrer (ts), Herwig Gradischnig (bs), Alegre Correa (g), perc; Martin Koller (eg), Georg Breinschmid (b), Robert Riegler (eb) Mario Gonzi (dr), Jogo Mayer (dr), Ronald Matky (sounds), Reto Schubiger (lights), Thomas Hötzeneder (visual effects)"
    },
    {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Con Moto (Morning Project)",
+    "id":"d7e1511",
+    "description":"Besetzung: Günter Christmann (clo, tb, film), Urs Leimgruber (reeds), Alexander Frangenheim (cb), Elke Schipper (sound poetry), Fine Kwiatkowski (dance), David Zambrano (dance)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Dampfschiff Schweiz (Morning Project)",
+    "id":"d7e1517",
+    "description":"Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, b-cl), Christian Weber (b, electronics), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Electronic Lounge „radio“ project 97 MHz",
+    "id":"d7e1523",
+    "description":"Besetzung: Frank Schulte (electr), Philip Jeck (electr), Jochen Bohnes (electr), Marcus Schmickler (electr), eRikm (electr), Jacob K (electr)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Electronic Lounge teatime",
+    "id":"d7e1528",
+    "description":"Besetzung: Ekkehard Ehlers (electr), Jan St. Werner (electr), Anthony Moore (electr)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Shibusa-Shirazu Orchestra (Morning Session)",
+    "id":"d7e1534",
+    "description":"Besetzung: Daisuke Fuwa (b, ld, comp, cond), Aya Murodate (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Walter Bucheli (pan-fl), Yuji Katsui (v), Takashi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tesu Hirosawa (ts), Nobuhiro Nakane (tb), Naoki Hanajima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Ichiro Kitoh (bs), Yoshiyuki Kawaguchi (reeds), Keiko Komori (reeds), Takayuki Kato (g), Jiro Sarutani (g), Hiroshi Higo (b), Yasuhiro Yoshigaki (dr), Masahiro Uemura (dr), Mari Sekine (perc), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), Toyo Matsubara (butoh-dance), Mayumi Shirasaki (butoh-dance), Saburo Tokuhisa (butoh-dance), Shinichi Watabe (actor), Masashi Sugiyama (happenist), Aki Ono (stage art), Gahaku Aoyama (stage art), Yasuhiko Abeta (stage director), Atsushi Tanaka (sounds)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Bembeya Jazz National@African Dance Night",
+    "id":"d7e1544",
+    "description":"Besetzung: Mohamed Achken Kaba (voc), Sékou Bembeya Diabate (voc),) Satifou Kaba (voc, dance), Youssouf Bah (voc, dance), Alseny Doumbouy (voc, dance), Aboubaca Koita (ts), Clement Dore (as), Kova Savagoi (g), Mamadi Kouyate (g), Mamadi Conde (b), Papa Kouyate (perc), Mory Mangala Conde (dr)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"Queen Salawa Abeni & The Waka Modernizer@African Dance Night",
+    "id":"d7e1550",
+    "description":"Besetzung: Queen Salawa Abeni (voc), Jelili Balogun (bg-voc), Ajalaruru Asinmiyu (bg-voc), Tunde Adekoyan (g), Gbenga Ogun (keys, p), Oroh Angiama (b), Ayan Ayandosu (talking drum), Rasak Adegoke (talking drum), Lekan Babalola (conga, perc), Toyin Adeogun (kit drum)"
+   },
+   {
+    "start_date":"2002-05-19 00:00:00",
+    "name":"King Sunny Ade@African Dance Night",
+    "id":"d7e1556",
+    "description":"Besetzung: Bose Olubo (voc), Matthew Olojede (voc), Olufemi Owomoyela (voc), Olushina Omoroga (voc,congas), Bode Adesegun (keyb), Sunday Adeniyi Adegeye (g), Sunday John Akpan (g), Adebayo Eniola (g), Jelili Abiodun Lawal (b), Michael Babalola (maracas), Dada Adeleke (talking dr), Taiwo Olalunde Akande (perc), Motunrayo Badeh (perc), Alli Mohammad (dr), Esther Buraimoh (dance), Kikelomo Moses (dance)"
+   },
+   {
     "start_date":"2002-05-20 00:00:00",
-    "name":"Vienna Art Orchestra - ,,A centenary journey\" (AUT)",
-    "id":"d7e1393",
+    "name":"Vienna Art Orchestra - „A centenary journey“ (AUT)",
+    "id":"d7e1566",
     "description":"Besetzung: Mathias Rüegg (ld), Anna Lauvergnac (voc), Thorsten Benkenstein (tp), Matthieu Michel (tp), Bumi Fian (tp), Thomas Gansch (tp), Adrian Mears (tb, didgeridoo), Robert Bachner (tb), Christian Muthspiel (tb), Ed Partyka (tb, tu), Klaus Dickbauer (reeds, fl), Florian Bramböck (reeds), Harry Sokal (reeds), Andy Scherrer (ts), Herwig Gradischnig (bs), Alegre Correa (g, perc), Martin Koller (eg), Georg Breinschmid (b), Robert Riegler (eb), Mario Gonzi (dr), Jogo Mayer (dr), Ronald Matky (sounds), Reto Schubiger (lights), Thomas Hötzeneder (visual effects)"
    },
    {
     "start_date":"2002-05-20 00:00:00",
     "name":"Rève d'Éléphant Orchestra (BEL)",
-    "id":"d7e1398",
+    "id":"d7e1572",
     "description":"Besetzung: Pierre Bernard (fl), Laurent Blondiau (tp, flh), Michel Massot (tba, tb), Jean-Yves Evrard (g), Michel Debrulle (dr), Etienne Plumer (dr, perc), Stephan Pougin (perc)"
    },
    {
     "start_date":"2002-05-20 00:00:00",
     "name":"Boris Kovac & LaDaABa Orchest (SRB)",
-    "id":"d7e1404",
+    "id":"d7e1578",
     "description":"Besetzung: Boris Kovac (sax), Bogdan Rankovic (reeds), Goran Penic (acc), Olah Vince (g, v), Ervin Malina (b), lstvan Cik (dr), Marinko Vukmanovic (sounds)"
    },
    {
     "start_date":"2002-05-20 00:00:00",
     "name":"Roots and Wires feat. DJ M. Singe plus DJ l-Sound (CH)",
-    "id":"d7e1409",
+    "id":"d7e1584",
     "description":"Besetzung: Hans Koch (reeds, elec, sequencer), Martin Schütz (electric 5-string cello, clo, elec, sequencer), Fredy Studer (dr, perc), DJ M. Singe (tt) DJ l-Sound (tt)"
    },
    {
     "start_date":"2002-05-20 00:00:00",
     "name":"Omar Sosa Octet 'Sentir' (CUB\/USA)",
-    "id":"d7e1414",
+    "id":"d7e1590",
     "description":"Besetzung: Omar Sosa (p, comp), Martha Galarraga (voc), SUB Z Voice (rap), Eric Crystal (reeds), Geoff Brennan (b), Bouchalb Abdelhadi (voc, v, guembri, moroccan dr), Gustavo Ovalles (perc, congas), Elliott Kavee (dr)"
+   },
+   {
+    "start_date":"2002-05-20 00:00:00",
+    "name":"Con Moto (Morning Project)",
+    "id":"d7e1599",
+    "description":"Besetzung: Günter Christmann (clo, tb, film), Urs Leimgruber (reeds), Alexander Frangenheim (cb), Elke Schipper (sound poetry), Fine Kwiatkowski (dance), David Zambrano (dance)"
+   },
+   {
+    "start_date":"2002-05-20 00:00:00",
+    "name":"Dampfschiff Schweiz (Morning Project)",
+    "id":"d7e1605",
+    "description":"Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, b-cl), Christian Weber (b, electronics), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)"
+   },
+   {
+    "start_date":"2002-05-20 00:00:00",
+    "name":"Electronic Lounge „radio“ project 97 MHz",
+    "id":"d7e1611",
+    "description":"Besetzung: Frank Schulte (electr), Philip Jeck (electr), Jochen Bohnes (electr), Marcus Schmickler (electr), eRikm (electr), Jacob K (electr)"
+   },
+   {
+    "start_date":"2002-05-20 00:00:00",
+    "name":"Electronic Lounge teatime",
+    "id":"d7e1616",
+    "description":"Besetzung: Ekkehard Ehlers (electr), Jan St. Werner (electr), Anthony Moore (electr)"
+   },
+   {
+    "start_date":"2002-05-20 00:00:00",
+    "name":"Shibusa-Shirazu Orchestra (Morning Session)",
+    "id":"d7e1621",
+    "description":"Besetzung: Daisuke Fuwa (b, ld, comp, cond), Aya Murodate (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Walter Bucheli (pan-fl), Yuji Katsui (v), Takashi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tesu Hirosawa (ts), Nobuhiro Nakane (tb), Naoki Hanajima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Ichiro Kitoh (bs), Yoshiyuki Kawaguchi (reeds), Keiko Komori (reeds), Takayuki Kato (g), Jiro Sarutani (g), Hiroshi Higo (b), Yasuhiro Yoshigaki (dr), Masahiro Uemura (dr), Mari Sekine (perc), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), Toyo Matsubara (butoh-dance), Mayumi Shirasaki (butoh-dance), Saburo Tokuhisa (butoh-dance), Shinichi Watabe (actor), Masashi Sugiyama (happenist), Aki Ono (stage art), Gahaku Aoyama (stage art), Yasuhiko Abeta (stage director), Atsushi Tanaka (sounds)"
    },
    {
     "start_date":"2001-06-01 00:00:00",
     "name":"Dances - The Music of Gianluigi Trovesi (IT\/DE)",
-    "id":"d7e1436",
+    "id":"d7e1650",
     "description":"Besetzung: WDR Bigband feat. Gianluigi Trovesi (ld, comp, cl, bcl), Markus Stockhausen (tp, flh), Tom Rainey (dr), Andy Haderer (tp, fl), Klaus Osterloh (tp, fl), John Marshall (tp, fl), Rick Kiefer (tp, fl), Rob Bruynen (tp, fl), Ludwig Nuss (tb), Dave Horler (tb), Bernt Laukamp (tb), Heiner Wiberny (as, fl, cl), Harald Rosenstein (as, fl, cl), Oliver Peters (ts, fl, cl), Rolf Römer (ts, fl, cl), Jens Neufang (bs, fl, cl), Frank Chastenier (p), Paul Shigihara (g), John Goldsby (b)"
    },
    {
     "start_date":"2001-06-01 00:00:00",
     "name":"M.A. Numminen (FIN)",
-    "id":"d7e1441",
+    "id":"d7e1655",
     "description":"Besetzung: M.A. Numminen (voc), Jani Uhlenius (p)"
    },
    {
     "start_date":"2001-06-01 00:00:00",
     "name":"The Soul Brothers (ZAF)",
-    "id":"d7e1446",
+    "id":"d7e1660",
     "description":"Besetzung: David Masondo (voc), Japan Sidoyi (voc), Vusi Maluza (voc), Sipho Bhengu (voc), Mbongeleni Dladla (voc), Maxwell Mngadi (g), Moses Ngwenya (keyb), Ray Mavundla (reeds), Javas Magubane (reeds), Thomas Phale (reeds), Sicelco Ndlela (b), Bongani Nsele (dr)"
    },
    {
     "start_date":"2001-06-01 00:00:00",
     "name":"Phuzekhemisi & Nothembi (ZAF)",
-    "id":"d7e1451",
+    "id":"d7e1665",
     "description":"Besetzung: Phuzekhemisi J. Mnyandu (g), Nothembi Mkhwebane (g), Mzwandile David (acc), George Nxusa (b), Mandla Nene (voc), Derrick Gambushe (voc), J. Cira (voc), Hilda Skosana (voc), Enny M. Tema (voc), Sannah B. Mkhwebane (voc)"
    },
    {
     "start_date":"2001-06-02 00:00:00",
     "name":"Dr. Nerve & Sirius String Quartet (USA)",
-    "id":"d7e1460",
+    "id":"d7e1675",
     "description":"Besetzung: Nick Didkovski (g), Yves Duboin (ss, fl), Rob Henke (tp), Kathleen Supové (keyb), Michael Lytle (bcl), Greg Anderson (b), Leo Ciesa (dr), Joyce Hammann (v), Mary Withaker (v), Ron Lawrence (va), Tomas Ulrich (clo)"
    },
    {
     "start_date":"2001-06-02 00:00:00",
     "name":"Jeri Brown Quartet (USA)",
-    "id":"d7e1465",
+    "id":"d7e1680",
     "description":"Besetzung: Jeri Brown (voc), Stephen Scott (p), Avery Sharpe (b), Wali Muhammad (dr) Russel Gunn"
    },
    {
     "start_date":"2001-06-02 00:00:00",
     "name":"Ethnomusicology (USA)",
-    "id":"d7e1472",
+    "id":"d7e1687",
     "description":"Besetzung: Russel Gunn (voc, tp), Gregory Tardy (ts, fl), Bruce Williams (as), Andre Heyward (tb), James Hurt (p), Rodney Jordan (b), Woody Williams (dr), Khalil Kwame Bell (perc), DJ Apollo (tt)"
    },
    {
     "start_date":"2001-06-02 00:00:00",
     "name":"Tony Martinez & The Cuban Power (CUB)",
-    "id":"d7e1478",
+    "id":"d7e1692",
     "description":"Besetzung: Tony Martinez (voc, as, ts, fl), Arnaldo Martinez (voc), Virginia Quesada (voc), Eduardo Cespedes (voc), Leandro Saint-Hill (ts, ss, fl), Eugenio Samón (tr), Leonardo Gobin (tb), Dudu Penz (b), César Correa (p, keyb), Juan Carlos Abreu (timbales), Rodrigo Rodriguez (congas)"
    },
    {
     "start_date":"2001-06-02 00:00:00",
     "name":"Cándido Fabre y su Banda (CUB)",
-    "id":"d7e1483",
+    "id":"d7e1697",
     "description":"Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (v), Juan Simon Castillo Peña (v), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuela (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbals)"
    },
    {
     "start_date":"2001-06-02 00:00:00",
     "name":"Defunkt Big Band (USA)",
-    "id":"d7e1488",
+    "id":"d7e1702",
     "description":"Besetzung: Joseph Bowie (voc, tb), Byron Bowie (cond), Kelli Sae (voc), James Salter (ts), Greg Johnson (ts), Jorge Sylvester (as), Alvin Morris (as), Alex Harding (bs), John Mulkerin (tp), Danny Forrest (tp), Dwuane Eubanks (tp), Ronnie Jackson (tb), Paul Akerson (tb), Donald Miller (tb), Kim Clarke (b), Tobias Ralph (dr), Adam Klipple (keyb)"
    },
    {
     "start_date":"2001-06-03 00:00:00",
     "name":"Satoko Fujii Quartet (JPN)",
-    "id":"d7e1497",
+    "id":"d7e1711",
     "description":"Besetzung: Satoko Fujii (p), Natsuki Tamura (tp), Takeharu Hayakawa (eb), Tatsuya Yoshida (dr)"
    },
    {
     "start_date":"2001-06-03 00:00:00",
     "name":"Boban Markovic Orkestar (SRB)",
-    "id":"d7e1502",
+    "id":"d7e1716",
     "description":"Besetzung: Boban Markovic (tp), Jovica Ajdarevic (tp), Srdjan Spasic (tp), Momcilo Krstic (as), Dragoljub Eminovic (t-h), Asim Ajdinovic (t-h), Selistar Eminovic (t-h), Srdjan Eminovic (t-h), Sasa Alisanovic (helicon), Srboljub Mirkovic (dr), Asmet Eminovic (dr)"
    },
    {
     "start_date":"2001-06-03 00:00:00",
     "name":"Tukki - Être en voyage (SEN\/NL\/RUS\/GER\/BUL\/USA)",
-    "id":"d7e1507",
+    "id":"d7e1721",
     "description":"Besetzung: Mola Sylla (voc, m'bira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (lead-g), Serigne M'Backe (perc), Ernst Reijseger (clo), Alexei Levin (acc, p), Wladimir Volkov (d-b), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)"
    },
    {
     "start_date":"2001-06-03 00:00:00",
     "name":"Soupsongs (GB)",
-    "id":"d7e1512",
+    "id":"d7e1726",
     "description":"Besetzung: The Music of Robert Wyatt feat. Annie Whitehead (voc, tb, arr), Julie Tippet (voc), Ian Maidman (voc, g), Larry Stabbins (ts), Lol Coxhill (as), Harry Beckett (tp), Janette Mason (keyb, p), Steve Lamb (b), Liam Genockey (dr, perc)"
    },
    {
     "start_date":"2001-06-03 00:00:00",
     "name":"Supersilent (NOR)",
-    "id":"d7e1517",
+    "id":"d7e1732",
     "description":"Besetzung: Deathprod \/ Helge Steen (treatments), Stale Storlokken (keyb), Arve Henrikson (tp), Jarle Vespestad (dr), Audun Strype (sound)"
    },
    {
     "start_date":"2001-06-04 00:00:00",
     "name":"Die Regierung (CH)",
-    "id":"d7e1526",
+    "id":"d7e1741",
     "description":"Besetzung: Heinz Büchel (b), Roland Altherr (voc, p), Martin Baumer (handorgel), Franco Scagnet (perc), Hans-Peter Dörig (synth (dr), Massimo Schilling (g), Hansueli Tischhauser (g)"
    },
    {
     "start_date":"2001-06-04 00:00:00",
     "name":"David Thomas & Two Pale Boys (USA\/GB)",
-    "id":"d7e1532",
+    "id":"d7e1746",
     "description":"Besetzung: David Thomas (voc, melodeon), Keith Moliné (g), Andy Diagram (tp)"
    },
    {
     "start_date":"2001-06-04 00:00:00",
     "name":"Fred Frith (GB)",
-    "id":"d7e1537",
+    "id":"d7e1751",
     "description":"Besetzung: Fred Frith (g, electronics)"
    },
    {
     "start_date":"2001-06-04 00:00:00",
     "name":"David Murray & M'Bizo featuring the World Saxophone Quartet (USA\/ZAF)",
-    "id":"d7e1542",
+    "id":"d7e1756",
     "description":"Besetzung: Pinise Saul (voc) Sipho Mhlongo (voc), Sello Makhene (voc), Ditsebe Leguabe (voc), Lucky Ranku (g), Marvyn Africa (p), Louis Moholo (dr), Herbie Tsoade (b), Klod Kiavue (perc), David Murray (ts), Oliver Lake (as, ss), Ron Blake (as), Hamiet Bluiett (bs)"
    },
    {
     "start_date":"2001-06-04 00:00:00",
     "name":"The Residents (USA)",
-    "id":"d7e1547",
+    "id":"d7e1761",
     "description":"Besetzung: Resident A (voc), Resident B (remote control), Resident C (electronic perc), Resident D (el-g), Guest A (voc), Guest B (keyb)"
    },
    {
     "start_date":"2000-06-09 00:00:00",
     "name":"Peter Herborn (DE\/USA)",
-    "id":"d7e1569",
+    "id":"d7e1783",
     "description":"Besetzung: Antonio Hart (as), Andreas Bölke (as, fl, cl), Gary Thomas (ts, fl), Axel Knappmeyer (ts, fl, cl), Adam Kolkers (ts, bcl), Dave Ballou (tp, flh), Stefan Meinberg (tp, flh), Taylor Haskins (tp, flh), Robin Eubanks (tb), Ansgar Striepens (tb), Jürgen Neudert (tb), Jeff Nelson (btb), Andreas Wahl (g), Tim Murphy (p, keyb), John Hebert (b), Gene Jackson (dr), Peter Herbor (comp, arr, cond)"
    },
    {
     "start_date":"2000-06-09 00:00:00",
     "name":"Danyèl Waro (REU)",
-    "id":"d7e1574",
+    "id":"d7e1788",
     "description":"Besetzung: Danyèl Waro (voc, kayanm, tanbou), Sami Pageaux-Waro (voc), Serz Dafrevil (kayanm, tanbou, bob, tryang), Fred Belhomme (pikér)"
    },
    {
     "start_date":"2000-06-09 00:00:00",
     "name":"Lenine (BRA)",
-    "id":"d7e1579",
+    "id":"d7e1793",
     "description":"Besetzung: Lenine (voc, g), Pedro Sá (g), Marcelo Brandao (b), Pantico Rocha (dr), Fabio de Oliviera (dj, effects)"
    },
    {
     "start_date":"2000-06-10 00:00:00",
     "name":"Ex Orkest (NL)",
-    "id":"d7e1588",
+    "id":"d7e1802",
     "description":"Besetzung: Andy Ex (g), Terrie Ex (g, b), Luc Ex (b), Katrin Bornefeld (perc), GW Sok (voc), Jaap Blonk (voc), Han Buhrs (voc), Michael Moore (cl), Felicity Provan (tp), Roy Paci (tp), Wolter Wierbos (tb), Joost Buis (tb), Ferrie Heyne (tb), Ernst Glerum (double-b), Wilbert de Joode (double-b), Gert-Jan Blom (double-b, bass mouth-organ, bass thumb-piano), Michael Vatcher (perc), Wilf Plum (perc), Jan Mulder (poetry), Hamish McKeich (cond)"
    },
    {
     "start_date":"2000-06-10 00:00:00",
     "name":"FM Einheit & Gry (DE\/DK)",
-    "id":"d7e1593",
+    "id":"d7e1807",
     "description":"Besetzung: Gry Bagoien (voc), FM Einheit (scratches, beats, perc), Sjang Coenen (b), Saskia von Klitzing (dr)"
    },
    {
     "start_date":"2000-06-10 00:00:00",
     "name":"Wimme (FIN)",
-    "id":"d7e1598",
+    "id":"d7e1812",
     "description":"Besetzung: Wimme Saari (voc), Tapani Rinne (b-cl, whistle), Jari Kokkonen (keyb, samplers), Matti Wallenius (acoustic-g, banjo, ukulele, mandolin)"
    },
    {
     "start_date":"2000-06-10 00:00:00",
     "name":"Hugh Ragin Trumpet Ensemble \/ Tribute to Lester Bowie (USA)",
-    "id":"d7e1603",
+    "id":"d7e1817",
     "description":"Besetzung: Hugh Ragin (tp), Omar Kabir (tp), James Zollar (tp), Dante Winslow (tp), Adam Klipple (p), Jaribu Shahid (b), Bruce Cox (dr)"
    },
    {
     "start_date":"2000-06-10 00:00:00",
     "name":"Shibusashirazu Orchestra (JPN)",
-    "id":"d7e1609",
+    "id":"d7e1823",
     "description":"Besetzung: Daisuke Fuwa (ld, comp, cond, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (v), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (b-cl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki (shamisen), Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)"
    },
    {
     "start_date":"2000-06-11 00:00:00",
     "name":"Jazz Jamaica All Stars (JAM\/GB)",
-    "id":"d7e1618",
+    "id":"d7e1832",
     "description":"Besetzung: Gary Crosby (ld, double-b), Juliet Roberts (voc), Eddie 'Tan Tan' Thornton (tp), Guy Barker (tp), Kevin Robinson (tp), Colin Graham (tp), Fayyaz Virji (tb), Winston Rollins (tb), Annie Whitehead (tb), Trevor Edwards (tb), Andy Sheppard (reeds), Michael 'Bammie' Rose (reeds), Denys Baptiste (reeds), Brian Edwards (reeds), Orphy Robinson (vib, marimba), Clifton `Bigga` Morrison (keyb), Alan Weekes (g), Tony Uter (perc), Kenrick Rowe (dr)"
    },
    {
     "start_date":"2000-06-11 00:00:00",
     "name":"Kimmo Pohjonen (FIN)",
-    "id":"d7e1623",
+    "id":"d7e1837",
     "description":"Besetzung: Kimmo Pohjonen (voc, acc)"
    },
    {
     "start_date":"2000-06-11 00:00:00",
     "name":"Rajery (MDG)",
-    "id":"d7e1628",
+    "id":"d7e1842",
     "description":"Besetzung: Gemain Randrianarisoa a.k.a. Rajery (valiha), Charles Razanakoto (g), Toty (b), Raymond Rakotoarisoa (perc)"
    },
    {
     "start_date":"2000-06-11 00:00:00",
     "name":"Ernst Reijseger@Sur Place (NL\/FRA\/USA)",
-    "id":"d7e1633",
+    "id":"d7e1847",
     "description":"Besetzung: Ernst Reijseger (clo), Louis Sclavis (cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr)"
    },
    {
     "start_date":"2000-06-11 00:00:00",
     "name":"Isotope 217 (USA)",
-    "id":"d7e1638",
+    "id":"d7e1852",
     "description":"Besetzung: Robert Mazurek (cornet), Jeff Parker (g), Matt Lux (b), Dan Bitney (perc, dr), John Herndon (perc, dr)"
    },
    {
     "start_date":"2000-06-11 00:00:00",
     "name":"Omar Sosa Sextet (CUB\/USA)",
-    "id":"d7e1643",
+    "id":"d7e1857",
     "description":"Besetzung: Will Power (voc), Omar Sosa (p), Sheldon Brown (sax), Geoff Brennan (b), Gustavo Ovalles (perc), Elliot Kavee (dr)"
    },
    {
     "start_date":"2000-06-12 00:00:00",
     "name":"Le Grotorkèstre (FRA)",
-    "id":"d7e1652",
+    "id":"d7e1866",
     "description":"Besetzung: Etienne Roche (ld, tb), Michèle Véronique (v), Marie Garait (hélicon), Pierre Flory (tu), Claudie Bouchet (tp), Elisabeth Gavalda (tp), Radek Klukowski (tp), Gilles Polzat (tp), Didier Pugeat (tp), Michel Barraud (tb), Michael Buxton (tb), Yves Marceau (tb), Phillipe Blin (fl), Michel Souyri (cl), Olivier Darcissac (cl), Nanoune Faure (ss), Chris Chanet (bs), Johannès Leis (bs), Laurent Bigot (as), Thérèse Bosc (as), Nicolas Lanier (as), Jacky Bethular (ts), Doro Di Manta (ts), Christian Verdot (ts), Philippe Neveu (ob), Viviane Estavoyer (bassoon), Marie-Claire Dupuy (vib), Agnès Binet (acc), Guy Marrec (g), Frédéric Vincent (contra-b), Marc Altavilla (perc), Jano Athénol (dr), Jean-Michel Girard (dr)"
    },
    {
     "start_date":"2000-06-12 00:00:00",
     "name":"Nils Wogram & Root 70 (DE\/NZ\/USA)",
-    "id":"d7e1657",
+    "id":"d7e1871",
     "description":"Besetzung: Nils Wogram (tb), Hayden Chisholm (sax, cl), Mat Penman (b), Jochen Rückert (dr)"
    },
    {
     "start_date":"2000-06-12 00:00:00",
     "name":"Louis Sclavis New Quintet (FRA)",
-    "id":"d7e1663",
+    "id":"d7e1877",
     "description":"Besetzung: Louis Sclavis (cl), Vincent Courtois (clo), Jean Luc Cappozzo (tp), Bruno Chevillon (b), François Merville (dr)"
    },
    {
     "start_date":"2000-06-12 00:00:00",
     "name":"Radici Trio (IT)",
-    "id":"d7e1668",
+    "id":"d7e1882",
     "description":"Besetzung: Gianluigi Trovesi (cl), Gianni Coscia (acc), Stefano Bertoli (perc)"
    },
    {
     "start_date":"2000-06-12 00:00:00",
     "name":"Moondive III (USA\/NL)",
-    "id":"d7e1673",
+    "id":"d7e1887",
     "description":"Besetzung: Mola Sylla (voc), Ray Anderson (tb), Ernst Reijseger (clo), Michel Godard (tu, serpent), Lesley Joseph (b-g) Eddy Veldman (dr), Ruben van Roon (electronics, dr)"
    },
    {
     "start_date":"2000-06-12 00:00:00",
     "name":"David Murray \"Speaking in Tongues\" (USA)",
-    "id":"d7e1678",
+    "id":"d7e1892",
     "description":"Besetzung: David Murray (ts), Evelyn Curinton (voc, p), Claudine Amina Myers (voc, p, Hammond B3), Donald Smith (p, Hammond B3), Joseph Bowie (tb), Rassul Siddik (tp), Clarence Jenkins (b), Renzel Merritt (dr)"
    }
  ]

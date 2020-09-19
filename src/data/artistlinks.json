@@ -11,6 +11,13 @@
     "Harem4": {
         "canonicalName": { "firstname": "", "surname": "Harem 4"}
     },
+    "ResidentA": {
+        "links": {
+            "discogs": [{"type": "band", "url": "https://www.discogs.com/artist/6708-The-Residents"}],
+            "homepage": [{"type": "band", "url": "https://www.residents.com/"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/The_Residents"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/The_Residents"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/The_Residents"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/The_Residents"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/The_Residents"}]}]
+        }
+    },
     "TapioAaltonen": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tapio-mongo-aaltonen-mn0002299993"}],
