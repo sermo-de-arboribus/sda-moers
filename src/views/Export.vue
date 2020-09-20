@@ -13,6 +13,11 @@
                         <button type="button" class="btn btn-primary">CSV</button>
                     </download-csv>
                 </div>
+                <div class="col">
+                    <a :href="artistsXmlBlobUrl">
+                        <button type="button" class="btn btn-primary">XML</button>
+                    </a>
+                </div>
             </div>
         </section>
     </div>
@@ -51,6 +56,43 @@ export default {
             return URL.createObjectURL(this.artistsJsonBlob);
         },
 
+        artistsXmlString() {
+            let xmlParts = this.artists.map(a => {
+
+                const notes = a.notes ? `${Object.keys(a.notes).map(loc => `<note xml:lang="loc">${encodeXmlString(a.notes[loc])}</note>`).join("")}` : "";
+                const links = a.links ? `${Object.keys(a.links).map(site => {
+                                return `<${site}>
+                                    ${a.links[site].map(l => `<link type="${l.type}">${encodeXmlString(l.url)}</link>`).join("")}
+                                </${site}>`
+                            }).join("")}` : "";
+
+                try {
+                    return `<artist>
+                        <firstname>${encodeXmlString(a.firstname)}</firstname>
+                        <surname>${encodeXmlString(a.surname)}</surname>
+                        <notes>${notes}</notes>
+                        <instruments>${a.instruments.map(i => `<instrument>${encodeXmlString(i)}</instrument>`).join("")}</instruments>
+                        <concerts>${a.concerts.map(c => `<concert><title>${encodeXmlString(c.concert)}</title><year>${c.year}</year><instruments>${encodeXmlString(c.instruments)}</instruments><starttime>${c.starttime}</starttime></concert>`).join("")}</concerts>
+                        <links>${links}</links>
+                    </artist>`
+                } catch (err) {
+                    console.error("Error when parsing artist", a);
+                    console.error(err);
+                    return "";
+                }
+            });
+
+            return `<artists xmlns="https://sermo-de-arboribus.de/moers-festival">${xmlParts.join("\n")}</artists>`;
+        },
+
+        artistsXmlBlob() {            
+            return new Blob([this.artistsXmlString], {type: "text/xml", name: "moers-artists.xml"});
+        },
+
+        artistsXmlBlobUrl() {
+            return URL.createObjectURL(this.artistsXmlBlob);
+        },
+
         flatData() {
             return this.artists.map(function(a) {
                 let keys;
@@ -75,5 +117,21 @@ export default {
         ...mapGetters("gigdata", ["artists", "artistGigs", "artistLinks"]),
         ...mapState("gigdata", ["allMoersFestivalEvents"]),
     }
+}
+
+function encodeXmlString(sourceString) {
+    if(sourceString) {
+        if(!sourceString.replace) {
+            console.log(sourceString);
+        }
+        return sourceString.replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&apos;');        
+    } else {
+        return "";
+    }
+    
 }
 </script>

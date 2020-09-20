@@ -108,6 +108,25 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmJh0pFEH4JxYOFXztt93Ig"}]
         }
     },
+    "Queen SalawaAbeni": {
+        "canonicalName": { "firstname": "Salawa", "surname": "Abeni"}
+    },
+    "SalawaAbeni": {
+        "links": {
+            "allmusic": [{"type":"personal", "url": "https://www.allmusic.com/artist/queen-salawa-abeni-mn0001010176"}, {"type": "personal", "url": "https://www.allmusic.com/artist/queen-salawa-abeni-mn0001789936"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3957199-Queen-Salawa-Abeni"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/alhajaqueensalawaabeni"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Salawa_Abeni"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWzm0JdVQTsBto-Gvgs10qw"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: (Alhaja) Queen Salawa Abeni",
+            "de": "Künstlername: (Alhaja) Queen Salawa Abeni",
+            "en": "Artist's name: (Alhaja) Queen Salawa Abeni",
+            "fr": "Pseudonyme: (Alhaja) Queen Salawa Abeni",
+            "zh": "艺名: (Alhaja) Queen Salawa Abeni"
+        }
+    },
     "LennatAberg": {
         "canonicalName": { "firstname": "Lennart", "surname": "Åberg" }
     },
@@ -148,7 +167,7 @@
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/muhalrichardabrams"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/muhal-richard-abrams-mn0000509696"}],
-            "bandcamp": [{"type": "agency", "url": "https://muhalrichardabrams.bandcamp.com/"}, {"type": "abum", "url": "https://karlrecords.bandcamp.com/album/celestial-birds"}],
+            "bandcamp": [{"type": "agency", "url": "https://muhalrichardabrams.bandcamp.com/"}, {"type": "album", "url": "https://karlrecords.bandcamp.com/album/celestial-birds"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/295402-Muhal-Richard-Abrams"}],
             "homepage": [{"type": "personal", "url": "http://www.muhalrichardabrams.com/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Muhal%20Richard%20Abrams%22&category_name=nach-hoeren"}],
@@ -341,6 +360,23 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/cico-beck"}]
         }
     },
+    "HanBennink": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hanbennink"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/han-bennink-mn0000662886"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=Han%20Bennink"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/253462-Han-Bennink"}],
+            "homepage": [{"type": "personal", "url": "http://www.hanbennink.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Han%20Bennink%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/hanbennink"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/han_bennink"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Han_Bennink"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Han_Bennink"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Han_Bennink"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Han_Bennink"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Han_Bennink"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCVuOBWt2X5s_4yORnmaHBwQ"}]
+        }
+    },
+    "Han J.Bennink": {
+        "canonicalName": { "firstname": "Han", "surname": "Bennink" }
+    },
     "ÉricBentz": {
         "links": {
             "bandcamp": [{"type": "personal", "url": "https://ericbentz.bandcamp.com/"}],
@@ -500,6 +536,18 @@
         "canonicalName": {
             "firstname": "Leon",
             "surname": "Brichard"
+        }
+    },
+    "PeterBrötzmann": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-br%C3%B6tzmann-mn0000316826"}],
+            "bandcamp": [{"type": "personal", "url": "https://peterbroetzmann.bandcamp.com/"}, {"type": "search", "url": "https://bandcamp.com/search?q=Peter%20Br%C3%B6tzmann"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/120328-Peter-Br%C3%B6tzmann"}],
+            "homepage": [{"type": "personal", "url": "http://www.peterbroetzmann.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Peter%20Br%C3%B6tzmann%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/peterbrotzmann"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/PeterBroetzmann"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Peter_Br%C3%B6tzmann"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Br%C3%B6tzmann"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Peter_Br%C3%B6tzmann"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Peter_Br%C3%B6tzmann"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_Br%C3%B6tzmann"}]}]
         }
     },
     "CecilBrooks": {
@@ -1559,6 +1607,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC5JpHKHLinLQkcuqfFmbh_Q"}]
         }
     },
+    "Fred vanHove": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/fredvanhove"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/fred-van-hove-mn0000177008"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/church-organ"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/verloren-maandag"}, {"type": "album", "url": "https://dropadisc.bandcamp.com/album/fred-van-hove-at-80"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/the-corner"}, {"type": "album", "url": "https://kraak.bandcamp.com/album/hear-here-now"}, {"type": "album", "url": "https://etiennebrunet.bandcamp.com/album/improvisations"}, {"type": "album", "url": "https://balancepointacoustics.bandcamp.com/album/bpa-2-burns-longer"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/236601-Fred-Van-Hove"}],
+            "homepage": [{"type": "personal", "url": "http://www.fredvanhove.be/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Fred%20van%20Hove%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Fred_Van_Hove"}, {"locale": "en", "url":" https://en.wikipedia.org/wiki/Fred_Van_Hove"}, {"locale": "fr", "url": "https://nl.wikipedia.org/wiki/Fred_Van_Hove"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_3rjBi6hVoRxjXtrP0bQXQ"}]
+        }
+    },
     "Ching MeiHuang": {
         "canonicalName": {
             "firstname": "Ching-Mei",
@@ -1572,6 +1632,8 @@
         }
     },
     "KlausHübner": {
+        "links": {
+        },
         "notes": {
             "cs": "Možná, že umíněný hudebník je Ralf Hübner, který byl dlouhodobým hudebníkem v skupin Alberta Mangelsdorffera.",
             "de": "Möglicherweise handelt es sich hier um Ralf Hübner, der lange Jahre Schlagzeug bei Albert Mangelsdorff spielte.",
@@ -2857,6 +2919,7 @@
         }
     },
     "MicahPitts": {
+        "links": {},
         "notes": {
             "cs": "Umělecké jméno: Lord Aaqil",
             "de": "Künstlername: Lord Aaqil",
@@ -3373,6 +3436,7 @@
         }
     },
     "JimShapiro": {
+        "links": {},
         "notes": {
             "cs": "Nespletejte s Jamesem Gordonem „Jimem“ Shapirem, bubeníkem skupiny Veruca Salt!",
             "de": "Nicht zu verwechseln mit James Gordon „Jim“ Shapiro, dem Schlagzeuger der Rockband Veruca Salt.",
