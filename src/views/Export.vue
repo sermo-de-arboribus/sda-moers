@@ -4,17 +4,17 @@
             <h1>{{ $t("exportPage.header") }}</h1>
             <div class="row justify-content-center">
                 <div class="col">
-                    <a :href="artistsJsonObjectUrl">
+                    <a @click="saveJson">
                         <button type="button" class="btn btn-primary">JSON</button>
                     </a>
                 </div>
                 <div class="col">
-                    <download-csv :data="flatData" name="moers-artists.csv">
+                    <download-csv :data="flatData" :name="`moers-artists${getTimestamp()}.csv`">
                         <button type="button" class="btn btn-primary">CSV</button>
                     </download-csv>
                 </div>
                 <div class="col">
-                    <a :href="artistsXmlBlobUrl">
+                    <a @click="saveXml">
                         <button type="button" class="btn btn-primary">XML</button>
                     </a>
                 </div>
@@ -32,6 +32,9 @@
 <script>
 import { mapGetters, mapState } from "vuex";
 import DownloadCsv from "vue-json-csv";
+import { saveAs } from "file-saver";
+
+const dateFormat = require("dateformat");
 
 export default {
     
@@ -50,10 +53,6 @@ export default {
             } else {
                 return new Blob();
             }
-        },
-
-        artistsJsonObjectUrl() {
-            return URL.createObjectURL(this.artistsJsonBlob);
         },
 
         artistsXmlString() {
@@ -89,10 +88,6 @@ export default {
             return new Blob([this.artistsXmlString], {type: "text/xml", name: "moers-artists.xml"});
         },
 
-        artistsXmlBlobUrl() {
-            return URL.createObjectURL(this.artistsXmlBlob);
-        },
-
         flatData() {
             return this.artists.map(function(a) {
                 let keys;
@@ -116,6 +111,24 @@ export default {
 
         ...mapGetters("gigdata", ["artists", "artistGigs", "artistLinks"]),
         ...mapState("gigdata", ["allMoersFestivalEvents"]),
+    },
+
+    methods: {
+        
+        getTimestamp() {
+            const date = new Date();
+            return dateFormat(date, "yyyy-mm-dd-HHMMss");
+        },
+
+        saveJson() {
+            const timestamp = this.getTimestamp();
+            saveAs(this.artistsJsonBlob, "moers-artists" + timestamp + ".json");
+        },
+
+        saveXml() {
+            const timestamp = this.getTimestamp();
+            saveAs(this.artistsXmlBlob, "moers-artists" + timestamp + ".xml");
+        }
     }
 }
 
@@ -131,7 +144,6 @@ function encodeXmlString(sourceString) {
             .replace(/'/g, '&apos;');        
     } else {
         return "";
-    }
-    
+    }    
 }
 </script>
