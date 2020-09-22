@@ -190,6 +190,18 @@
             "homepage": [{"type": "band", "url": "https://www.lariba.ch/"}]
         }
     },
+    "Laura Lydia GonzalezAbreu": {
+        "canonicalName": { "firstname": "Laura Lidya", "surname": "González Abreu" }
+    },
+    "Kattia ReyesAbrines": {
+        "canonicalName": { "firstname": "Kattia", "surname": "Reyes Abrines"}
+    },
+    "AbdelouabAbrit": {
+        "links": {
+            "allmusic": [{ "type": "personal", "url": "https://www.allmusic.com/artist/abdel-abrit-mn0000419787" }],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/877578-Abdelouab-Abrit"}]
+        }
+    },
     "MarkusAcher": {
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
@@ -339,6 +351,19 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/farid-barron-mn0001856498"}],
             "bandcamp": [{"type": "personal", "url": "https://jimslowerlounge.bandcamp.com/track/farid-barron-2"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1013966-Farid-Barron"}]
+        }
+    },
+    "CzeslawBartkowski": {
+        "canonicalName": { "firstname": "Czesław", "surname": "Bartkowski"}
+    },
+    "CzesławBartkowski": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-czeslaw-bartkowski"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/czeslaw-bartkowski-mn0001648420"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/455885-Czes%C5%82aw-Bartkowski"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/czeslawbartkowski"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Czes%C5%82aw_Bartkowski"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCb1JBTLnBG59Iev9vOn4zBA"}]
         }
     },
     "ConnyBauer": {
@@ -976,6 +1001,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
         }
     },
+    "UrzulaDudziak": {
+        "canonicalName": {"firstname": "Urszula", "surname": "Dudziak"}
+    },
+    "UrszulaDudziak": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/urszuladudziak"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/urszula-dudziak-mn0000835869"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/354194-Urszula-Dudziak"}],
+            "homepage": [{"type": "personal", "url": "http://www.urszuladudziak.pl/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Urszula%20Dudziak%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/urszula-dudziak"}]
+        }
+    },
     "MatthiasDymke": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matthias-dymke-mn0000662778"}],
@@ -1313,8 +1351,11 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gliceria-abreu-mn0000940421"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7580046-Gliceria-Abreu"}],
-            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/gliceria-gonzalez-abreu-a4b59b62/"}]
+            "homepage": [{"type": "band", "url": "http://afrocubanallstarsonline.com/"}, {"type": "personal", "url": "https://www.linkedin.com/in/gliceria-gonzalez-abreu-a4b59b62/"}]
         }
+    },
+    "Laura LidyaGonzález Abreu": {
+        "homepage": [{"type": "band", "url": "http://afrocubanallstarsonline.com/"}, {"type": "personal", "url": "https://www.linkedin.com/in/laura-lidya-gonzalez-abreu-71b89958/"}]
     },
     "MathiasGötz": {
         "links": {
@@ -1849,6 +1890,29 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWu_f5016Ck0NbiZU--KSig/"}]
         }
     },
+    "WoijtekKarolak": {
+        "canonicalName": { "firstname": "Wojciech", "surname": "Karolak"}
+    },
+    "WojtekKarolak": {
+        "canonicalName": { "firstname": "Wojciech", "surname": "Karolak"}
+    },
+    "WojciechKarolak": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wojciechkarolak"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wojciech-karolak-mn0002290410"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/59410-Wojciech-Karolak"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wojciechkarolak"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wojciech_Karolak"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wojciech_Karolak"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Wojciech_Karolak"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCiD0R-fvTtswwhfYYLwBO0A"}]
+        },
+        "notes": {
+            "cs": "Přezdívka: Wojtek",
+            "de": "Spitzname: Wojtek",
+            "en": "Nickname: Wojtek",
+            "fr": "Sobriquet: Wojtek",
+            "zh": "外号: Wojtek"
+        }
+    },
     "OonaKastner": {
         "links": {
             "bandcamp": [{"type": "personal", "url": "https://oonakastner.bandcamp.com/"}],
@@ -2293,6 +2357,24 @@
             "homepage": [{"type": "personal", "url": "http://www.hanneslingens.de/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Hannes%20Lingens%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/hannes-lingens"}]
+        }
+    },
+    "Peter van deLocht": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/637479-Peter-van-der-Locht"}],
+            "homepage": [{"type": "personal", "url": "http://www.pvandelocht.nl/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_van_de_Locht"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_van_de_Locht"}]}]
+        }
+    },
+    "PaulLovens": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/paullovens"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paul-lovens-mn0000029101"}],
+            "bandcamp": [{"type": "album", "url": "https://matsgustafsson.bandcamp.com/album/nothing-to-read"}, {"type": "album", "url": "https://zarekberlin.bandcamp.com/album/meeting-the-past-2"}, {"type": "album", "url": "https://sofamusic.bandcamp.com/album/these-six"}, {"type": "album", "url": "https://intaktrec.bandcamp.com/album/choice-chase"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/187134-Paul-Lovens"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Paul%20Lovens%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Paul_Lovens"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Paul_Lovens"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Paul_Lovens"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Paul_Lovens"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCr1oyDmTYDjx3lSeYu2tu6A"}]
         }
     },
     "KayLübke": {
@@ -3160,6 +3242,11 @@
             "surname": "Möller"
         }
     },
+    "KattiaReyes Abrines": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4675692-Kattia-Reyes-Abrines"}]
+        }
+    },
     "Jean-FrançoisRiffaud": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jean-fran%C3%A7ois-riffaud-mn0003331184"}],
@@ -3263,6 +3350,16 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1622482-Leo-De-Ruiter"}, {"type": "personal", "url": "https://www.discogs.com/de/artist/2302926-Leo-de-Ruyter"}]
         }  
+    },
+    "PaulRutherford": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/paulrutherford"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paul-rutherford-mn0000751611"}],
+            "bandcamp": [{"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/the-conscience"}, {"type": "album", "url": "https://mayarecordings.bandcamp.com/album/iskra-nckpa-1903"}, {"type": "album", "url": "https://frodegjerstad.bandcamp.com/album/a-concert-detail"}, {"type": "album", "url": "https://whirrboom.bandcamp.com/album/hoxha"}, {"type": "album", "url": "https://harrisjostrom.bandcamp.com/album/wellsprings-by-quintet-moderne"}, {"type": "album", "url": "https://frodegjerstad.bandcamp.com/album/artic-fire"}, {"type": "album", "url": "https://whirrboom.bandcamp.com/album/are-we-in-diego"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/297021-Paul-Rutherford-2"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Paul%20Rutherford%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Paul_Rutherford_(Posaunist)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Paul_Rutherford_(trombonist)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Paul_Rutherford_(trombonist)"}]}]
+        }
     },
     "Leo deRuyter": {
         "canonicalName": { "firstname": "Leo de", "surname": "Ruiter" }
@@ -3400,6 +3497,16 @@
             "homepage": [{"type": "personal", "url": "https://www.uni-trier.de/index.php?id=43516"}, {"type": "agency", "url": "http://www.irtg-diversity.com/index.php?page=people&person=michael_schoenhuth&id=1160"}]
         }
     },
+    "ManfredSchoof": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/manfredschoof"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/manfred-schoof-mn0000692910"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/the-early-quintet"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/255138-Manfred-Schoof"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Manfred%20Schoof%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Manfred_Schoof"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Manfred_Schoof"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Manfred_Schoof"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Manfred_Schoof"}]}]
+        }
+    },
     "LeonardSchrahe": {
         "links": {
             "homepage": [{"type": "agency", "url": "http://www.amg-bensberg.de/auszeichnungen/10579/"}, {"type": "agency", "url": "https://www.bonn.de/pressemitteilungen/2019/november/ensembles-der-staedtischen-musikschule-holen-top-platzierungen.php"}]
@@ -3467,6 +3574,16 @@
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Richard%20Scott%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/bastardscience"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCyU7tcNimViKY9ne5MFwjXw"}]
+        }
+    },
+    "CeesSee": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ceessee"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cees-see-mn0001519379"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/552917-Cees-See"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Cees%20See%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Cees_See"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Cees_See"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Cees_See"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCpHZggZpcCUK37g9W669nAQ"}]
         }
     },
     "WimSegers": {
@@ -3968,6 +4085,23 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCngNvmFArTotzzjBAgk_3Vw"}]
         }
     },
+    "MichalUrbaniak": {
+        "canonicalName": { "firstname": "Michał", "surname": "Urbaniak" }
+    },
+    "MichałUrbaniak": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/michalurbaniak"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/micha%C5-urbaniak-mn0000889276"}],
+            "bandcamp": [{"type": "album", "url": "https://storyvillerecords.bandcamp.com/album/friday-night-at-the-village-vanguard-live"}, {"type": "album", "url": "https://ubxmusic.bandcamp.com/album/urbanatordays"}, {"type": "album", "url": "https://ubxmusic.bandcamp.com/album/jazz-legends-2"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/455886-Micha%C5%82-Urbaniak"}],
+            "homepage": [{"type": "personal", "url": "https://urbaniak.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Michal%20Urbaniak%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/urbmusic"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/UrbanatorMichal"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Micha%C5%82_Urbaniak"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Micha%C5%82_Urbaniak"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Micha%C5%82_Urbaniak"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/urbguru"}]
+        }
+    },
     "PeterVandenberghe": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/petervandenberghe"}],
@@ -4219,7 +4353,7 @@
             "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2007/08/20/the-jazz-session-26-eberhard-weber/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Eberhard%20Weber%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/eberhard-weber"}],
-            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Eberhard_Weber"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Eberhard_Weber_(Musiker)"}, {"type": "en", "url": "https://en.wikipedia.org/wiki/Eberhard_Weber"}, {"type": "fr", "url": "https://fr.wikipedia.org/wiki/Eberhard_Weber"}, {"tpye": "nl", "url": "https://nl.wikipedia.org/wiki/Eberhard_Weber"}]}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Eberhard_Weber"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Eberhard_Weber_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Eberhard_Weber"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Eberhard_Weber"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Eberhard_Weber"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMhhNZHm-KxoILcM2LCffig"}]
         }
     },
@@ -4251,6 +4385,14 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4777875-Max-Wehner"}]
         }
+    },
+    "UliWeiche": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/8083618-Uli-Weiche"}]
+        }
+    },
+    "UlliWeiche": {
+        "canonicalName": { "firstname": "Uli", "surname": "Weiche"}
     },
     "HannahWeirich": {
         "links": {
@@ -4301,7 +4443,7 @@
     },
     "HajoWiesemann": {
         "links": {
-            "discogs": [{"type": "https://www.discogs.com/artist/7658470-Hajo-Wiesemann"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7658470-Hajo-Wiesemann"}],
             "homepage": [{"type": "band", "url": "http://www.weltenentdecker.com/spatzenschwatzen"}]
         }
     },
