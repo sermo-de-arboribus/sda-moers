@@ -216,6 +216,38 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Micha%20Acher%22&category_name=nach-hoeren"}]
         }
     },
+    "BenatAchiary": {
+        "canonicalName": { "firstname": "Beñat", "surname": "Achiary"}
+    },
+    "BeñatAchiary": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/be%C3%B1at-achiary-mn0000141581"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/the-seven-circles-dedicated-to-peter-kowald"}, {"type": "album", "url": "https://33revpermi.bandcamp.com/album/etage-34-be-at-achiary"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/894194-Be%C3%B1at-Achiary"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Be%C3%B1at%20Achiary%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/benatachiary"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Be%C3%B1at_Achiary"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Be%C3%B1at_Achiary"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Be%C3%B1at_Achiary"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC0m9DGw6sllokvMdtNUvBIA"}]
+        }
+    },
+    "RalphAlessi": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ralph-alessi-mn0000397752"}],
+            "bandcamp": [{"type": "album", "url": "https://rkmmusiccom.bandcamp.com/album/this-against-that"}, {"type": "album", "url": "https://wejazzrecords.bandcamp.com/album/with-ralph-alessi"}, {"type": "album", "url": "https://rkmmusiccom.bandcamp.com/album/vice-virtue"}, {"type": "album", "url": "https://ferdinandoromano.bandcamp.com/album/totem-feat-ralph-alessi"}, {"type": "album", "url": "https://alexkoo.bandcamp.com/album/appleblueseagreen"}, {"type": "album", "url": "https://babel-label.bandcamp.com/album/sugar-blade"}, {"type": "album", "url": "https://cloudmakers-trio.bandcamp.com/album/live-at-the-pizza-express-with-ralph-alessi"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/316510-Ralph-Alessi"}],
+            "homepage": [{"type": "personal", "url": "http://www.ralphalessi.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2013/10/15/the-jazz-session-424-ralph-alessi/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ralph%20Alessi%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/ralph-alessi"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/alessir1"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ralph_Alessi"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ralph_Alessi"}, {"locale!": "nl", "url": "https://nl.wikipedia.org/wiki/Ralph_Alessi"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCaax1HdkZhcyLJR-oxc7uxA"}]
+        }
+    },
+    "RashidAli": {
+        "canonicalName": {"firstname": "Rashied", "surname": "Ali"}
+    },
     "MarshallAllen": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/MarshallAllen"}],
@@ -1405,6 +1437,14 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6967892-Geordie-Greep"}]
         }
     },
+    "JackGregg": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jack-gregg-mn0001732138"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/355686-Jack-Gregg"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jack%20Gregg%22&category_name=nach-hoeren"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCQeSxNa60_n4v31zBDkB74w"}]
+        }
+    },
     "ShawnGrocott": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/shawn-grocott-mn0003524975"}],
@@ -2080,9 +2120,22 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC2rnMP8_EmA3U9hIrYK0z7w"}]
         }
     },
+    "JonathanKline": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/380106-Jonathan-Kline"}]
+        }
+    },
     "SusanneKnoop": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://sumaknoop.de/"}]
+        }
+    },
+    "BerndKöppen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/berndkoppen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bernd-k%C3%B6ppen-mn0000050395"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/320700-Bernd-K%C3%B6ppen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bernd_K%C3%B6ppen"}]}]
         }
     },
     "LuisaKohla": {
@@ -2636,6 +2689,14 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/Jupitergirlblue"}]
         }
     },
+    "CharlieMiller": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/charliemiller"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/charlie-miller-mn0000174638"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/357693-Charlie-Miller"}],
+            "homepage": [{"type": "personal", "url": "http://charliemiller.us/"}]
+        }
+    },
     "PhilMinton": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/philminton"}],
@@ -3138,6 +3199,16 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/vixemariah"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mari%C3%A1_Portugal"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/vixemariah"}]
+        }
+    },
+    "AllanPraskin": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/allanpraskin"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/allan-praskin-mn0000742315"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/341788-Allan-Praskin"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/allan-praskin"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Allan_Praskin"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Allan_Praskin"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCeAV3Mc2GiYJIBQzCUtTjtw"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC08mjUEOE41jnEmR4jNBl2Q"}]
         }
     },
     "AdrianProst": {
@@ -4237,6 +4308,21 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCZ578I91jA1Yy5-O7HoQfcA"}]
         }
     },
+    "OveVolquartz": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ove-volquartz-mn0001307765"}],
+            "bandcamp": [{"type": "album", "url": "https://simlas.bandcamp.com/album/live-at-g-ttinger-jazzfest-1999"}, {"type": "album", "url": "https://kasselexperimentalmusicproductions.bandcamp.com/album/illegaler-grenz-bertritt"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/465914-Ove-Volquartz"}],
+            "homepage": [{"type": "interview", "url": "https://www.psychedelicbabymag.com/2019/01/annexus-quam-interview.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ove%20Volquartz%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ove-volquartz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ove_Volquartz"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcYb-034csHgEaZZt0hW5yg"}]
+        }
+    },
+    "OweVolkquartz": {
+        "canonicalName": { "firstname": "Ove", "surname": "Volquartz"}
+    },
     "BilianaVoutchkova": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bilianavoutchkova"}],
@@ -4431,6 +4517,17 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jonas%20Westergaard%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jonas_Westergaard"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jonas_Westergaard"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCiCBVzc1fK34PqJyHS-CFfg"}]
+        }
+    },
+    "MarkWhitecage": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/markwhitecage"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mark-whitecage-mn0000333218"}],
+            "bandcamp": [{"type": "album", "url": "https://michaeljefrystevens.bandcamp.com/album/short-stories"}, {"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/the-final-concert"}, {"type": "album", "url": "https://futuramarge.bandcamp.com/album/relentlessness-live-at-the-sunset"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/352960-Mark-Whitecage"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Mark%20Whitecage%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mark_Whitecage"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mark_Whitecage"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCS0fQ2cBaPb-RRz2SLo89og"}]
         }
     },
     "DavisWhitfield": {
