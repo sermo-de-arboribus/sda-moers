@@ -230,6 +230,25 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC0m9DGw6sllokvMdtNUvBIA"}]
         }
     },
+    "IdrisAckamoor": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/idrisackamoor"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/idris-ackamoor-mn0000769598"}],
+            "bandcamp": [{"type": "personal", "url": "https://idrisackamoor.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/857508-Idris-Ackamoor"}],
+            "homepage": [{"type": "band", "url": "http://www.culturalodyssey.org/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Idris%20Ackamoor%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/drisckamoor"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Idris_Ackamoor"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Idris_Ackamoor"}]}]
+        },
+        "notes": {
+            "cs": "Narozen jako Bruce Baker",
+            "de": "Geburtsname Bruce Baker",
+            "en": "Born as Bruce Baker",
+            "fr": "Née Bruce Baker",
+            "zh": "出生​姓名Bruce Baker"
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -253,6 +272,19 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/MarshallAllen"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/252033-Marshall-Allen"}],
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/musiktipps/nach-hoeren/?s=%22Marshall+Allen%22"}]
+        }
+    },
+    "BenAllison": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/benallison"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ben-allison-mn0000154091"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/327519-Ben-Allison"}],
+            "homepage": [{"type": "search", "url": "https://benallison.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2011/03/24/the-jazz-session-251-ben-allison/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ben%20Allison%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/benallisonmusic"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ben_Allison"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ben_Allison"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzs2iF0hPAEGvfgrczCg1ug"}]
         }
     },
     "GuiAmabis": {
@@ -2184,6 +2216,22 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/rkoselleck"}]
         }
     },
+    "BronislavKovacec": {
+        "canonicalName": { "firstname": "Branislav", "surname": "Kovačev" }
+    },
+    "BranislavKovačev": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/463142-Branislav-Kova%C4%8Dev"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Lala_Kova%C4%8Dev"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Branislav_Lala_Kova%C4%8Dev"}]}]
+        },
+        "notes": {
+            "cs": "Přezdívka: Lala",
+            "de": "Spitzname: Lala",
+            "en": "Nickname: Lala",
+            "fr": "Sobriquet: Lala",
+            "zh": "外号: Lala"
+        }
+    },
     "PeterKowald": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/peterkowald"}],
@@ -2344,6 +2392,17 @@
             "discogs": [{"type": "band", "url": "https://www.discogs.com/de/artist/6970978-Pauline-Leblond-Double-Quartet"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pauline-leblond"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCg0fgPE8CLnZ8JCxMpyZ0vg"}]
+        }
+    },
+    "JeanneLee": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jeannelee"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jeanne-lee-mn0000232468"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/276970-Jeanne-Lee"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jeanne%20Lee%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jeanne-lee-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jeanne_Lee"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jeanne_Lee"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jeanne_Lee"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcDP0yly9eJmotz9BAHao5Q"}]
         }
     },
     "CavanaLee-Hampel": {
@@ -3340,6 +3399,17 @@
             "bandcamp": [{"type": "band", "url": "https://five38.bandcamp.com/"}]
         }
     },
+    "PerryRobinson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/perryrobinson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/perry-robinson-mn0000315419"}],
+            "bandcamp": [{"type": "album", "url": "https://wominimusic.bandcamp.com/album/perry-robinson-in-israel-july-2011"}, {"type": "album", "url": "https://ictusrecords.bandcamp.com/album/the-journey"}, {"type": "album", "url": "https://carlbaugher.bandcamp.com/album/faces"}, {"type": "album", "url": "https://murugabooker.bandcamp.com/album/essence"}, {"type": "personal", "url": "https://maxjohnson.bandcamp.com/album/top-of-the-head"}, {"type": "personal", "url": "https://tresgone.bandcamp.com/album/r0b0r0b1ns0n"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/326417-Perry-Robinson"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Perry%20Robinson%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Perry_Robinson"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Perry_Robinson"}]}],
+            "youtube": [[{"type": "personal", "url": "https://www.youtube.com/channel/UCwINhFMS7gagnow7T6SWCSQ"}]]
+        }
+    },
     "JanRoder": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/janroder"}],
@@ -3517,6 +3587,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/johannes-schleiermacher"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johannes_Schleiermacher"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/TheEskalator"}]
+        }
+    },
+    "JürgenSchmidt-Öhm": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jurgen-schmidt-oehm-mn0001742509"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2858140-J%C3%BCrgen-Schmidt-Oehm"}]
         }
     },
     "AnjaSchmiel": {
