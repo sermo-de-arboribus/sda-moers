@@ -249,6 +249,18 @@
             "zh": "出生​姓名Bruce Baker"
         }
     },
+    "BruceAckley": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bruceackley"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bruce-ackley-mn0000040742"}],
+            "bandcamp": [{"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/unexpected-twins"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/249689-Bruce-Ackley"}],
+            "homepage": [{"type": "band", "url": "https://www.rova.org/about-us/bruce-ackley.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bruce%20Ackley%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Rova_Saxophone_Quartet"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Rova_Saxophone_Quartet"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Rova_Saxophone_Quartet"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Rova_Saxophone_Quartet"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzId0ZewxzoE6CDccGd-4eA"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -285,6 +297,19 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/benallisonmusic"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ben_Allison"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ben_Allison"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzs2iF0hPAEGvfgrczCg1ug"}]
+        }
+    },
+    "BarryAltschul": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/barryaltschul"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/barry-altschul-mn0000140067"}],
+            "bandcamp": [{"type": "album", "url": "https://samrivers.bandcamp.com/album/reunion-live-in-new-york"}, {"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/news-no-news"}, {"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/desert-songs-and-other-landscapes"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/260591-Barry-Altschul"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2012/01/16/the-jazz-session-338-barry-altschul/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Barry%20Altschul%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/barry-altschul"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Barry_Altschul"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Barry_Altschul"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Barry_Altschul"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Barry_Altschul"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCq1iAL6p94bIhdrb6bXHXlg"}]
         }
     },
     "GuiAmabis": {
@@ -628,6 +653,15 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC4ECczH0oQHIpZxf5xKhICA"}]
         }
     },
+    "FredBraceful": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/fred-braceful-mn0001616358"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/314250-Fred-Braceful"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Fred%20Braceful%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Fred_Braceful"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Fred_Braceful"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcbUYTPpUrr9UXWv7qKqIEQ"}]
+        }
+    },
     "RodrigoBrandão": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rodrigo-brand%C3%A3o-mn0002029921/songs"}],
@@ -896,6 +930,16 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/StrongWaterPressure"}]
         }
     },
+    "JonChristensen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jonchristensen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jon-christensen-mn0000257238"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/257306-Jon-Christensen"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Jon%20Christensen%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jon_Christensen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jon_Christensen"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jon_Christensen"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcS2hSPkaHUP-HYjK6Ev3pA"}]
+        }
+    },
     "GünterChristmann": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/g%C3%BCnter-christmann-mn0000944375"}],
@@ -975,6 +1019,18 @@
             "homepage": [{"type": "personal", "url": "http://mariedaniels.de/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mariedanielsmusic"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCZTSPPhXRaFk2tzwl2NKJGg"}]
+        }
+    },
+    "WolfgangDauner": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wolfgangdauner"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wolfgang-dauner-mn0000677023"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/41408-Wolfgang-Dauner"}],
+            "homepage": [{"type": "personal", "url": "http://www.dauner-around.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Wolfgang%20Dauner%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/wolfgangdauner"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Wolfgang_Dauner"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Dauner"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Dauner"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Wolfgang_Dauner"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC8garHTVqbq6OMdVyoqWorA"}]
         }
     },
     "DaveDavis": {
@@ -4128,6 +4184,17 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Danny%20Ray%20Thompson%22&category_name=nach-hoeren"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/PicotheMusician"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Danny_Ray_Thompson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Danny_Ray_Thompson"}]}]
+        }
+    },
+    "MatthiasThurow": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matthias-thurow-mn0000330474"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/296938-Matthias-Thurow"}],
+            "homepage": [{"type": "personal", "url": "http://www.matthiasthurow.de/"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/matthiasthurow"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MatthiasTh"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Matthias_Thurow"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mthurow"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCYO25qhCPN0-PdeAzinG-hQ"}]
         }
     },
     "HeinTint": {
