@@ -50,7 +50,11 @@
     "year": "Jahr"
   },
   "exportPage": {
-    "header": "Datenexport"
+    "csvText": "Der CSV-Export enthält lediglich eine flache, unvollständige Kopie der Websitedaten, da das Format für die hierarchisch geschachtelten Daten dieser Website nur bedingt geeignet ist.",
+    "header": "Datenexport",
+    "introText": "Aus der Diskussion, ob JSON oder XML das bessere Datenformat sei, möchte ich mich gerne heraushalten mit dem Hinweis: Es kommt darauf an. Für die Moers-Festival-Daten spielt es keine Rolle, wählen Sie einfach das, was Ihnen lieber ist. Lediglich vom CSV ist abzuraten.",
+    "jsonText": "Laden Sie sich die Daten der Website hier im JSON-Format herunter.",
+    "xmlText": "Laden Sie sich die Daten der Website hier im XML-Format herunter."
   },
   "general": {
     "export": "Datenexport",

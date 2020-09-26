@@ -3,20 +3,37 @@
         <section class="container">
             <h1>{{ $t("exportPage.header") }}</h1>
             <div class="row justify-content-center">
-                <div class="col">
-                    <a @click="saveJson">
-                        <button type="button" class="btn btn-primary">JSON</button>
-                    </a>
+                <div class="col-1"/>
+                <div class="col">{{$t('exportPage.introText')}}</div>
+                <div class="col-1"/>
+            </div>
+            <div class="row justify-content-center">
+                <div class="card col">
+                    <div class="card-body">
+                        <h5 class="card-title">JSON</h5>
+                        <p class="card-text">{{$t('exportPage.jsonText')}}</p>
+                        <a @click="saveJson">
+                            <button type="button" class="btn btn-primary">JSON</button>
+                        </a>
+                    </div>
                 </div>
-                <div class="col">
-                    <download-csv :data="flatData" :name="`moers-artists${getTimestamp()}.csv`">
-                        <button type="button" class="btn btn-primary">CSV</button>
-                    </download-csv>
+                <div class="card col">
+                    <div class="card-body">
+                        <h5 class="card-title">CSV</h5>
+                        <p class="card-text">{{$t('exportPage.csvText')}}</p>
+                        <download-csv :data="flatData" :name="`moers-artists${getTimestamp()}.csv`">
+                            <button type="button" class="btn btn-primary">CSV</button>
+                        </download-csv>
+                    </div>
                 </div>
-                <div class="col">
-                    <a @click="saveXml">
-                        <button type="button" class="btn btn-primary">XML</button>
-                    </a>
+                <div class="card col">
+                    <div class="card-body">
+                        <h5 class="card-title">XML</h5>
+                        <p class="card-text">{{$t('exportPage.xmlText')}}</p>
+                        <a @click="saveXml">
+                            <button type="button" class="btn btn-primary">XML</button>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>

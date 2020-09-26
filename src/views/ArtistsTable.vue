@@ -69,7 +69,8 @@
                                 :href="link.url"
                                 size="sm"
                                 :title="link.htmlTitle"
-                                variant="outline-primary">
+                                variant="outline-primary"
+                                v-b-tooltip.hover>
                                 <i v-if="link.faIconClass" :class="link.faIconClass" variant="primary" style="font-size:28px;height:32px;width:32px"></i>
                                 <img v-else :src="link.logoUrl" style="height:32px;width:32px"/>
                             </b-button>
@@ -85,6 +86,22 @@
                     :rows="props.row.concerts"
                     :sort-options="innerSortOptions"
                     >
+
+                    <template slot="table-row" slot-scope="props">
+
+                        <div v-if="props.column.field == 'starttime'">
+                            <span v-if="isTimeEqualZero(props.row.starttime)">
+                                {{ dateFormat(props.row.starttime, "isoDate") }}
+                            </span>
+                            <span v-else>
+                                {{ dateFormat(props.row.starttime, "yyyy-dd-mm HH:MM:ss") }}
+                            </span>
+                        </div>
+
+                        <div v-else>
+                            <p>{{props.formattedRow[props.column.field]}}</p>
+                        </div>
+                    </template>
                 </vue-good-table>
 
                 <div v-else-if="props.column.field == 'notes'">
@@ -108,6 +125,8 @@
 import { mapActions, mapGetters, mapMutations, mapState } from "vuex";
 import { VueGoodTable } from "vue-good-table";
 import { VueLoading } from "vue-loading-template";
+
+const dateFormat = require('dateformat');
 
 export default {
     name: "ArtistsTable",
@@ -163,7 +182,7 @@ export default {
                     field: "starttime",
                     type: "date",
                     dateInputFormat: "yyyy-MM-dd HH:mm:ss",
-                    dateOutputFormat: "yyyy-MM-dd",
+                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss",
                     width: "25%"
                 },
                 {
@@ -257,6 +276,10 @@ export default {
     },
     methods: {
 
+        dateFormat (dateTime, format) {
+            return dateFormat(dateTime, format);
+        },
+
         getArtistLinks(firstname, surname) {
             const artistKey = [firstname, surname].join("");
             const artistData = this.artistLinks[artistKey];
@@ -267,6 +290,10 @@ export default {
             const artistKey = [firstname, surname].join("");
             const artistData = this.artistLinks[artistKey];
             return artistData ? artistData.notes : null;
+        },
+
+        isTimeEqualZero(dateTime) {
+            return dateFormat(dateTime, "isoTime") === "00:00:00";
         },
 
         onPageChange(params) {

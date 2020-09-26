@@ -49,7 +49,11 @@
     "year": "年份"
   },
   "exportPage": {
-    "header": "下载资讯"
+    "csvText": "CSV导出，仅包含该网站的不完整数据副本。",
+    "header": "下载资讯",
+    "introText": "",
+    "jsonText": "在此处下载JSON格式的网站数据。",
+    "xmlText": "在此处下载XML格式的网站数据。"
   },
   "general": {
     "export": "下载资讯",

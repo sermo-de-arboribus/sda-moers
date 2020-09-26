@@ -261,6 +261,23 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzId0ZewxzoE6CDccGd-4eA"}]
         }
     },
+    "DanAdams": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dan-adams-mn0000589754"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/852986-Dan-Adams"}]
+        }
+    },
+    "GeorgeAdams": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/georgeadams"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/george-adams-mn0000804097"}],
+            "bandcamp": [{"type": "album", "url": "https://dopenessgalore.bandcamp.com/album/finest"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/336123-George-Adams"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22George%20Adams%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/George_Adams_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/George_Adams_(musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/George_Adams"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/George_Adams"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzxuR6RS1fjntRfGPZizzvg"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -322,6 +339,17 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/guiamabisoficial"}]
         }
     },
+    "RayAnderson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/rayanderson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ray-anderson-mn0000869821"}],
+            "bandcamp": [{"type": "personal", "url": "https://rayanderson1.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/143941-Ray-Anderson"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2011/01/31/the-jazz-session-236-ray-anderson/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ray%20Anderson%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "localeS": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ray_Anderson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ray_Anderson_(musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ray_Anderson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ray_Anderson"}]}]
+        }
+    },
     "MaxAndrzejewski": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maxandrzejewski"}],
@@ -348,6 +376,16 @@
     "MoritzAnthes": {
         "links": {
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/6457041-Moritz-Anthes"}, { "type": "band", "url": "https://www.discogs.com/artist/2546097-The-Dorf"}]
+        }
+    },
+    "PeterApfelbaum": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/peterapfelbaum"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-apfelbaum-mn0000262412"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/348712-Peter-Apfelbaum"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2015/02/16/the-jazz-session-444-peter-apfelbaum/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Apfelbaum"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Peter_Apfelbaum"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_Apfelbaum"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCmw9UqvrqhZxSFZwQuFR23w"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCTcnXPs6yhFOIwzLpQBBJAw"}]
         }
     },
     "FabianArends": {
@@ -3243,6 +3281,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCbnSeiXuS_oHbK80o_e5bEA"}]
         }
     },
+    "BarrePhillips": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/barrephillips"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/barre-phillips-mn0000115985"}],
+            "bandcamp": [{"type": "album", "url": "https://ecmrecords.bandcamp.com/album/end-to-end"}, {"type": "album", "url": "https://mayarecordings.bandcamp.com/album/arcus"}, {"type": "album", "url": "https://joemorrisritiglacialeratic.bandcamp.com/album/elm-city-duets"}, {"type": "album", "url": "https://denmanfmaroney.bandcamp.com/album/bleu-boeuf-with-barre"}, {"type": "personal", "url": "https://nobusinessrecords.bandcamp.com/album/oh-my-those-boys"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/260604-Barre-Phillips"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Barre%20Phillips%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/barre-phillips"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Barre_Phillips"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCtTKMbQJOlZIJz7ROFvHTog"}]
+        }
+    },
     "HerbertPirker": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/herbertpirker"}],
@@ -3560,6 +3610,18 @@
     },
     "Leo deRuyter": {
         "canonicalName": { "firstname": "Leo de", "surname": "Ruiter" }
+    },
+    "TerjeRypdal": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/terjerypdal"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/terje-rypdal-mn0000023566"}],
+            "bandcamp": [{"type": "album", "url": "https://ecmrecords.bandcamp.com/album/waves-1"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/268962-Terje-Rypdal"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Terje%20Rypdal%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/terje-rypdal"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Terje_Rypdal"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Terje_Rypdal"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Terje_Rypdal"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Terje_Rypdal"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Terje_Rypdal"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCA0AD_7DPy01DJSIaazqeEQ"}]
+        }
     },
     "TorunnSævik": {
         "links": {

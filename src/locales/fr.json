@@ -49,7 +49,11 @@
     "year": "Année"
   },
   "exportPage": {
-    "header": "Exportation des données"
+    "csvText": "L'exportation en format CSV seulement contient une copie plate et incomplète des données de ce site web.",
+    "header": "Exportation des données",
+    "introText": "",
+    "jsonText": "Téléchargez les données de ce site web en format CSV.",
+    "xmlText": "Téléchargez les données de ce site web en format XML."
   },
   "general": {
     "export": "Exportation des données",

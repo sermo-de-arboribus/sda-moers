@@ -50,7 +50,11 @@
     "year": "Year"
   },
   "exportPage": {
-    "header": "Data export"
+    "csvText": "The CSV export only contains a flat, incomplete copy of this website's hierarchically nested source data.",
+    "header": "Data export",
+    "introText": "Here I am not going to take part in the discussion whether JSON or XML is the better data format; it depends on the usage scenario anyway. For the Moers festival data it doesn't matter much, just choose your preferred format. Just avoid the CSV.",
+    "jsonText": "Download the website data in JSON format here.",
+    "xmlText": "Download the website data in XML format here."
   },
   "general": {
     "export": "Export data",

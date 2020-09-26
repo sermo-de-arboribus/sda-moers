@@ -50,8 +50,12 @@
         "year": "Rok"
     },
     "exportPage": {
-        "header": "Export dat"
-    },
+        "csvText": "Export CSV-Export jenom obsahuje plochou, neúplnou kopii dat tyto webové strany, protože není dost příhodný format pro hierarchická data.",
+        "header": "Export dat",
+        "introText": "",
+        "jsonText": "Stáhněte si data tyto webové strany ve souborovým formátu JSON.",
+        "xmlText": "Stáhněte si data tyto webové strany ve souborovým formátu XML."
+      },
     "general": {
         "export": "Export dat",
         "festivalName": "Moers Festival",
