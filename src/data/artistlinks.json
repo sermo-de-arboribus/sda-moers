@@ -73,6 +73,20 @@
     "BouchalbAbdelhadi": { 
         "canonicalName": { "firstname": "Bouchaib", "surname": "Abdelhadi"}
     },
+    "MohamedAbdennour": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mohammed-abdennour-mn0001822003"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1054751-Mohamed-Abdennour"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Mohamed_Abdennour"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ptit_Moh"}]}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Ptit Moh",
+            "de": "Künstlername: Ptit Moh",
+            "en": "Artist's name: Ptit Moh",
+            "fr": "Pseudonyme: Ptit Moh",
+            "zh": "艺名: Ptit Moh"
+        }
+    },
     "Adnan ShananAbdulamir": {
         "canonicalName": { "firstname": "Adnan", "surname": "Shanan"}
     },
@@ -394,6 +408,21 @@
             "bandcamp": [{ "type": "personal", "url": "https://fabianarends.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/3556866-Fabian-Arends"}],
             "homepage": [{ "type": "personal", "url": "http://www.fabianarends.com"}]
+        }
+    },
+    "Darcy JamesArgue": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/darcyjamesarguessecretsociety"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/darcy-james-argue-mn0002167055"}],
+            "bandcamp": [{"type": "band", "url": "https://darcyjamesargue.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1527526-Darcy-James-Argue"}],
+            "homepage": [{"type": "personal", "url": "http://www.secretsocietymusic.org/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2009/12/11/the-jazz-session-121-darcy-james-argue/"}, {"type": "interview", "url": "https://www.thejazzsession.com/2012/02/23/the-jazz-session-349-darcy-james-argue/"}, {"type": "interview", "url": "https://www.thejazzsession.com/2017/03/19/the-jazz-session-462-darcy-james-argue/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Darcy%20James%20Argue%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/darcy-james-argue"}],
+            "twitter": [{"tpye": "personal", "url": "https://twitter.com/darcyjamesargue"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Darcy_James_Argue"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Darcy_James_Argue"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Darcy_James_Argue"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/darcyjamesargue"}]
         }
     },
     "AntoineArnera": {
@@ -902,6 +931,16 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3845686-Danilo-Cardoso"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=c5Mpo-BBoBs"}]
+        }
+    },
+    "RüdigerCarl": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/r%C3%BCdiger-carl-mn0000357619"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/vorn-lieder-und-improvisationen-f-r-akkordeon-bandoneon-und-ziehharmonika"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/virtual-cowws"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/272601-R%C3%BCdiger-Carl"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22R%C3%BCdiger%20Carl%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/R%C3%BCdiger_Carl"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/R%C3%BCdiger_Carl"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCuH1mWngEeuu1oCCGE4BBOQ"}]
         }
     },
     "BorisCassone": {
@@ -1470,6 +1509,13 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/heiner-goebbels"}]
         }
     },
+    "MathiasGötz": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mathias-g%C3%B6tz-mn0001095288"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1120598-Mathias-G%C3%B6tz"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCkz1_Syv86Kr1mWatXk8T4Q"}]
+        }
+    },
     "JohnGoldsby": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johngoldsby"}],
@@ -1515,13 +1561,6 @@
     "Laura LidyaGonzález Abreu": {
         "homepage": [{"type": "band", "url": "http://afrocubanallstarsonline.com/"}, {"type": "personal", "url": "https://www.linkedin.com/in/laura-lidya-gonzalez-abreu-71b89958/"}]
     },
-    "MathiasGötz": {
-        "links": {
-            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mathias-g%C3%B6tz-mn0001095288"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1120598-Mathias-G%C3%B6tz"}],
-            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCkz1_Syv86Kr1mWatXk8T4Q"}]
-        }
-    },
     "EmilioGordoa": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/emiliogordoa"}],
@@ -1533,6 +1572,18 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/emilio-gordoa"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]}],
             "youtube": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]
+        }
+    },
+    "ArjenGorter": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/arjengorter"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/arjen-gorter-mn0000158644"}, {"type": "personal", "url": "https://www.allmusic.com/artist/arjen-garter-mn0001862659"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/355683-Arjen-Gorter"}],
+            "homepage": [{"type": "personal", "url": "http://www.arjengorter.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Arjen%20Gorter%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/arjengorter"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Arjen_Gorter"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCy_1VrzPVzXT-eiU2N6BgCw"}]
         }
     },
     "SebastianGramss": {
@@ -3816,6 +3867,18 @@
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/chuffdrone"}],
             "wikipedia": [{"type": "personal", "localeS": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Judith_Schwarz"}]}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCIAO5s4FTRA-aLWXyRgJV_w"}]
+        }
+    },
+    "IrèneSchweizer": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ireneschweizer"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ir%C3%A8ne-schweizer-mn0000098952"}],
+            "bandcamp": [{"type": "agency", "url": "https://ireneschweizer.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/296710-Irene-Schweizer"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ir%C3%A8ne%20Schweizer%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/irene-schweizer"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ir%C3%A8ne_Schweizer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Schweizer"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ir%C3%A8ne_Schweizer"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ir%C3%A8ne_Schweizer"}]}]            ,
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCUlyXf4inqeIvqWpl49r1yw"}]
         }
     },
     "KnoelScott": {
