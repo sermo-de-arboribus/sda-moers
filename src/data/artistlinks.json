@@ -87,6 +87,11 @@
             "zh": "艺名: Ptit Moh"
         }
     },
+    "HarounaAbdou": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4768694-Harouna-Abdou"}]
+        }
+    },
     "Adnan ShananAbdulamir": {
         "canonicalName": { "firstname": "Adnan", "surname": "Shanan"}
     },
@@ -157,6 +162,24 @@
     "YasuhikoAbeta": {
         "links": {
             "homepage": [{"type": "band", "url": "http://shibusa.net/sche2/sche30.cgi?cm=1"}]
+        }
+    },
+    "EbenezerAbiodun": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom bubeníkovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce batteur",
+            "zh": "网上找不到这个打击​乐手的资料"
+        }
+    },
+    "SegunAbioye": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom bubeníkovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce batteur",
+            "zh": "网上找不到这个打击​乐手的资料"
         }
     },
     "SophieAbraham": {
@@ -275,6 +298,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzId0ZewxzoE6CDccGd-4eA"}]
         }
     },
+    "AndrewAdams": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.voiceofthecity.org/andrew-adams"}, {"type": "interview", "url": "https://thewidowstanton.com/post/170223011913/silhouette"}],
+            "wikipedia": [{"type": "personal", "url": "http://www.circopedia.org/Duo_Adamo"}]
+        }
+    },
     "DanAdams": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dan-adams-mn0000589754"}],
@@ -292,6 +321,17 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzxuR6RS1fjntRfGPZizzvg"}]
         }
     },
+    "SteveAdams": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/steveadams"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/steve-adams-mn0000050230"}],
+            "bandcamp": [{"type": "personal", "url": "https://steveadams.bandcamp.com/"}, {"type": "band", "url": "https://hanesadams.bandcamp.com/"}, {"type": "album", "url": "https://artifactrecordings.bandcamp.com/album/a-few-eccentricities-art-3002-2017"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/466100-Steve-Adams"}],
+            "homepage": [{"type": "personal", "url": "http://saxsteveadams.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Steve%20Adams%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/RovaSax"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -305,6 +345,21 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/alessir1"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ralph_Alessi"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ralph_Alessi"}, {"locale!": "nl", "url": "https://nl.wikipedia.org/wiki/Ralph_Alessi"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCaax1HdkZhcyLJR-oxc7uxA"}]
+        }
+    },
+    "MuhammadAli": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/muhammadali"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/muhammad-ali-mn0001295982"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/369294-Muhammad-Ali"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Muhammad_Ali_(hudebn%C3%ADk)"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Muhammad_Ali_(Schlagzeuger)"}, {"type": "en", "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_(drummer)"}, {"type": "fr", "url": "https://fr.wikipedia.org/wiki/Muhammad_Ali_(musicien)"}]}]
+        },
+        "notes": {
+            "cs": "Narozen jako Raymond Patterson",
+            "de": "Geburtsname Raymond Patterson",
+            "en": "Born as Raymond Patterson",
+            "fr": "Née Raymond Patterson",
+            "zh": "出生​姓名Raymond Patterson"
         }
     },
     "RashidAli": {
@@ -352,6 +407,22 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/AmabisGui"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/guiamabisoficial"}]
         }
+    },
+    "ArildAndersen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/arildandersen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/arild-andersen-mn0000927413"}],
+            "bandcamp": [{"type": "band", "url": "https://jonasogarild.bandcamp.com/"}, {"type": "album", "url": "https://confrontrecordings.bandcamp.com/album/tales-of-hackney"}, {"type": "album", "url": "https://storyvillerecords.bandcamp.com/album/under-the-rainbow"}, {"type": "album", "url": "https://storyvillerecords.bandcamp.com/album/space-is-the-place"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/268963-Arild-Andersen"}],
+            "homepage": [{"type": "personal", "url": "http://www.arildandersen.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Arild%20Andersen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/arild-andersen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Arild_Andersen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Arild_Andersen"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Arild_Andersen"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Arild_Andersen"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/arilda81"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCPrI3nOMlZYUL71QRSab9sQ"}]
+        }
+    },
+    "ArildAnderson": {
+        "canonicalName": { "firstname": "Arild", "surname": "Andersen" }
     },
     "RayAnderson": {
         "links": {
@@ -605,6 +676,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCoYO90h5DweZs7irdQ_73kg"}]
         }
     },
+    "TimBerne": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/timberne"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tim-berne-mn0000601508"}],
+            "bandcamp": [{"type": "personal", "url": "https://timberne.bandcamp.com/"}, {"type": "agency", "url": "https://screwgunrecords.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/222596-Tim-Berne"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2012/02/07/the-jazz-session-344-tim-berne/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Tim%20Berne%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/screwgunrecords"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/screwgub"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Tim_Berne"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Tim_Berne"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tim_Berne"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tim_Berne"}]}]
+        }
+    },
     "ViolaBlache": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/viola-blache-mn0003286318"}],
@@ -637,6 +721,21 @@
             "homepage": [{"type": "personal", "url": "http://www.marvinblamberg.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/marvinblamberg"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/marvinblamberg"}]
+        }
+    },
+    "TheoBleckmann": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/theobleckmann"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/theo-bleckmann-mn0000585200"}],
+            "bandcamp": [{"type": "album", "url": "https://greyfade-label.bandcamp.com/album/lp1"}, {"type": "album", "url": "https://traumton.bandcamp.com/album/looking-glass-river"}, {"type": "album", "url": "https://traumton.bandcamp.com/album/theo-kirk"}, {"type": "album", "url": "https://johnhollenbeck.bandcamp.com/album/static-still-theo-bleckmann-john-hollenbeck"}, {"type": "album", "url": "https://itsnotyouitsme.bandcamp.com/album/this-i-featuring-theo-bleckmann-sk-li-sverrisson"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/316500-Theo-Bleckmann"}],
+            "homepage": [{"type": "personal", "url": "http://www.theobleckmann.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/09/09/the-jazz-session-198-theo-bleckmann/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Theo%20Bleckmann%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/earrelevantmusic-1"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Theo_Bleckmann"}],
+            "wikipedia": [{"type": "personal", "locales":[{"locale": "de", "url": "https://de.wikipedia.org/wiki/Theo_Bleckmann"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Theo_Bleckmann"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Theo_Bleckmann"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Theo_Bleckmann"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/earrelevantmusic/videos"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCO2-g29Gfk04t3Tx5bzYcrw"}]
         }
     },
     "HelenBledsoe": {
@@ -1355,6 +1454,17 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC1Rb5gDo_bDsFnfQiPUS0Yw"}]
         }
     },
+    "BobbyFew": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bobbyfew"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bobby-few-mn0000764447"}],
+            "bandcamp": [{"type": "album", "url": "https://avramfefer.bandcamp.com/album/heavenly-places"}, {"type": "album", "url": "https://avramfefer.bandcamp.com/album/kindred-spirits"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/106356-Bobby-Few"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bobby%20Few%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Bobby_Few"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Bobby_Few"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Bobby_Few"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Bobby_Few"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCI1RELs7-0hxV8NPfGIYT3g"}]
+        }
+    },
     "JohannesFink": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johannesfink"}],
@@ -1431,6 +1541,18 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316967-Felix-Fritsche"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/felix-fritsche"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCBUxt8DN8Bxza626ZV6sCow"}]
+        }
+    },
+    "JanGarbarek": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jangarbarek"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-garbarek-mn0000809334"}],
+            "bandcamp": [{"type": "album", "url": "https://ecmrecords.bandcamp.com/album/in-praise-of-dreams"}, {"type": "album", "url": "https://ecmrecords.bandcamp.com/album/i-took-up-the-runes-1"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/209085-Jan-Garbarek"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jan%20Garbarek%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jan-garbarek"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Jan_Garbarek"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Garbarek"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jan_Garbarek"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jan_Garbarek"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jan_Garbarek"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCY6OueviObx1AH6lmT1Uq5A"}]
         }
     },
     "OttoGardner": {
@@ -3858,6 +3980,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kaischumacherpiano"}]
         }
     },
+    "JohnSchuursma": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/john-schuursma-mn0001188399"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/719754-John-Schuursma"}]
+        }
+    },
     "JudithSchwarz": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/judithschwarz"}],
@@ -4011,6 +4139,16 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-siegel-mn0002597351"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/509947-Oliver-Siegel"}]
+        }
+    },
+    "AlanSilva": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/alansilva"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/alan-silva-mn0000608714"}],
+            "bandcamp": [{"type": "personal", "url": "https://alansilva.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/258127-Alan-Silva"}, {"type": "album", "url": "https://multikultiproject.bandcamp.com/album/plug-in"}, {"type": "album", "url": "https://eremiterecords.bandcamp.com/album/transmissions"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Alan%20Silva%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Alan_Silva"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Alan_Silva"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Alan_Silva"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Alan_Silva"}]}]
         }
     },
     "MorganSimpson": {
@@ -4535,6 +4673,17 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jonas-kaiku"}]
         }
     },
+    "EdwardVesala": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/edwardvesala"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/edward-vesala-mn0000175093"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/310367-Edward-Vesala"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Edward%20Vesala%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/edward-vesala"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Edward_Vesala"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Edward_Vesala"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Edward_Vesala"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCX2Ic4wGnJzuqAFj-psYG8A"}]
+        }
+    },
     "HenningVetter": {
         "links": {
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/roterfunke"}]
@@ -4838,6 +4987,17 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tobe-wouters-mn0001526723"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/549861-Tobe-Wouters"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcVR55aHgIclm77NP-ZrvJg"}]
+        }
+    },
+    "FrankWright": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/frankwright"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frank-wright-mn0000163197"}],
+            "bandcamp": [{"type": "personal", "url": "https://frankwright.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/145243-Frank-Wright"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Frank%20Wright%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Frank_Wright_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Frank_Wright_(jazz_musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Frank_Wright"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Frank_Wright_(jazzmusicus)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCTHBurvpG7joUw17LI_JbBA"}]
         }
     },
     "JasonYarde": {
