@@ -332,6 +332,21 @@
             "twitter": [{"type": "band", "url": "https://twitter.com/RovaSax"}]
         }
     },
+    "AdekunleAdebiyi": {
+        "canonicalName": { "firstname": "Abidemi Adebiyi", "surname": "Adekunle"}
+    },
+    "Abidemi AdebiyiAdekunle": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bidemi-adebiyi-adekunle-mn0002727216"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adekunle-adebiyi-mn0003239069"}]
+        },
+        "notes": {
+            "cs": "Alternativní tvary jména: Adekunle Adebiyi, Bidemi Adebiyi Adekunle",
+            "de": "Alternative Namensformen: Adekunle Adebiyi, Bidemi Adebiyi Adekunle",
+            "en": "Alternative name forms: Adekunle Adebiyi, Bidemi Adebiyi Adekunle",
+            "fr": "Formes alternatives du nom: Adekunle Adebiyi, Bidemi Adebiyi Adekunle",
+            "zh": "其他的名字: Adekunle Adebiyi, Bidemi Adebiyi Adekunle"
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -754,6 +769,12 @@
             "homepage": [{"type": "agency", "url": "https://www.stadt-muenster.de/musikschule/kooperationen/jugendakademie/studierende/henrike-blikslager.html"}]
         }
     },
+    "HamietBluiet": {
+        "canonicalName": { "firstname": "Hamiet", "surname": "Bluiett"}
+    },
+    "HamiettBluiett": {
+        "canonicalName": { "firstname": "Hamiet", "surname": "Bluiett"}
+    },
     "SusanneBlumenthal": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/susanne-blumenthal-mn0002037909"}],
@@ -904,6 +925,17 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Niels%20Broos%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nielsbroos"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzwNnO0Yd0o4kyJWCsBC48Q"}]
+        }
+    },
+    "AnthonyBrown": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/anthonybrown"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/anthony-brown-mn0000583138"}],
+            "discogs": [{"type": "personal", "url":"https://www.discogs.com/de/artist/2158111-Anthony-Brown-9"}],
+            "homepage": [{"type": "personal", "url": "http://www.fifthstreammusic.org/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2011/03/03/the-jazz-session-245-anthony-brown/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Anthony%20Brown%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Anthony_Brown_(musician)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Anthony_Brown"}]}]
         }
     },
     "JuliaBrüssel": {
@@ -3920,6 +3952,9 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hans_Schneider_(Bassist)"}]}]
         }
     },
+    "DetlefSchoenenberg": {
+        "canonicalName": { "firstname": "Detlef", "surname": "Schönenberg" }
+    },
     "DetlefSchönenberg": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/detlef-sch%C3%B6nenberg-mn0002929204"}],
@@ -3929,6 +3964,9 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Detlef_Sch%C3%B6nenberg"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCS_iUo4atkMnTEYBGuFqG_A"}]
         }
+    },
+    "DetlevSchönenberg": {
+        "canonicalName": { "firstname": "Detlef", "surname": "Schönenberg" }
     },
     "MichaelSchönhuth": {
         "links": {
