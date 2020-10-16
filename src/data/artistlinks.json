@@ -335,6 +335,12 @@
     "AdekunleAdebiyi": {
         "canonicalName": { "firstname": "Abidemi Adebiyi", "surname": "Adekunle"}
     },
+    "Ajayi RaimiAdebiyi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ajayi-adebiyi-mn0001427739"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adebiyi-ajayi-mn0001823493"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/403414-Ajayi-Adebiyi"}]
+        }
+    },
     "Abidemi AdebiyiAdekunle": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bidemi-adebiyi-adekunle-mn0002727216"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adekunle-adebiyi-mn0003239069"}]
@@ -1020,6 +1026,19 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/KerimButz"}]
         }
     },
+    "Taylor HoBynum": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/taylorhobynum"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/taylor-ho-bynum-mn0000014938"}],
+            "bandcamp": [{"type": "personal", "url": "https://taylorhobynum.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1021780-Taylor-Ho-Bynum"}],
+            "homepage": [{"type": "personal", "url": "http://taylorhobynum.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/06/17/the-jazz-session-178-taylor-ho-bynum/"}, {"type": "interview", "url": "https://www.thejazzsession.com/2019/10/30/the-jazz-session-495-taylor-ho-bynum/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Taylor%20Ho%20Bynum%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Taylor_Ho_Bynum"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Taylor_Ho_Bynum"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Taylor_Ho_Bynum"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMFqp97unBgZuMfvEOS39RA"}]
+        }
+    },
     "MarceloCabral": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marcelo-cabral-mn0001360954"}],
@@ -1327,6 +1346,17 @@
             "homepage": [{"type": "personal", "url": "https://www.kristof-doemoetoer.de"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristof-d-m-t-r"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
+        }
+    },
+    "GerdDudek": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/gerddudek"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gerd-dudek-mn0000548629"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/297023-Gerd-Dudek"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Gerd%20Dudek%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/gerddudekstefanheidtmann"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Gerd_Dudek"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Gerd_Dudek"}, {"locale": "fr", "url": "https://nl.wikipedia.org/wiki/Gerd_Dudek"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC0Nc2u40CsJrtDzuoW4eTsw"}]
         }
     },
     "UrzulaDudziak": {
@@ -3267,6 +3297,9 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/0112358132134usw"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCBxYL9zKDdNVUdbky7pnwqg"}]
         }
     },
+    "BuschiNibergall": {
+        "canonicalName": { "firstname": "Buschi", "surname": "Niebergall" }
+    },
     "DanNicholls": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/dannicholls"}],
@@ -3290,6 +3323,24 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/musicalmag"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Maggie_Nicols"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Maggie_Nicols"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/maggienicolson"}]
+        }
+    },
+    "BuschiNiebergall": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/buschi-niebergall-mn0001756847"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/297018-Buschi-Niebergall"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Buschi+Niebergall%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Buschi_Niebergall"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Buschi_Niebergall"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Buschi_Niebergall"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCbe_LsmR7RGZu2hzZ3JQlPA"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCYVKDjly8H8oobPb0uq8asA"}]
+        },
+        "notes": {
+            "notes": {
+                "cs": "Narozen jako Hans-Helmut Niebergall",
+                "de": "Geburtsname Hans-Helmut Niebergall",
+                "en": "Born as Hans-Helmut Niebergall",
+                "fr": "Née Hans-Helmut Niebergall",
+                "zh": "出生​姓名Hans-Helmut Niebergall"
+            }
         }
     },
     "FrankNiehusmann": {
@@ -3402,6 +3453,19 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/keith-obrienmusic"}]
         }
     },
+    "EvanParker": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/evanparker"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/evan-parker-mn0000145422"}],
+            "bandcamp": [{"type": "agency", "url": "https://evanparkerintakt.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/process-and-reality"}, {"tpye": "album", "url": "https://vortexjazzclub.bandcamp.com/album/work-in-progress"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/london-air-lift"}, {"type": "album", "url": "https://sluchaj.bandcamp.com/album/live-alchemia"}, {"type": "album", "url": "https://weekertoft.bandcamp.com/album/calenture-and-light-leaks"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/42708-Evan-Parker"}],
+            "homepage": [{"type": "personal", "url": "http://evanparker.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Evan%20Parker%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/evan-parker-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Evan_Parker"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Evan_Parker"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Evan_Parker"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Evan_Parker"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Evan_Parker"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCd8ocR0_mHG4YAL1tpeHU1A"}]
+        }
+    },
     "DJPatex": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dj-patex-mn0001391340"}],
@@ -3496,6 +3560,19 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/barre-phillips"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Barre_Phillips"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Barre_Phillips"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCtTKMbQJOlZIJz7ROFvHTog"}]
+        }
+    },
+    "MichelPilz": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/michelpilz"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michel-pilz-mn0001593151"}, { "type": "personal", "url": "https://www.allmusic.com/artist/michel-pilz-mn0000188097" }],
+            "bandcamp": [{"type": "album", "url": "https://freresdame.bandcamp.com/album/no-corner-to-hide-in"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/296986-Michel-Pilz"}],
+            "homepage": [{"type": "personal", "url": "http://www.michelpilz.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Michel%20Pilz%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/michelpilz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Michel_Pilz"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Michel_Pilz" }]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCu_-9HCTb0w7fOzr2USIHjQ"}]
         }
     },
     "HerbertPirker": {
@@ -3912,6 +3989,22 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/TheEskalator"}]
         }
     },
+    "AlexanderSchlippenbach": {
+        "canonicalName": { "firstname": "Alexander von", "surname": "Schlippenbach" }
+    },
+    "Alexander vonSchlippenbach": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/alexandervonschlippenbach"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/alexander-von-schlippenbach-mn0000000285"}],
+            "bandcamp": [{"type": "agency", "url": "https://alexandervonschlippenbach.bandcamp.com/"}, {"tpye": "album", "url": "https://destination-out.bandcamp.com/album/piano-solo-77" }, {"type": "album", "url": "https://destination-out.bandcamp.com/album/the-morlocks-and-other-pieces"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/so-far"}, {"type": "album", "url": "https://trostrecords.bandcamp.com/album/schraubenlieder"}, {"type": "album", "url": "https://whyplayjazz.bandcamp.com/album/abstract-window"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/280940-Alexander-von-Schlippenbach"}],
+            "homepage": [{"type": "personal", "url": "http://www.avschlippenbach.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Alexander%20von%20Schlippenbach%22"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/alexander-von-schlippenbach"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Alexander_von_Schlippenbach"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Alexander_von_Schlippenbach"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Alexander_von_Schlippenbach"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Alexander_von_Schlippenbach"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCU7GTzxs9H6Z9TuO8Zx2PFQ"}]
+        }
+    },
     "JürgenSchmidt-Öhm": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jurgen-schmidt-oehm-mn0001742509"}],
@@ -3966,6 +4059,9 @@
         }
     },
     "DetlevSchönenberg": {
+        "canonicalName": { "firstname": "Detlef", "surname": "Schönenberg" }
+    },
+    "DetlevSchoenenberg": {
         "canonicalName": { "firstname": "Detlef", "surname": "Schönenberg" }
     },
     "MichaelSchönhuth": {
