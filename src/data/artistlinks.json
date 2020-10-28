@@ -359,6 +359,11 @@
             "zh": "艺名: King Sunny Adé"
         }
     },
+    "RasakAdegoke": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.facebook.com/alhajirasak.adegoke"}]
+        }
+    },
     "Abidemi AdebiyiAdekunle": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bidemi-adebiyi-adekunle-mn0002727216"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adekunle-adebiyi-mn0003239069"}]
@@ -1055,6 +1060,19 @@
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Taylor%20Ho%20Bynum%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Taylor_Ho_Bynum"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Taylor_Ho_Bynum"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Taylor_Ho_Bynum"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMFqp97unBgZuMfvEOS39RA"}]
+        }
+    },
+    "DonByron": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/donbyron"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/don-byron-mn0000177857"}],
+            "bandcamp": [{"type": "album", "url": "https://aruanortiz.bandcamp.com/album/random-dances-and-a-tonalities"}, {"type": "album", "url": "https://lisamoore.bandcamp.com/album/seven"}, {"type": "album", "url": "https://jazzclubferrara.bandcamp.com/album/the-tower-tapes-20-don-byron-aruan-ortiz"}, {"type": "album", "url": "https://bangonacan.bandcamp.com/album/a-ballad-for-many"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/148926-Don-Byron"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2007/06/16/the-jazz-session-19-don-byron/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Don%20Byron%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/don-byron-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Don_Byron"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Don_Byron"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Don_Byron"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Don_Byron"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCOBRhY4QRqNe-w2A0l3ZqHQ"}]
         }
     },
     "MarceloCabral": {
@@ -4456,6 +4474,19 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Oliver%20Steidle%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/smolynmusic"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCnH0ysYT1Le8ynm73T0NI-w"}]
+        }
+    },
+    "JeremySteig": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jeremysteig"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jeremy-steig-mn0000270551"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/122381-Jeremy-Steig"}],
+            "homepage": [{"type": "personal", "url": "http://www.jeremysteig.info/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Jeremy%20Steig%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jeremy-steig"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/steig_"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jeremy_Steig"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jeremy_Steig"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jeremy_Steig"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMbdCah3ucAfwBWLAP53jJQ"}]
         }
     },
     "TillSteinebach": {
