@@ -364,6 +364,12 @@
             "homepage": [{"type": "personal", "url": "https://www.facebook.com/alhajirasak.adegoke"}]
         }
     },
+    "MichaelAdekoya": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5534268-Michael-Adekoya"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MichaelAdekoya1"}]
+        }
+    },
     "Abidemi AdebiyiAdekunle": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bidemi-adebiyi-adekunle-mn0002727216"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adekunle-adebiyi-mn0003239069"}]
@@ -767,6 +773,26 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/marvinblamberg"}]
         }
     },
+    "TotoBlanke": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/totoblanke"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/toto-blanke-mn0001733673"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/479868-Toto-Blanke"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Toto%20Blanke%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/totoblanke"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Toto_Blanke"}, {"locale": "en", "url": "https://nl.wikipedia.org/wiki/Toto_Blanke"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCe6T4ncdEwveGH-uzFiVB0Q"}]
+        },
+        "notes": {
+            "notes": {
+                "cs": "Narozen jako Hans Otto Blanke",
+                "de": "Geburtsname Hans Otto Blanke",
+                "en": "Born as Hans Otto Blanke",
+                "fr": "Née Hans Otto Blanke",
+                "zh": "出生​姓名Hans Otto Blanke"
+            }
+        }
+    },
     "TheoBleckmann": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/theobleckmann"}],
@@ -1037,6 +1063,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/daporge"}]
         }
     },
+    "SigiBusch": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sigi-busch-mn0000993792"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/963044-Sigi-Busch"}],
+            "homepage": [{"type": "personal", "url": "http://www.sigibusch.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Sigi%20Busch%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/sigi-busch-sounds"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/SigiBusch1"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sigi_Busch"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCXVkiBGIhxaWW2PtyNrXx9g"}]
+        }
+    },
     "PaulineBuss": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7384229-Pauline-Buss"}],
@@ -1127,6 +1165,20 @@
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22R%C3%BCdiger%20Carl%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/R%C3%BCdiger_Carl"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/R%C3%BCdiger_Carl"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCuH1mWngEeuu1oCCGE4BBOQ"}]
+        }
+    },
+    "JamesCarter": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jamescarter"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/james-carter-mn0000131227"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/337785-James-Carter-3"}],
+            "homepage": [{"type": "personal", "url": "http://jamescarterlive.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2011/06/08/the-jazz-session-278-james-carter/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22James%20Carter%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jamescartermusic"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/jamescarterlive"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/James_Carter_(Saxophonist)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/James_Carter_(musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/James_Carter_(jazzman)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/James_Carter_(musicus)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC3z0piGitWhx7tSCMi7qXJw"}]
         }
     },
     "BorisCassone": {
@@ -1245,6 +1297,17 @@
     "DenisCosmar": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316965-Denis-Cosmar"}]
+        }
+    },
+    "PierreCourbois": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/pierrecourbois"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pierre-courbois-mn0000340583"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/397479-Pierre-Courbois"}],
+            "homepage": [{"type": "personal", "url": "http://www.pierrecourbois.nl/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Pierre%20Courbois%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/oorwax"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Pierre_Courbois"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Pierre_Courbois"}, {"locale": "nl", "Url": "https://nl.wikipedia.org/wiki/Pierre_Courbois"}]}]
         }
     },
     "Mattias DeCraene": {
@@ -1568,6 +1631,15 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bobby%20Few%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Bobby_Few"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Bobby_Few"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Bobby_Few"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Bobby_Few"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCI1RELs7-0hxV8NPfGIYT3g"}]
+        }
+    },
+    "MongeziFeza": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mongezifeza"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mongezi-feza-mn0000587887"}],
+            "bandcamp": [{"type": "album", "url": "https://ayler-records.bandcamp.com/album/free-jam"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/which-way-now"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/266836-Mongezi-Feza"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mongezi_Feza"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mongezi_Feza"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Mongezi_Feza"}]}]
         }
     },
     "JohannesFink": {
@@ -2647,6 +2719,18 @@
             "homepage": [{"type": "agency", "url": "https://www.sploh.si/en/about-sploh/artists/ana-kravanja"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-152749840"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/ckapal"}]
+        }
+    },
+    "JoachimKühn": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/joachimkuhn"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joachim-k%C3%BChn-mn0000783907"}],
+            "bandcamp": [{"type": "personal", "url": "https://joachimkuehn.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/299626-Joachim-K%C3%BChn"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Joachim%20K%C3%BChn%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/joachimkuhn"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Joachim_K%C3%BChn"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Joachim_K%C3%BChn"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Joachim_K%C3%BChn"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Joachim_K%C3%BChn"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Joachim_K%C3%BChn"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCYzy87ZHFwZdTSEkTPi4HHw"}]
         }
     },
     "AlmutKühne": {
@@ -5148,6 +5232,18 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jonas%20Westergaard%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jonas_Westergaard"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jonas_Westergaard"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCiCBVzc1fK34PqJyHS-CFfg"}]
+        }
+    },
+    "KennyWheeler": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/kennywheeler"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kenny-wheeler-mn0000767652"}],
+            "bandcamp": [{"type": "personal", "url": "https://kennywheeler.bandcamp.com/"}, {"type": "album", "url": "https://ecmrecords.bandcamp.com/album/deer-wan-1"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/142047-Kenny-Wheeler"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Kenny%20Wheeler%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/kenny-wheeler-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Kenny_Wheeler"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCw3n6GcHQ-OueZMc7q-5jAQ"}]
         }
     },
     "MarkWhitecage": {
