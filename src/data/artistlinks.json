@@ -370,6 +370,11 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/MichaelAdekoya1"}]
         }
     },
+    "Yetunde Sophia GeorgeAdemiluyi": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "http://motherhoodinstyle.net/tag/yetunde-george-ademiluyi/"}]
+        }
+    },
     "Abidemi AdebiyiAdekunle": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bidemi-adebiyi-adekunle-mn0002727216"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adekunle-adebiyi-mn0003239069"}]
@@ -673,6 +678,17 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3262133-Cico-Beck"}],
             "homepage": [{"type": "personal", "url": "http://cicobeck.de/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/cico-beck"}]
+        }
+    },
+    "HarryBeckett": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/harrybeckett"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harry-beckett-mn0000668450"}],
+            "bandcamp": [{"type": "personal", "url": "https://harrybeckett.bandcamp.com/"}, {"type": "label", "url": "https://cadillacrecords77.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/126153-Harry-Beckett"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Harry%20Beckett%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Harry_Beckett"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Harry_Beckett"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Harry_Beckett"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Harry_Beckett"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCLuMMmHIzBSmKWyCLmM-5eA"}]
         }
     },
     "HanBennink": {
@@ -1286,6 +1302,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCyzhWlQQO4Xn61AaO-MCSNg"}]
         }
     },
+    "AvishaiCohen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/avishaicohentrumpet"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/avishai-cohen-mn0001875710"}],
+            "bandcamp": [{"type": "personal", "url": "https://avishaicohen.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/542342-Avishai-E-Cohen"}],
+            "homepage": [{"type": "personal", "url": "http://www.avishaicohenmusic.com/"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2008/02/09/the-jazz-session-35-avishai-cohen-trumpet/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Avishai+Cohen%22+Trompete"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/avishai_cohen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Avishai_Cohen_(Trompeter)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Avishai_Cohen_(trumpeter)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Avishai_Cohen_(trompettiste)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Avishai_Cohen_(trompettist)"}]}]
+        }
+    },
     "SergeCorteyn": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/serge-corteyn-mn0002873295"}],
@@ -1357,6 +1386,13 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/wolfgangdauner"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Wolfgang_Dauner"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Dauner"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Dauner"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Wolfgang_Dauner"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC8garHTVqbq6OMdVyoqWorA"}]
+        }
+    },
+    "MartinDavid": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/martindavid"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/martin-david-mn0001988324"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/769615-Martin-David"}]
         }
     },
     "DaveDavis": {
@@ -2103,6 +2139,13 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5014427-Helen-Henfling"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/gewaltband"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/HelenJagger"}]
+        }
+    },
+    "IanHenry": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ian-henry-mn0001320838"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/327298-Ian-Henry"}],
+            "homepage": [{"type": "personal", "url": "http://www.ianhenrygarber.co.uk/"}]
         }
     },
     "MatthiasHeße": {
@@ -3084,6 +3127,16 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/emmet-mcdonald-mn0001232094"}],
             "allaboutjazz": [{"type": "personal", "url": "https://www.discogs.com/artist/2133204-Emmett-McDonald"}],
             "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/emmett-mcdonald-34694285/"}]
+        }
+    },
+    "RonMathewson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ronmathewson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ron-mathewson-mn0001412116"}],
+            "bandcamp": [{"type": "album", "url": "https://jazzinbritain1.bandcamp.com/album/free-flight-the-ron-mathewson-tapes-vol-3"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/325649-Ron-Mathewson"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ron_Mathewson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ron_Mathewson"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ron_Mathewson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ron_Mathewson"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCMGhfhnBko1EtSgbeOu50zQ"}]
         }
     },
     "MarcMeeuwissen": {
@@ -4443,6 +4496,18 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_ImGWVAXPXhxxa5aixUruw"}]
         }
     },
+    "AlanSkidmore": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/alanskidmore"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/alan-skidmore-mn0000689801"}],
+            "bandcamp": [{"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/looking-for-the-next-one"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/253702-Alan-Skidmore"}],
+            "homepage": [{"type": "personal", "url": "https://alanskidmore.info/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Alan%20Skidmore%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Alan_Skidmore"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Alan_Skidmore"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Alan_Skidmore"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Alan_Skidmore"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Alan_Skidmore"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCavQgjheQB7F-3IzdyAdVEQ"}]
+        }
+    },
     "HeidiSkjerve": {
         "links": {
             "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-heidi-skjerve"}],
@@ -5133,6 +5198,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rie-watanabe-percussion"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/Ringorie5"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCK42Az0KvrtLEmzoWOZSRRg"}]
+        }
+    },
+    "JohnWebb": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/john-webb-mn0001755075"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/321456-John-Webb-2"}]
         }
     },
     "Charlotte JohannaWeber": {
