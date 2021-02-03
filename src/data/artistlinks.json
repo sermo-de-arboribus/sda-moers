@@ -370,11 +370,6 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/MichaelAdekoya1"}]
         }
     },
-    "Yetunde Sophia GeorgeAdemiluyi": {
-        "links": {
-            "homepage": [{"type": "personal", "url": "http://motherhoodinstyle.net/tag/yetunde-george-ademiluyi/"}]
-        }
-    },
     "Abidemi AdebiyiAdekunle": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bidemi-adebiyi-adekunle-mn0002727216"}, {"type": "personal", "url": "https://www.allmusic.com/artist/adekunle-adebiyi-mn0003239069"}]
@@ -385,6 +380,41 @@
             "en": "Alternative name forms: Adekunle Adebiyi, Bidemi Adebiyi Adekunle",
             "fr": "Formes alternatives du nom: Adekunle Adebiyi, Bidemi Adebiyi Adekunle",
             "zh": "其他的名字: Adekunle Adebiyi, Bidemi Adebiyi Adekunle"
+        }
+    },
+    "Yetunde Sophia GeorgeAdemiluyi": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "http://motherhoodinstyle.net/tag/yetunde-george-ademiluyi/"}]
+        }
+    },
+    "IyaboAdeniran": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/iyabo-adeniran-mn0001972883"}]
+        }
+    },
+    "OyinadeAdeniran": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oyinade-adeniran-mn0001263885"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/365857-Oyinade-Adeniran"}]
+        }
+    },
+    "IyaboAdenirian": {
+        "canonicalName": {
+            "firstname": "Iyabo",
+            "surname": "Adeniran"
+        }
+    },
+    "ToyinAdeogun": {
+        "links": {}
+    },
+    "JoanaAderi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joana-m-aderi-mn0003396972"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/864604-Joana-Aderi"}],
+            "homepage": [{"type": "personal", "url": "https://www.eiko-music.com/"}, {"type": "agency", "url":"https://www.schoolofsound.ch/trainer/joana-maria-aderi/"}],
+            "radiohoerer": [{"type": "interview", "url": "https://www.srf.ch/audio/sounds/interview-mit-phall-fatale?id=10746809"}, {"type": "interview", "url": "https://www.srf.ch/audio/jazz-collection/abbey-lincoln-die-kraft-der-selbstbestimmung?id=11793355"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/joana-eiko"}, {"type": "agency", "url": "https://soundcloud.com/audiokonzept/joana-aderi_lueged-vo-ba-rg"}],
+            "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=C4owWMT3eRo"}, {"type": "band", "url": "https://www.youtube.com/user/phallfatale"}]
         }
     },
     "RalphAlessi": {
@@ -461,6 +491,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/guiamabis"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/AmabisGui"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/guiamabisoficial"}]
+        }
+    },
+    "DaoudAmin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/daoud-amin-mn0003614473"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1297610-Daoud-Amin"}]
         }
     },
     "ArildAndersen": {
@@ -1309,10 +1345,31 @@
             "bandcamp": [{"type": "personal", "url": "https://avishaicohen.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/542342-Avishai-E-Cohen"}],
             "homepage": [{"type": "personal", "url": "http://www.avishaicohenmusic.com/"}],
-            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2008/02/09/the-jazz-session-35-avishai-cohen-trumpet/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2008/02/09/the-jazz-session-35-avishai-cohen-trumpet/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Avishai+Cohen%22+Trompete"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/avishai_cohen"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Avishai_Cohen_(Trompeter)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Avishai_Cohen_(trumpeter)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Avishai_Cohen_(trompettiste)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Avishai_Cohen_(trompettist)"}]}]
+        }
+    },
+    "DeonardoColeman": {
+        "canonicalName": {
+            "firstname": "Denardo",
+            "surname": "Coleman"
+        }
+    },
+    "SteveColeman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/stevecoleman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/steve-coleman-mn0000028034"}],
+            "bandcamp": [{"type": "personal", "url": "https://stevecoleman.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/44115-Steve-Coleman"}],
+            "homepage": [{"type": "personal", "url": "http://m-base.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/07/29/the-jazz-session-186-steve-coleman/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Steve%20Coleman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/stevecolemanofficial"}, {"type": "agency", "url": "https://soundcloud.com/stevecolemanandfiveelements"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/mbase"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Steve_Coleman"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Steve_Coleman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Steve_Coleman"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Steve_Coleman"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Steve_Coleman"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/user/mbaseconcepts/featured"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC9n1hzDV-gNjAVIDjsmmWMg"}]
         }
     },
     "SergeCorteyn": {
@@ -1337,6 +1394,20 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Pierre%20Courbois%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/oorwax"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Pierre_Courbois"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Pierre_Courbois"}, {"locale": "nl", "Url": "https://nl.wikipedia.org/wiki/Pierre_Courbois"}]}]
+        }
+    },
+    "MarilynCrispell": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/marilyncrispell"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marilyn-crispell-mn0000066153"}],
+            "bandcamp": [{"type": "agency", "url": "https://marilyncrispellintakt.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/pianosolo-a-concert-in-berlin"}, {"type": "band", "url": "https://angelicasanchezmarilyncrispell.bandcamp.com/"}, {"type": "album", "url": "https://babel-label.bandcamp.com/album/parallel-moments"}, {"type": "album", "url": "https://barryguy.bandcamp.com/album/deep-memory"}, {"type": "album", "url": "https://ecmrecords.bandcamp.com/album/trio-tapestry"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/195813-Marilyn-Crispell"}],
+            "homepage": [{"type": "personal", "url": "http://www.marilyncrispell.com/"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2009/04/09/the-jazz-session-52-marilyn-crispell/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Marilyn%20Crispell%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/marilyn-crispell"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Marilyn_Crispell"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Marilyn_Crispell"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Marilyn_Crispell"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Marilyn_Crispell"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCdi7l9KVnV2i6eV_8enKn5Q"}]
         }
     },
     "Mattias DeCraene": {
@@ -1909,6 +1980,12 @@
             "youtube": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Emilio_Gordoa"}]
         }
     },
+    "ArijnGorter": {
+        "canonicalName": {
+            "firstname": "Arjen",
+            "surname": "Gorter"
+        }
+    },
     "ArjenGorter": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/arjengorter"}],
@@ -1941,6 +2018,26 @@
             "bandcamp": [{"type": "personal", "url": "https://guilhermegranado.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3120072-Guilherme-Granado"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/granose"}]
+        }
+    },
+    "BruceGrant": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bruce-grant-mn0001216402"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7231625-Bruce-H-Grant"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bruce_Grant_(Saxophonist)"}]}]
+        }
+    },
+    "BurtonGreene": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/burtongreene"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/burton-greene-mn0000642869"}],
+            "bandcamp": [{"type": "personal", "url": "https://naradaburtongreene.bandcamp.com/"}, {"type": "personal", "url": "https://burtongreene.bandcamp.com/"}, {"type": "album", "url": "https://futuramarge.bandcamp.com/album/c-lesphere"}, {"type": "band", "url": "https://theburtongreenetrio.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/343984-Burton-Greene"}],
+            "homepage": [{"type": "personal", "url": "https://www.klezmokum.com/burtongreene/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Burton%20Greene%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/b-greene-1"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Burton_Greene"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Burton_Greene"}, {"locale": "en", "url":"https://en.wikipedia.org/wiki/Burton_Greene"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Burton_Greene"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Burton_Greene"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCPuDVrsrye03ZPSFx8flrIg"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCBlHsCSlUoA_timAk9g6XcA"}]
         }
     },
     "GeordieGreep": {
@@ -2675,6 +2772,16 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChZSFz55QudWhuY8UybX5PA"}]    
         }
     },
+    "HansKoller": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hanskoller"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hans-koller-mn0000658805"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/222210-Hans-Koller"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Hans%20Koller%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hans_Koller"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Hans_Koller"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Hans_Koller"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCyawQYKlK_Jo_UP1z0LueFw"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCEKOcEDaJ9X7m_Sgph54jRg"}]
+        }
+    },
     "AthinaKontou": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5095126-Athina-Kontou"}],
@@ -2762,6 +2869,12 @@
             "homepage": [{"type": "agency", "url": "https://www.sploh.si/en/about-sploh/artists/ana-kravanja"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/user-152749840"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/ckapal"}]
+        }
+    },
+    "IvanKrillzarin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ivan-krillzarin-mn0001774470"}],
+            "homepage": [{"type": "agency", "url": "https://www.firstfridayhawaii.com/d/d/ivan-krillzarin.html"}]
         }
     },
     "JoachimKühn": {
@@ -4000,6 +4113,12 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Roder"}]}]
         }
     },
+    "AdelhardRodinger": {
+        "canonicalName": {
+            "firstname": "Adelhard",
+            "surname": "Roidinger"
+        }
+    },
     "Frederik LerouxRoels": {
         "canonicalName": {
             "firstname": "Frederik",
@@ -4026,6 +4145,17 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1563782-Thomas-Rohrer"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/thomasrohrer"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCKWC928v_50Lwryfr9N6dOA"}]
+        }
+    },
+    "AdelhardRoidinger": {
+        "links": {
+            "allaboutjazz": [{"type":"personal", "url": "https://musicians.allaboutjazz.com/adelhardroidinger"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/adelhard-roidinger-mn0000590371"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/605580-Adelhard-Roidinger"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Adelhard%20Roidinger%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/adelhardroidinger"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Adelhard_Roidinger"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Adelhard_Roidinger"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCuyT7lNkW-PdXkR4MLqCyiw"}]
         }
     },
     "KristofRoseeuw": {
