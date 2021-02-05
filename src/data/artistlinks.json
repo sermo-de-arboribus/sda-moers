@@ -417,6 +417,21 @@
             "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=C4owWMT3eRo"}, {"type": "band", "url": "https://www.youtube.com/user/phallfatale"}]
         }
     },
+    "BodeAdesegun": {
+        "links": {
+            "homepage": [{"type": "interview", "url": "https://petalbabe60secs.wordpress.com/category/bdk/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/bode-adesegun"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCBeD3ODsoazaA6Aannsxh7A"}]
+        }
+    },
+    "ClarenceAdoo": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5010574-Clarence-Adoo"}],
+            "homepage": [{"type": "personal", "url": "http://www.clarenceadoo.co.uk/"}],
+            "soundcloud": [{"type": "interview", "url": "https://soundcloud.com/sagegateshead/clarence-adoo-tells-us-about-pioneering-work-hes-doing-with-rns-moves"}, {"type": "interview", "url": "https://soundcloud.com/toryoung96/clarence-adoo-the-accident-a-found-hope"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Jazz_Warriors"}]}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -437,7 +452,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/muhammadali"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/muhammad-ali-mn0001295982"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/369294-Muhammad-Ali"}],
-            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Muhammad_Ali_(hudebn%C3%ADk)"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Muhammad_Ali_(Schlagzeuger)"}, {"type": "en", "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_(drummer)"}, {"type": "fr", "url": "https://fr.wikipedia.org/wiki/Muhammad_Ali_(musicien)"}]}]
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Muhammad_Ali_(hudebn%C3%ADk)"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Muhammad_Ali_(Schlagzeuger)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_(drummer)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Muhammad_Ali_(musicien)"}]}]
         },
         "notes": {
             "cs": "Narozen jako Raymond Patterson",
@@ -1248,7 +1263,7 @@
             "bandcamp": [{"type": "album", "url": "https://igloorecords.bandcamp.com/album/philip-catherine-oscar"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/297693-Philip-Catherine"}],
             "homepage": [{"type": "personal", "url": "http://www.philipcatherine.com/"}],
-            "radiohoerer": [{"type": "search", "url": "!https://radio.friendsofalan.de/?s=%22Philip%20Catherine%22&category_name=nach-hoeren"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Philip%20Catherine%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/philip-catherine"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Philip_Catherine"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Philip_Catherine"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Philip_Catherine"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Philip_Catherine"}]}]
         }
@@ -1396,6 +1411,16 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Pierre_Courbois"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Pierre_Courbois"}, {"locale": "nl", "Url": "https://nl.wikipedia.org/wiki/Pierre_Courbois"}]}]
         }
     },
+    "Mattias DeCraene": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mattiasdecraene"}],
+            "bandcamp": [{"type": "personal", "url": "https://werfrecords.bandcamp.com/album/mattiasdecraene"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1989710-Mattias-De-Craene"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mattiasdecraene"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MattiasDeCraene"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWkMqfhuEyyoKT6bx78j6Gg"}]
+        }
+    },
     "MarilynCrispell": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/marilyncrispell"}],
@@ -1410,25 +1435,29 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCdi7l9KVnV2i6eV_8enKn5Q"}]
         }
     },
-    "Mattias DeCraene": {
+    "EvaCsizmadia": {
+        "canonicalName": { "firstname": "Éva", "surname": "Czismadia"}
+    },
+    "AndrewCyrille": {
         "links": {
-            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mattiasdecraene"}],
-            "bandcamp": [{"type": "personal", "url": "https://werfrecords.bandcamp.com/album/mattiasdecraene"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1989710-Mattias-De-Craene"}],
-            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mattiasdecraene"}],
-            "twitter": [{"type": "personal", "url": "https://twitter.com/MattiasDeCraene"}],
-            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWkMqfhuEyyoKT6bx78j6Gg"}]
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/andrewcyrille"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andrew-cyrille-mn0000752246"}],
+            "bandcamp": [{"type": "album", "url": "https://anthonybraxton.bandcamp.com/album/duo-palindrome-2002-vol-1"}, {"type": "album", "url": "https://anthonybraxton.bandcamp.com/album/duo-palindrome-2002-vol-2"}, {"type": "album", "url": "https://ireneschweizer.bandcamp.com/album/ir-ne-schweizer-andrew-cyrille"}, {"type": "album", "url": "https://davedouglas.bandcamp.com/album/devotion"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/andrew-cyrille-meets-br-tzmann-in-berlin"}, {"type": "album", "url": "https://silkheart.bandcamp.com/album/double-clutch"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/252264-Andrew-Cyrille"}],
+            "homepage": [{"type": "personal", "url": "https://www.andrewcyrille.com/"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2011/12/19/the-jazz-session-330-andrew-cyrille/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Andrew%20Cyrille%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/andrew-cyrille"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Andrew_Cyrille"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Andrew_Cyrille"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Andrew_Cyrille"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Andrew_Cyrille"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Andrew_Cyrille"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCoMk6u6GSG_KoTi9XPA0aYQ"}]
         }
     },
     "LenaCzerniawska": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5856821-Lena-Czerniawska"}],
             "homepage": [{"type": "personal", "url": "https://lenaczerniawska.weebly.com/"}],
-            "twitter": [{"type": "personal", "url": "https://twitter.com/LenaCzerniawska"}]
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LenaCzerniawska"}],
         }
-    },
-    "EvaCsizmadia": {
-        "canonicalName": { "firstname": "Éva", "surname": "Czismadia"}
     },
     "ÉvaCzismadia": {
         "links": {
@@ -1552,6 +1581,25 @@
             "homepage": [{"type": "personal", "url": "https://www.kristof-doemoetoer.de"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristof-d-m-t-r"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
+        }
+    },
+    "Paquitod’Rivera": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paquito-drivera-mn0000014263"}],
+            "bandcamp": [{"type": "personal", "url": "https://paquitodriverajazz.bandcamp.com/"},  {"type": "personal", "url": "https://paquitodrivera.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/303413-Paquito-DRivera"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2009/11/27/the-jazz-session-115-paquito-drivera/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Paquito%20d%27Rivera%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/paquito-drivera"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/PaquitoDRivera"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Paquito_D%27Rivera"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Paquito_D%E2%80%99Rivera"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Paquito_D%27Rivera"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Paquito_d%27Rivera"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Paquito_D%27Rivera"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC4thnqmmq1pkkY6mdKShw9Q"}]
+        }
+    },
+    "PaquitoD’Rivera": {
+        "canonicalName": {
+            "firstname": "Paquito",
+            "surname": "d’Rivera"
         }
     },
     "GerdDudek": {
@@ -1796,6 +1844,16 @@
             "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/hannah-freienstein-a498b593"}, {"type": "band", "url": "https://www.dancefloor1700.com/%C3%BCber-uns-1/"}]
         }
     },
+    "PeterFrey": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-k-frey-mn0001616661"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1079478-Peter-K-Frey"}],
+            "homepage": [{"type": "personal", "url": "https://tonundton.ch/Peter/PKFhome.html"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Peter%20K.%20Frey%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_K._Frey"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC7W68EO4ZFmpZQ5YH2U1Mvg"}]
+        }
+    },
     "DavidFriedman": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davidfriedman"}],
@@ -1855,6 +1913,17 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/870673-Valentin-Garvie"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/search?q=Valentin%20Garvie"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCECG9arGqKndRozkc_SZVBQ"}]
+        }
+    },
+    "MarcusGeiger": {
+        "canonicalName": {
+            "firstname": "Markus",
+            "surname": "Geiger"
+        }
+    },
+    "MarkusGeiger": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2778937-Markus-Geiger-2"}]
         }
     },
     "LaiaGenç": {
@@ -5018,7 +5087,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-trunk-mn0001563000"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/382100-Peter-Trunk"}],
-            "radiohoerer": [{"type": "search", "url": "!https://radio.friendsofalan.de/?s=%22Peter%20Trunk%22&category_name=nach-hoeren"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Peter%20Trunk%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Trunk"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Peter_Trunk"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_Trunk"}]}]
         }
     },
@@ -5189,6 +5258,16 @@
             "homepage": [{"type": "personal", "url": "https://demisluktezigeuner.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/demisluktezigeuner"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCdawz0uHA27EZxNDi3792xw"}]
+        }
+    },
+    "UrsVoerkel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ursvoerkel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/urs-voerkel-mn0000731645"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/voerkel-frey-lovens"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/sgsch-nk"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/599706-Urs-Voerkel"}],
+            "wikipedia": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Urs_Voerkel"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCYBR3lU5pi3dfKAj5DBMHXg"}]
         }
     },
     "KatharinaVogt": {
