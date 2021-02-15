@@ -332,6 +332,15 @@
             "twitter": [{"type": "band", "url": "https://twitter.com/RovaSax"}]
         }
     },
+    "AntonAdasinskij": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1670822-%D0%90%D0%BD%D1%82%D0%BE%D0%BD-%D0%90%D0%B4%D0%B0%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9"}],
+            "homepage": [{"type": "personal", "url": "https://school.adasinsky.org/"}, {"type": "band", "url": "http://www.derevo.org/"}],
+            "soundcloud": [{"type": "interview", "url": "https://soundcloud.com/malinatv/adasinsky_derevo"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Anton_Alexandrowitsch_Adassinski"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/user/DEREVOcompany"}]
+        }
+    },
     "AdekunleAdebiyi": {
         "canonicalName": { "firstname": "Abidemi Adebiyi", "surname": "Adekunle"}
     },
@@ -432,6 +441,12 @@
             "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Jazz_Warriors"}]}]
         }
     },
+    "AntonAdosinski": {
+        "canonicalName": {
+            "firstname": "Anton",
+            "surname": "Adasinskij"
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -483,6 +498,31 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/benallisonmusic"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ben_Allison"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ben_Allison"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzs2iF0hPAEGvfgrczCg1ug"}]
+        }
+    },
+    "MaartenAltena": {
+        "canonicalName": {
+            "firstname": "Maarten van Regteren",
+            "surname": "Altena"
+        }
+    },
+    "Maarten van RegterenAltena": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maartenaltena"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maarten-altena-mn0000226517"}, {"type": "personal", "url": "https://www.allmusic.com/artist/maarten-van-regteren-altena-mn0001549519"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/live-performances"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/319388-Maarten-Altena"}],
+            "homepage": [{"type": "personal", "url": "http://www.altena.nl/"}],
+            "radiohoerer": [{"type": "search", "url":"https://radio.friendsofalan.de/?s=%22Maarten%20Altena%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/maartenaltenaofficial"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Maarten_Altena"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Maarten_Altena"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Maarten_Altena"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCb8N1t9Vu2sz0w2eNOkGV7w"}]
+        }
+    },
+    "MärtenAltena": {
+        "canonicalName": {
+            "firstname": "Maarten van Regteren",
+            "surname": "Altena"
         }
     },
     "BarryAltschul": {
@@ -4128,6 +4168,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kirefseth"}]
         }
     },
+    "Maarten vanRegteren-Altena": {
+        "canonicalName": {
+            "firstname": "Maarten van Regteren",
+            "surname": "Altena"
+        }
+    },
+    "Marten vanRegteren-Altena": {
+        "canonicalName": {
+            "firstname": "Maarten van Regteren",
+            "surname": "Altena"
+        }
+    },
     "KnarfRellöm": {
         "canonicalName": {
             "firstname": "Frank",
@@ -5345,6 +5397,15 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andreas_Wahl_(Gitarrist)"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCQgGAIqNXGhEn6gtS0v4gTQ"}]
         }
+    },
+    "MichelWaisvicz": {
+        "canonicalName": {
+            "firstname": "Michel",
+            "surname": "Waisvisz"
+        }
+    },
+    "MichelWaisvisz": {
+        "links": {}
     },
     "DeborahWalker": {
         "links": {
