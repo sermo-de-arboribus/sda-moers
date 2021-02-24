@@ -471,6 +471,14 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UClCIQRL1d_04BdPlYY9Rspg"}]
         }
     },
+    "CathiAglibut": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cathi-aglibut-mn0001841260"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/869958-Cathi-Aglibut"}],
+            "wikipedia": [{"tpye": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Die_Kn%C3%B6del"}]}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC5QeW0ww7yF0bc0ro4JWJGg"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -1325,6 +1333,17 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC3z0piGitWhx7tSCMi7qXJw"}]
         }
     },
+    "KentCarter": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/kentcarter"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kent-carter-mn0000086603"}],
+            "bandcamp": [{"type": "album", "url": "https://improvising-beings.bandcamp.com/album/couleur-de-lexil"}, {"type": "album", "url": "https://ictusrecords.bandcamp.com/album/in-concert"}, {"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/plaything"}, {"type": "album", "url": "https://ictusrecords.bandcamp.com/album/lost-in-june"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/317272-Kent-Carter"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Kent%20Carter%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Kent_Carter"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kent_Carter"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCiazgHv7ezuVBH35dI4_nCA"}]
+        }
+    },
     "BorisCassone": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/boris-cassone-mn0003286064"}],
@@ -1610,6 +1629,21 @@
             "homepage": [{"type": "personal", "url": "http://www.marliesdebacker.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-639374284"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxXXpu0FZp9PohuwIfZ9k9w/"}]
+        }
+    },
+    "JackDeJohnette": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jackdejohnette"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jack-dejohnette-mn0000104388"}],
+            "bandcamp": [{"type": "album", "url": "https://hudson-music.bandcamp.com/album/hudson"}, {"type": "album", "url": "https://dewabudjana-moonjunerecords.bandcamp.com/album/zentuary-hd"}, {"type": "album", "url": "https://billevansjazz.bandcamp.com/album/live-at-ronnie-scotts-bill-evans-feat-eddie-gomez-jack-dejohnette"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/238626-Jack-DeJohnette"}],
+            "homepage": [{"type": "personal", "url": "https://www.jackdejohnette.com/"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2012/01/09/the-jazz-session-336-jack-dejohnette/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Jack%20DeJohnette%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jack-dejohnette-official"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/DeJohnetteMusic"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Jack_DeJohnette"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Jack_DeJohnette"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jack_DeJohnette"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jack_DeJohnette"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jack_DeJohnette"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCTW0Dwjp4xfT57SbheO7AFA"}]
         }
     },
     "HansDekker": {
@@ -2742,6 +2776,20 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC80sEAmlXVsZ2RO-Lw-uncA/"}]
         }
     },
+    "Jack deJohnette": {
+        "canonicalName": {
+            "firstname": "Jack",
+            "surname": "DeJohnette"
+        }
+    },
+    "OliverJohnson": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-johnson-mn0000726030"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/370846-Oliver-Johnson"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Oliver%20Johnson%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Oliver_Johnson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Oliver_Johnson"}]}]
+        }
+    },
     "HerbertJoos": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/herbertjoos"}],
@@ -3133,6 +3181,16 @@
     },
     "VincentLabhenn": {
         "links": {
+        }
+    },
+    "SteveLacy": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/stevelacy"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/steve-lacy-mn0000753004"}],
+            "bandcamp": [{"type": "personal", "url": "https://stevelacy-cvsd.bandcamp.com/"}, {"type": "label", "url": "https://steve-lacy.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/stabs"}, {"type": "album", "url": "https://futuramarge.bandcamp.com/album/wordless"}, {"type": "album", "url": "https://silkheart.bandcamp.com/album/5-x-monk-5-x-lacy"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/97532-Steve-Lacy"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Steve%20Lacy%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Steve_Lacy"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Steve_Lacy"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Steve_Lacy_(saxophonist)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Steve_Lacy_(saxophoniste)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Steve_Lacy"}]}]
         }
     },
     "JedrzejLagodzinski": {
@@ -4913,6 +4971,20 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCT_oTkGJezIDmBGbiJZ4cIA"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCnZIeVP54OwVzYOgXyHfCOg"}]
         }
     },
+    "MichaelSmith": {
+        "canonicalName": {
+            "firstname": "Michael Joseph",
+            "surname": "Smith"
+        }
+    },
+    "Michael JosephSmith": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michael-smith-mn0001527588"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/774458-Michael-Smith-14"}],
+            "homepage": [{"type": "personal", "url": "https://myspace.com/composerpianist"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Michael_Joseph_Smith"}]}]
+        }
+    },
     "Wayne A.Smith": {
         "canonicalName": {
             "firstname": "Wayne Anthony",
@@ -5267,6 +5339,19 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4408371-Maria-Trautmann"}],
             "homepage": [{"type": "personal", "url": "http://www.maria-trautmann.de/"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Maria_Trautmann_%28Musikerin%29"}]}]
+        }
+    },
+    "GianluigiTrovesi": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/gianluigitrovesi"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gianluigi-trovesi-mn0000948074"}],
+            "bandcamp": [{"type": "album", "url": "https://ictusrecords.bandcamp.com/album/just-a-concert"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/630133-Gianluigi-Trovesi"}],
+            "homepage": [{"type": "personal", "url": "http://www.gianluigitrovesi.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Gianluigi%20Trovesi%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/gianluigi-trovesi"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Gianluigi_Trovesi"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Gianluigi_Trovesi"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Gianluigi_Trovesi"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Gianluigi_Trovesi"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Gianluigi_Trovesi"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWuA7t4aaVoLWyFskUWbYXw"}]
         }
     },
     "MichaelTroy": {
