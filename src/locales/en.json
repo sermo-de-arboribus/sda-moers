@@ -14,6 +14,10 @@
     "sourceCodeContent": "The source code of this website is available on {githublink}.",
     "superViewer": "Super viewer of mœrs festival 2020"
   },
+  "artistsNetwork": {
+    "header": "Network of artists",
+    "intro": "This network visualizes linkes between the artist who played together on the same stage at Moers Festival"
+  },
   "artistsTable": {
     "concerts": "Concerts",
     "filters": {
@@ -62,6 +66,7 @@
     "guestarticle": "guest article",
     "imprint": "Imprint",
     "issueTracker": "issue tracker",
+    "network": "Artist network",
     "tweet": "tweet"
   },
   "htmlHeader": {

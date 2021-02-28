@@ -14,6 +14,10 @@
     "sourceCodeContent": "网站的源代码在{githublink}上找到.",
     "superViewer": "默尔斯音乐节的超级粉丝"
   },
+  "artistsNetwork": {
+    "header": "乐人/艺术家的脉络",
+    "intro": "该脉络将艺术家之间的联系可视化，这些艺术家在Moers Festival上共同表演。"
+  },
   "artistsTable": {
     "concerts": "演出节目",
     "filters": {

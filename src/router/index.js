@@ -19,6 +19,11 @@ const routes = [
     component: () => import(/* webpackChunkName: "export" */ "../views/Export.vue")
   },
   {
+    path: "/network",
+    name: "Network",
+    component: () => import(/* webpackChunkName: "network" */ "../views/ArtistNetwork.vue")
+  },
+  {
     path: "/:perPage?/:page?",
     name: "Home",
     props: true,

@@ -14,6 +14,10 @@
     "sourceCodeContent": "Der Quellcode dieser Seite steht auf {githublink} zur Verfügung.",
     "superViewer": "Superzuschauer des mœrs festival 2020"
   },
+  "artistsNetwork": {
+    "header": "Künstler:innen-Netzwerk",
+    "intro": "Dieses Netzwerk zeigt Verbindungen zwischen Künstler:innen, die beim Moers-Festival gemeinsam auf einer Bühne gestanden und miteinander gespielt haben."
+  },
   "artistsTable": {
     "concerts": "Konzerte",
     "filters": {
@@ -62,6 +66,7 @@
     "guestarticle": "Gastbeitrag",
     "imprint": "Impressum",
     "issueTracker": "Issue-Tracker",
+    "network": "Künstler:innen-Netzwerk",
     "tweet": "Tweet"
   },
   "htmlHeader": {

@@ -28,7 +28,26 @@ module.exports = {
         },
 
         updateEvents(state, data) {
-            state.allMoersFestivalEvents = data;
+
+            const events = data.map(event => {
+                const parsedEventDescription = cleanUpDescriptions(event.description);
+                let eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
+                eventLineUp = eventLineUp.replace(/\r\n/, " ")
+                const artists = eventLineUp
+                                .split(/\)\s*,\s*/)
+                                .filter(a => a)
+                                .map(a => a + ")")
+                                .map(a => {
+                                    const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
+                                    const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
+                                    const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
+                                    const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
+                                    return makeArtistNameCanonical({ instruments, surname, firstname });
+                                });
+                return Object.assign(event, { artists });
+            })
+
+            state.allMoersFestivalEvents = events;
         },
 
         updateVueTablePage(state) {
@@ -103,23 +122,10 @@ module.exports = {
         artistGigs: function (state) {
             if(state.allMoersFestivalEvents) {
                 return state.allMoersFestivalEvents.reduce((aggregator, event) => {
-                    const parsedEventDescription = cleanUpDescriptions(event.description);
-                    let eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
-                    eventLineUp = eventLineUp.replace(/\r\n/, " ")
-                    const artists = eventLineUp
-                                    .split(/\)\s*,\s*/)
-                                    .filter(a => a)
-                                    .map(a => a + ")")
-                                    .map(a => {
-                                        const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
-                                        const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
-                                        const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
-                                        const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
-                                        return makeArtistNameCanonical({ instruments, surname, firstname });
-                                    });
+
                     const eventStartDate = event.start_date;
                     const year = eventStartDate.substr(0,4);
-                    artists.forEach(a => {
+                    event.artists.forEach(a => {
                         aggregator.push({
                             artist: a, 
                             eventDescriptionDE: event.description,

@@ -14,6 +14,10 @@
     "sourceCodeContent": "Le code source est mis à disposition sur le site web {githublink}.",
     "superViewer": "Super spectateur du mœrs festival 2020"
   },
+  "artistsNetwork": {
+    "header": "Réseau des artistes",
+    "intro": "Ce réseau visualise les liens entre artistes, qui ont joué ensemble sur le Moers Festival."
+  },
   "artistsTable": {
     "concerts": "Concerts",
     "filters": {
@@ -60,6 +64,7 @@
     "festivalName": "Festival de Moers",
     "imprint": "Mentions légales",
     "issueTracker": "la gestion des changements",
+    "network": "Réseau des artistes",
     "tweet": "tweet"  
   },
   "htmlHeader": {
