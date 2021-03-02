@@ -479,6 +479,20 @@
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC5QeW0ww7yF0bc0ro4JWJGg"}]
         }
     },
+    "SophieAgnel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/sophieagnel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sophie-agnel-mn0001312692"}],
+            "bandcamp": [{"type": "album", "url": "https://confrontrecordings.bandcamp.com/album/isotopic"}, {"type": "album", "url": "https://anothertimbre.bandcamp.com/album/tasting"}, {"type": "album", "url": "https://davidchiesa.bandcamp.com/album/soda"}, {"type": "album", "url": "https://anothertimbre.bandcamp.com/album/spiral-inputs"}, {"type": "album", "url": "https://lionelmarchetti.bandcamp.com/album/rouge-gris-bruit-2001-improvised-music-studio"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/214096-Sophie-Agnel"}],
+            "homepage": [{"type": "personal", "url": "https://www.sophieagnel.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Sophie%20Agnel%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/sophieagnel-music"}, {"type": "agency", "url": "https://soundcloud.com/user-734930978"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/SophieAgnel"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locales": "de", "url": "https://de.wikipedia.org/wiki/Sophie_Agnel"}, {"locale":"fr", "url": "https://fr.wikipedia.org/wiki/Sophie_Agnel"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_dc8W5I4d3LmLmcosLhBpg"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -3672,6 +3686,16 @@
             "homepage": [{"type": "personal", "url": "http://charliemiller.us/"}]
         }
     },
+    "HarryMiller": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/harrymiller"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harry-miller-mn0000010162"}],
+            "bandcamp": [{"type": "personal", "url": "https://harrymiller.bandcamp.com/"}, {"type": "personal", "url": "https://cuneiformrecords.bandcamp.com/album/which-way-now"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/272603-Harry-Miller"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Harry%20Miller%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Harry_Miller"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Harry_Miller_(jazz_bassist)"}]}]
+        }
+    },
     "PhilMinton": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/philminton"}],
@@ -5177,6 +5201,20 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/lorenstillman"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Loren_Stillman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Loren_Stillman"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCt2e-8EVkPJV6FflXggeKWA"}]
+        }
+    },
+    "MarkusStockhausen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/markusstockhausen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/markus-stockhausen-mn0000338332"}],
+            "bandcamp": [{"type": "album", "url": "https://billlaswell.bandcamp.com/album/no-matter"}, {"type": "album", "url": "https://fugara.bandcamp.com/album/fugara"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/285616-Markus-Stockhausen"}],
+            "homepage": [{"type": "personal", "url": "https://www.markusstockhausen.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Markus%20Stockhausen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/markus-stockhausen-official"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MarkusStockhau1"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Markus_Stockhausen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Markus_Stockhausen"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Markus_Stockhausen"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCmIa1gWqfU6ognVS-xg7RUA"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCuP9mRJvDtBeJYB9UH6AQRA"}]
         }
     },
     "VaniaStojno": {
