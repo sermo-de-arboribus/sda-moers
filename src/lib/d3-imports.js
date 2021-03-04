@@ -1,4 +1,4 @@
-import { forceCenter, forceCollide, forceLink, forceManyBody, forceSimulation, select } from "d3";
+import { forceCenter, forceCollide, forceLink, forceManyBody, forceSimulation, scaleLog, select } from "d3";
 
 export default {
     forceCenter,
@@ -6,5 +6,6 @@ export default {
     forceLink,
     forceManyBody,
     forceSimulation,
+    scaleLog,
     select
 }

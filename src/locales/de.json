@@ -16,7 +16,8 @@
   },
   "artistsNetwork": {
     "header": "Künstler:innen-Netzwerk",
-    "intro": "Dieses Netzwerk zeigt Verbindungen zwischen Künstler:innen, die beim Moers-Festival gemeinsam auf einer Bühne gestanden und miteinander gespielt haben."
+    "intro": "Dieses Netzwerk zeigt Verbindungen zwischen Künstler:innen, die beim Moers-Festival gemeinsam auf einer Bühne gestanden und miteinander gespielt haben.",
+    "selectedArtist": "Ausgewählte/r Künstler/in"
   },
   "artistsTable": {
     "concerts": "Konzerte",
