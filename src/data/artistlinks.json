@@ -493,6 +493,32 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_dc8W5I4d3LmLmcosLhBpg"}]
         }
     },
+    "AristideAgondanou": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/aristide-agondanou-mn0003834698"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2762733-Aristide-Agondanou"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC0pD7XFQ3QeagmgNK07svuQ"}]
+        }
+    },
+    "MorganAgren": {
+        "canonicalName": {
+            "firstname": "Morgan",
+            "surname": "Ågren"
+        }
+    },
+    "MorganÅgren": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-morgan-agren"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/morgan-%C3gren-mn0000865239"}],
+            "bandcamp": [{"type": "personal", "url": "https://morganagren.bandcamp.com/"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/the-music-or-the-money-2"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/mats-morgan-band-live"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/343917-Morgan-%C3%85gren"}],
+            "homepage": [{"type": "personal", "url": "www.morganagren.com"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Morgan%20%C3%85gren%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/morganagren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Morgan_%C3%85gren"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/handhammered"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCqpZVGOCPTWP8Ax6vbfKrDQ"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -1065,6 +1091,20 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/rodrigobrandao-music"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/mcgorilaurbano"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCAZ86fBiV9iiPtC2WKlbqZg"}]
+        }
+    },
+    "AnthonyBraxton": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/anthonybraxton"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/anthony-braxton-mn0000924030"}],
+            "bandcamp": [{"type": "agency", "url": "https://newbraxtonhouse.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/200818-Anthony-Braxton"}],
+            "homepage": [{"type": "agency", "url": "https://tricentricfoundation.org/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Anthony%20Braxton%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/anthony-braxton-official"}],
+            "twitter": [{"type": "agency", "url": "https://twitter.com/tricentricfdn"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Anthony_Braxton"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Anthony_Braxton"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Anthony_Braxton"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Anthony_Braxton"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Anthony_Braxton"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCr_2yrimMCpOfH5bX6Zx_JQ"}]
         }
     },
     "JohannesBrecht": {
@@ -1722,6 +1762,21 @@
             "homepage": [{"type": "personal", "url": "http://www.juldillier.ch/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-730090251"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC8iyWIADTzC3XJORRhZQbUQ"}]
+        }
+    },
+    "ChrisDingman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/chrisdingman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/chris-dingman-mn0000338057"}],
+            "bandcamp": [{"type": "personal", "url": "https://chrisdingman.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1269555-Chris-Dingman"}],
+            "homepage": [{"type": "personal", "url": "www.chrisdingman.com"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2020/02/12/the-jazz-session-509-chris-dingman/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Chris%20Dingman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dingmanvibes"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/dingmanvibes"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Chris_Dingman_(Musiker)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCfxGwqC5oiOOG11bRiFpUDA"}]
         }
     },
     "KristofDömötör": {
@@ -4314,6 +4369,16 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/394246-Idris-Rahman"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Idris%20Rahman%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Idris_Rahman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Idris_Rahman"}]}]
+        }
+    },
+    "TomRainey": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/tomrainey"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tom-rainey-mn0000611645"}],
+            "bandcamp": [{"type": "agency", "url": "https://tomrainey.bandcamp.com/"}, {"type": "album", "url": "https://ingrid-laubrock.bandcamp.com/album/pool-school"}, {"type": "album", "url": "https://ingrid-laubrock.bandcamp.com/album/stir-crazy-episodes-1-15"}, {"type": "album", "url": "https://becoq.bandcamp.com/album/open-fist"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/utter"}, {"type": "album", "url": "https://simonnabatov.bandcamp.com/album/steady-now"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/and-other-desert-towns"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/280005-Tom-Rainey"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tom%20Rainey%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url":"https://de.wikipedia.org/wiki/Tom_Rainey"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tom_Rainey"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Tom_Rainey"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tom_Rainey"}]}]
         }
     },
     "EmreRamazanoglu": {
