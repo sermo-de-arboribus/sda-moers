@@ -500,6 +500,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC0pD7XFQ3QeagmgNK07svuQ"}]
         }
     },
+    "LefterisAgouridakis": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/lefteris-agouridakis-mn0000190713"}, {"type": "personal", "url": "https://www.allmusic.com/artist/lefteris-ahgouridakis-mn0003405029"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1966887-Lefteris-Agouridakis"}]
+        }
+    },
     "MorganAgren": {
         "canonicalName": {
             "firstname": "Morgan",
@@ -517,6 +523,30 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/morganagren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Morgan_%C3%85gren"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/handhammered"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCqpZVGOCPTWP8Ax6vbfKrDQ"}]
+        }
+    },
+    "Pedro Pablo OteoAguilar": {
+        "canonicalName": {
+            "firstname": "Pedro Pablo",
+            "surname": "Oteo Aguilar"
+        }
+    },
+    "Ragnar ArniÀgústsson": {
+        "canonicalName": {
+            "firstname": "Ragnar Árni",
+            "surname": "Ágústsson"
+        }
+    },
+    "Ragnar ÁrniÁgústsson": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2720162-Ragnar-%C3%81rni-%C3%81g%C3%BAstsson"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ragnararni"}]
+        }
+    },
+    "LefterisAhgouridakis": {
+        "canonicalName": {
+            "firstname": "Lefteris",
+            "surname": "Agouridakis"
         }
     },
     "RalphAlessi": {
@@ -1655,6 +1685,16 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/769615-Martin-David"}]
         }
     },
+    "Blind JohnDavis": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/blindjohndavis"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/blind-john-davis-mn0000059463"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/648224-Blind-John-Davis"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/blindjohndavis"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/John_Davis_(Bluesmusiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Blind_John_Davis"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/John_Davis_(bluespianist)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC82wwfRTq9JfHlYEoydwDRw"}]
+        }
+    },
     "DaveDavis": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davedavis"}],
@@ -1755,6 +1795,21 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/juliendesprez"}]
         }
     },
+    "StefanDiez": {
+        "canonicalName": {
+            "firstname": "Stephan",
+            "surname": "Diez"
+        }
+    },
+    "StephanDiez": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/stephan-diez-mn0002019096/credits"}, {"type": "personal", "url": "https://www.allmusic.com/artist/stefan-diez-mn0001200094"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/335150-Stephan-Diez"}],
+            "homepage": [{"type": "agency", "url": "https://www.ndr.de/orchester_chor/bigband/Stephan-Diez-Ein-Nachruf,stephandiez108.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Stephan%20Diez%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Stephan_Diez"}]}]
+        }
+    },
     "JulDillier": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/juldillier"}],
@@ -1779,12 +1834,50 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCfxGwqC5oiOOG11bRiFpUDA"}]
         }
     },
+    "ErrolDixon": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/errol-dixon-mn0000806742"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/321810-Errol-Dixon"}],
+            "homepage": [{"type": "personal", "url": "http://www.erroldixon.ch/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Errol_Dixon"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_8fP5zVbJvJWM1wglzdlMQ"}]
+        }
+    },
     "KristofDömötör": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kristof-d%C3%B6m%C3%B6t%C3%B6r-mn0003728150"}],
             "homepage": [{"type": "personal", "url": "https://www.kristof-doemoetoer.de"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristof-d-m-t-r"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
+        }
+    },
+    "DaveDouglas": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davedouglas"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dave-douglas-mn0000770098"}],
+            "bandcamp": [{"type": "personal", "url": "https://davedouglas.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/163953-Dave-Douglas"}],
+            "homepage": [{"type": "personal", "url": "http://www.davedouglas.com/"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2011/05/27/the-jazz-session-273-dave-douglas/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Dave%20Douglas%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/davedouglas"}, {"type": "agency", "url": "https://soundcloud.com/dave-douglas-official"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/davedouglas"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Dave_Douglas"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Dave_Douglas"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Dave_Douglas_(trumpeter)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Dave_Douglas"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Dave_Douglas"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_Le2-twfYTVI1CrQ7DaSyA"}, {"type": "agency", "url": "https://www.youtube.com/user/GreenleafMusicHQ"}]
+        }
+    },
+    "MarkDresser": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/markdresser"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mark-dresser-mn0000090936"}],
+            "bandcamp": [{"type": "personal", "url": "https://bandcamp.com/mdresser"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/214410-Mark-Dresser"}],
+            "homepage": [{"type": "personal", "url": "https://mark-dresser.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Mark%20Dresser%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mark-dresser"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/markdresser"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Mark_Dresser"}, {"locale": "de", "url": "https://soundcloud.com/mark-dresser"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mark_Dresser"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Mark_Dresser"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_h2iSOA6k6aYYm3vBdMiFg"}]
         }
     },
     "BobDriessen": {
@@ -1913,6 +2006,17 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-engelhardt-mn0003222007"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1594790-Peter-Engelhardt"}],
             "homepage": [{"type": "personal", "url": "http://www.peterengelhardt.com/Peter_Engelhardt/Home.html"}, {"type": "band", "url": "http://www.birth-control.de/members_peter_e.htm"}]
+        }
+    },
+    "WolfgangEngstfeld": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wolfgang-engstfeld-mn0001494537"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/339361-Wolfgang-Engstfeld"}],
+            "homepage": [{"type": "band", "url": "http://engstfeld-weiss.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Wolfgang%20Engstfeld%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/wolfgangengstfeld"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Engstfeld"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCfhxqdV6e5FAjuVkhWPyvow"}]
         }
     },
     "FelicitasErben": {
@@ -2195,6 +2299,16 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCya-0KNWx97aaHYFdyo5UNA"}]
         }
     },
+    "ReinhardGlöder": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reinhard-gl%C3%B6der-mn0003578762"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/352237-Reinhard-Gl%C3%B6der"}],
+            "homepage": [{"type": "agency", "url": "https://jazzpages.com/Gloeder/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/bassport"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Reinhard_Gl%C3%B6der"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Bassport1"}]
+        }
+    },
     "HeinerGoebbels": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/heinergoebbels"}],
@@ -2395,7 +2509,14 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/andyhaderer"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andreas-haderer-mn0001607000"}, {"type": "personal", "url": "https://www.allmusic.com/artist/andy-haderer-mn0000089080"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312863-Andy-Haderer"}],
-            "homepage": [{"type": "agency", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/trompeten/haderer-100.html"}]
+            "homepage": [{"type": "agency", "url": "https://www1.wdr.de/orchester-und-chor/bigband/band/bandmitglieder/trompeten/haderer-100.html"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andy_Haderer"}]}]
+        }
+    },
+    "AndyHaderer": {
+        "canonicalName": {
+            "firstname": "Andreas",
+            "surname": "Haderer"
         }
     },
     "ChristianHammer": {
@@ -3476,6 +3597,16 @@
             "surname": "Manen"
         }
     },
+    "WillieMabon": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/williemabon"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/willie-mabon-mn0000684638"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/389992-Willie-Mabon"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/willie-mabon"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Willie_Mabon"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Willie_Mabon"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Willie_Mabon"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Willie_Mabon"}]}],
+            "youtube": [{"type": "agency","url": "https://www.youtube.com/channel/UCLjsDjs1_Ha0KbPknjmgvIw"}]
+        }
+    },
     "LolaMalique": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://lolamalique.com/"}],
@@ -4117,6 +4248,35 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yuko-oshima"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/tayuurau"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/tayuurau"}]
+        }
+    },
+    "KlausOsterloh": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/klaus-osterloh-mn0000525200"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/312858-Klaus-Osterloh"}],
+            "homepage": [{"type": "personal", "url": "http://www.klausosterloh.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/klaushannesosterloh"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Klaus_Osterloh"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC7UKUIz33cW9G0_h3FdFbzA"}]
+        }
+    },
+    "PeterOteo": {
+        "canonicalName": {
+            "firstname": "Pedro Pablo",
+            "surname": "Oteo Aguilar"
+        }
+    },
+    "Pedro PabloOteo Aguilar": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-oteo-mn0001636367"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3024110-Pedro-Oteo-Aguilar"}, {"type": "personal", "url": "https://www.discogs.com/de/artist/1462572-Peter-Oteo"}]
+        },
+        "notes": {
+            "cs": "Taky hraje jako Peter Oteo",
+            "de": "Spielt auch unter dem Namen Peter Oteo",
+            "en": "In some contexts also credited as Peter Oteo",
+            "fr": "Joue aussi sous le nom de Peter Oteo",
+            "zh": "也以彼得·奥特奥（Peter Oteo）的名义演奏 "
         }
     },
     "MathildaOverlöper": {
@@ -5898,6 +6058,16 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hannah-weirich-mn0002645116"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2624516-Hannah-Weirich"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCgI6mz__SwMtOG-xrJuEVlA"}]
+        }
+    },
+    "PeterWeiss": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-martin-weiss-mn0000327762"}],
+            "bandcamp": [{"type": "personal", "url": "https://peterweiss.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1095923-Peter-Weiss-4"}],
+            "homepage": [{"type": "personal", "url": "http://www.weisspeter.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Peter%20Weiss%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Weiss_(Schlagzeuger)"}]}]
         }
     },
     "AndreasWerliin": {
