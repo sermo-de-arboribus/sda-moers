@@ -549,6 +549,26 @@
             "surname": "Agouridakis"
         }
     },
+    "KarshigaAhmediyar": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1844769-Karsiga-Ahmediyar"}, {"type": "personal", "url": "https://www.discogs.com/de/artist/4520598-%D2%9A%D0%B0%D1%80%D1%88%D1%8B%D2%93%D0%B0-%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%B2"}],
+            "wikipedia": [{"type": "personal", "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%85%D0%BC%D0%B5%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%B2,_%D0%9A%D0%B0%D1%80%D1%88%D1%8B%D0%B3%D0%B0"}]
+        },
+        "notes": {
+            "cs": "Kazašská verze jména: Қаршыға Ахмедьяров",
+            "de": "Kasachisch-kyrillisch: Қаршыға Ахмедьяров",
+            "en": "Name in cyrillic alphabet: Қаршыға Ахмедьяров",
+            "fr": "Nom en kazakh: Қаршыға Ахмедьяров",
+            "zh": "哈萨克的名字: Қаршыға Ахмедьяров"
+        }
+    },
+    "MartialAhouandjinou": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/martial-ahouandjinou-mn0001352769"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2293368-Martial-Ahouandjinou"}, {"type": "personal", "url": "https://www.discogs.com/de/artist/2293368-Martial-Ahouandjinou"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/sisiwendo"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -1873,6 +1893,7 @@
             "bandcamp": [{"type": "personal", "url": "https://bandcamp.com/mdresser"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/214410-Mark-Dresser"}],
             "homepage": [{"type": "personal", "url": "https://mark-dresser.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2019/05/22/the-jazz-session-482-mark-dresser/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Mark%20Dresser%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mark-dresser"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/markdresser"}],
@@ -1903,6 +1924,19 @@
         "canonicalName": {
             "firstname": "Paquito",
             "surname": "d’Rivera"
+        }
+    },
+    "BrianDrye": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/briandrye"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/brian-drye-mn0000212895"}],
+            "bandcamp": [{"type": "personal", "url!": "https://briandrye.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/721397-Brian-Drye"}],
+            "homepage": [{"type": "personal", "url": "http://www.briandrye.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2011/02/07/the-jazz-session-238-bizingas-brian-drye/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/briandrye"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/dryebone"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Brian_Drye"}]}]
         }
     },
     "GerdDudek": {
@@ -1973,6 +2007,17 @@
             "homepage": [{"type": "personal", "url": "https://koenraadecker.wordpress.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/muteboymusic"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC_bSfv4aOs0AgWpAoFLfzxw"}]
+        }
+    },
+    "MartyEhrlich": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/martyehrlich"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marty-ehrlich-mn0000371125"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/284206-Marty-Ehrlich"}],
+            "homepage": [{"type": "personal", "url": "http://www.martyehrlich.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/01/14/the-jazz-session-134-marty-ehrlich/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/martyehrlich"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Marty_Ehrlich"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Marty_Ehrlich"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Marty_Ehrlich"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Marty_Ehrlich"}]}]
         }
     },
     "WilfriedEichhorn": {
@@ -2229,6 +2274,11 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCECG9arGqKndRozkc_SZVBQ"}]
         }
     },
+    "WernerGeck": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2063817-Werner-Geck"}]
+        }
+    },
     "MarcusGeiger": {
         "canonicalName": {
             "firstname": "Markus",
@@ -2475,6 +2525,11 @@
             "homepage": [{"type": "personal", "url": "http://philippgropper.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/whyplayjazz/sets/philipp-groppers-philm-2"}],
             "youtube": [{ "type": "personal", "url": "https://www.youtube.com/channel/UCd37XFv86sLbzDpzxqMy9LA"}]
+        }
+    },
+    "ThomasGroß": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/907982-Thomas-Gross"}]
         }
     },
     "GerhardGschlößl": {
@@ -3196,6 +3251,11 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC2rnMP8_EmA3U9hIrYK0z7w"}]
         }
     },
+    "WolfgangKliegel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1201969-Wolfgang-Kliegel"}]
+        }
+    },
     "JonathanKline": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/380106-Jonathan-Kline"}]
@@ -3678,6 +3738,16 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jarbasmariz"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/JarbasMariz"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC-_M_phFteZRRfgC2Lpmrkg"}]
+        }
+    },
+    "JohnMarshall": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johnmarshall"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/john-marshall-mn0000239498"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/761942-John-Marshall-7"}],
+            "homepage": [{"type": "personal", "url": "http://www.marshallbop.com/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/John_Marshall_(Trompeter)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/John_Marshall_(muzikant)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/marshallbop"}]
         }
     },
     "PatriciaMartin": {
@@ -4501,6 +4571,12 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/adrian-prost-mn0003207213"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3076064-Adrian-Prost"}],
             "homepage": [{"type": "agency", "url": "https://www.nw.de/lokal/kreis_herford/buende/3244495_Mit-Zug-zum-Erfolg.html"}]
+        }
+    },
+    "MeinhardPuhl": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1213848-Meinhard-Puhl"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Meinhard_Puhl"}]}]
         }
     },
     "MaxPunktezahl": {
