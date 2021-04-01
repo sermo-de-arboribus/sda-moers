@@ -590,7 +590,7 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2637370-Elfi-Aichinger"}],
             "homepage": [{"type": "personal", "url": "https://www.elfi-aichinger.com/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Elfi%20Aichinger%22&category_name=nach-hoeren"}],
-            "soundclound": [{"type": "agency", "url": "https://soundcloud.com/elfiaichinger"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/elfiaichinger"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Elfi_Aichinger"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC4arhRzymRebKjAVgprfYbg"}, { "type": "agency", "url": "https://www.youtube.com/channel/UCbwsMO0UOITLzhaAnWIFH3Q"}]
         }
