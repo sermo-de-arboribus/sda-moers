@@ -611,6 +611,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCLis6YjOs7IzUomPHIecM5Q"}]
         }
     },
+    "BorisAinović": {
+        "canonicalName": {
+            "firstname": "Boris",
+            "surname": "Šainović"
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -2216,6 +2222,21 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/eubanks"}]
         }
     },
+    "RobinEubanks": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/robineubanks"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/robin-eubanks-mn0000247277"}],
+            "bandcamp": [{"type": "album", "url": "https://rkmmusiccom.bandcamp.com/album/eb3"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/84213-Robin-Eubanks"}],
+            "homepage": [{"type": "personal", "url": "www.robineubanks.com"}],
+            "jazzsession": [{"type": "personal", "url": "https://www.thejazzsession.com/2007/06/11/show-16-robin-eubanks/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Robin%20Eubanks%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/robineubanks"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/robineubanks"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Robin_Eubanks"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Robin_Eubanks"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Robin_Eubanks"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Robin_Eubanks"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Robin_Eubanks"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCHH_rZYL-TKKNM3dId7KIUg"}]
+        }
+    },
     "PeterEvans": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/peterevans"}],
@@ -2930,6 +2951,22 @@
     },
     "AndreasHomann": {
         "canonicalName": { "firstname": "Andreas", "surname": "Hohmann"}
+    },
+    "DaveHorler": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dave-horler-mn0000774684"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/322512-David-Horler"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/davehorlerofficial"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/HorlerDavid"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/David_Horler"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/David_Horler"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC3CZg93xnal-vQ-r9cchBgg"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC01KlmPBv_QemTR4nwhnLVA"}]
+        }
+    },
+    "DavidHorler": {
+        "canonicalName": {
+            "firstname": "Dave",
+            "surname": "David"
+        }
     },
     "MauriceHorsthuis": {
         "links": {
@@ -4540,12 +4577,29 @@
     "MatPenman": {
         "canonicalName": { "firstname": "Matt", "surname": "Penman"}
     },
+    "FrankPerrey": {
+        "canonicalName": {
+            "firstname": "Frank",
+            "surname": "Perry"
+        }
+    },
     "NicolasPerrin": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nicolas-perrin-mn0000914113"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/934966-Nicolas-Perrin"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-89203348"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCo_Lfg85luRxdfEW6PJq8iA"}]
+        }
+    },
+    "FrankPerry": {
+        "links": {
+            "links": {
+                "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frank-perry-mn0000797295"}],
+                "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/285123-Frank-Perry"}],
+                "homepage": [{"type": "personal", "url": "http://www.frankperry.co.uk/"}],
+                "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Frank_Perry_(Musiker)"}]}],
+                "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mountainbellmusic"}]
+            }
         }
     },
     "OlivierPeters": {
@@ -5046,6 +5100,14 @@
         "canonicalName": {
             "firstname": "Torunn",
             "surname": "Sævik"
+        }
+    },
+    "BorisŠainović": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/borissainovic"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5416909-Boris-%C5%A0ainovi%C4%87"}],,
+            "homepage": [{"type": "personal", "url": "https://www.facebook.com/boris.sainovic"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC5LQlde1ui_GpANuJi1mn2A"}]
         }
     },
     "TakuroSaito": {
@@ -5823,6 +5885,47 @@
     "HeinTint": {
         "links": {
             "homepage": [{"type": "agency", "url": "https://wolftest2.weebly.com/home.html"}]
+        }
+    },
+    "Keith Tippet": {
+        "canonicalName": {
+            "firstname": "Keith",
+            "surname": "Tippett"
+        }
+    },
+    "JulieTippet-Driscoll": {
+        "canonicalName": {
+            "firstname": "Julie",
+            "surname": "Tippetts"
+        }
+    },
+    "KeithTippett": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/tag-keith-tippett__17239"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/keith-tippett-mn0000085158"}],
+            "bandcamp": [{"type": "agency", "url": "https://keithtippettogun.bandcamp.com/"}, {"type": "album", "url": "https://discusmusic.bandcamp.com/album/the-unlonely-raindancer-81cd-2019"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/mujician-i-ii"}, {"type": "album", "url": "https://discusmusic.bandcamp.com/album/the-monk-watches-the-eagle-102cd-2020"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/mujician-iii"}, {"type": "album", "url": "https://klopotec.bandcamp.com/album/live-in-triest"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/235032-Keith-Tippett"}],
+            "homepage": [{"type": "personal", "url": "https://www.keithtippett.co.uk/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Keith%20Tippett%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Keith_Tippett"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Keith_Tippett"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Keith_Tippett"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Keith_Tippett"}]}]
+        }
+    },
+    "JulieTippetts": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/julietippetts"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/julie-tippetts-mn0000300355"}, {"type": "personal", "url": "https://www.allmusic.com/artist/julie-driscoll-mn0000261098"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/sweet-and-sours"}, {"type": "album", "url": "https://discusmusic.bandcamp.com/album/vestigium-48cd-2015"}, {"type": "album", "url": "https://confrontrecordings.bandcamp.com/album/unraveling-the-waterfall-2"}, {"type": "album", "url": "https://discusmusic.bandcamp.com/album/ghosts-of-gold-37cd-2009"}, {"type":"album", "url": "https://keithtippettogun.bandcamp.com/album/live-at-the-purcell-room"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/65721-Julie-Tippetts"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Julie%20Tippetts%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/julietippetts"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Julie_Driscollov%C3%A1"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Julie_Tippetts"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Julie_Driscoll"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Julie_Driscoll"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Julie_Driscoll"}]}]
+        },
+        "notes": {
+            "cs": "Narozen jako Julie Driscollová",
+            "de": "Geburtsname Julie Driscoll",
+            "en": "Born as Julie Driscoll",
+            "fr": "Née Julie Driscoll",
+            "zh": "出生​姓名Julie Driscoll"
         }
     },
     "ThorstenTöpp": {
