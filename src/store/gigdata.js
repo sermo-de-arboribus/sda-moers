@@ -150,44 +150,49 @@ module.exports = {
                 }
 
                 if (artistlinks[akey].links) {
-                    al[akey].links = Object.keys(artistlinks[akey].links).reduce((acc, l) => {
+                    const artistKeys = Object.keys(artistlinks[akey].links);
+                    try {
+                        al[akey].links = artistKeys.reduce((acc, l) => {
 
-                        let links = [];
-                        for (const link of artistlinks[akey].links[l]) {
-
-                            let faIconClass;
-                            switch(l) {
-                                case "homepage": 
-                                    faIconClass = "fas fa-home";
-                                    break;
-                                case "wikipedia": 
-                                    faIconClass = "fab fa-wikipedia-w"
-                                    break;
-                                default:
-                                    break;
+                            let links = [];
+                            for (const link of artistlinks[akey].links[l]) {
+    
+                                let faIconClass;
+                                switch(l) {
+                                    case "homepage": 
+                                        faIconClass = "fas fa-home";
+                                        break;
+                                    case "wikipedia": 
+                                        faIconClass = "fab fa-wikipedia-w"
+                                        break;
+                                    default:
+                                        break;
+                                }
+    
+                                if (link.locales && link.locales.find(l => l.locale == rootState.i18n.locale)) {
+    
+                                    links.push({
+                                        faIconClass,
+                                        htmlTitle: `${getServiceName(l)}: ${getServiceType(link.type, rootState.i18n.i18nComponent)}`,
+                                        logoUrl: getLogoUrl(l),
+                                        type: link.type, 
+                                        url: link.locales.find(l => l.locale == rootState.i18n.locale).url
+                                    });
+                                } else if (link.url) {
+                                    link.faIconClass = faIconClass;
+                                    link.htmlTitle= `${getServiceName(l)}: ${getServiceType(link.type, rootState.i18n.i18nComponent)}`;
+                                    link.logoUrl = getLogoUrl(l)
+                                    links.push(link);
+                                } else {
+                                    return acc;
+                                }
                             }
-
-                            if (link.locales && link.locales.find(l => l.locale == rootState.i18n.locale)) {
-
-                                links.push({
-                                    faIconClass,
-                                    htmlTitle: `${getServiceName(l)}: ${getServiceType(link.type, rootState.i18n.i18nComponent)}`,
-                                    logoUrl: getLogoUrl(l),
-                                    type: link.type, 
-                                    url: link.locales.find(l => l.locale == rootState.i18n.locale).url
-                                });
-                            } else if (link.url) {
-                                link.faIconClass = faIconClass;
-                                link.htmlTitle= `${getServiceName(l)}: ${getServiceType(link.type, rootState.i18n.i18nComponent)}`;
-                                link.logoUrl = getLogoUrl(l)
-                                links.push(link);
-                            } else {
-                                return acc;
-                            }
-                        }
-
-                        return Object.assign(acc, {[l]: links});
-                    }, {});
+    
+                            return Object.assign(acc, {[l]: links});
+                        }, {});
+                    } catch (err) {
+                        console.error("Error! Could not process artist links with key ", akey);
+                    }
                 }
 
                 if (artistlinks[akey].notes) {
