@@ -617,6 +617,14 @@
             "surname": "Šainović"
         }
     },
+    "AkinAjayi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/akin-ajayi-mn0001278983"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1268014-Akin-Ajayi"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/akin-ajayi-2"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCIAHS1kxrmkArUpmhHOzrcQ"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -2354,6 +2362,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcidQwO8IluwG9BHxygGs6Q"}]
         }
     },
+    "DavidFriedmann": {
+        "canonicalName": {
+            "firstname": "David",
+            "surname": "Friedman"
+        }
+    },
     "FredFrith": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/fredfrith"}],
@@ -2372,6 +2386,21 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316967-Felix-Fritsche"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/felix-fritsche"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCBUxt8DN8Bxza626ZV6sCow"}]
+        }
+    },
+    "SatokoFujii": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/satokofujii"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/satoko-fujii-mn0000305872"}],
+            "bandcamp": [{"type": "personal", "url": "https://satokofujii.bandcamp.com/"}, {"type": "band", "url": "https://satokofujiijoefonda.bandcamp.com/"}, {"type": "album", "url": "https://natsukitamura.bandcamp.com/album/in-the-tank"}, {"type": "album", "url": "https://natsukitamura.bandcamp.com/album/crossword-puzzle"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1191203-Satoko-Fujii"}],
+            "homepage": [{"type": "personal", "url": "https://satokofujii.com"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2008/10/20/the-jazz-session-47-satoko-fujii/"}, {"type": "interview", "url": "https://www.thejazzsession.com/2011/07/11/the-jazz-session-291-satoko-fujii-and-natsuki-tamura/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Satoko%20Fujii%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/satoko-fujii-941064183"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/satokofujii"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Satoko_Fujii"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Satoko_Fujii"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCE5DRrn9VuLBAlp6WaSuT2g"}]
         }
     },
     "JanGarbarek": {
@@ -2947,6 +2976,20 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/462399-Andreas-Hohmann"}],
             "homepage": [{"type": "interview", "url": "https://web.archive.org/web/20040917070307/http://www.kraftwerk.mdis.de/hohmann.htm"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}]
+        }
+    },
+    "DaveHolland": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/daveholland"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dave-holland-mn0000585092"}],
+            "bandcamp": [{"type": "personal", "url": "https://daveholland.bandcamp.com/"}, {"type": "album", "url": "https://ecmrecords.bandcamp.com/album/conference-of-the-birds-1"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/84214-Dave-Holland"}],
+            "homepage": [{"type": "personal", "url": "www.daveholland.com"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Dave%20Holland%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/dave-holland-official"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/TheDaveHolland"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Dave_Holland_(kontrabasista)"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Dave_Holland_(Bassist)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Dave_Holland"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Dave_Holland"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Dave_Holland"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCfYPAE4k83SMv52tv0d0NDQ"}]
         }
     },
     "AndreasHomann": {
@@ -3694,6 +3737,13 @@
             "homepage": [{"type": "personal", "url": "https://www.cecileondesmartenot.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/cecilelartigau"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/clartigau_ondes"}]
+        }
+    },
+    "BerntLaukamp": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bernt-laukamp-mn0001554555"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/312866-Bernt-Laukamp"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bernt_Laukamp"}]}]
         }
     },
     "LouisLaurain": {
@@ -5885,7 +5935,13 @@
             "homepage": [{"type": "agency", "url": "https://wolftest2.weebly.com/home.html"}]
         }
     },
-    "Keith Tippet": {
+    "JulieTippet": {
+        "canonicalName": {
+            "firstname": "Julie",
+            "surname": "Tippetts"
+        }
+    },
+    "KeithTippet": {
         "canonicalName": {
             "firstname": "Keith",
             "surname": "Tippett"
