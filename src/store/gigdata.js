@@ -3,7 +3,7 @@
 const additions = require("../data/additions.json");
 const artistlinks = require("../data/artistlinks.json");
 const legacyGigData = require("../data/legacy-gigs.json");
-const axios = require("axios").default;
+// const axios = require("axios").default;
 
 module.exports = {
     namespaced: true,
@@ -40,13 +40,13 @@ module.exports = {
         }
     },
     actions: {
-        fetchEventsFromApi({ commit, state }) {
+        fetchEventsFromApi({ commit /*, state */ }) {
 
             commit("setLoading", true);
 
             let events = null;
 
-            if(state.useRemoteApi) {
+            /*if(state.useRemoteApi) {
                 axios.get("https://meinmoers.lambdadigamma.com/api/v2/moers-festival/events/all")
                     .then(function (response) {
                         events = addAdditionalData(response.data);
@@ -55,13 +55,13 @@ module.exports = {
                         commit("updateVueTablePage");
                         commit("setLoading", false);
                 })
-            } else {
+            } else { */
                 events = addAdditionalData(require("../data/backup.json"));
                 commit("updateEvents", events);
                 console.log("fetched events from local backup");
                 commit("updateVueTablePage");
                 commit("setLoading", false);
-            }
+            /*}*/
         }
     },
     getters: {

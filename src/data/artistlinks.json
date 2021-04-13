@@ -625,6 +625,25 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCIAHS1kxrmkArUpmhHOzrcQ"}]
         }
     },
+    "JovicaAjdarevic": {
+        "canonicalName": {
+            "firstname": "Jovica",
+            "surname": "Ajdarević"
+        }
+    },
+    "JovicaAjdarević": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jovica-ajdarevic-mn0001519811"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/932036-Jovica-Ajdarevi%C4%87"}]
+        },
+        "notes": {
+            "cs": "Cyrilský verze jména: Јовица Ајдаревић",
+            "de": "kyrillische Schreibweise des Namens: Јовица Ајдаревић",
+            "en": "Name in cyrillic alphabet: Јовица Ајдаревић",
+            "fr": "Nom en cyrillique: Јовица Ајдаревић",
+            "zh": "西里尔​字母的名字: Јовица Ајдаревић"
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -1780,6 +1799,14 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCZTSPPhXRaFk2tzwl2NKJGg"}]
         }
     },
+    "HenrykDarlowski": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/henryk-darlowski-mn0003578455"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1237432-Henryk-Darlowski"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Henryk_Darlowski"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCJ6m3IVglC67Zx5Jw8hz6mQ"}]
+        }
+    },
     "WolfgangDauner": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wolfgangdauner"}],
@@ -2401,6 +2428,27 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/satokofujii"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Satoko_Fujii"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Satoko_Fujii"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCE5DRrn9VuLBAlp6WaSuT2g"}]
+        }
+    },
+    "Tomas AndreFujiwara": {
+        "canonicalName": {
+            "firstname": "Tomas",
+            "surname": "Fujiwara"
+        }
+    },
+    "TomasFujiwara": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/tomasfujiwara"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tomas-fujiwara-mn0000909926"}],
+            "bandcamp": [{"type": "personal", "url": "https://tomasfujiwara.bandcamp.com/"}, {"type": "band", "url": "https://tomasfujiwarathehookup.bandcamp.com/"}, {"type": "band", "url": "https://taylortomas.bandcamp.com/"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/variable-bets"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/fujiwara-goldberg-halvorson-the-out-louds"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/the-anthony-braxton-project-2"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1165312-Tomas-Fujiwara"}],
+            "homepage": [{"type": "personal", "url": "https://www.tomasfujiwara.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/10/25/the-jazz-session-211-tomas-fujiwara/"}, {"type": "interview", "url": "https://www.thejazzsession.com/2012/05/21/the-jazz-session-374-tomas-fujiwara/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tomas%20Fujiwara%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/tomasfujiwara"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/TomasFujiwara"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tomas_Fujiwara"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tomas_Fujiwara"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCox070_I2ZKUA3CYiX7z1Rw"}]
         }
     },
     "JanGarbarek": {
@@ -5232,6 +5280,13 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7542025-Christine-Sch%C3%A4fer-4"}]
         }
     },
+    "LotharScharf": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1237431-Lothar-Scharf"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Lothar%20Scharf%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Lothar_Scharf"}]}]
+        }
+    },
     "JohannesSchleiermacher": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johannesschleiermacher"}],
@@ -5741,6 +5796,18 @@
             "en": "Artist's name: Tillamanda",
             "fr": "Pseudonyme: Tillamanda",
             "zh": "艺名: Tillamanda"
+        }
+    },
+    "BobbyStern": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/bobbystern"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bobby-stern-mn0000074869"}, {"type": "personal", "url": "https://www.allmusic.com/artist/bobby-stern-mn0001539526"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/340410-Bobby-Stern"}],
+            "homepage": [{"type": "personal", "url": "https://www.bobbysternjazz.com/index.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Bobby%20Stern%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/bobbystern"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bobby_Stern"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCk7EzuVOrGOlkbiColAJTNw"}]
         }
     },
     "ColinStetson": {
@@ -6539,6 +6606,15 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/davis-whitfield-mn0003593751"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5491420-Davis-Whitfield"}],
             "homepage": [{"type": "personal", "url": "https://daviswhitfieldpiano.wixsite.com/"}]
+        }
+    },
+    "HeinerWiberny": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/heiner-wiberny-mn0000088987"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/312861-Heiner-Wiberny"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Heiner%20Wiberny%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Heiner_Wiberny"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Heiner_Wiberny"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCrdCJcYcQgO3bAkY1bODVeg"}]
         }
     },
     "HajoWiesemann": {
