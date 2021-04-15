@@ -56,7 +56,7 @@ module.exports = {
                         commit("setLoading", false);
                 })
             } else { */
-                events = addAdditionalData(require("../data/backup.json"));
+                events = addAdditionalData(require("../data/backup-2021-04-14.json"));
                 commit("updateEvents", events);
                 console.log("fetched events from local backup");
                 commit("updateVueTablePage");
@@ -230,7 +230,8 @@ function cleanUpDescriptions(sourceDescription) {
     .replace(/Besetzung:\s*EOS Kammerorchester K\u00f6ln:/, "Besetzung: " )
     .replace(/\(dance\) und Dolf Planteijdt/, "(dance), Dolf Planteijdt")
     .replace(/&amp; Teile des Landesjugendorchester NRW: /, ", ")
-    .replace(/Produktinformation(en)?: (.+)Herstellungsl[aä]nd(er)?.+$/, "Besetzung: $2");
+    .replace(/Produktinformation(en)?: (.+)Herstellungsl[aä]nd(er)?.+$/, "Besetzung: $2")
+    .replace(/[Ll]ine-[Uu]p:\s*/, "Besetzung: ");
 
   return eventDescription.match(/Besetzung:\s*(.+)$/);
 }

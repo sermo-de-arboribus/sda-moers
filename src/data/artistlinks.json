@@ -644,6 +644,30 @@
             "zh": "西里尔​字母的名字: Јовица Ајдаревић"
         }
     },
+    "AsimAjdinovic": {
+        "canonicalName": {
+            "firstname": "Ašim",
+            "surname": "Ajdinović"
+        }
+    },
+    "AšimAjdinović" : {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/asim-ajdinovic-mn0002167662"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/932038-A%C5%A1im-Ajdinovi%C4%87"}]
+        }
+    },
+    "Taiwo OlalundeAkande": {
+        "links": {}
+    },
+    "MehmetAkatay": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mehmet-akatay-mn0001367528"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1022604-Mehmet-Akatay"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/mehmetakatay"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/rakatay"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCspPTu8mSNIJIEqpbYo2PPw"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -2536,6 +2560,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCKsyMsNrV3-R_mHYHhPzK5Q"}]
         }
     },
+    "RussGershon": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/russgershon"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/russ-gershon-mn0000176533"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/278157-Russ-Gershon"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/11/22/the-jazz-session-219-eitherorchestras-russ-gershon/"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/eitherorchestraofficial"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/russgershon"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Russ_Gershon"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Russgershon"}]
+        }
+    },
     "PeterGiger": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/petergiger"}],
@@ -2779,6 +2815,19 @@
         "canonicalName": {
             "firstname": "Andreas",
             "surname": "Haderer"
+        }
+    },
+    "MaryHalvorson": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mary-halvorson-mn0000529394"}],
+            "bandcamp": [{"type": "personal", "url": "https://maryhalvorson.bandcamp.com/"}, {"type": "band", "url": "https://halvorsondieterich.bandcamp.com/"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/reverse-blue"}, {"type": "album", "url": "https://bandcamp.for-tune.pl/album/ghost-loop"}, {"type": "album", "url": "https://robbieleesound.bandcamp.com/album/seed-triangular"}, {"tpye": "album", "url": "https://noelakchote.bandcamp.com/album/mary-halvorson-no-l-akchot"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/530402-Mary-Halvorson"}],
+            "homepage": [{"type": "personal", "url": "http://www.maryhalvorson.com/"}],
+            "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2010/09/20/the-jazz-session-201-mary-halvorson/"}, {"type": "interview", "url": "https://www.thejazzsession.com/2013/09/10/the-jazz-session-422-vijay-iyer-mary-halvorson-stephan-crump-nicky-schrire-the-atlas-preview/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Mary%20Halvorson%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/maryhalvorsonofficial"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mary_Halvorson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mary_Halvorson"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Mary_Halvorson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Mary_Halvorson"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcqxmuXQI9h8ZrDsb7psEtQ"}]
         }
     },
     "ChristianHammer": {
@@ -3534,6 +3583,15 @@
     "SusanneKnoop": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://sumaknoop.de/"}]
+        }
+    },
+    "FrankKöllges": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frank-kollges-mn0001656520"}],
+            "bandcamp": [{"type": "album", "url": "https://dirkraulf.bandcamp.com/album/hiatus"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/463162-Frank-K%C3%B6llges"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Frank%20K%C3%B6llges%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Frank_K%C3%B6llges"}]}]
         }
     },
     "BerndKöppen": {
@@ -4319,6 +4377,16 @@
             "zh": "艺名: Knarf Rellöm"
         }
     },
+    "LouisMoholo": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-louis-moholo"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/louis-moholo-mn0000227171"}],
+            "bandcamp": [{"type": "personal", "url": "https://louismoholo-moholo.bandcamp.com/"}, {"type": "album", "url": "https://ireneschweizer.bandcamp.com/album/ir-ne-schweizer-louis-moholo"}, {"type": "album", "url": "https://marilyncrispellintakt.bandcamp.com/album/sibanye-we-are-one"}, {"type": "album", "url": "https://frodegjerstad.bandcamp.com/album/mir-13"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/314299-Louis-Moholo"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Louis%20Moholo%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Louis_Moholo"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Louis_Moholo"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Louis_Moholo"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Louis_Moholo"}]}]
+        }
+    },
     "CaseyMoir": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/caseymoir"}],
@@ -4541,6 +4609,21 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCKI7l-oh54d9tZZ4JQLFo_g"}]
         }
     },
+    "NippiNoya": {
+        "canonicalName": {
+            "firstname": "Nippy",
+            "surname": "Noya"
+        }
+    },
+    "NippyNoya": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nippy-noya-mn0000424061"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/423482-Nippy-Noya"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nippynoya"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Nippy_Noya"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Nippy_Noya"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Nippy_Noya"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC69xmzltVv-JGAiqbcjtQuw"}]
+        }
+    },
     "LudwigNuss": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ludwignuss"}],
@@ -4698,10 +4781,16 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mountainbellmusic"}]
         }
     },
+    "OliverPeters": {
+        "canonicalName": {
+            "firstname": "Olivier",
+            "surname": "Peters"
+        }
+    },
     "OlivierPeters": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/olivierpeters"}],
-            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/olivier-peters-mn0000966300"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/olivier-peters-mn0000966300"}, {"type": "personal", "url": "https://www.allmusic.com/artist/oliver-peters-mn0000105274"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1308901-Olivier-Peters"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Olivier%20Peters%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Olivier_Peters"}]}],
@@ -5012,6 +5101,12 @@
             "surname": "Möller"
         }
     },
+    "Leo deReuter": {
+        "canonicalName": {
+            "firstname": "Leo de",
+            "surname": "Ruiter"
+        }
+    },
     "KattiaReyes Abrines": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4675692-Kattia-Reyes-Abrines"}]
@@ -5124,6 +5219,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kristofroseeuw"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/Mrdoublebasss"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/kristofroseeuw"}]
+        }
+    },
+    "HaraldRosenstein": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harold-rosenstein-mn0001234243"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/288233-Harald-Rosenstein"}]
         }
     },
     "CarlRosman": {
