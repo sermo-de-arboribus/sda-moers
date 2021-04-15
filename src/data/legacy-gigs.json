@@ -4891,13 +4891,13 @@
     },
     {
       "name": "Domi feat. Bobby Hall (FRA\/USA)",
-      "description": "Besetzung: Domi (grand piano, hammond org), Bobby Hall (dr)",
+      "description": "Besetzung: Domi (grand piano, hammond org), Bobby Hall(dr)",
       "id": "d6e298",
       "start_date": "2018-05-19 00:00:00"
     },
     {
       "name": "Schime Trio + 2 (SRB)",
-      "description": "Besetzung: Sava Miletić (key), Predrag Milutinović (dr), Boris Šainović (b), Rastko Obradović (tsax), Luka Ignjatović (asax)",
+      "description": "Besetzung: Sava Miletić (key), Predrag Milutinović (dr), Boris Šainović (b), Rastko Obradović (tsax), Luka Ignjatović(asax)",
       "id": "d6e302",
       "start_date": "2018-05-19 00:00:00"
     },
@@ -5520,645 +5520,645 @@
       "start_date": "2014-06-09 00:00:00"
     },
     {
-      "name": "\"ZORNTAG\"",
-      "description": "Besetzung: Set one: Song Project (USA\/ARG\/BRA) John Zorn (sax, cond), Mike Patton (voc), Jesse Harris (voc, g), Sofia Rei (voc), Marc Ribot (g), John Medeski (p), Trevor Dunn (b), Kenny Wollesen (vibes), Cyro Baptista (perc), Joey Baron (dr)",
-      "id": "d6e847",
+      "name": "\"ZORNTAG\" Set one: Song Project (USA\/ARG\/BRA)",
+      "description": "Besetzung: John Zorn (sax, cond), Mike Patton (voc), Jesse Harris (voc, g), Sofia Rei (voc), Marc Ribot (g), John Medeski (p), Trevor Dunn (b), Kenny Wollesen (vibes), Cyro Baptista (perc), Joey Baron (dr)",
+      "id": "d6e850",
       "start_date": "2013-05-17 00:00:00"
     },
     {
-      "name": "",
-      "description": "Besetzung: Set two: Illuminations (USA) Steve Gosling (p), Trevor Dunn (b), Kenny Wollesen (dr)",
-      "id": "d6e853",
-      "start_date": "2013-05-17 00:00:00"
-    },
-    {
-      "name": "",
-      "description": "Besetzung: Holy Visions (USA) Lisa Bielawa (voc), Martha Cluver (voc), Melissa Hughes (voc), Abby Fischer (voc), Kirsten Sollek (voc)",
+      "name": "\"ZORNTAG\" Set two: Illuminations (USA)",
+      "description": "Besetzung: Steve Gosling (p), Trevor Dunn (b), Kenny Wollesen (dr)",
       "id": "d6e857",
       "start_date": "2013-05-17 00:00:00"
     },
     {
-      "name": "",
-      "description": "Besetzung: The Alchemist (UK) Arditti String Quartet: Irvine Arditti (v), Ashot Sarkissjan (v), Ralf Ehlers (va), Lucas Fels (clo)",
-      "id": "d6e861",
+      "name": "Holy Visions (USA)",
+      "description": "Besetzung: Lisa Bielawa (voc), Martha Cluver (voc), Melissa Hughes (voc), Abby Fischer (voc), Kirsten Sollek (voc)",
+      "id": "d6e864",
       "start_date": "2013-05-17 00:00:00"
     },
     {
-      "name": "",
-      "description": "Besetzung: Set three: Moonchild \/ Templars (USA) Mike Patton (voc), John Medeski (org), Trevor Dunn (b), Joey Baron (dr)",
-      "id": "d6e865",
+      "name": "The Alchemist (UK) \/ Arditti String Quartet",
+      "description": "Besetzung: Irvine Arditti (v), Ashot Sarkissjan (v), Ralf Ehlers (va), Lucas Fels (clo)",
+      "id": "d6e871",
       "start_date": "2013-05-17 00:00:00"
     },
     {
-      "name": "",
-      "description": "Besetzung: Set four: Dreamers (USA\/BRA) John Zorn (cond), Marc Ribot (g), Jamie Saft (keys), Trevor Dunn (b), Kenny Wollesen (vibes), Joey Baron (dr), Cyro Baptista (perc)",
-      "id": "d6e869",
+      "name": "Set three: Moonchild \/ Templars (USA)",
+      "description": "Besetzung: Mike Patton (voc), John Medeski (org), Trevor Dunn (b), Joey Baron (dr)",
+      "id": "d6e877",
       "start_date": "2013-05-17 00:00:00"
     },
     {
-      "name": "",
-      "description": "Besetzung: Electric Masad (USA\/BRA\/JPN) John Zorn (sax), Marc Ribot (g), Jamie Saft (keys), Trevor Dunn (b), Kenny Wollesen (dr), Joey Baron (dr), Cyro Baptista (perc), Ikue Mori (ele)",
-      "id": "d6e873",
+      "name": "Set four: Dreamers (USA\/BRA)",
+      "description": "Besetzung: John Zorn (cond), Marc Ribot (g), Jamie Saft (keys), Trevor Dunn (b), Kenny Wollesen (vibes), Joey Baron (dr), Cyro Baptista (perc)",
+      "id": "d6e883",
+      "start_date": "2013-05-17 00:00:00"
+    },
+    {
+      "name": "Electric Masada (USA\/BRA\/JPN)",
+      "description": "Besetzung: John Zorn (sax), Marc Ribot (g), Jamie Saft (keys), Trevor Dunn (b), Kenny Wollesen (dr), Joey Baron (dr), Cyro Baptista (perc), Ikue Mori (ele)",
+      "id": "d6e889",
       "start_date": "2013-05-17 00:00:00"
     },
     {
       "name": "The Dorf (DE)",
       "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (viol), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Johannes Brackmann (tb), Alexander Giffey (tb), Denis Cuni Rodriguez (tb), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Florian Walter (sax), Veit Lange (sax), Axel Knappmeyer_sax, Andreas Wahl_git, Christian Hammer (g), Serge Corteyn (g), Kai Weiner (keys), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Denis Cosmar (sound), Jan Klare (air movement)",
-      "id": "d6e881",
+      "id": "d6e899",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Je Suis (SWE)",
       "description": "Besetzung: Niklas Barnö (tp), Mats Äleklint (tb), Marcelo Gabard Pazos (sax), Alexander Zethson (p), Joel Grip (b), Magnus Vikberg (dr)",
-      "id": "d6e885",
+      "id": "d6e905",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Jenny Hval (NOR)",
       "description": "Besetzung: Jenny Hval (voc), Håvard Volden (g), Kyrre Laastad (dr)",
-      "id": "d6e889",
+      "id": "d6e910",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Blixt (FIN\/USA\/SWE)",
       "description": "Besetzung: Raoul Björkenheim (g), Bill Laswell (b), Morgan Agren (dr)",
-      "id": "d6e893",
+      "id": "d6e915",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Lenine & Martin Fondse Orchestra »The Bridge« (BRA\/NL\/DE)",
       "description": "Besetzung: Lenine (voc, g), Martin Fondse (keys, vibrandoneon), Mete Erker (cl), Søren Siegumfeldt (sax), Irma Kort (ob), Annie Tangberg (clo), Herman van Haaren (viol), Vera van der Bie (viol), Robert Landfermann (b), Dirk-Peter Koelsch (dr)",
-      "id": "d6e897",
+      "id": "d6e920",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Sidsel Endresen & Stian Westerhus (NOR)",
       "description": "Besetzung: Sidsel Endresen (voc), Stian Westerhus (git)",
-      "id": "d6e901",
+      "id": "d6e925",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Dafnis Prieto Proverb Trio (USA)",
       "description": "Besetzung: Kokayi (voc), Jason Lindner (keys), Dafnis Prieto (dr)",
-      "id": "d6e905",
+      "id": "d6e930",
       "start_date": "2013-05-18 00:00:00"
     },
     {
       "name": "Katrin Scherer's THE BLISS (DE)",
       "description": "Besetzung: Katrin Scherer (sax, fl, comp), John-Dennis Renken (tp), Sven Decker (sax, cl, bcl), Andreas Wahl (g), Sebastian Räther (b), Christian Thomé (dr)",
-      "id": "d6e912",
+      "id": "d6e939",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Michael Schiefel's Platypus Trio (DE)",
       "description": "Besetzung: Michael Schiefel (voc, elec), Paolo Damiani (clo), Miklos Lukacs (cymbalom)",
-      "id": "d6e916",
+      "id": "d6e944",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Caravaggio (FR)",
       "description": "Besetzung: Bruno Chevillon (b, elec), Eric Echampard (dr, elec), Benjamin de la Fuente (viol, elec), Samuel Sighicelli (keys, elec)",
-      "id": "d6e920",
+      "id": "d6e948",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Nohome (DE\/CH)",
       "description": "Besetzung: Caspar Brötzmann (g), Marino Pliakas (b), Michael Wertmüller (dr)",
-      "id": "d6e925",
+      "id": "d6e953",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Evelyn Glennie & Fred Frith (GB\/US)",
       "description": "Besetzung: Evelyn Glennie (perc), Fred Frith (g)",
-      "id": "d6e929",
+      "id": "d6e958",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Mark de Clive-Lowe presents CHURCH (USA)",
       "description": "Besetzung: Mark de Clive-Lowe (keys), Jaleel Shaw (as), Tim Lefebvre (b), Nate Smith (dr), Nia Andrews (voc)",
-      "id": "d6e933",
+      "id": "d6e963",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Terri Lyne Carrington MOSAIC Project (USA)",
       "description": "Besetzung: Lizz Wright (voc), Ingrid Jensen (tp), Tia Fuller (sax), Geri Allen (p), Tamir Schmerling (b), Matt Stevens (g), Terri Lyne Carrington (dr)",
-      "id": "d6e937",
+      "id": "d6e969",
       "start_date": "2013-05-19 00:00:00"
     },
     {
       "name": "Local Heroes (DE)",
       "description": "Besetzung: NDR Big Band (DE\/FRA\/GB\/IT) »The Dark Side of the Moon« - A Tribute To Pink Floyd Solisten: Maria Pia de Vito (voc), Nguyên Lê (g), Michael Gibbs (arr, cond) NDR Big Band: Thorsten Benkenstein (tp), Nicolas Boysen (tp), Claus Stötter (tp), Reiner Winterschladen (tp), Fiete Felsch (sax), Peter Bolte (sax), Christof Lauer (sax), Lutz Büchner (sax), Frank Delle (sax), Dan Gottshall (tb), Klaus Heidenreich (tb), Stefan Lottermann (tb), Ingo Lahme (tb), Jürgen Attig (b), Vladyslav Sendecki (p), Gary Husband (dr), Marcio Doctor (perc), Walter Quintus (sound)",
-      "id": "d6e944",
+      "id": "d6e976",
       "start_date": "2013-05-20 00:00:00"
     },
     {
       "name": "Bassekou Kouyaté & Ngoni ba »Jama ko« (MLI)",
       "description": "Besetzung: Bassekou Kouyaté (ngoni), Aminata Sacko (voice), Mamadou Kouyaté (bass ngoni), Moustafa Kouyaté (ngoniba), Mahamadou Tounkara (yabara, tama), Abou Sissoko (ngoni medium), Moctar Kouyaté (calebasse)",
-      "id": "d6e952",
+      "id": "d6e985",
       "start_date": "2013-05-20 00:00:00"
     },
     {
       "name": "Fred Kellner & die famosen Soulsisters (DE)",
       "description": "Besetzung: Fred Kellner (g), Fred Kellner (g), Fred Kellner (keys), Fred Kellner (keys), Fred Kellner (b), Fred Kellner (perc), Fred Kellner (dr) plus drei horny horns, drei silver strings und die beiden famosen soulsisters",
-      "id": "d6e956",
+      "id": "d6e990",
       "start_date": "2013-05-20 00:00:00"
     },
     {
       "name": "The Dorf (DE)",
       "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (vl), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Adrian Prost (tb), Johannes Brackmann (tb), Alexander Giffey (tb), Alexander Morsey (tba), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Axel Knappmeyer (sax), Florian Walter (sax), Veit Lange (sax), Andreas Wahl (g), Christian Hammer (g), Serge Corteyn (g), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Uli Sigg (visuals), Denis Cosmar (sound), Jan Klare (air movement)",
-      "id": "d6e974",
+      "id": "d6e1011",
       "start_date": "2012-05-25 00:00:00"
     },
     {
       "name": "Gunter Hampel European-New York Quintet (DE\/DK)",
       "description": "Besetzung: Gunter Hampel (vibes, bcl, fl), Cavana Lee Hampel (voc), Johannes Schleiermacher (sax), Andreas Lang (b), Bernd Oezsevim (dr)",
-      "id": "d6e978",
+      "id": "d6e1016",
       "start_date": "2012-05-25 00:00:00"
     },
     {
       "name": "Tanya Tagaq (CAN)",
       "description": "Besetzung: Tanya Tagaq (voc), Jesse Zubot (vl)",
-      "id": "d6e982",
+      "id": "d6e1021",
       "start_date": "2012-05-25 00:00:00"
     },
     {
       "name": "Carla Bley Trio (USA\/GB)",
       "description": "Besetzung: Carla Bley (p, keys), Andy Sheppard (sax), Steve Swallow (b)",
-      "id": "d6e986",
+      "id": "d6e1027",
       "start_date": "2012-05-25 00:00:00"
     },
     {
       "name": "Juan de Marcos Afro Cuban All Stars (CUB)",
       "description": "Besetzung: Juan de Marcos Gonzalez Cardenas (tres, g), Yaure Muñiz Rumayor (tp), Igort Rivas Comas (tp), Yoanny Pino Facenda (tp), Laura Lydia Gonzalez Abreu (bcl, cl), Gabriel Hernandez Cadenas (p), Gliceria Gonzalez Abreu (keys), Antonio Juvencio Portuondo Martinez (timbales), Rolando Salgado Palacio (congas), Jose Antonio Moreaux Charon (bongo), Gliceria Abreu Caron (perc), Alberto Pantaleon Loran (b), Jose Gil Piñera Leygoniel (voc), Emilio Suarez Martinez (voc), Evelio Galan Castellanos (voc)",
-      "id": "d6e990",
+      "id": "d6e1032",
       "start_date": "2012-05-25 00:00:00"
     },
     {
       "name": "Landfermann & Burgwinkel (DE)",
       "description": "Besetzung: Robert Landfermann (b), Jonas Burgwinkel (dr)",
-      "id": "d6e997",
+      "id": "d6e1039",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "Radiation 10 (FRA)",
       "description": "Besetzung: Aymeric Avice (tp), Hugues Mayot (sax, cl), Fidel Fourneyron (tb, tba), Clément Janinet (vl), Julien Desprez (g), Bruno Ruder (rhodes), Benjamin Flament (vib), Joachim Florent (b), Emmanuel Scarpa (dr), Patrick Peignelin (sound)",
-      "id": "d6e1001",
+      "id": "d6e1044",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "Ingrid Laubrock Anti-House (DE\/USA\/CAN)",
       "description": "Besetzung: Ingrid Laubrock (sax), Mary Halvorson (g), Kris Davis (p), John Hébert (b), Tom Rainey (dr)",
-      "id": "d6e1006",
+      "id": "d6e1049",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "Jozef Dumoulin Trio (BEL\/USA)",
       "description": "Besetzung: Jozef Dumoulin (p, keys), Trevor Dunn (b), Eric Thielemanns (dr)",
-      "id": "d6e1010",
+      "id": "d6e1054",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "Andrew N D'Angelo DNA Orchestra (USA)",
       "description": "Besetzung: Andrew N D'Angelo (sax), Jeremy Udden (sax), Bill McHenry (sax), Josh Sinton (sax), Josh Roseman (tb), Brian Drye (tb), Ryan Snow (tb), John Carlson (tp), Jakob Wick (tp), Kirk Knuffke (cor), Ben Monder (g), Trevor Dunn (b), Dan Weiss (dr)",
-      "id": "d6e1014",
+      "id": "d6e1060",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "I Don't Hear Nothin' But The Blues Trio (USA)",
       "description": "Besetzung: Jon Irabagon (sax), Mick Barr (g), Mike Pride (dr)",
-      "id": "d6e1018",
+      "id": "d6e1065",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "James \"Blood\" Ulmer with Joe Bowie's Defunkt n'EU Soul (USA\/CF\/IT\/MUS)",
       "description": "Besetzung: Joseph Bowie (tb, voc), Emma Lamadji (voc), Michael Lecoq (keys), Rocco Zifarelli (g), Linley Marthe (b), Jon Grandcamp (dr), James „Blood“ Ulmer (g, voc)",
-      "id": "d6e1022",
+      "id": "d6e1070",
       "start_date": "2012-05-26 00:00:00"
     },
     {
       "name": "Myanmar meets Europe (MMR\/EU)",
       "description": "Besetzung: Hein Tint (pat waing - diatonic circle of drums), Markus Türk (tp), Jan Klare (sax, bcl), Htun Oo (hne - burmese ob, fl), Francesco Diodati (g), Pyae Phyo (ling gwin - Burmese cymbal), Kyaw Soe (maung zaing - chromatic row of gongs), Tim Isfort (b), Kyie Myint (chauk lone pat - bass percussion drums), Anne Paceo (dr), Kyaw Tint (bass gongs, perc)",
-      "id": "d6e1030",
+      "id": "d6e1079",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "dus-ti (DE)",
       "description": "Besetzung: Pablo Giw (tr), Mirek Pyschny (dr)",
-      "id": "d6e1034",
+      "id": "d6e1084",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "Phall Fatale (GHA\/CH\/GB)",
       "description": "Besetzung: Joy Frempong (voc, elec), Joana Aderi (voc, elec), Daniel Sailer (b, elec), John Edwards (b), Fredy Studer (dr)",
-      "id": "d6e1038",
+      "id": "d6e1090",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "Erik Friedlander (USA)",
       "description": "Besetzung: Erik Friedlander (clo)",
-      "id": "d6e1042",
+      "id": "d6e1094",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "Carla Bley \u0084La Leçon Française\u0093 (USA\/SWE\/DE)",
       "description": "Besetzung: Carla Bley (cond), Steve Swallow (b), Bohuslän Big Band: Lennart Grahn (tp), Staffan Svensson (tp), Samuel Olsson (tp), Jan Eliasson (tp), Niclas Rydh (tb), Christer Olofsson (tb), Peter Jensen (tb), Anders Wiborg (tb), Johan Borgström (sax), Joakim Rolandson (sax), Ove Ingemarsson (sax), Mikael Karlsson (sax), Alberto Pinton (sax), Tommy Kotter (p), Göran Kroon (dr), Björn Samuelsson (producer), Ralph Soovik (producer), Dortmund Choral Academy Boys Choir, Jost Salm (künstl. Leitung), Dietrich Bednarz (Einstudierung)",
-      "id": "d6e1047",
+      "id": "d6e1098",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "Rocket Science (USA\/GB)",
       "description": "Besetzung: Peter Evans (tp), Evan Parker (sax), Craig Taborn (p, keys), Sam Pluta (elec)",
-      "id": "d6e1051",
+      "id": "d6e1102",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "Lakecia Benjamin and Soul Squad (USA\/CAN)",
       "description": "Besetzung: Lakecia Benjamin (sax, voc), Malika Tirolien (voc), Jonathan Powell (tp), Jesse Fischer (keys), Jamiel Cornielo (g), Brian Cockerham (b), Joe Blaxx (dr)",
-      "id": "d6e1055",
+      "id": "d6e1106",
       "start_date": "2012-05-27 00:00:00"
     },
     {
       "name": "Helge`s Heimatabend (DE)",
       "description": "Besetzung: Helge Schneider (perf), MGV Concordia (choir), Tom Waschat (perf), Mischlingshund Norbert (perf), Willy Ketzer (perf)",
-      "id": "d6e1062",
+      "id": "d6e1113",
       "start_date": "2012-05-28 00:00:00"
     },
     {
       "name": "Iceland's New Liberation Orchestra (ISL)",
       "description": "Besetzung: Haukur Gröndal (reeds, as, cl, fl), Jesper Lövdal (sax), Birkir Freyr Matthíasson (tp, flh), Samúel J. Samúelsson (tb), Gunnlaugur Gudmundsson (b), Þorgrímur Jónsson (b), Pétur Grétarsson (perc, elec), Scott McLemore (d)",
-      "id": "d6e1084",
+      "id": "d6e1135",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Chris Dave & Friends (USA\/GB)",
       "description": "Besetzung: Kebbi Williams (sax), Tim Stewart (g), Pino Palladino (b), Chris Dave (dr)",
-      "id": "d6e1089",
+      "id": "d6e1140",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Abdullah Ibrahim (ZAF)",
       "description": "Besetzung: Abdullah Ibrahim (p)",
-      "id": "d6e1094",
+      "id": "d6e1145",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Thione Seck \"Orientation\" (SEN\/TUN\/FRA)",
       "description": "Besetzung: Thione Seck (voc), Khady Mbaye (voc), Dieynaba Koité (voc), Dara Guissé (xalam), Abdelhoued Zaim (oud), Zied Zouari (v), David Aubaile (keys, fl), Maurice Zemmour (b), Amar Chaoui (perc), Julien Tekeyan (dr, perc), François Bréant (acc, perc, musical direction)",
-      "id": "d6e1100",
+      "id": "d6e1151",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Nils Petter Molvær (NOR)",
       "description": "Besetzung: Nils Petter Molvær (tp), Stian Westerhus (git), Erland Dahlen (dr)",
-      "id": "d6e1105",
+      "id": "d6e1156",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Interactivo - Latin Dance Nights@Bollwerk",
       "description": "Besetzung: Roberto Carcasses (keyb, voc, musical director), William Vivanco (g, voc), Francis del Rio (voc), Telmary Diaz (voc), Melvis Santa Estevez (voc), Juan Carlos Marin (tb), Julio Padron (tp, voc), Roberto Gomez (g), Carlos Rios (b), Oliver Valdes (dr), Adel Gonzalez (perc)",
-      "id": "d6e1112",
+      "id": "d6e1163",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Frederik Köster Quartett - Night Sessions@Röhre",
       "description": "Besetzung: Frederik Köster (tp), Tobias Hoffmann (g), Matthias Nowak (b), Ralf Gessler (dr)",
-      "id": "d6e1116",
+      "id": "d6e1167",
       "start_date": "2011-06-10 00:00:00"
     },
     {
       "name": "Luminous Darkness",
       "description": "Besetzung: Robert Hampson (sounds), Simon Whetham (sounds), Colin Potter (sounds), Alexander Rishaug (sounds), Gregory Büttner (sounds), ILIOS (sounds)",
-      "id": "d6e1122",
+      "id": "d6e1173",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "The Ambush Party (NL)",
       "description": "Besetzung: Natalio Sued (sax), Harald Austbø (clo), Oscar Jan Hoogland (p), Marcos Baggiani (dr)",
-      "id": "d6e1128",
+      "id": "d6e1179",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Little Red Big Bang (DE, DK)",
       "description": "Besetzung: Elena Setién (voc), Johanna Borchert (p), Jimmy Nyborg (tp), Kevin Christensen (tb), Jakob Munck (tba), Jesper Løvdal (sax), Jeppe Højgaard (sax), Jonas Westergaard (b), Peter Bruun (dr)",
-      "id": "d6e1133",
+      "id": "d6e1184",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Jon Irabagon Trio (USA)",
       "description": "Besetzung: Jon Irabagon (sax), Peter Brendler (b), Barry Altschul (dr)",
-      "id": "d6e1138",
+      "id": "d6e1189",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Orthrelm (USA)",
       "description": "Besetzung: Mick Barr (g), Josh Blair (dr)",
-      "id": "d6e1143",
+      "id": "d6e1194",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Igmar Thomas & The Cypher (USA)",
       "description": "Besetzung: Igmar Thomas (tp), Marcus Strickland (sax), David Bryant (keys), Eric Wheeler (b), Dana Hawkins (dr)",
-      "id": "d6e1148",
+      "id": "d6e1199",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Encryption (USA)",
       "description": "Besetzung: Shannon Jackson (dr), Vernon Reid (g), Melvin Gibbs (b)",
-      "id": "d6e1153",
+      "id": "d6e1204",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "La-33 (CO)",
       "description": "Besetzung: Guillermo Celis (voc), David Cantillo (voc), Pablo Martinez (voc), Roland Nieto (tp), Vladimir Romero (tb), Jose Miguel Vega (tb), Felipe Cardenas (sax), Santiago Mejia (keys), Sergio Mejia (b), Cipriano Rojas (congas), Juan David Fernandez (timbales), Diego Sanchez (bongos)",
-      "id": "d6e1159",
+      "id": "d6e1210",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Interactivo - Latin Dance Nights@Bollwerk",
       "description": "Besetzung: Roberto Carcasses (keyb, voc, musical director), William Vivanco (g, voc), Francis del Rio (voc), Telmary Diaz (voc), Melvis Santa Estevez (voc), Juan Carlos Marin (tb), Julio Padron (tp, voc), Roberto Gomez (g), Carlos Rios (b), Oliver Valdes (dr), Adel Gonzalez (perc)",
-      "id": "d6e1166",
+      "id": "d6e1217",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Pablo Held Trio - Night Sessions@Röhre",
       "description": "Besetzung: Pablo Held (p), Robert Landfermann (b), Jonas Burgwinkel (dr)",
-      "id": "d6e1170",
+      "id": "d6e1221",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Niels Klein Quartett - Night Sessions@Röhre",
       "description": "Besetzung: Niels Klein (sax,cl), Pablo Held (p), Robert Landfermann (b), Jonas Burgwinkel (dr)",
-      "id": "d6e1174",
+      "id": "d6e1225",
       "start_date": "2011-06-11 00:00:00"
     },
     {
       "name": "Luminous Darkness",
       "description": "Besetzung: Robert Hampson (sounds), Simon Whetham (sounds), Colin Potter (sounds), Alexander Rishaug (sounds), Gregory Büttner (sounds), ILIOS (sounds)",
-      "id": "d6e1180",
+      "id": "d6e1231",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "The Dorf (DE)",
       "description": "Besetzung: Martin Verborg (v), Ludger Schmidt (c), Markus Türk (tp), John-Dennis Renken (tp), Adrian Prost (tb), Johannes Brackmann (tb), Alexander Morsey (tu), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Axel Knappmeyer (sax), Florian Walter (sax), Veit Lange (sax), Andreas Wahl (g), Christian Hammer (g), Serge Corteyn (g), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Nils Imhorst (b), Hartmut Kracht (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Jan Klare (air movement)",
-      "id": "d6e1186",
+      "id": "d6e1237",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Achim Tang \"Tørn\" (DE, FRA)",
       "description": "Besetzung: Joris Rühl (cl), Philip Zoubek (p), Achim Tang (b), Joe Hertenstein (dr)",
-      "id": "d6e1191",
+      "id": "d6e1242",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Michiyo Yagi Double Trio (JPN)",
       "description": "Besetzung: Michiyo Yagi (21-string koto, 17-string bass koto, voice), Todd Nicholson (b), Takashi Sugawa (b, c), Tamaya Honda (dr), Nori Tanaka (dr)",
-      "id": "d6e1196",
+      "id": "d6e1247",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Monolithic (NOR)",
       "description": "Besetzung: Stian Westerhus (g), Kenneth Kapstad (dr)",
-      "id": "d6e1201",
+      "id": "d6e1252",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Tia Fuller Quartet (USA)",
       "description": "Besetzung: Tia Fuller (sax), Shamie Royston (p), Mimi Jones (b), Rudy Royston (dr)",
-      "id": "d6e1206",
+      "id": "d6e1257",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "The Golden Palominos (USA)",
       "description": "Besetzung: Kevn Kinney (g, voc, harm), Lianne Smith (g, voc), Tony Scherr (slide git, voc), Chris Morrissey (b), Anton Fier (dr)",
-      "id": "d6e1211",
+      "id": "d6e1262",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Ornette Coleman (USA)",
       "description": "Besetzung: Al MacDowell (b), Tony Falanga (b), Denardo Coleman (dr)",
-      "id": "d6e1217",
+      "id": "d6e1268",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Seun Kuti & Egypt 80 (NG)",
       "description": "Besetzung: Oluwa Seun Anikulapo Kuti (voc), Tajudeen Lekan Animasahun (keys), Adekunle Adebiyi (sax), Oyinade Adeniran (sax), Emmanuel Kunnuji (tp), Olugbade Okunade (tp), Kunle Justice (b), Yetunde Sophia George Ademiluyi (voc, dance), Iyabo Adenirian (voc, dance), David Obanyedo (g), Alade Oluwagbemiga (g), Ajayi Raimi Adebiyi (dr); Kola Onasanya (conga), Wale Toriola (perc), Okon Iyamba (shekere)",
-      "id": "d6e1222",
+      "id": "d6e1273",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "La-33 (CO) - Latin Dance Nights@Bollwerk",
       "description": "Besetzung: Guillermo Celis (voc), David Cantillo (voc), Pablo Martinez (voc), Roland Nieto (tp), Vladimir Romero (tb), Jose Miguel Vega (tb), Felipe Cardenas (sax), Santiago Mejia (keys), Sergio Mejia (b), Cipriano Rojas (congas), Juan David Fernandez (timbales), Diego Sanchez (bongos)",
-      "id": "d6e1227",
+      "id": "d6e1278",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Tobias Christl's Lieblingsband - Night Sessions@Röhre",
       "description": "Besetzung: Tobias Christl (v), Niels Klein (sax,cl), Tobias Hoffmann (g), Pablo Held (p), Robert Landfermann (b), Jonas Burgwinkel (dr)",
-      "id": "d6e1234",
+      "id": "d6e1285",
       "start_date": "2011-06-12 00:00:00"
     },
     {
       "name": "Helges Heimatabend",
       "description": "Besetzung: Helge Schneider (voc, p), Jan Klare (cond), Tom Waschat (cooking), Roger Trash (voc), Katrin Michkiewicz (vln), Sandro Giampietro (g), Willy Ketzer (dr), Jonas Burgwinkel (dr), Robert Landfermann (b)",
-      "id": "d6e1240",
+      "id": "d6e1291",
       "start_date": "2011-06-13 00:00:00"
     },
     {
       "name": "\"Crime Scene\" Bergen Big Band feat. Terje Rypdal, Palle Mikkelborg & Stale Storlokken (NOR\/DK)",
       "description": "Besetzung: Terje Rypdal (g), Palle Mikkelborg (tp), Ståle Storløkken (keys), Bergen Big Band: Olav Dale, Jan Kåre Hystad, Ole Jakob Hystad, Zoltan Vincze, Michael Barnes (reeds), Martin Winter, Sebastian Haukås, Are Ovesen, Reid Gilje (tp), Øyvind Hage, Rune Hannisdal, Pål Roseth, Kjell Erik Husom (tb), Thomas Dahl (g), Helge Lilletvedt (p), Magne Thormodsæter (b), Frank Jakobsen (dr), Paolo Vinnaccia (dr)",
-      "id": "d6e1261",
+      "id": "d6e1312",
       "start_date": "2010-05-21 00:00:00"
     },
     {
       "name": "Donkey Monkey with Eve Risser & Yuko Oshima (FRA)",
       "description": "Besetzung: Eve Risser (p), Yuko Oshima (dr)",
-      "id": "d6e1266",
+      "id": "d6e1317",
       "start_date": "2010-05-21 00:00:00"
     },
     {
       "name": "Matana Roberts, Colin Stetson & Shahzad Ismaily (USA)",
       "description": "Besetzung: Matana Roberts (sax), Colin Stetson (bs, cl), Shahzad Ismaily (g, b, dr)",
-      "id": "d6e1271",
+      "id": "d6e1322",
       "start_date": "2010-05-21 00:00:00"
     },
     {
       "name": "Miss Platnum (DE\/AUT)",
       "description": "Besetzung: Ruth Maria Renner (voc), Ritsche Koch (tp), Jerome Bugnon (tb), Stefan Pahlke (tba), Roy Knauf (dr), Beat Halberschmidt (b), Christian Marien (perc), Grace Risch (voc), Solange Miranda-Wieland (voc)",
-      "id": "d6e1277",
+      "id": "d6e1328",
       "start_date": "2010-05-21 00:00:00"
     },
     {
       "name": "Super Seaweed Sex Scandal (USA)",
       "description": "Besetzung: Nonoko Yoshida (sax), John Stanesco (sax), Paul Wheeler (g), Borey Shin (p, acc), Joe Merolla (b, clo), Justin Veloso (dr)",
-      "id": "d6e1282",
+      "id": "d6e1333",
       "start_date": "2010-05-21 00:00:00"
     },
     {
       "name": "Occidental Brothers Dance Band Int'l feat. Samba Mapangala (US) night sessions@Röhre",
       "description": "Besetzung: Nathaniel Braddock (g), Antonio Carella (g), Josh Ramos (b), Greg Ward (sax), Marcus Evans (dr), Samba Mapangala (voc)",
-      "id": "d6e1289",
+      "id": "d6e1340",
       "start_date": "2010-05-21 00:00:00"
     },
     {
       "name": "morning sessions #1",
       "description": "Besetzung: Eve Risser (p), Carlo Mombelli (b), Justin Veloso (dr), Siya Makuzelli (voc), Marcus Wyatt (tp), Bostijan Simon (sax), Paul Wheeler (g), Borey Shin (p), Yuko Oshima (dr), John­‐Dennis Renken (tp), Tobias Klein (sax), John Stanesco (sax), Justin Badenhorst (dr)",
-      "id": "d6e1296",
+      "id": "d6e1347",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "123@Stadtkirche",
       "description": "Besetzung: Ariel Shibolet (sax)",
-      "id": "d6e1301",
+      "id": "d6e1352",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "Stepping into the Dark@Schlosstheater",
       "description": "Besetzung: Thomas Köner (perf), Helena Gough (perf), Evapori (perf)",
-      "id": "d6e1307",
+      "id": "d6e1358",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "Sanne van Hek \"Network of Stoppages\" (NL\/FRA\/BEL)",
       "description": "Besetzung: Sanne van Hek (tp), Benoît Delbecq (p), Koenraad Ecker (laptop), Gilbert Nouno (laptop), Jean-Luc Lehr (b), Onno Govaert (dr), Bo van der Werf (sax)",
-      "id": "d6e1312",
+      "id": "d6e1363",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "Carlo Mombelli & The Prisoners Of Strange (ZAF)",
       "description": "Besetzung: Carlo Mombelli (b), Siya Makuzeni (voc, tb), Marcus Wyatt (p), Justin Badenhorst (dr)",
-      "id": "d6e1317",
+      "id": "d6e1368",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "Steve Lehman Octet (USA\/PR)",
       "description": "Besetzung: Steve Lehman (sax), Jeremy Viner (sax), Jonathan Finlayson (tp), Tim Albright (tb), José Davila (tba), Chris Dingman (vib), Drew Gress (b), Tyshawn Sorey (dr)",
-      "id": "d6e1322",
+      "id": "d6e1373",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "Bill Frisell with Eyvind Kang and Rudy Royston (USA)",
       "description": "Besetzung: Bill Frisell (g), Eyvind Kang (v), Rudy Royston (dr)",
-      "id": "d6e1327",
+      "id": "d6e1378",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "Dobet Gnahoré (CIV\/FRA)",
       "description": "Besetzung: Dobet Gnahoré (voc), Colin Laroche de Feline (g), Clive Govinden (b), Boris Tchango (dr)",
-      "id": "d6e1332",
+      "id": "d6e1383",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "ParisRoubaix (DE) night session@Röhre",
       "description": "Besetzung: Michael G. Esch (sax), Ralf Wissdorf (b), Ulf Stricker (dr), Max Klaas (perc)",
-      "id": "d6e1340",
+      "id": "d6e1391",
       "start_date": "2010-05-22 00:00:00"
     },
     {
       "name": "morning sessions #2",
       "description": "Besetzung: John Stanesco (sax), Tobias Klein (sax), Eirikur Orri Olafsson (tp), Paul Wheeler (g), Viljam Nybacka (b), Yuko Oshima (dr), Esra Dalfifian (voc), Colin Stetson (sax), Borey Shin (acc), Eve Risser (p), Justin Veloso (dr), Marc Lohr (dr), Nonoko Yoshida (sax), Bostijan Simon (sax), Bram Stadthouders (g), Ariel Shibolet (sax), Mazen Kerbaj (tp)",
-      "id": "d6e1347",
+      "id": "d6e1398",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "123@Stadtkirche",
       "description": "Besetzung: Jon Rose (vln), Paolo Angeli (g)",
-      "id": "d6e1352",
+      "id": "d6e1403",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Stepping into the Dark@Schlosstheater",
       "description": "Besetzung: Jonathan Coleclough (perf), Manu Holterbach (perf), John Wall (perf)",
-      "id": "d6e1357",
+      "id": "d6e1408",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Grubenklang \"Reloaded\" (DE\/UK\/AUT\/IT\/USA)",
       "description": "Besetzung: Georg Graewe (p), Theo Jörgensmann (cl), Frank Gratkowski (sax, cl), Tobias Delius (sax), Eckard Koltermann (bs, bcl), Thomas Berghammer (tp), Sebastiano Tramontana (tb), Melvyn Poore (tba), Martin Siewert (g), John Lindberg (b), Dieter Manderscheid (b), Michael Vatcher (dr), Achim Krämer (dr)",
-      "id": "d6e1362",
+      "id": "d6e1413",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Schneeweiss & Rosenrot (CH\/DE\/SWE\/LUX)",
       "description": "Besetzung: Lucia Cadotsch (voc), Johanna Borchert (p), Petter Eldh (b), Marc Lohr (dr)",
-      "id": "d6e1368",
+      "id": "d6e1419",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Peter Brötzmann Chicago Tentet (DE\/SWE\/USA\/NOR)",
       "description": "Besetzung: Peter Brötzmann (sax, cl), Mats Gustafsson (sax, cl), Ken Vandermark (sax, cl), Joe McPhee (tp), Johannes Bauer (tb), Jeb Bishop (tb), Per-Åke Holmlander (tba), Fred Lonberg-Holm (clo), Kent Kessler (b), Paal Nilssen-Love (dr), Michael Zerang (dr)",
-      "id": "d6e1373",
+      "id": "d6e1424",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Sponde di Passione (ESP\/IT\/JPN\/IND)",
       "description": "Besetzung: Elena Zanzu (trapeze), Paolo Angeli (g, voc), Takumi Fukushima (v, voc), Ganesh Anandan (perc), Nanni Angeli (projections), Francesco Carta (light)",
-      "id": "d6e1378",
+      "id": "d6e1429",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Bill Frisell & Arve Henriksen (USA\/NOR)",
       "description": "Besetzung: Bill Frisell (g), Arve Henriksen (tp)",
-      "id": "d6e1383",
+      "id": "d6e1434",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "Toshi Reagon & BIGLovely (USA)",
       "description": "Besetzung: Toshi Reagon (voc, g), Adam Widoff (g), Fred Cash (b), Joe Magistro (dr)",
-      "id": "d6e1388",
+      "id": "d6e1439",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "AlasNoAxis (US,IS) night session@Röhre",
       "description": "Besetzung: Chris Speed (sax), Hilmar Jensson (g), Skuli Sverrisson (b), Jim Black (dr, laptop)",
-      "id": "d6e1395",
+      "id": "d6e1446",
       "start_date": "2010-05-23 00:00:00"
     },
     {
       "name": "morning sessions #3",
       "description": "Besetzung: Tobias Klein (sax), Bostijan Simon (sax), Borey Shin (sax), Petter Eldh (b), Chris Speed (sax), Ariel Shibolet (sax), Justin Veloso (dr), Sanne van Hek (tp), John Stanesco (sax), Bram Stadthouders (g), Shahzad Ismaily (g), Johanna Borchert (p), Eirikur Orri Olafsson (tp), Mazen Kerbaj (trtp), Jim Black (dr), Esra Dalfidian (voc), Nonoko Yoshida (sax), Skuli Sverisson (b), Justin Veloso (dr), Paul Wheeler (g), Eve Risser (p), Viljam Nybacka (perf)",
-      "id": "d6e1403",
+      "id": "d6e1454",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "123@Stadtkirche",
       "description": "Besetzung: Peter Brötzmann (sax), Mats Gustafsson (sax), Ken Vandermark (sax)",
-      "id": "d6e1408",
+      "id": "d6e1459",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "Stepping into the Dark@Schlosstheater",
       "description": "Besetzung: Francisco Lopez (perf), Toy Bizarre (perf), Small Cruel Party (perf)",
-      "id": "d6e1413",
+      "id": "d6e1464",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "Matthias Schriefl Shreefpunk plus Big Band (DE)",
       "description": "Besetzung: Matthias Schriefl (tp, comp), Anette von Eichel (voc), Malte Dürrschnabel, Roger Hanschel, Niels Klein, Denis Gäbel, Benjamin Steil (sax), Benny Brown, Volker Deglmann, Christoph Moschberger, Matthias Knoop (tp), Felix Fromm, Tobias Wember, Matthias Muche, Achim Hartmann (tb), Johannes Behr (g), Robert Landfermann (b), Jens Düppe (dr), Jonas Burgwinkel (dr)",
-      "id": "d6e1418",
+      "id": "d6e1469",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "Mari Kvien Brunvoll (NOR)",
       "description": "Besetzung: Mari Kvien Brunvoll (voc)",
-      "id": "d6e1423",
+      "id": "d6e1474",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "Tyshawn Sorey with Ingrid Laubrock & Kris Davis (USA\/DE\/CAN)",
       "description": "Besetzung: Tyshawn Sorey (dr), Ingrid Laubrock (sax), Kris Davis (p)",
-      "id": "d6e1429",
+      "id": "d6e1480",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "Arto Lindsay with Guests (USA\/UK\/BRA)",
       "description": "Besetzung: Arto Lindsay (voc, g), James Hurt (keys), Melvin Gibbs (b), Anthony Lewis (dr), Marivaldo Paim (perc)",
-      "id": "d6e1434",
+      "id": "d6e1485",
       "start_date": "2010-05-24 00:00:00"
     },
     {
       "name": "Cosa Brava: Fred Frith\/Carla Kihlstedt\/Zeena Parkins\/Shahzad Ismaily\/Matthias Bossi (UK\/USA)",
       "description": "Besetzung: Fred Frith (g, b, voc), Carla Kihlstedt (v, voc), Zeena Parkins (acc, synth, voc), Matthias Bossi (dr, voc), Shahzad Ismaily (g, perc), The Norman Conquest (sound manipulation)",
-      "id": "d6e1439",
+      "id": "d6e1490",
       "start_date": "2010-05-24 00:00:00"
     }
   ]
