@@ -668,6 +668,47 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCspPTu8mSNIJIEqpbYo2PPw"}]
         }
     },
+    "JonasÅkerblom": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonas-%C3kerblom-mn0001625517"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/621679-Jonas-%C3%85kerblom"}]
+        }
+    },
+    "MasamiAkita": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/masamiakita"}, {"type": "search", "url": "https://www.allaboutjazz.com/tag-merzbow"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/masami-akita-mn0000385494"}, {"type": "personal", "url": "https://www.allmusic.com/artist/merzbow-mn0000884057"}],
+            "bandcamp": [{"type": "personal", "url": "https://masamiakita.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/58248-Masami-Akita"}, {"type": "personal", "url": "https://www.discogs.com/artist/12551-Merzbow"}],
+            "homepage": [{"type": "personal", "url": "http://merzbow.net/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Merzbow%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/merzbow"}, {"type": "agency", "url": "https://soundcloud.com/masamiakita"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MerzbowOfficial"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Masami_Akita"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Masami_Akita"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC4U05gp1wd2oq0_xNIX5GSQ"}]
+        }
+    },
+    "BruceAkley": {
+        "canonicalName": {
+            "firstname": "Bruce", 
+            "surname": "Ackley"
+        }
+    },
+    "SayanAkmolda": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sayan-aqmoldaev-mn0001350824/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5809561-%D0%A1%D0%B0%D1%8F%D0%BD-%D0%90%D2%9B%D0%BC%D0%BE%D0%BB%D0%B4%D0%B0"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sayan-akmolda"}],
+            "youtube": [{"type": "search", "url": "https://www.youtube.com/results?search_query=%D0%A1%D0%B0%D1%8F%D0%BD+%D0%90%D2%9B%D0%BC%D0%BE%D0%BB%D0%B4%D0%B0"}]
+        },
+        "notes": {
+            "cs": "Kazašská verze jména: Саян Ақмолда",
+            "de": "Kasachisch-kyrillisch: Саян Ақмолда",
+            "en": "Name in cyrillic alphabet: Саян Ақмолда",
+            "fr": "Nom en kazakh: Саян Ақмолда",
+            "zh": "哈萨克的名字: Саян Ақмолда"
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -838,6 +879,12 @@
             "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2015/02/16/the-jazz-session-444-peter-apfelbaum/"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Apfelbaum"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Peter_Apfelbaum"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Peter_Apfelbaum"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCmw9UqvrqhZxSFZwQuFR23w"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCTcnXPs6yhFOIwzLpQBBJAw"}]
+        }
+    },
+    "SayanAqmoldaev": {
+        "canonicalName": {
+            "firstname": "Sayan",
+            "surname": "Akmolda"
         }
     },
     "FabianArends": {
@@ -5095,6 +5142,18 @@
             "surname": "Altena"
         }
     },
+    "HansReichel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url":"https://musicians.allaboutjazz.com/hansreichel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/hans-reichel-mn0000555313"}],
+            "bandcamp": [{"type": "personal", "url": "https://hansreichel.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/bonobo"}, {"type": "album", "url": "https://intaktrec.bandcamp.com/album/show-down"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/wichlinghauser-blues"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/211536-Hans-Reichel"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Hans%20Reichel%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/hansreichel"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hans_Reichel_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Hans_Reichel"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Hans_Reichel_(musicien)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Hans_Reichel"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCugW6lWPqlazBE9_hPyxlGw"}]
+        }
+    },
     "KnarfRellöm": {
         "canonicalName": {
             "firstname": "Frank",
@@ -5174,6 +5233,15 @@
         "canonicalName": {
             "firstname": "Frederik",
             "surname": "Leroux-Roels"
+        }
+    },
+    "RolfRömer": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rolf-r%C3%B6mer-mn0000089081"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312865-Rolf-R%C3%B6mer"}],
+            "homepage": [{"type": "personal", "url": "http://www.rolf-roemer.de/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Rolf_R%C3%B6mer_(Musiker)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCqNITco92RiqldDqsFPwM9g"}]
         }
     },
     "Live MariaRoggen": {
@@ -6498,6 +6566,12 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/michelwaisvisz"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Michel_Waisvisz"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Michel_Waisvisz"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Michel_Waisvisz"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC5JeMIv7DiVkdFrlvTseSSw"}]
+        }
+    },
+    "MichaelWaiszvisz": {
+        "canonicalName": {
+            "firstname": "Michel",
+            "surname": "Waisvisz"
         }
     },
     "DeborahWalker": {
