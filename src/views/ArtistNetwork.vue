@@ -48,6 +48,7 @@
 }
 
 .nodes circle {
+    cursor: pointer;
     stroke: #fff;
     stroke-width: 1.5px;
 }
@@ -183,11 +184,42 @@ export default {
                 .data(nodes)
                 .enter()
                 .append("circle")
-                .attr("r", (node) => node.r.toString())
-                .attr("fill", "#42b983")
+                .attr("r", (node) => {
+                    let r = node.r
+                    if(node.artistId === this.centeredArtist.artistId) {
+                        r = 2 * r
+                    }
+                    return r.toString()
+                })
+                .attr("fill", (node) => {
+                    let color = "#42b983"
+                    if(node.artistId === this.centeredArtist.artistId) {
+                        color = "#50bcfa"
+                    }
+                    return color
+                })
                 .on("click", (event, data) => {
                     this.$router.push( { path: "/network", query: { firstname: data.firstname, surname: data.surname }});
-                });
+                })
+                /*.call (d3.behavior.drag()
+                    .on("start", (d) => {
+                            if (!d3.event.active) {
+                                simulation.alphaTarget(0.3).restart()
+                            }
+                            d.fx = d.x
+                            d.fy = d.y
+                        })
+                    .on("drag", (d) => {
+                        d.fx = d3.event.x
+                        d.fy = d3.event.y
+                        })
+                    .on("end", (d) => {
+                        if (!d3.event.active) {
+                            simulation.alphaTarget(0)
+                        }
+                        d.fx = null
+                        d.fy = null
+                    }))*/
 
             node.append("title")
                 .text(d => d.firstname + " " + d.surname);
