@@ -16,7 +16,8 @@
   },
   "artistsNetwork": {
     "header": "Réseau des artistes",
-    "intro": "Ce réseau visualise les liens entre artistes, qui ont joué ensemble sur le Moers Festival."
+    "intro": "Ce réseau visualise les liens entre artistes, qui ont joué ensemble sur le Moers Festival.",
+    "selectedArtist": "Artiste sélectionné"
   },
   "artistsTable": {
     "concerts": "Concerts",

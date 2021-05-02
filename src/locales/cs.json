@@ -16,7 +16,8 @@
     },
     "artistsNetwork": {
         "header": "Síť umělců",
-        "intro": "Tato síť ukazuje spojení mezi umělci, kteří stáli společně na pódiu na Moersově festivalu."
+        "intro": "Tato síť ukazuje spojení mezi umělci, kteří stáli společně na pódiu na Moersově festivalu.",
+        "selectedArtist": "Vybraný umělec"
     },
     "artistsTable": {
         "concerts": "Koncerty",

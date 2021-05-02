@@ -4,7 +4,7 @@
         <p>{{$t("artistsNetwork.intro")}}</p>
         <div class="row">
             <div class="col-9">
-                <div id="networkRoot">
+                <div id="networkRoot" ref="networkRoot">
                 </div>
             </div>
             <div class="col-3 sideInfo">
@@ -53,6 +53,10 @@
     stroke-width: 1.5px;
 }
 
+.nodeTexts {
+    cursor: pointer;
+}
+
 .sideInfo {
     border: 1px solid black;
     padding: 2em;
@@ -69,7 +73,7 @@ import d3 from "../lib/d3-imports";
 import { mapGetters, mapState } from "vuex";
 
 const NETWORK_MAX_DEGREE = 2;
-const NODE_RADIUS = 20;
+// const NODE_RADIUS = 20;
 const STROKE_WIDTH = 2;
 
 export default {
@@ -78,8 +82,17 @@ export default {
         artistNodes() {
             const aggregator = { nodes: new Map(), links: [] };
             expandArtistNodesAggregationRecursively(this.artists, this.allMoersFestivalEvents, 0, NETWORK_MAX_DEGREE, aggregator, this.centeredArtist);
-
-            return { nodes: Array.from(aggregator.nodes.values()), links: aggregator.links };
+            const nodesArray = Array.from(aggregator.nodes.values());
+            if(nodesArray.length && this.$refs.networkRoot) {
+                // set first node to fixed position
+                const height = this.$refs.networkRoot.clientHeight;
+                const width = this.$refs.networkRoot.clientWidth;
+                const fx = width / 2;
+                const fy = height / 2;
+                nodesArray[0].fx = fx;
+                nodesArray[0].fy = fy;
+            }
+            return { nodes: nodesArray, links: aggregator.links };
         },
 
         centeredArtist() {
@@ -114,6 +127,7 @@ export default {
         }
     },
     methods: {
+
         renderGraph() {
             // select the svg element from the template
             const networkRoot = d3.select("#networkRoot");
@@ -149,21 +163,20 @@ export default {
 
             const linkForce = d3.forceLink(links)
                 .id(d => d.artistId)
-                .distance(60);
+                .distance(80);
 
             // create a force simulation for the nodes
-            const forceManyBody = d3.forceManyBody();
-            forceManyBody.strength(-70);
+            const forceManyBody = d3.forceManyBody().strength(-130);
 
-            const forceCollide = d3.forceCollide();
-            forceCollide.radius(NODE_RADIUS)
-                .strength(1.1);
+            const forceCollide = d3.forceCollide()
+                .radius(d => d.radius * 2)
+                .strength(1);
 
             const simulation = d3.forceSimulation(nodes)
-                .force("center", d3.forceCenter(width / 2, height / 2))
+                //.force("center", d3.forceCenter(width / 2, height / 2))
                 .force("charge", forceManyBody)
-                .force("links", linkForce)
-                .force("collision", forceCollide)
+                .force("link", linkForce)
+                .force("collide", forceCollide)
 
             // draw the lines for the links
             const link = svg.append("g")
@@ -201,25 +214,6 @@ export default {
                 .on("click", (event, data) => {
                     this.$router.push( { path: "/network", query: { firstname: data.firstname, surname: data.surname }});
                 })
-                /*.call (d3.behavior.drag()
-                    .on("start", (d) => {
-                            if (!d3.event.active) {
-                                simulation.alphaTarget(0.3).restart()
-                            }
-                            d.fx = d.x
-                            d.fy = d.y
-                        })
-                    .on("drag", (d) => {
-                        d.fx = d3.event.x
-                        d.fy = d3.event.y
-                        })
-                    .on("end", (d) => {
-                        if (!d3.event.active) {
-                            simulation.alphaTarget(0)
-                        }
-                        d.fx = null
-                        d.fy = null
-                    }))*/
 
             node.append("title")
                 .text(d => d.firstname + " " + d.surname);
@@ -254,9 +248,19 @@ export default {
 
             simulation.on("tick", tickActions);
 
+
+            // svg.call(this.drag(simulation, svg));
+
             svg.node();
         }
     },
+    beforeRouteUpdate(to, from, next) {
+        // "unfix" the centered artist's node
+        delete this.artistNodes.nodes[0].fx;
+        delete this.artistNodes.nodes[0].fy;
+        next();
+    },
+
     mounted() {
         if(this.centeredArtist) {
             this.renderGraph();

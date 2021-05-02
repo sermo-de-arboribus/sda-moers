@@ -16,7 +16,8 @@
   },
   "artistsNetwork": {
     "header": "Network of artists",
-    "intro": "This network visualizes linkes between the artist who played together on the same stage at Moers Festival"
+    "intro": "This network visualizes linkes between the artist who played together on the same stage at Moers Festival",
+    "selectedArtist": "Selected artist"
   },
   "artistsTable": {
     "concerts": "Concerts",
