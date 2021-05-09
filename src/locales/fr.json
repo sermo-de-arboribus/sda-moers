@@ -61,6 +61,8 @@
     "xmlText": "Téléchargez les données de ce site web en format XML."
   },
   "general": {
+    "artist": "Artiste",
+    "concert": "Concert",
     "export": "Exportation des données",
     "festivalName": "Festival de Moers",
     "imprint": "Mentions légales",

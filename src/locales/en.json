@@ -62,6 +62,8 @@
     "xmlText": "Download the website data in XML format here."
   },
   "general": {
+    "artist": "Artist",
+    "concert": "Concert",
     "export": "Export data",
     "festivalName": "Moers Festival",
     "guestarticle": "guest article",

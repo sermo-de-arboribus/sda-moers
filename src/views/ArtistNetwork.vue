@@ -66,15 +66,23 @@
     color: #42b983;
 }
 
+svg text {
+    user-select: none;
+    pointer-events: none;
+}
+
+circle.artist {
+    cursor: pointer;
+}
+
 </style>
 
 <script>
 import d3 from "../lib/d3-imports";
+import { HoverCard } from "../helpers/hover-card";
 import { mapGetters, mapState } from "vuex";
 
-const NETWORK_MAX_DEGREE = 2;
-// const NODE_RADIUS = 20;
-const STROKE_WIDTH = 2;
+const NETWORK_MAX_DEGREE = 3;
 
 export default {
     name: "ArtistNetwork",
@@ -91,6 +99,7 @@ export default {
                 const fy = height / 2;
                 nodesArray[0].fx = fx;
                 nodesArray[0].fy = fy;
+                nodesArray[0].type = "center";
             }
             return { nodes: nodesArray, links: aggregator.links };
         },
@@ -114,6 +123,7 @@ export default {
         return {
             defaultArtist: {
                 firstname: "Amy",
+                id: "AmyDenio",
                 surname: "Denio",
                 concerts: [
                     {
@@ -122,7 +132,20 @@ export default {
                         "id": "d4e1281",
                         "start_date": "1990-06-03 00:00:00"
                     }
-                ]
+                ],
+                instruments: ["eb"],
+                links: {
+                    "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-amy-denio__30514"}],
+                    "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/amy-denio-mn0000766780"}],
+                    "bandcamp": [{"type": "personal", "url": "https://amydenio.bandcamp.com/"}, {"type": "album", "url": "https://aphoniarecordings.bandcamp.com/album/sub-rosa"}, {"type": "album", "url": "https://bhhstuff.bandcamp.com/album/bret-hart-amy-denio-improvised-duets-2001-digital"}],
+                    "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/270152-Amy-Denio"}],
+                    "homepage": [{"type": "personal", "url": "http://www.amydenio.com/"}, {"type": "personal", "url": "https://amydenio.me/"}],
+                    "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Amy%20Denio%22&category_name=nach-hoeren"}],
+                    "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/amy-denio"}],
+                    "twitter": [{"type": "personal", "url": "https://twitter.com/AmyDenio"}],
+                    "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Amy_Denio"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Amy_Denio"}]}],
+                    "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/deniaural"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCWvua5eiLSf9OpTk7Hu5H5w"}]
+                }
             }
         }
     },
@@ -137,6 +160,7 @@ export default {
 
             networkRoot.select("svg").remove();
 
+            // get svg root element
             const svg = networkRoot.append("svg")
                 .attr("viewBox", [0, 0, width, height].join(" "))
                 .attr("preserveAspectRatio", "xMidYMid meet");
@@ -147,111 +171,33 @@ export default {
                 instanceDomain[1] = Math.max(instanceDomain[1], n.linkCount);
             })
 
-            const radiusScale = d3.scaleLog()
-                .domain(instanceDomain)
-                .range([10, 32])
-                .clamp(true);
+            // define scales (for node circle radius, node colour, and font size of labels)
+            const nodeScale = d3.scaleLinear()
+                .domain([0, determineNumberOfLinks(this.artistNodes) ])
+                .range([12, 30]);
+
+            const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
             
-            const sizeScale = d3.scaleLog()
-                .domain(instanceDomain)
-                .rangeRound([7, 6, 5, 4, 3, 2, 1])
-                .clamp(true);
-            
-            // create the link force
-            const links = this.artistNodes.links.map(l => Object.create(l));
-            const nodes = this.artistNodes.nodes.map(n => Object.assign(n, {r: radiusScale(n.linkCount), size: sizeScale(n.linkCount)}));
+            const fontSizeScale = d3.scaleLinear()
+                .domain([0, determineNumberOfLinks(this.artistNodes) ])
+                .range([7, 12]);
 
-            const linkForce = d3.forceLink(links)
-                .id(d => d.artistId)
-                .distance(80);
+            // define force layout simulation
+            const simulation = createSimulation(this.artistNodes);
 
-            // create a force simulation for the nodes
-            const forceManyBody = d3.forceManyBody().strength(-130);
-
-            const forceCollide = d3.forceCollide()
-                .radius(d => d.radius * 2)
-                .strength(1);
-
-            const simulation = d3.forceSimulation(nodes)
-                //.force("center", d3.forceCenter(width / 2, height / 2))
-                .force("charge", forceManyBody)
-                .force("link", linkForce)
-                .force("collide", forceCollide)
-
-            // draw the lines for the links
-            const link = svg.append("g")
-                .attr("class", "links")
-                .selectAll("line")
-                .data(links)
-                .enter()
-                .append("line")
-                .attr("stroke-width", STROKE_WIDTH);
-
-            link.append("title")
-                .text(d => d.eventId);
-
-            // draw circles for the nodes
-            const node = svg.append("g")
-                .attr("class", "nodes")
-                .selectAll(".node")
-                .data(nodes)
-                .enter()
-                .append("circle")
-                .attr("r", (node) => {
-                    let r = node.r
-                    if(node.artistId === this.centeredArtist.artistId) {
-                        r = 2 * r
-                    }
-                    return r.toString()
-                })
-                .attr("fill", (node) => {
-                    let color = "#42b983"
-                    if(node.artistId === this.centeredArtist.artistId) {
-                        color = "#50bcfa"
-                    }
-                    return color
-                })
-                .on("click", (event, data) => {
-                    this.$router.push( { path: "/network", query: { firstname: data.firstname, surname: data.surname }});
-                })
-
-            node.append("title")
-                .text(d => d.firstname + " " + d.surname);
-
-            const nodeTexts = svg.append("g")
-                .attr("class", "nodeTexts")
-                .selectAll(".nodeText")
-                .data(nodes)
-                .enter()
-                .append("text")
-                .text(d => [...d.firstname.split(" ").map(s => s.substring(0,1)), d.surname.substring(0,1)].join(""))
-                .on("click", (event, data) => {
-                    this.$router.push( { path: "/network", query: { firstname: data.firstname, surname: data.surname }});
-                });
-
-            nodeTexts.append("title")
-                .text(d => d.firstname + " " + d.surname);
-
-            const tickActions = function () {
-                // update link positions
-                link.attr("x1", function(d) { return d.source.x })
-                    .attr("y1", function(d) { return d.source.y })
-                    .attr("x2", function(d) { return d.target.x })
-                    .attr("y2", function(d) { return d.target.y });
-
-                node.attr("cx", (d) => d.x ) // Math.max(d.r, (Math.min(width - d.r - 100, d.x))))
-                    .attr("cy", (d) => d.y ) //Math.max(d.r, (Math.min(height - d.r - 5, d.y))));
-
-                nodeTexts.attr("x", ({ x, r }) => x - r/2)
-                    .attr("y", ({ y, r }) => y + r/2);
-            }
-
-            simulation.on("tick", tickActions);
-
-
-            // svg.call(this.drag(simulation, svg));
-
-            svg.node();
+            // create links / edges
+            const link = createLinks(svg, this.artistNodes);
+            // create nodes
+            const node = createNodeCircles(svg, this.$router, this.artistNodes, nodeScale, colorScale);
+            node.call(drag(simulation));
+            // create text (for node labels)
+            const textContainer = createTextContainer(svg, this.artistNodes, fontSizeScale);        
+            // create hover card (for mouseover text)
+            const hoverCard = new HoverCard(svg);
+            const translator = this.$i18n;
+            initMouseEvents(node, hoverCard, simulation, translator);
+            // define d3 force layout's updating behaviour (on every tick)
+            simulation.on("tick", () => tickFunction(textContainer, nodeScale, node, link, hoverCard));
         }
     },
     beforeRouteUpdate(to, from, next) {
@@ -266,6 +212,7 @@ export default {
             this.renderGraph();
         }
     },
+
     watch: {
         centeredArtist: {
             deep: true,
@@ -279,41 +226,204 @@ export default {
     }
 }
 
+function createLinks(svg, data) {
+    return svg
+        .selectAll("path.link")
+        .data(data.links)
+        .enter()
+        .append("path")
+        .attr("stroke", "#999")
+        .attr("fill", "none");
+}
+
+function createNodeCircles(svg, router, data, nodeScale, colorScale) {
+
+    const node = svg
+        .selectAll("circle")
+        .data(data.nodes)
+        .enter()
+        .append("circle")
+        .attr("r", (d) => nodeScale(d.linkCount))
+        .attr("stroke", "#ccc")
+        .attr("stroke-width", 0.5)
+        .style("fill", (d) => colorScale(d.type))
+        .attr("class", (d) => d.type)
+        .on("click", (event, data) => {
+            if(data.type === "artist") {
+                router.push( { path: "/network", query: { firstname: data.firstname, surname: data.surname }});
+            }
+        });
+
+    return node;
+}
+
+function createSimulation(data) {
+    return d3.forceSimulation(data.nodes)
+        .force("charge", d3.forceManyBody().strength(-100))
+        .force("link", d3.forceLink(data.links)
+            .id(d => d.id)
+            .distance(50))
+        .force("center", d3.forceCenter(600, 400))
+        .force("gravity", d3.forceManyBody().strength(7.5))
+        .force("collide", d3.forceCollide()
+            .radius(d => d.radius * 2)
+            .strength(1));
+}
+
+function createTextContainer(svg, data, fontSizeScale) {
+    return svg
+        .selectAll("g.label")
+        .data(data.nodes)
+        .enter()
+        .append("g")
+        .append("text")
+        .text((d) => {
+            switch(d.type) {
+                case "artist":
+                case "center":
+                    return [...d.firstname.split(" ").map(s => s.substring(0,1)), d.surname.substring(0,1)].join("");
+                case "concert": 
+                    return d.start_date.substring(0,4);
+                default:
+                    return "";
+            }
+        })
+        .attr("font-size", (d) => fontSizeScale(d.linkCount));
+}
+
+function determineNumberOfLinks(data) {
+
+    return d3.max(data.nodes.map(n => n.linkCount));
+}
+
+function drag(simulation) {
+
+    const dragStarted = (event, d) => {
+        if(!event.active) {
+            simulation.alphaTarget(0.3).restart();
+        }
+
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    const dragged = (event, d) => {
+
+        d.fx = event.x;
+        d.fy = event.y;
+
+    }
+
+    const dragEnded = (event, d) => {
+        if(!event.active) {
+            simulation.alphaTarget(0);
+        }
+
+        d.fx = null;
+        d.fy = null;
+    }
+
+    return d3.drag()
+        .on("start", dragStarted)
+        .on("drag", dragged)
+        .on("end", dragEnded);
+}
+
 function expandArtistNodesAggregationRecursively(artists, events, currentDegree, maxDegree, aggregator, artist) {
     const artistId = artist.firstname + artist.surname;
     const currentNode = artists.find(a => a.firstname == artist.firstname && a.surname == artist.surname);
     const eventIds = currentNode ? currentNode.concerts.map(c => c.id) : [];
-    aggregator.nodes.set(artistId, Object.assign(artist, { artistId, linkCount: eventIds.length }));
+    aggregator.nodes.set(artistId, Object.assign(artist, { id: artistId, linkCount: eventIds.length, type: "artist" }));
 
     if(currentDegree <= maxDegree && eventIds.length) {
         
         // iterate through events
         eventIds.forEach( eId => {
 
+            const event = events.find(e => e.id === eId);
+
+            // add concert node 
+            aggregator.nodes.set(eId, Object.assign(event, { linkCount: event.artists.length, type: "concert" }))
+
             const nextArtists = events.find(e => e.id === eId).artists;
 
             // iterate through current event's artists
             nextArtists.forEach( a => {
                 const targetArtistId = a.firstname + a.surname;
-                const linkExists = aggregator.links.some( l => {
-                    return l.eventId === eId && 
-                        (( l.target === targetArtistId && l.source === artistId ) ||
-                        ( l.source === targetArtistId && l.target === artistId ))
-                })
-                if( artistId !== targetArtistId && !linkExists) {
-                    aggregator.links.push({ source: artistId, target: targetArtistId, eventId: eId });
+                const linkExists = aggregator.links.some( l => l.source === eId && l.target === targetArtistId );
+                
+                if(!linkExists) {
+                    aggregator.links.push({ source: eId, target: targetArtistId });
                     expandArtistNodesAggregationRecursively(artists, events, currentDegree + 1, maxDegree, aggregator, a);
-                } else {
-                    // artist already exists, just add linkCount
-                    const artist = aggregator.nodes.get(targetArtistId);
-                    artist.linkCount ++;
                 }
             });
         });
     }
 }
 
+function initMouseEvents(node, hoverCard, simulation, translate) {
+
+    node.on("mouseover", (event, d) => {
+
+        hoverCard.card.attr("display", "block");
+
+        hoverCard.currentTarget = event.target;
+        const cardTextTitleString = d.type === "concert" ? translate.t("general.concert") : translate.t("general.artist");
+        const cardTextContent1String = d.type === "concert" ? d.name : d.firstname + " " + d.surname;
+        const cardTextContent2String = d.type === "concert" ? d.start_date : d.instruments;
+
+        hoverCard.cardTextTitle.text(cardTextTitleString);
+        hoverCard.cardTextContent1.text(cardTextContent1String);
+        hoverCard.cardTextContent2.text(cardTextContent2String);
+
+        const cardTitleWidth = hoverCard.cardTextTitle.node().getBBox().width;
+        const cardTextContent1Width = hoverCard.cardTextContent1.node().getBBox().width;
+        const cardTextContent2Width = hoverCard.cardTextContent2.node().getBBox().width;
+        const cardWidth = Math.max(cardTitleWidth, cardTextContent1Width, cardTextContent2Width);
+
+        hoverCard.cardBackground.attr("width", cardWidth + 16);
+
+        simulation.alphaTarget(0).restart();
+    });
+
+    node.on("mouseout", () => {
+        hoverCard.currentTarget = null;
+        hoverCard.card.attr("display", "none");
+    });
+}
+
+const lineGenerator = d3.line();
+
 function pixelsToNumber(pixels = "0") {
     return parseInt(pixels.replace(/px$/, ""), 10);
+}
+
+function tickFunction(textContainer, nodeScale, node, link, hoverCard) {
+
+    textContainer
+        .attr("transform", (d) => {
+            // const numberOfLinks = d.type === "concert" ? nodeScale(d.numberOfArtists) : nodeScale(d.numberOfConcerts);
+            const scale = nodeScale(d.linkCount);
+            return `translate(${d.x - scale / 2}, ${d.y})`;
+        });
+
+    node.attr("cx", (d) => d.x)
+        .attr("cy", (d) => d.y);
+
+    link.attr("d", (d) => {
+        return lineGenerator([
+            [d.source.x, d.source.y],
+            [d.target.x, d.target.y]
+        ]);
+    });
+
+    if (hoverCard.currentTarget) {
+
+        const radius = hoverCard.currentTarget.r.baseVal.value;
+        const xPos = hoverCard.currentTarget.cx.baseVal.value + radius + 3;
+        const yPos = hoverCard.currentTarget.cy.baseVal.value + radius + 3;
+
+        hoverCard.card.attr("transform", `translate(${xPos}, ${yPos})`);
+    }
 }
 </script>

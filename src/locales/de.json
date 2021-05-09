@@ -62,6 +62,8 @@
     "xmlText": "Laden Sie sich die Daten der Website hier im XML-Format herunter."
   },
   "general": {
+    "artist": "Künstler:in",
+    "concert": "Konzert",
     "export": "Datenexport",
     "festivalName": "Moers Festival",
     "guestarticle": "Gastbeitrag",

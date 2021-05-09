@@ -62,6 +62,8 @@
         "xmlText": "Stáhněte si data tyto webové strany ve souborovým formátu XML."
       },
     "general": {
+        "artist": "Umělci / Umělkyně",
+        "concert": "Koncert",
         "export": "Export dat",
         "festivalName": "Moers Festival",
         "guestarticle": "příspěvek",
