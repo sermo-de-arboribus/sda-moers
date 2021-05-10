@@ -709,6 +709,29 @@
             "zh": "哈萨克的名字: Саян Ақмолда"
         }
     },
+    "DavidAknin": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-aknin-mn0002591623"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/774256-David-Aknin"}]
+        }
+    },
+    "Sunday JohnAkpan": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/john-akpan-mn0001604626"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1148576-John-Akpan"}]
+        }
+    },
+    "GürayAktalay": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6945412-G%C3%BCray-Aktalay"}]
+        }
+    },
+    "OktayAktürk": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/8202672-Oktay-Akt%C3%BCrk"}],
+            "homepage": [{"type": "personal", "url": "https://www.oktayakturk.com/"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -760,6 +783,12 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/benallisonmusic"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ben_Allison"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ben_Allison"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzs2iF0hPAEGvfgrczCg1ug"}]
+        }
+    },
+    "Nia BeyAl-Rasul": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nia-bey-al-rasul-mn0001425566"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2181900-Nia-Bey-Al-Rasul"}]
         }
     },
     "MaartenAltena": {
@@ -1666,6 +1695,18 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/913657-Christine-Chapman"}],
             "homepage": [{"type": "band", "url": "http://musikfabrik.eu/ueber-uns/mitglieder/christine-chapman.html"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCixPh-QSzRniVTkh7AibUsA"}]
+        }
+    },
+    "FrankChastenier": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-frank-chastenier"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/frank-chastenier-mn0000105693"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/299627-Frank-Chastenier"}],
+            "homepage": [{"type": "personal", "url": "https://www.frankchastenier.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Frank%20Chastenier%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/frank-chastenier"}],
+            "wikipedia": [{"type": "personal", "url": "https://de.wikipedia.org/wiki/Frank_Chastenier"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCc7fpmkBr0AkS7W-g90bRpg"}]
         }
     },
     "HaydenChisholm": {
@@ -3201,6 +3242,18 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_3rjBi6hVoRxjXtrP0bQXQ"}]
         }
     },
+    "NoahHoward": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/noahhoward"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/noah-howard-mn0000870291"}],
+            "bandcamp": [{"type": "personal", "url": "https://noahhowardaltsax.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/319479-Noah-Howard"}],
+            "homepage": [{"type": "personal", "url": "http://www.noahhoward.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Noah%20Howard%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Noah_Howard"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Noah_Howard"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Noah_Howard"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCpvO2WYo52DJtYdiweSstBw"}]
+        }
+    },
     "Ching MeiHuang": {
         "canonicalName": {
             "firstname": "Ching-Mei",
@@ -3403,6 +3456,22 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/herbert-joos-official"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Herbert_Joos"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Herbert_Joos"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCoOyzSKOvci5KML2knST-oA"}]
+        }
+    },
+    "TakashiKaako": {
+        "canonicalName": {
+            "firstname": "Takashi",
+            "surname": "Kako"
+        }
+    },
+    "TakashiKako": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/takashi-kako-mn0000790171"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/416575-Takashi-Kako"}],
+            "homepage": [{"type": "personal", "url": "https://takashikako.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Takashi%20Kako%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Takashi_Kako"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Takashi_Kako"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/TakashiKakoOfficial"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCCbUkx7P5Xph8zQLpm1dgIQ"}]
         }
     },
     "VolkerKamp": {
@@ -3754,6 +3823,17 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/ckapal"}]
         }
     },
+    "VolkerKriegel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/volkerkriegel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/volker-kriegel-mn0000225203"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/177229-Volker-Kriegel"}],
+            "homepage": [{"type": "personal", "url": "https://volker-kriegel.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Volker%20Kriegel%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Volker_Kriegel"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Volker_Kriegel"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCBKFvyudTjH_uCh4VMWiHhQ"}]
+        }
+    },
     "IvanKrillzarin": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ivan-krillzarin-mn0001774470"}],
@@ -3946,6 +4026,16 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5182774-Lars-Leibl"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Horst_Hansen_Trio"}]}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCyKRhk7xQyhj0_lB4x78G_w/"}]
+        }
+    },
+    "GünterLenz": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/g%C3%BCnter-lenz-mn0000944886"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/367522-G%C3%BCnter-Lenz"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22G%C3%BCnter%20Lenz%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/gunterlenzspringtime"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/G%C3%BCnter_Lenz_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Lenz"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCA8IVB22gHdz4l_YN45dIbg"}]
         }
     },
     "FrederikLeroux-Roels": {
@@ -4537,6 +4627,15 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1309329-Elson-Nascimento"}],
             "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Elson%20Nascimento%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/elsonnascimento"}]
+        }
+    },
+    "JoeNay": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joe-nay-mn0001583370"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/263107-Joe-Nay"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Joe%20Nay%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Joe_Nay"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Joe_Nay"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCZgk2v-_vZ5-Yh7mvA50pRQ"}]
         }
     },
     "JohannnesNebel": {
@@ -5748,6 +5847,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC8iK_47r9x2umY8WHbMWj2A"}, {"type": "band", "url": "https://www.youtube.com/channel/UC4yFh-28ICCl4B9SlXjGiMQ"}]
         }
     },
+    "PaulShigihara": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/tag-paul-shigihara"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paul-shigihara-mn0002397014"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/312867-Paul-Shigihara"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Paul%20Shigihara%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/oneworldclub"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/paulshigihara"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Paul_Shigihara"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/oneworldclub"}]
+        }
+    },
     "OliverSiegel": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-siegel-mn0002597351"}],
@@ -6913,6 +7024,23 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yegor-zabelov-1"}],
             "twitter": [{"type": "band", "url": "https://twitter.com/YZTrio"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCJBpEb7BrtXpHdQEI-X6sNQ"}]
+        }
+    },
+    "LeszekZadlo": {
+        "canonicalName": {
+            "firstname": "Leszek",
+            "surname": "Żądło"
+        }
+    },
+    "LeszekŻądło": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-leszek-zadlo"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/leszek-zadlo-mn0001254357"}],
+            "bandcamp": [{"type": "album", "url": "https://bandcamp.for-tune.pl/album/miss-b"}, {"type": "album", "url": "https://bandcamp.for-tune.pl/album/komeda-wygnanie-z-raju"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/616604-Leszek-Zadlo"}],
+            "radiohoerer": [{"type": "search", "url": "https://www.discogs.com/artist/616604-Leszek-Zadlo"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Leszek_Zadlo"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Leszek_%C5%BB%C4%85d%C5%82o"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCCDTmQgWyQngxXXld48omsA"}]
         }
     },
     "SusanneZapf": {
