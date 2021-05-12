@@ -47,6 +47,10 @@
     width: 100%;
 }
 
+#networkRoot svg {
+    overflow: auto;
+}
+
 .nodes circle {
     cursor: pointer;
     stroke: #fff;
@@ -82,7 +86,7 @@ import d3 from "../lib/d3-imports";
 import { HoverCard } from "../helpers/hover-card";
 import { mapGetters, mapState } from "vuex";
 
-const NETWORK_MAX_DEGREE = 3;
+const NETWORK_MAX_DEGREE = 2;
 
 export default {
     name: "ArtistNetwork",
@@ -342,21 +346,24 @@ function expandArtistNodesAggregationRecursively(artists, events, currentDegree,
 
             const event = events.find(e => e.id === eId);
 
-            // add concert node 
-            aggregator.nodes.set(eId, Object.assign(event, { linkCount: event.artists.length, type: "concert" }))
+            // add concert node, if it hasn't been processed yet
+            if(!aggregator.nodes.has(eId)) {
 
-            const nextArtists = events.find(e => e.id === eId).artists;
+                aggregator.nodes.set(eId, Object.assign(event, { linkCount: event.artists.length, type: "concert" }));
 
-            // iterate through current event's artists
-            nextArtists.forEach( a => {
-                const targetArtistId = a.firstname + a.surname;
-                const linkExists = aggregator.links.some( l => l.source === eId && l.target === targetArtistId );
-                
-                if(!linkExists) {
-                    aggregator.links.push({ source: eId, target: targetArtistId });
-                    expandArtistNodesAggregationRecursively(artists, events, currentDegree + 1, maxDegree, aggregator, a);
-                }
-            });
+                const nextArtists = events.find(e => e.id === eId).artists;
+
+                // iterate through current event's artists
+                nextArtists.forEach( a => {
+                    const targetArtistId = a.firstname + a.surname;
+                    const linkExists = aggregator.links.some( l => l.source === eId && l.target === targetArtistId );
+                    
+                    if(!linkExists) {
+                        aggregator.links.push({ source: eId, target: targetArtistId });
+                        expandArtistNodesAggregationRecursively(artists, events, currentDegree + 1, maxDegree, aggregator, a);
+                    }
+                });
+            }
         });
     }
 }

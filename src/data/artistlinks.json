@@ -732,6 +732,93 @@
             "homepage": [{"type": "personal", "url": "https://www.oktayakturk.com/"}]
         }
     },
+    "NayimAlal": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nayim-alal-mn0001393268"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/971695-Nayim-Alal"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/nayimalal"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCZrxgkoaPDE9lpXWHXP3M5g"}]
+        }
+    },
+    "Jamilal-Asadi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jamil-al-asadi-mn0002309861"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3486170-%D8%AC%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D9%8A"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC0jI6B7ofuagppxoL7VgZ2g"}]
+        }
+    },
+    "JamilAlassadi": {
+        "canonicalName": {
+            "firstname": "Jamil",
+            "surname": "al-Asadi"
+        }
+    },
+    "YonatanAlbalak": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/yonatan-albalak-mn0003736556"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1486336-Yonatan-Albalak"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/albalak1"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/albalak"}]
+        }
+    },
+    "RobbyAlberga": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/robby-alberga-mn0001777524"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1632392-Robby-Alberga"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-344411447"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/RobbyAlberga"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/krokobaldo"}]
+        }
+    },
+    "MarioAlberti": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1935582-Mario-Alberti"}]
+        }
+    },
+    "TimAlbright": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/timalbright"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tim-albright-mn0000939800"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/821141-Tim-Albright"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Tim%20Albright%22&category_name=nach-hoeren"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChniGldyFxBzbjE4uvheJZA"}]
+        }
+    },
+    "Inaldo Cavalcante deAlbuquerque": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/inaldocalvalcantedealbuquerque"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/spok-mn0003340446"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/961351-Spok-4"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/spokfrevo"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Spok"}, {"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/SpokFrevo_Orquestra"}]}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCA1AyQ2evnHb_R9D7zu_xLg"}, {"type": "band", "url": "https://www.youtube.com/channel/UCw8jek5GCtjICfmS6FF9hkw"}]
+        }
+    },
+    "RafaelAlcala": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rafael-alcala-mn0002509568"}]
+        }
+    },
+    "SteveAlcott": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/steve-alcott-mn0001913209"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2000137-Steve-Alcott"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCI4uRX7bCR3MV4AmOtzsJ3Q"}]
+        }
+    },
+    "MatsÄleklint": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/matsaleklint"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mats-%C3leklint-mn0002321281"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1847831-Mats-%C3%84leklint"}],
+            "homepage": [{"type": "personal", "url": "http://www.matsaleklint.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Mats%20%C3%84leklint%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/aleklint"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/matsaleklint"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mats_%C3%84leklint"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Mats_%C3%84leklint"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/meanboneman"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCBM5cBbLHzBTIAebU8HSLHw"}]
+        }
+    },
     "RalphAlessi": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ralphalessi"}],
@@ -745,6 +832,12 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/alessir1"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ralph_Alessi"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ralph_Alessi"}, {"locale!": "nl", "url": "https://nl.wikipedia.org/wiki/Ralph_Alessi"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCaax1HdkZhcyLJR-oxc7uxA"}]
+        }
+    },
+    "MuhamedAli": {
+        "canonicalName": {
+            "firstname": "Muhammad",
+            "surname": "Ali"
         }
     },
     "MuhammadAli": {
@@ -1481,6 +1574,12 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wolfgang-bullmeyer-mn0001209910"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3262267-Wolfgang-B%C3%BCllmeyer"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ibliss"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ibliss"}]}]
+        }
+    },
+    "MartinBues": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/martin-bues-mn0001760136"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/393086-Martin-Bues"}]
         }
     },
     "BexBurch": {
@@ -3595,6 +3694,12 @@
             "youtube": [{"type": "search", "url": "https://www.youtube.com/results?search_query=Stefan+Keune"}]
         }
     },
+    "ThomasKeyserling": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thomas-keyserling-mn0001188714"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/359402-Thomas-Keyserling"}]
+        }
+    },
     "RickKiefer": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rick-kiefer-mn0000855145"}],
@@ -4109,6 +4214,18 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCr1oyDmTYDjx3lSeYu2tu6A"}]
         }
     },
+    "BernardLubat": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/tag-bernard-lubat"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bernard-lubat-mn0000011118"}],
+            "bandcamp": [{"type": "album", "url": "https://futuramarge.bandcamp.com/album/engatsse"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/252016-Bernard-Lubat"}],
+            "homepage": [{"type": "personal", "url": "http://www.cie-lubat.org/Oeuvriers/Bernard-Lubat"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/bernardlubat"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bernard_Lubat"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Bernard_Lubat"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Bernard_Lubat"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCPhtsTfkayDeO_dtw0HVBhg"}]
+        }
+    },
     "KayLübke": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kay-lubke-mn0001016309"}],
@@ -4164,6 +4281,9 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Adam_Makowicz"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Adam_Makowicz"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Adam_Makowicz"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCXRX8w2Y-trL1nsOjyYoE-Q"}, {"type": "agency", "url":"https://www.youtube.com/channel/UCQfsTsC05mBYJAA-bN3s42g"}]
         }
+    },
+    "VusiMaluza": {
+        "links": {}
     },
     "Willem vanManen": {
         "links": {
@@ -4240,6 +4360,15 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1352095-Patricia-Martin-2"}],
             "homepage": [{"type": "agency", "url": "https://www.folkwang-uni.de/home/hochschule/personen/lehrende/vollanzeige/personen-detail/prof-patricia-m-martin"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/studio-neue-musik-paint-it-black-schwarz-in-der-musik-werke-von-u-a-klaus-lang-julian-eastman/"}]
+        }
+    },
+    "DavidMasondo": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-masondo-mn0001445304"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1813543-David-Masondo"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/davidmasondo"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Mdavu10"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCjEMXUBHNZr-e1pZlnoGEUg"}]
         }
     },
     "MasanaMatsushita": {
@@ -4770,6 +4899,22 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC69xmzltVv-JGAiqbcjtQuw"}]
         }
     },
+    "M.A.Numminen": {
+        "canonicalName": {
+            "firstname": "Mauri Antero",
+            "surname": "Numminen"
+        }
+    },
+    "Mauri AnteroNumminen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ma-numminen-mn0000484326"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/308465-MA-Numminen"}],
+            "homepage": [{"type": "personal", "url": "http://www.manumminen.com/fi/main"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/ma-numminen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/M._A._Numminen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/M._A._Numminen"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Mauri_Antero_Numminen"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCj2v6Cl6P1Dpce2oE6Mj_aQ"}]
+        }
+    },
     "LudwigNuss": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ludwignuss"}],
@@ -4817,6 +4962,17 @@
             "homepage": [{"type": "personal", "url": "https://www.laurinoppermann.de/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/laurin-oppermann"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCJbHbi6Qi3bCJp-JluErJ9g"}]
+        }
+    },
+    "MikeOsborne": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mikeosborne"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mike-osborne-mn0000524917"}],
+            "bandcamp": [{"type": "personal", "url": "https://mikeosborne.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/374058-Mike-Osborne"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Mike%20Osborne%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mike_Osborne"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mike_Osborne"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Mike_Osborne"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Mike_Osborne"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCfwCBapdhz2hpudjD8wwHFg"}]
         }
     },
     "YukoOshima": {
@@ -5095,6 +5251,17 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Axel%20Porath%22&category_name=nach-hoeren"}],
             "twitter": [{"type": "band", "url": "https://twitter.com/Musikfabrik"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/MusikFabrik"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ensemble_Musikfabrik"}]}]
+        }
+    },
+    "MichelPortal": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/michelportal"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michel-portal-mn0000474854"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/199202-Michel-Portal"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Michel%20Portal%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/michel-portal"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Michel_Portal"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Michel_Portal"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Michel_Portal"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Michel_Portal"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Michel_Portal"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWBsubp_7ebTqcDNpamd91w"}]
         }
     },
     "MariáPortugal": {
@@ -5859,6 +6026,11 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/oneworldclub"}]
         }
     },
+    "JapanSidoyi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/japan-sidoyi-mn0001803269"}]
+        }
+    },
     "OliverSiegel": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-siegel-mn0002597351"}],
@@ -5916,6 +6088,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCT_oTkGJezIDmBGbiJZ4cIA"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCnZIeVP54OwVzYOgXyHfCOg"}]
         }
     },
+    "LeoSmith": {
+        "canonicalName": {
+            "firstname": "Wadada Leo",
+            "surname": "Smith"
+        }
+    },
     "MichaelSmith": {
         "canonicalName": {
             "firstname": "Michael Joseph",
@@ -5928,6 +6106,20 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/774458-Michael-Smith-14"}],
             "homepage": [{"type": "personal", "url": "https://myspace.com/composerpianist"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Michael_Joseph_Smith"}]}]
+        }
+    },
+    "Wadada LeoSmith": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wadadaleosmith"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wadada-leo-smith-mn0000812348"}, {"type": "personal", "url": "https://www.allmusic.com/artist/ishmael-wadada-leo-smith-mn0000249943"}],
+            "bandcamp": [{"type": "personal", "url": "https://wadadaleosmith.bandcamp.com/"}, {"type": "personal", "url": "https://wadadaleosmith1.bandcamp.com/"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/americas-national-parks"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/ten-freedom-summers-2"}, {"type": "album", "url": "https://othermindsrecords.bandcamp.com/album/om-live-taif-prayer-in-the-garden-of-hijaz"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/347445-Wadada-Leo-Smith"}],
+            "homepage": [{"type": "personal", "url": "https://wadadaleosmith.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Wadada%20Leo%20Smith%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/wadada-leo-smith"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/WadadaLeoSmith"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Wadada_Leo_Smith"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Wadada_Leo_Smith"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wadada_Leo_Smith"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Wadada_Leo_Smith"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Wadada_Leo_Smith"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC7SYK-Ux8EVI8YtBpLi8kaQ"}]
         }
     },
     "Wayne A.Smith": {
@@ -6193,6 +6385,19 @@
             "homepage": [{"type": "personal", "url": "tobysummerfield.com"}]
         }
     },
+    "JohnSurman": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johnsurman"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/john-surman-mn0000189180"}],
+            "bandcamp": [{"type": "band", "url": "https://johnsurmanbensurman.bandcamp.com/"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/way-back-when"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/flashpoint-ndr-jazz-workshop-april-69-2"}, {"type": "album", "url": "https://lucianban.bandcamp.com/album/transylvanian-folk-songs-the-bela-bart-k-field-recordings"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/245741-John-Surman"}],
+            "homepage": [{"type": "personal", "url": "https://johnsurman.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22John%20Surman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/john-surman-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/John_Surman"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/John_Surman"}, {"locale": "fr", "url": "https://en.wikipedia.org/wiki/John_Surman"}, {"locale": "fr", "url": "https://nl.wikipedia.org/wiki/John_Surman"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/John_Surman"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC3-pwtvdaPureOp9Kkm9mbg"}]
+        }
+    },
     "MariaSuwelack": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maria-suwelack-mn0003530126"}],
@@ -6418,6 +6623,14 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/532013-Markus-T%C3%BCrk"}],
             "homepage": [{"type": "personal", "url": "http://www.markustuerk.de/"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Markus_T%C3%BCrk"}]}]
+        }
+    },
+    "JaniUhlenius": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jani-uhlenius-mn0002150857"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/540706-Jani-Uhlenius"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jani-uhlenius"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCkbzOx0EDaqVx_vr2HiaSag"}]
         }
     },
     "BirgitUhler": {
