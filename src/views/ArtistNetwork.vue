@@ -263,15 +263,15 @@ function createNodeCircles(svg, router, data, nodeScale, colorScale) {
 
 function createSimulation(data) {
     return d3.forceSimulation(data.nodes)
-        .force("charge", d3.forceManyBody().strength(-100))
+        .force("charge", d3.forceManyBody().strength(-60))
         .force("link", d3.forceLink(data.links)
             .id(d => d.id)
-            .distance(50))
+            .distance(20))
         .force("center", d3.forceCenter(600, 400))
-        .force("gravity", d3.forceManyBody().strength(7.5))
         .force("collide", d3.forceCollide()
-            .radius(d => d.radius * 2)
-            .strength(1));
+            .radius(d => d.r * 2.5)
+            .strength(1.3)
+            .iterations(3));
 }
 
 function createTextContainer(svg, data, fontSizeScale) {

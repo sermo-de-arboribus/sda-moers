@@ -828,10 +828,19 @@
             "homepage": [{"type": "personal", "url": "http://www.ralphalessi.com/"}],
             "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2013/10/15/the-jazz-session-424-ralph-alessi/"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ralph%20Alessi%22&category_name=nach-hoeren"}],
-            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/ralph-alessi"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ralph-alessi-504557324"}, {"type": "agency", "url": "https://soundcloud.com/ralph-alessi"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/alessir1"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ralph_Alessi"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ralph_Alessi"}, {"locale!": "nl", "url": "https://nl.wikipedia.org/wiki/Ralph_Alessi"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCaax1HdkZhcyLJR-oxc7uxA"}]
+        }
+    },
+    "JanAlexander": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/janalexander"}],
+            "bandcamp": [{"type": "personal", "url": "https://janalexander.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/8568702-Jan-Alexander-5"}],
+            "homepage": [{"type": "personal", "url": "https://www.jan-alexander.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/janalexander"}]
         }
     },
     "MuhamedAli": {
@@ -1253,6 +1262,12 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/screwgunrecords"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/screwgub"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Tim_Berne"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Tim_Berne"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tim_Berne"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tim_Berne"}]}]
+        }
+    },
+    "SiphoBhengu": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sipho-bhengu-mn0001764955"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3459678-Sipho-Bhengu"}]
         }
     },
     "ViolaBlache": {
