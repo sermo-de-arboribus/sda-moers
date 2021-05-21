@@ -75,7 +75,7 @@ module.exports = {
                         commit("setLoading", false);
                 })
             } else { */
-                events = addAdditionalData(require("../data/backup-2021-04-14.json"));
+                events = [...addAdditionalData(require("../data/backup-2021-04-14.json")), ...require("../data/2021.json")];
                 commit("updateEvents", events);
                 console.log("fetched events from local backup");
                 commit("updateVueTablePage");

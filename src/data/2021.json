@@ -1,0 +1,44 @@
+[
+    {
+        "eventId": "1001",
+        "description": "Besetzung: Laurent Peter (Indian Harmonium, elect), Cyril Bondi (perc), Guilhelm Lacroux (g), Jacques Puech (bagpipes), Jérémie Sauvage (b), Louis Jacques (bagpipes)",
+        "name": "La Tène + guests (CH, FR)",
+        "start_date": "2021-05-21 16:31:00",
+        "end_date": "2021-05-21 17:31:00"
+    },
+    {
+        "eventId": "1002",
+        "description": "Besetzung: Angelika Niescier (sax), Simon Rummel (glockenspiel, harmonica, toys4us), Achim Tang (b), Ingrid Laubrock (sax), Michael Schiefel (voc), Julia Hülsmann (p), Hayden Chisholm (as), Carolin Pook (vl), John-Dennis Renken (tp), Kim Josephine Bode (fl,recorder), Emilio Gordoa (vib), Mariá Portugal (dr), Kevin Shea (dr), Matt Mottel (keys)",
+        "name": "Große Kleine Allee Band (BR, DE, MX, NZ, US)",
+        "start_date": "2021-05-21 17:46:00",
+        "end_date": "2021-05-21 18:36:00"
+    },
+    {
+        "eventId": "1003",
+        "description": "Besetzung: Joëlle Léandre (b), Gerald Cleaver (dr)",
+        "name": "Joëlle Léandre / Gerald Cleaver (FR, US)",
+        "start_date": "2021-05-21 18:51:00",
+        "end_date": "2021-05-21 19:36:00"
+    },
+    {
+        "eventId": "1004",
+        "description": "Besetzung: Brad Mehldau (p)",
+        "name": "aerosolo #1: Brad Mehldau (US)",
+        "start_date": "2021-05-21 19:51:00",
+        "end_date": "2021-05-21 20:36:00"
+    },
+    {
+        "eventId": "1005",
+        "description": "Besetzung: Lubomyr Melnyk (p)",
+        "name": "aerosolo #1: Lubomyr Melnyk (UA)",
+        "start_date": "2021-05-21 22:51:00",
+        "end_date": "2021-05-21 23:36:00"
+    },
+    {
+        "eventId": "1006",
+        "description": "Besetzung: Julien Desprez (g)",
+        "name": "aerosolo #3: Julien Desprez (FR)",
+        "start_date": "2021-05-21 23:51:00",
+        "end_date": "2021-05-22 00:29:00"
+    }
+]
