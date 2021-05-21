@@ -843,6 +843,68 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/janalexander"}]
         }
     },
+    "YannisAlexandris": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yannisalexandris"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/yannis-alexandris-mn0000603088"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2478154-%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CE%91%CE%BB%CE%B5%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%AE%CF%82"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Yannis%20Alexandris%22&category_name=nach-hoeren"}]
+        },
+        "notes": {
+            "cs": "Řecká verze jména: Γιάννης Αλεξανδρής",
+            "de": "Griechische Schreibweise: Γιάννης Αλεξανδρής",
+            "en": "Name in Greek alphabet: Γιάννης Αλεξανδρής",
+            "fr": "Nom en grec: Γιάννης Αλεξανδρής",
+            "zh": "希腊​的名字: Γιάννης Αλεξανδρής"
+        }
+    },
+    "JorgeAlfonso": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jorge-el-nino-alfonso-mn0000667455"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/329919-Jorge-Alfonso"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: El Niño",
+            "de": "Künstlername: El Niño",
+            "en": "Artist's name: El Niño",
+            "fr": "Pseudonyme: El Niño",
+            "zh": "艺名: El Niño"
+        }
+    },
+    "Jorge \"El Nino\"Alfonso": {
+        "canonicalName": {
+            "firstname": "Jorge",
+            "surname": "Alonso"
+        }
+    },
+    "Regla Milagros AbreuAlfonso": {
+        "canonicalName": {
+            "firstname": "Regla Milagros",
+            "surname": "Abreu Alfonso"
+        }
+    },
+    "AbdoulayeAlhassane": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/abdoulaye-alhassane-mn0001863866"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3482732-Abdoulaye-Alhassane"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/abdoulaye_alhassane-yahoo"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/askiamusic"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCTUE8_JbwewGoAoIf-dsqtw"}]
+        }
+    },
+    "RamatouAlhassane": {
+        "canonicalName": {
+            "firstname": "Ramatou",
+            "surname": "Alhassane Danté"
+        }
+    },
+    "AminAli": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/amin-ali-mn0001549284"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/353840-Amin-Ali"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Amin_Ali"}, {"locale": "en", "url": "https://nl.wikipedia.org/wiki/Amin_Ali"}]}]
+        }
+    },
     "MuhamedAli": {
         "canonicalName": {
             "firstname": "Muhammad",
@@ -1381,6 +1443,19 @@
             "homepage": [{"type": "personal", "url": "https://josephinebode.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kimjosebode"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCk6XKTSU6c1PNPW-MOgTkNw"}]
+        }
+    },
+    "CyrilBondi": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/cyrilbondi"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cyril-bondi-mn0002967551"}],
+            "bandcamp": [{"type": "personal", "url": "https://cyrilbondi.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/611025-Cyril-Bondi"}],
+            "homepage": [{"type": "personal", "url": "http://www.cyrilbondi.net/"}, {"type": "band", "url": "https://lateneband.bandcamp.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Cyril%20Bondi%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/cyrilbondi-music"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Cyril_Bondi"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCl-Ce64kduajRXN6ehV3qGQ"}]
         }
     },
     "PierreBorel": {
@@ -3481,6 +3556,11 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCIwJy_xd4q4TjhHcFITmmkw"}]
         }
     },
+    "LouisJacques": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6504486-Louis-Jacques-2"}]
+        }
+    },
     "HilaryJeffery": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/hilaryjeffery"}],
@@ -4006,6 +4086,14 @@
     },
     "VincentLabhenn": {
         "links": {
+        }
+    },
+    "GuilhemLacroux": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ghilem-lacroux-mn0001718950"}],
+            "bandcamp": [{"type": "album", "url": "https://soleilsbleus.bandcamp.com/album/live-la-mine-3052016-sb005"}, {"type": "album", "url": "https://standard-in-fi.bandcamp.com/album/la-travers-e"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/174656-Guilhem-Lacroux"}],
+            "homepage": [{"type": "personal", "url": "http://www.guilhemlacroux.com/"}]
         }
     },
     "SteveLacy": {
@@ -5098,6 +5186,25 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mountainbellmusic"}]
         }
     },
+    "LaurentPeter": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-dincise__32379"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dincise-mn0002858886"}],
+            "bandcamp": [{"type": "personal", "url": "https://dincise.bandcamp.com/"}, {"type": "band", "url": "https://lateneband.bandcamp.com/"}, {"type": "album", "url": "https://wearethreefour.bandcamp.com/album/vouerca-fahy"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/316395-Dincise"}],
+            "homepage": [{"type": "personal", "url": "http://www.dincise.net/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22d%27Incise%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dincise-2"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChGQ4-F_X2eeyLDKz5TCBlg"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: d’Incise",
+            "de": "Künstlername: d’Incise",
+            "en": "Artist's name: d’Incise",
+            "fr": "Pseudonyme: d’Incise",
+            "zh": "艺名: d’Incise"
+        }
+    },
     "OliverPeters": {
         "canonicalName": {
             "firstname": "Olivier",
@@ -5304,6 +5411,12 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/adrian-prost-mn0003207213"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3076064-Adrian-Prost"}],
             "homepage": [{"type": "agency", "url": "https://www.nw.de/lokal/kreis_herford/buende/3244495_Mit-Zug-zum-Erfolg.html"}]
+        }
+    },
+    "Jacques Puech": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2038558-Jacques-Puech"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jacques-puech"}]
         }
     },
     "MeinhardPuhl": {
@@ -5608,6 +5721,15 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1622482-Leo-De-Ruiter"}, {"type": "personal", "url": "https://www.discogs.com/de/artist/2302926-Leo-de-Ruyter"}]
         }  
     },
+    "SimonRummel": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/simon-rummel-mn0003642966"}],
+            "bandcamp": [{"type": "album", "url": "https://umlautrecords.bandcamp.com/album/im-meer"}, {"type": "album", "url": "https://umlautrecords.bandcamp.com/album/nichts-f-r-alle"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2451699-Simon-Rummel"}],
+            "homepage": [{"type": "personal", "url": "http://www.simonrummel.de/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Simon_Rummel"}]}]
+        }
+    },
     "PaulRutherford": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/paulrutherford"}],
@@ -5723,6 +5845,12 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Heinz%20Sauer%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/heinzsauer"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Heinz_Sauer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Heinz_Sauer"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Heinz_Sauer"}]}]
+        }
+    },
+    "JérémieSauvage": {
+        "links": {
+            "bandcamp": [{"type": "album", "url": "https://wearethreefour.bandcamp.com/album/abandonn-e-mal-ja"}, {"type": "album", "url": "https://france2000.bandcamp.com/album/pau"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1960461-Jeremie-Sauvage"}]
         }
     },
     "ChristineSchäfer": {
@@ -6441,6 +6569,17 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/gondwana_andreataeggi"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/andreataeg"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCq6aQ9LhtFJsJTTWCKsGnrQ"}]
+        }
+    },
+    "AchimTang": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/achim-tang-mn0000373414"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/546232-Achim-Tang"}],
+            "homepage": [{"type": "personal", "url": "https://www.achimtang.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Achim%20Tang%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-200312926"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Achim_Tang"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Achim_Tang"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCdmtZ8355xvA-W-A4PTxPEg"}]
         }
     },
     "Dr. RudiTheilmann": {
