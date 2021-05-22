@@ -54,5 +54,62 @@
         "name": "aerosolo #3: Julien Desprez (FR)",
         "start_date": "2021-05-21 23:51:00",
         "end_date": "2021-05-22 00:29:00"
+    },
+    {
+        "id": "1009",
+        "description": "Besetzung: Nora Mulder (p), Kevin Shea (dr), Joe McPhee (ts, voc), May Oliver (vl), Marja Burchard (vib, perc)",
+        "name": "moers sessions I",
+        "start_date": "2021-05-22 13:15:00",
+        "end_date": "2021-05-22 13:40:00"
+    },
+    {
+        "id": "1010",
+        "description": "Besetzung: Greetje Bijma (voc), Ron Stabinsky (p), Joel Grip (b)",
+        "name": "moers sessions II",
+        "start_date": "2021-05-22 13:50:00",
+        "end_date": "2021-05-22 14:15:00"
+    },
+    {
+        "id": "1011",
+        "description": "Besetzung: Amina Aziz (discussion), Bafta Sarbo (discussion), Daniel Loick (discussion)",
+        "name": "discussion I",
+        "start_date": "2021-05-22 14:15:00",
+        "end_date": "2021-05-22 14:35:00"
+    },
+    {
+        "id": "1012",
+        "description": "Besetzung: Sophie Bernado (bsn), Cyprien Busolini (vl), Frédéric Blondy (p), Benoît Delbecq (p), Céline Flamen (vc), Jozef Dumoulin (synth), Anne-Emmanuelle Davy (voc), Stéphane Garin (dr, perc, artistic direction), Alexandre Herer (elec), Jeanne Laroutourou (vib), Christian Pruvost (tp, flh), Antonin Tri Hoang (as, synth)",
+        "name": "‘Femenine’ Julius Eastman, by ensemble 0 and AUM grand ensemble (FR)",
+        "start_date": "2021-05-22 14:35:00",
+        "end_date": "2021-05-22 15:50:00"
+    },
+    {
+        "id": "1013",
+        "description": "Besetzung: Frank Gratkowski (as), Sebastian Müller (g), Reza Askari (b), Thomas Sauerborn (dr)",
+        "name": "The Resonators (DE)",
+        "start_date": "2021-05-22 16:10",
+        "end_date": "2021-05-22 16:55"
+    },
+    {
+        "id": "1014",
+        "description": "Besetzung: Mary Oliver (vl, hardanger fiddle, va), Greetje Bijma (voc), Nora Mulder (p), Han Bennink (dr)",
+        "name": "Picatrix & Han Bennink (NL / US)",
+        "start_date": "2021-05-22 17:10",
+        "end_date": "2021-05-22 17:55"
+    },
+    {
+        "id": "1015",
+        "description": "Besetzung: Emilio Gordoa (vib), Don Malfon (as), Dag Magnus Narvesen (dr), John Edwards (b)",
+        "name": "Gordoa / Malfon / Edwards / Narvesen (ES, MX, NO, UK)",
+        "start_date": "2021-05-22 18:10",
+        "end_date": "2021-05-22 18:55"
+    },
+    {
+        "id": "1016",
+        "description": "Besetzung: Pat Thomas (p), Joel Grip (b), Antonin Gerbal (dr)",
+        "name": "[ISM] (FR, SE, UK)",
+        "start_date": "2021-05-22 19:10",
+        "end_date": "2021-05-22 19:55"
     }
+
 ]
