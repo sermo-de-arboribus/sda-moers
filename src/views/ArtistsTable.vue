@@ -109,7 +109,8 @@
                 </div>
 
                 <div v-else-if="props.column.field == 'network-link'">
-                    <router-link :to="{ path: '/network', query: { firstname: props.row.firstname, surname: props.row.surname }}">
+                    <router-link :to="{ path: '/network', query: { firstname: props.row.firstname, surname: props.row.surname }}"
+                        :title="$t('general.network')">
                         <b-button size="sm" variant="outline-primary" v-b-tooltip.hover>
                             <i class="fas fa-project-diagram" variant="primary" style="font-size:28px;height:32px;width:32px"></i>
                         </b-button>
