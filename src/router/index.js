@@ -1,6 +1,5 @@
 import Vue from "vue"
 import VueRouter from "vue-router"
-import ArtistsTable from "../views/ArtistsTable.vue"
 
 Vue.use(VueRouter);
 
@@ -11,12 +10,12 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ "../views/About.vue")
+    component: () => import(/* webpackChunkName: "main" */ "../views/About.vue")
   },
   {
     path: "/export",
     name: "Export",
-    component: () => import(/* webpackChunkName: "export" */ "../views/Export.vue")
+    component: () => import(/* webpackChunkName: "main" */ "../views/Export.vue")
   },
   {
     path: "/network",
@@ -24,10 +23,15 @@ const routes = [
     component: () => import(/* webpackChunkName: "network" */ "../views/ArtistNetwork.vue")
   },
   {
-    path: "/:perPage?/:page?",
-    name: "Home",
+    path: "/table/:perPage?/:page?",
+    name: "Table",
     props: true,
-    component: ArtistsTable
+    component: () => import(/* webpackChunkName: "table" */ "../views/ArtistsTable.vue")
+  },
+  {
+    path: "/",
+    name: "Home",
+    component: () => import(/* webpackChunkName: "main" */ "../views/Home.vue")
   }
 ]
 

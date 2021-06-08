@@ -64,12 +64,14 @@
     "general": {
         "artist": "Umělci / Umělkyně",
         "concert": "Koncert",
+        "enter": "Vstoupit",
         "export": "Export dat",
         "festivalName": "Moers Festival",
         "guestarticle": "příspěvek",
         "imprint": "Tiráž",
         "issueTracker": "Issue-Tracker",
         "network": "Síť umělců",
+        "table": "Tabulka umělců",
         "tweet": "tweet"  
     },
     "htmlHeader": {

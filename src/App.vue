@@ -15,6 +15,7 @@
     </nav>
     <div id="nav">
       <router-link to="/">Home</router-link> |
+      <router-link to="/table">{{$t("general.table")}}</router-link> |
       <router-link to="/network">{{$t("general.network")}}</router-link> |
       <router-link to="/export">{{$t("general.export")}}</router-link> |
       <router-link to="/about">{{$t("general.imprint")}}</router-link>

@@ -64,12 +64,14 @@
   "general": {
     "artist": "Künstler:in",
     "concert": "Konzert",
+    "enter": "Eintreten",
     "export": "Datenexport",
     "festivalName": "Moers Festival",
     "guestarticle": "Gastbeitrag",
     "imprint": "Impressum",
     "issueTracker": "Issue-Tracker",
     "network": "Künstler:innen-Netzwerk",
+    "table": "Künstler:innen-Tabelle",
     "tweet": "Tweet"
   },
   "htmlHeader": {

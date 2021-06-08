@@ -5,34 +5,7 @@
                 <a href="https://moers-festival.de">{{$t("general.festivalName")}}</a>
             </template>
         </i18n>
-        <i18n path="artistsTable.intro" tag="p">
-            <template v-slot:websiteCreator>
-                <a href="https://www.facebook.com/kajetan.tkadlec.9" v-if="locale === 'cs'">Kajetána Tkalce</a>
-                <a href="https://twitter.com/fruehlingstag" v-else>Kai Weber</a>
-            </template>
-            <template v-slot:dataProvider>
-                <a href="https://lambdadigamma.com" v-if="locale === 'cs'">Lennarta Fišera</a>
-                <a href="https://lambdadigamma.com/" v-else>Lennart Fischer</a>
-            </template>
-            <template v-slot:tweet>
-                <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">{{$t("general.tweet")}}</a>
-            </template>
-            <template v-slot:issueTracker>
-                <a href="https://github.com/sermo-de-arboribus/sda-moers/issues">{{$t("general.issueTracker")}}</a>
-            </template>
-        </i18n>
-        <i18n path="artistsTable.intro2" tag="p">
-            <template v-slot:dataProvider>
-                <a href="https://lambdadigamma.com" v-if="locale === 'cs'">Lennarta Fišera</a>
-                <a href="https://lambdadigamma.com/" v-else>Lennart Fischer</a>
-            </template>
-            <template v-slot:guestarticle>
-                <a href="https://radio.friendsofalan.de/gastbeitrag-kai-weber-und-das-moers-festival-20109-2020-als-datenbank-und-das-projekt-coding-da-vinci/">{{$t("general.guestarticle")}}</a>
-            </template>
-            <template v-slot:tweet>
-                <a href="https://twitter.com/lambdadigamma/status/1266849091503472645?s=20">{{$t("general.tweet")}}</a>
-            </template>
-        </i18n>
+        
         <vue-loading v-if="loading" type="spin" color="blue"></vue-loading>
         <vue-good-table
             :columns="tableColumns"
@@ -310,7 +283,7 @@ export default {
         },
 
         onPageChange(params) {
-            this.$router.push(`/${params.currentPerPage}/${params.currentPage}`)
+            this.$router.push(`/table/${params.currentPerPage}/${params.currentPage}`)
         },
 
         sortSurnames(x, y, col, rowX, rowY) {

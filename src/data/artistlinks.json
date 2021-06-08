@@ -635,6 +635,13 @@
             "surname": "Šainović"
         }
     },
+    "YacineAït Amer": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4035881-Yacine-Ait-Amer"}],
+            "homepage": [{"type": "band", "url": "https://www.panemmusic.com/"}],
+            "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=f0vofI2h_hQ"}]
+        }
+    },
     "AkinAjayi": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/akin-ajayi-mn0001278983"}],
@@ -1307,10 +1314,46 @@
             "zh": "网上找不到这个打击​乐手的资料"
         }
     },
+    "RamseyAmeen": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-ramsey-ameen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ramsey-ameen-mn0001197666"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/400932-Ramsey-Ameen"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Ramsey%20Ameen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ramsey-ameen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ramsey_Ameen"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_Qx8DkDzb0fPBKtpb8Gn8w"}]
+        }
+    },
+    "Yacine AitAmer": {
+        "canonicalName": {
+            "firstname": "Yacine",
+            "surname": "Aït Amer"
+        }
+    },
+    "SamAmidon": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/tag-sam-amidon"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sam-amidon-mn0000621340"}],
+            "bandcamp": [{"type": "personal", "url": "https://samamidon.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/891506-Sam-Amidon"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Sam%20Amidon%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sam-amidon-official"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/samamidon"}]
+        }
+    },
     "DaoudAmin": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/daoud-amin-mn0003614473"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1297610-Daoud-Amin"}]
+        }
+    },
+    "GerardAmmerlaan": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gerard-ammerlaan-mn0001413982"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/990558-Gerard-Ammerlaan"}],
+            "homepage": [{"type": "personal", "url": "https://www.gerardammerlaan.nl/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Gerard_Ammerlaan"}]}]
         }
     },
     "ArildAndersen": {
@@ -2003,6 +2046,14 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Anthony_Brown_(musician)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Anthony_Brown"}]}]
         }
     },
+    "CameronBrown": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/cameronbrown"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cameron-brown-mn0000645255"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/341527-Cameron-Brown"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Cameron_Brown"}, {"locales": "en", "url": "https://en.wikipedia.org/wiki/Cameron_Brown_(musician)"}]}]
+        }
+    },
     "TyroneBrowne": {
         "firstname": "Tyrone",
         "surname": "Brown"
@@ -2080,6 +2131,19 @@
             "homepage": [{"type": "personal", "url": "http://www.jonasburgwinkel.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jonasburgwinkel"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCy_5QRtT5pHAmS2I9bKB0_A/"}]
+        }
+    },
+    "DaveBurrell": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/daveburrell"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dave-burrell-mn0000677254"}],
+            "bandcamp": [{"type": "album", "url": "https://futuramarge.bandcamp.com/album/black-spring"}, {"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/the-crave"}, {"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/turning-point"}, {"type": "album", "url": "https://billy-martin-aka-illy-b.bandcamp.com/album/consequences"}, {"type": "album", "url": "https://abbaarsighennemanwig.bandcamp.com/album/trandans"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/253106-Dave-Burrell"}],
+            "homepage": [{"type": "personal", "url": "https://www.daveburrell.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Dave%20Burrell%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/dave-burrell-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Dave_Burrell"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Dave_Burrell"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCJTqsicdxVrRREZm49BIZZA"}]
         }
     },
     "GeorgeBurton": {
@@ -2288,6 +2352,22 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/913657-Christine-Chapman"}],
             "homepage": [{"type": "band", "url": "http://musikfabrik.eu/ueber-uns/mitglieder/christine-chapman.html"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCixPh-QSzRniVTkh7AibUsA"}]
+        }
+    },
+    "MarcCharig": {
+        "canonicalName": {
+            "firstname": "Mark", 
+            "surname": "Charig"
+        }
+    },
+    "MarkCharig": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/marccharig"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marc-charig-mn0000056983"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/253140-Marc-Charig"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Marc%20Charig%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/precariousorchestramarccharig"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Mark_Charig"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Mark_Charig"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mark_Charig"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Marc_Charig"}]}]
         }
     },
     "FrankChastenier": {
@@ -2717,6 +2797,11 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC_8fP5zVbJvJWM1wglzdlMQ"}]
         }
     },
+    "Mbongeleni Dladla": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mbongeleni-dladla-mn0001857532"}]
+        }
+    },
     "KristofDömötör": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kristof-d%C3%B6m%C3%B6t%C3%B6r-mn0003728150"}],
@@ -2845,6 +2930,17 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jozef-dumoulin"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jozef_Dumoulin"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jozef_Dumoulin"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jozef_Dumoulin"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCemZEalBaszyhxcbPVzL1dw"}]
+        }
+    },
+    "JohnnyDyani": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/johnnydyani"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/johnny-dyani-mn0000952987"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=Johnny%2BDyani"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/314301-Johnny-Dyani"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/johnnydyani"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Johnny_Dyani"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Johnny_Dyani"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC71JUqvMWt5J36_SfxhkR4g"}]
         }
     },
     "MatthiasDymke": {
@@ -3564,6 +3660,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCPuDVrsrye03ZPSFx8flrIg"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCBlHsCSlUoA_timAk9g6XcA"}]
         }
     },
+    "CharlesGreenlee": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-charles-greenlee"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/charles-greenlee-mn0002502485"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/282467-Charles-Greenlee"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Charles_Greenlee"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Charles_Greenlee_(musician)"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChw9iXAr-jiLB7cmn1zDAmA"}]
+        }
+    },
     "GeordieGreep": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/geordie-greep-mn0003852713"}],
@@ -3754,6 +3859,18 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tsharres"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/ThomasHarres"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Tsharres"}]
+        }
+    },
+    "BeaverHarris": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/beaverharris"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/beaver-harris-mn0000162122"}],
+            "bandcamp": [{"type": "personal", "url": "https://beaverharris.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/282468-Beaver-Harris"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Beaver%20Harris%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/beaver-harris"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Beaver_Harris"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Beaver_Harris"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Beaver_Harris"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Beaver_Harris"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCDN_ziX_f2sjXfKT__qYjpA"}]
         }
     },
     "JimHart": {
@@ -5159,8 +5276,26 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCXRX8w2Y-trL1nsOjyYoE-Q"}, {"type": "agency", "url":"https://www.youtube.com/channel/UCQfsTsC05mBYJAA-bN3s42g"}]
         }
     },
+    "RaduMalfatti": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/radumalfatti"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/radu-malfatti-mn0000028058"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=Radu%2BMalfatti"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/53818-Radu-Malfatti"}],
+            "homepage": [{"type": "personal", "url": "http://www.radumalfatti.eu/radu_malfatti/start.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Radu%20Malfatti%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Radu_Malfatti"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Radu_Malfatti"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Radu_Malfatti"}]}],
+            "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=BHqiE4EtyzI"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCrlKyLfh1tSU9Ez_5pbryhQ"}]
+        }
+    },
     "VusiMaluza": {
-        "links": {}
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom bubeníkovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce batteur",
+            "zh": "网上找不到这个打击​乐手的资料"
+        }
     },
     "Willem vanManen": {
         "links": {
@@ -5285,7 +5420,7 @@
             "bandcamp": [{"type": "personal", "url": "https://joemcphee.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/18813-Joe-McPhee"}],
             "homepage": [{"type": "personal", "url": "http://www.joemcphee.com/"}],
-            "radiohoerer": [{"type": "personal", "url": "https://radio.friendsofalan.de/?s=%22Joe%20McPhee%22&category_name=nach-hoeren"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?s=Joe+McPhee&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/joemcpheeofficial"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Joe_McPhee"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Joe_McPhee"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Joe_McPhee"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UClEqYP6ZI4bJSkZTCk8lvmQ"}]
@@ -5555,6 +5690,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wolfgang-mitterer"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Mitterer"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Mitterer"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Wolfgang_Mitterer"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCGI0TjEoTvsYHtT0fvH1cPg"}]
+        }
+    },
+    "MaxwellMngadi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maxwell-mngadi-mn0001222614"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1813546-Maxwell-Mngadi"}]
         }
     },
     "FrankMöbus": {
@@ -7190,6 +7331,18 @@
             "homepage": [{"type": "personal", "url": "https://www.kevinshea.info/"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/kevinsheadrums"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Kevin_Shea_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kevin_Shea_(musician)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Kevin_Shea"}]}]
+        }
+    },
+    "ArchieShepp": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/archie-shepp-mn0000503279"}],
+            "bandcamp": [{"type": "personal", "url": "https://archieshepp.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/10514-Archie-Shepp"}],
+            "homepage": [{"type": "personal", "url": "http://www.archieshepp.org/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Archie%20Shepp%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/archie-shepp"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Archie_Shepp"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Archie_Shepp"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Archie_Shepp"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Archie_Shepp"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCT0dH-_II_i3r0yKR9y90NQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCT0dH-_II_i3r0yKR9y90NQ"}]
         }
     },
     "PaulShigihara": {

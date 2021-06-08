@@ -6,8 +6,12 @@ import VueHeadful from 'vue-headful';
 import "bootstrap/dist/css/bootstrap.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
 import "@fortawesome/fontawesome-free/css/all.css"
+
+// const router = () => import(/* webpackChunkName: "main" */ "./router")
 import router from "./router"
+// const store = () => import(/* webpackChunkName: "store" */ "./store")
 import store from "./store"
+//const i18n = () => import(/* webpackChunkName: "store" */ "./i18n")
 import i18n from "./i18n"
 
 Vue.config.productionTip = false
@@ -22,7 +26,7 @@ new Vue({
   i18n,
   created() {
     // initialize gig data in vuex store
-    this.$store.dispatch("gigdata/fetchEventsFromApi", function() {});
+    store.dispatch("gigdata/fetchEventsFromApi", function() {});
 
     // inject i18n into store
     store.commit("i18n/setI18nComponent", i18n);

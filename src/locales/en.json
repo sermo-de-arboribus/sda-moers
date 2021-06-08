@@ -64,12 +64,14 @@
   "general": {
     "artist": "Artist",
     "concert": "Concert",
+    "enter": "Enter",
     "export": "Export data",
     "festivalName": "Moers Festival",
     "guestarticle": "guest article",
     "imprint": "Imprint",
     "issueTracker": "issue tracker",
     "network": "Artist network",
+    "table": "Artist table",
     "tweet": "tweet"
   },
   "htmlHeader": {
