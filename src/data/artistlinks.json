@@ -1427,6 +1427,23 @@
             "surname": "Anderson"
         }
     },
+    "FredAnderson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/fredanderson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/fred-anderson-mn0000559501"}],
+            "bandcamp": [{"type": "personal", "url": "https://fredandersonstayinginthegame.bandcamp.com/releases"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/582509-Fred-Anderson"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Fred%20Anderson%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Fred_Anderson"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Fred_Anderson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Fred_Anderson_(musician)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Fred_Anderson"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmCX0SWiOCV7ZRamldO3Grw"}]
+        }
+    },
+    "GregAnderson": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/greg-anderson-mn0000156157"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1308587-Greg-Anderson-4"}]
+        }
+    },
     "RayAnderson": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/rayanderson"}],
@@ -1438,15 +1455,22 @@
             "wikipedia": [{"type": "personal", "localeS": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ray_Anderson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ray_Anderson_(musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ray_Anderson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ray_Anderson"}]}]
         }
     },
-    "FredAnderson": {
+    "ReidAnderson": {
         "links": {
-            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/fredanderson"}],
-            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/fred-anderson-mn0000559501"}],
-            "bandcamp": [{"type": "personal", "url": "https://fredandersonstayinginthegame.bandcamp.com/releases"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/582509-Fred-Anderson"}],
-            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Fred%20Anderson%22&category_name=nach-hoeren"}],
-            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Fred_Anderson"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Fred_Anderson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Fred_Anderson_(musician)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Fred_Anderson"}]}],
-            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmCX0SWiOCV7ZRamldO3Grw"}]
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/reidanderson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reid-anderson-mn0000460713"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/303941-Reid-Anderson"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?s=%22Reid%20Anderson%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Thebadplus"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Reid_Anderson_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Reid_Anderson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Reid_Anderson"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCsTgvm7hHZI9zZpgpfkuPuA"}, {"type": "interview", "url": "https://www.youtube.com/watch?v=lajj150_Dhc"}]
+        }
+    },
+    "MasanoriAndo": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1339893-Masanori-Ando"}],
+            "homepage": [{"type": "personal", "url": "http://andomasanori.com/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/masanoriando"}]
         }
     },
     "MaxAndrzejewski": {
@@ -1574,6 +1598,18 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/damir-bacikin-mn0003004577"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2024230-Damir-Bacikin"}],
             "homepage": [{"type": "personal", "url": "http://www.damirbacikin.com/"}]
+        }
+    },
+    "DerekBailey": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/derekbailey"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/derek-bailey-mn0000763506"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=Derek%2BBailey&from=results"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/41904-Derek-Bailey"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Derek%20Bailey%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/derek-bailey-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Derek_Bailey"}, {"locale": "de", "url": "https://en.wikipedia.org/wiki/Derek_Bailey_(guitarist)"}, {"locale": "en", "url": "https://fr.wikipedia.org/wiki/Derek_Bailey"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Derek_Bailey"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Derek_Bailey"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCDQYdcGwLbGfNTK0q4hoK1g"}]
         }
     },
     "JochenBalke": {
@@ -1723,11 +1759,26 @@
     "Han J.Bennink": {
         "canonicalName": { "firstname": "Han", "surname": "Bennink" }
     },
+    "PeterBennink": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-bennink-mn0001903981"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/736721-Peter-Bennink"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Bennink"}]}]
+        }
+    },
     "ÉricBentz": {
         "links": {
             "bandcamp": [{"type": "personal", "url": "https://ericbentz.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1219623-Eric-Bentz"}],
-            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-93043060"}]
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-93043060"}]            
+        }
+    },
+    "Gilius vanBergeijk": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gilius-van-bergeijk-mn0001623657"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/232760-Gilius-Van-Bergeijk"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Gilius_van_Bergeijk"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Gilius_van_Bergeijk"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Gilius_van_Bergeijk"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC0If8b6xIlWS7IKRNx1eiyw"}]
         }
     },
     "IngridBerger": {
@@ -1744,6 +1795,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/karl-berger-123"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Karl_Berger"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Karl_Berger_(Musiker)"}, {"locales": "en", "url": "https://en.wikipedia.org/wiki/Karl_Berger"}, {"locales": "fr", "url": "https://fr.wikipedia.org/wiki/Karl_Berger"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC6u4yaIXAsYkGdp_oL_OGvw"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCQTk7YJzuziHdumDpPgkl6Q"}]
+        }
+    },
+    "GuiliasBergeyk": {
+        "canonicalName": {
+            "firstname": "Gilius van",
+            "surname": "Bergeijk"
         }
     },
     "SophieBernado": {
@@ -4205,6 +4262,20 @@
     "AndreasHomann": {
         "canonicalName": { "firstname": "Andreas", "surname": "Hohmann"}
     },
+    "TristanHonsinger": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/tristanhonsinger"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tristan-honsinger-mn0000024697"}],
+            "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/map-of-moods"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/stretto"}, {"type": "album", "url": "https://honestjonsrecords.bandcamp.com/album/duo"}, {"type": "album", "url": "https://idischidiangelica.bandcamp.com/album/this-that-and-the-other-sketches-of-probability"}, {"type": "album", "url": "https://etiennebrunet.bandcamp.com/album/berlin-glitch-improvisation"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/341455-Tristan-Honsinger"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Tristan%20Honsinger%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tristan_Honsinger"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tristan_Honsinger"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tristan_Honsinger"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCm9yzF3DtT7oh3iwGCVzbNQ"}]
+        }
+    },
+    "TristanHonzinger": {
+        "canonicalName": { "firstname": "Tristan", "surname": "Honsinger" }
+    },
     "DaveHorler": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dave-horler-mn0000774684"}],
@@ -4875,6 +4946,13 @@
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Athina%20Kontou%22&category_name=nach-hoeren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Athina_Kontou"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCOoKt0qqCaY7Mcyjt1nofEQ"}]
+        }
+    },
+    "BertKoppelaar": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/736720-Bert-Koppelaar"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/raaleppok"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Muhallem1"}]
         }
     },
     "ItzokKoren": {
@@ -5888,10 +5966,42 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCGI0TjEoTvsYHtT0fvH1cPg"}]
         }
     },
+    "NothembiMkhwebane": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nothembi-mkhwebane-mn0001919418"}],
+            "bandcamp": [{"type": "album", "url": "https://africanclassics.bandcamp.com/album/nothembi-mkhwebane"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2153658-Nothembi-Mkhwebane"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nothembimkhwebane"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/QueenofNdebele"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCwV_nxzjuMs8rUyA0WPlQ7w"}]
+        }
+    },
     "MaxwellMngadi": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maxwell-mngadi-mn0001222614"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1813546-Maxwell-Mngadi"}]
+        }
+    },
+    "Phuzekhemisi J.Mnyandu": {
+        "canonicalName": {
+            "firstname": "Zibokwakhe Johnston",
+            "surname": "Mnyandu"
+        }
+    },
+    "Zibokwakhe JohnstonMnyandu": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/phuzekhemisi-mn0000846250"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3528359-Phuzekhemisi"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/phuzekhemisi"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/PhuzekhemisiM"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCDF8IILtVt0u5Kc8f6MOI6Q"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Phuzekhemisi",
+            "de": "Künstlername: Phuzekhemisi",
+            "en": "Artist's name: Phuzekhemisi",
+            "fr": "Pseudonyme: Phuzekhemisi",
+            "zh": "艺名: Phuzekhemisi"
         }
     },
     "FrankMöbus": {
@@ -6284,6 +6394,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC69xmzltVv-JGAiqbcjtQuw"}]
         }
     },
+    "BonganiNsele": {
+        "canonicalName": {
+            "firstname": "Bongani",
+            "surname": "Nxele"
+        }
+    },
     "M.A.Numminen": {
         "canonicalName": {
             "firstname": "Mauri Antero",
@@ -6310,6 +6426,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ludwignuss"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ludwig_Nuss"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC4YOSOTTr9y1QKtVF9XMuaw"}]
+        }
+    },
+    "BonganiNxele": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bongani-nxele-mn0001235098"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/518069-Bongani-Nxele"}]
         }
     },
     "QadiraOechsle-Ali": {
@@ -6884,6 +7006,12 @@
         }
     },
     "Maarten vanRegteren-Altena": {
+        "canonicalName": {
+            "firstname": "Maarten van Regteren",
+            "surname": "Altena"
+        }
+    },
+    "Märten vanRegteren-Altena": {
         "canonicalName": {
             "firstname": "Maarten van Regteren",
             "surname": "Altena"
