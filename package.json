@@ -1,7 +1,11 @@
 {
   "name": "sda-moers",
-  "version": "0.2.0",
-  "private": true,
+  "version": "0.2.1",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sermo-de-arboribus/sda-moers.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -36,7 +40,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.14.1",
+    "sass": "^1.37.5",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-i18n": "^1.0.1",
     "vue-template-compiler": "^2.6.12"

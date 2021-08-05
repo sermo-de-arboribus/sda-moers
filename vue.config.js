@@ -1,4 +1,12 @@
 module.exports = {
+
+  css: {
+    loaderOptions: {
+      sass: {
+        implementation: require('sass')
+      }
+    }
+  },
   pluginOptions: {
     i18n: {
       locale: 'de',

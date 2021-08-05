@@ -1473,6 +1473,15 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/masanoriando"}]
         }
     },
+    "PaulinhoAndrade": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paulinho-andrade-mn0001359334"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4131331-Paulinho-Andrade"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/paulinho-andrade"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/paulinhoandrad"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/7pasax"}]
+        }
+    },
     "MaxAndrzejewski": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maxandrzejewski"}],

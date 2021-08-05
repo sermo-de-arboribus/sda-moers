@@ -100,7 +100,7 @@
 </template>
 
 <style lang="sass">
-@import "node_modules/vue-good-table/src/styles/style.scss";
+@import "node_modules/vue-good-table/src/styles/style.scss"
 </style>
 
 <script>
