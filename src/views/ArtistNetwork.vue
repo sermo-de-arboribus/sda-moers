@@ -131,15 +131,17 @@ export default {
                 surname: "Denio",
                 concerts: [
                     {
-                        "name": "Hans Reichel \"Hit & Miss\" (DE/KOR/USA/SWE/CH/NOR/JPN)",
+                        "concert": "Hans Reichel \"Hit & Miss\" (DE/KOR/USA/SWE/CH/NOR/JPN)",
                         "description": "Besetzung: Hans Reichel (g), Jin hi Kim (komungo), J.A. Deane (tb, electr), Shelley Hirsch (voc), David Weinstein (synth, electr), Amy Denio (eb), Shōji Hano (dr), Erik Balke (reeds), Jonas Åkerblom (reeds), Wädi Gysi (g), Eugene Chadbourne (g)",
+                        "instruments": "eb",
                         "id": "d4e1281",
-                        "start_date": "1990-06-03 00:00:00"
+                        "starttime": "1990-06-03 00:00:00",
+                        "year": "1990"
                     }
                 ],
                 instruments: ["eb"],
                 links: {
-                    "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-amy-denio__30514"}],
+                    "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-amy-denio__30514","logoUrl": "/aaj-logo.jpg"}],
                     "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/amy-denio-mn0000766780"}],
                     "bandcamp": [{"type": "personal", "url": "https://amydenio.bandcamp.com/"}, {"type": "album", "url": "https://aphoniarecordings.bandcamp.com/album/sub-rosa"}, {"type": "album", "url": "https://bhhstuff.bandcamp.com/album/bret-hart-amy-denio-improvised-duets-2001-digital"}],
                     "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/270152-Amy-Denio"}],
@@ -209,6 +211,10 @@ export default {
         delete this.artistNodes.nodes[0].fx;
         delete this.artistNodes.nodes[0].fy;
         next();
+    },
+
+    created() {
+        this.defaultArtist = this.artists.find((a) => a.firstname === "Amy" && a.surname == "Denio");
     },
 
     mounted() {

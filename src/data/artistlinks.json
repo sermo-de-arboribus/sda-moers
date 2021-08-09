@@ -1482,6 +1482,21 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/7pasax"}]
         }
     },
+    "AntonisAndreou": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/antonis-andreou-mn0002404440"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2134130-%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82-%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%BF%CF%85"}],
+            "homepage": [{"type": "personal", "url": "https://myspace.com/adonisandreou"}, {"type": "band", "url": "http://pinkmartini.com/member/antonis-andreou-trombone/"}, {"type": "interview", "url": "http://pinkmartini.com/meet-pink-martini-trombonist-antonis-andreou/"}],
+            "youtube": [{"type": "search", "url": "https://www.youtube.com/results?search_query=Antonis+Andreou"}]
+        },
+        "notes": {
+            "cs": "Řecká verze jména: Αντώνης Ανδρέου",
+            "de": "Griechische Schreibweise: Αντώνης Ανδρέου",
+            "en": "Name in Greek alphabet: Αντώνης Ανδρέου",
+            "fr": "Nom en grec: Αντώνης Ανδρέου",
+            "zh": "希腊​的名字: Αντώνης Ανδρέου"
+        }
+    },
     "MaxAndrzejewski": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maxandrzejewski"}],
@@ -2472,6 +2487,16 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/cimbassonista"}]
         }
     },
+    "JoeChambers": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/joechambers"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joe-chambers-mn0000122897"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/256581-Joe-Chambers"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Joe%20Chambers%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Joe_Chambers"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Joe_Chambers"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Joe_Chambers"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Joe_Chambers"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Joe_Chambers"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCk55sUre4hrq_sSBZSnsJqQ"}]
+        }
+    },
     "VincentChancey": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/vincentchancey"}],
@@ -2747,6 +2772,12 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/martindavid"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/martin-david-mn0001988324"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/769615-Martin-David"}]
+        }
+    },
+    "MzwandileDavid": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mzwandile-david-mn0002153194"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3060607-Mzwandile-David"}]
         }
     },
     "Blind JohnDavis": {
