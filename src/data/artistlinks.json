@@ -1497,6 +1497,35 @@
             "zh": "希腊​的名字: Αντώνης Ανδρέου"
         }
     },
+    "DavidAndres": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-andres-mn0002706448"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3852464-David-Andres"}],
+            "homepage": [{"type": "personal", "url": "https://davidandres.de/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/David_Andres"}]}]
+        }
+    },
+    "DwightAndrews": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/dwightandrews"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dwight-andrews-mn0001557243"}, {"type": "personal", "url": "https://www.allmusic.com/artist/dwight-andrews-mn0000537286"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/709611-Dwight-Andrews"}],
+            "homepage": [{"type": "personal", "url": "http://music.emory.edu/home/people/biography/andrews-dwight.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Dwight%20Andrews%22&category_name=nach-hoeren"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Andped1Dwight"}]
+        }
+    },
+    "NiaAndrews": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nia-andrews-mn0002375593"}],
+            "bandcamp": [{"type": "personal", "url": "https://niaandrews.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1573879-Nia-Andrews"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?s=%22Nia%20Andrews%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/niaandrews"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/niaandrews"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/niamanian"}, {"type": "personal", "url": "https://www.youtube.com/channel/UCqoRHjOtpOxdurQd1KzS1tA"}]
+        }
+    },
     "MaxAndrzejewski": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maxandrzejewski"}],
@@ -1505,9 +1534,27 @@
             "twitter": [{ "type": "personal", "url": "https://twitter.com/AndrzejewskiMax"}]
         }
     },
+    "NegoAngela": {
+        "notes": {
+            "cs": "Možná je ten bubeník Chadrack „Chacha“ Angela?",
+            "de": "Möglicherweise handelt es sich hierbei um Chadrack „Chacha“ Angela?",
+            "en": "Possibly this percussionist is Chadrack “Chacha” Angela?",
+            "fr": "Peut-être ce percussioniste est Chadrack « Chacha » Angela?",
+            "zh": "这位打击乐手可能是 Chadrack 「Chacha」 Angela？ "
+        }
+    },
     "BrunoAngeloni": {
         "links": {
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2714176-Bruno-Angeloni"}]
+        }
+    },
+    "YannisAnft": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yannisanft"}],
+            "discogs": [{"type": "personal", "url": "!https://www.discogs.com/de/artist/7464286-Yannis-Anft"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Yannis%20Anft%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yannis-anft-333486322"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Yannis_Anft"}]}]
         }
     },
     "AntonisAnissegos": {
@@ -2311,6 +2358,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/daporge"}]
         }
     },
+    "SiggiBusch": {
+        "canonicalName": {
+            "firstname": "Sigi",
+            "surname": "Busch"
+        }
+    },
     "SigiBusch": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sigi-busch-mn0000993792"}],
@@ -2577,6 +2630,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmNITH9WNMnf1cu_n1ZH_qg"}]
         }
     },
+    "J.Cira": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom zpěvákovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteur",
+            "zh": "网上找不到这个歌手的资料"
+        }
+    },
     "GeraldCleaver": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/geraldcleaver"}],
@@ -2810,6 +2872,16 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/krisdavismusic"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Kris_Davis"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kris_Davis"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCyDwsO5DP02SllIe5GjIDmA"}]
+        }
+    },
+    "WalterDavis jr.": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/walterdavisjr"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/walter-davis-jr-mn0000227539"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/347792-Walter-Davis-Jr"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/walterdavisjr-music"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Walter_Davis,_Jr."}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Walter_Davis_junior"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Walter_Davis_Jr."}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Walter_Davis_junior"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Walter_Davis_jr."}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCuCF6FlUtD38FjSmP6FINfQ"}]
         }
     },
     "Anne-EmmanuelleDavy": {
@@ -3541,6 +3613,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCox070_I2ZKUA3CYiX7z1Rw"}]
         }
     },
+    "DerrickGambushe": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom zpěvákovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteur",
+            "zh": "网上找不到这个歌手的资料"
+        }
+    },
     "JanGarbarek": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jangarbarek"}],
@@ -3817,11 +3898,11 @@
     },
     "Joachim van derGrant": {
         "notes": {
-            "cs": "V internetu jsem nenašel informace o tom bubeníkovi",
+            "cs": "V internetu jsem nenašel informace o tom basistovi",
             "de": "Online keine Infos über diesen Künstler gefunden",
             "en": "Could not find any information about this artist online",
-            "fr": "Sur internet je n'ai pas trouvé des informations sur ce batteur",
-            "zh": "网上找不到这个打击​乐手的资料"
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce bassiste",
+            "zh": "网上找不到这个贝斯手的资料"
         }
     },
     "FrankGratkowski": {
@@ -4670,6 +4751,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCoOyzSKOvci5KML2knST-oA"}]
         }
     },
+    "Walter Davisjr.": {
+        "canonicalName": {
+            "firstname": "Walter",
+            "surname": "Davis jr."
+        }
+    },
     "TakashiKaako": {
         "canonicalName": {
             "firstname": "Takashi",
@@ -5467,6 +5554,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-992402403"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/BenoitLugue"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/fadamusic"}]
+        }
+    },
+    "FrankLuther": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/622612-Frank-Luther"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Frank_Luther_(Bassist)"}]}]
         }
     },
     "PaulLytton": {
@@ -6306,6 +6399,11 @@
             "homepage": [{"type": "band", "url": "https://thetrif.yolasite.com/"}]
         }
     },
+    "MandlaNene": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/923237-Mandla-Nene"}]
+        }
+    },
     "JensNeufang": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jensneufang"}],
@@ -6472,6 +6570,11 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bongani-nxele-mn0001235098"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/518069-Bongani-Nxele"}]
+        }
+    },
+    "GeorgeNxusa": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/8092286-George-Sizanempi-Nxusa"}]
         }
     },
     "QadiraOechsle-Ali": {
@@ -7822,6 +7925,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCT_oTkGJezIDmBGbiJZ4cIA"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCnZIeVP54OwVzYOgXyHfCOg"}]
         }
     },
+    "HildaSkosana": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o té zpěvačce",
+            "de": "Online keine Infos über diese Sängerin gefunden",
+            "en": "Could not find any information about this singer online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteuse",
+            "zh": "网上找不到这个歌手的资料"
+        }
+    },
     "LeoSmith": {
         "canonicalName": {
             "firstname": "Wadada Leo",
@@ -8160,6 +8272,23 @@
             "surname": "Suwelack"
         }
     },
+    "ChenSuzuki": {
+        "canonicalName": {
+            "firstname": "Yoshio “Chin”",
+            "surname": "Suzuki"
+        }
+    },
+    "Yoshio “Chin”Suzuki": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yoshiochinsuzuki"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/yoshio-chin-suzuki-mn0000690641"}],
+            "bandcamp": [{"type": "personal", "url": "https://yoshio-chin-suzuki.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1252185-Yoshio-Suzuki"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yoshiochinsuzuki"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/chinsuzuki"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChkBNm0qv0sqWyf0QJ-jbiw"}]
+        }
+    },
     "TobiasSykora": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/7883454-Tobias-Sykora"}],
@@ -8192,6 +8321,18 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-200312926"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Achim_Tang"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Achim_Tang"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCdmtZ8355xvA-W-A4PTxPEg"}]
+        }
+    },
+    "CecilTaylor": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ceciltaylor"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cecil-taylor-mn0000988386"}],
+            "bandcamp": [{"type": "label", "url": "https://ceciltaylor.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/the-complete-in-berlin-88-box-set"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/in-berlin-88-book"}, {"type": "album", "url": "https://sluchaj.bandcamp.com/album/gottingen"}, {"type": "album", "url": "https://sluchaj.bandcamp.com/album/lifting-the-bandstand"}, {"type": "album", "url": "https://ezz-thetics.bandcamp.com/album/mixed-to-unit-structures-revisited"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/195812-Cecil-Taylor"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Cecil%20Taylor%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/cecil-taylor-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Cecil_Taylor"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UClCb8AEFN2jUv9WkqB6JAug"}]
         }
     },
     "NardosTesfaw": {
@@ -9121,6 +9262,24 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/helmut-zimmer-mn0001293713"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3073030-Helmuth-Zimmer"}],
             "radiohoerer": [{"type": "search", "url": "https://radio.friendsofalan.de/?s=%22Helmut%20Zimmer%22&category_name=nach-hoeren"}]
+        }
+    },
+    "AtillaZoller": {
+        "canonicalName": {
+            "firstname": "Attila",
+            "surname": "Zoller"
+        }
+    },
+    "AttilaZoller": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/attilazoller"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/attila-zoller-mn0000056405"}],
+            "bandcamp": [{"type": "album", "url": "https://sonoramarecords.bandcamp.com/album/jazz-soundtracks"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/130589-Attila-Zoller"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Attila%20Zoller%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/attilazoller"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Attila_Zoller"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Attila_Zoller"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Attila_Zoller"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzhuSoWGbPobzxEJCgTltew"}]
         }
     },
     "PhilipZoubek": {
