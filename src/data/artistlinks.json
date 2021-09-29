@@ -1534,6 +1534,15 @@
             "twitter": [{ "type": "personal", "url": "https://twitter.com/AndrzejewskiMax"}]
         }
     },
+    "YannisAnft": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yannisanft"}],
+            "discogs": [{"type": "personal", "url": "!https://www.discogs.com/de/artist/7464286-Yannis-Anft"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Yannis%20Anft%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yannis-anft-333486322"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Yannis_Anft"}]}]
+        }
+    },
     "NegoAngela": {
         "notes": {
             "cs": "Možná je ten bubeník Chadrack „Chacha“ Angela?",
@@ -1543,18 +1552,66 @@
             "zh": "这位打击乐手可能是 Chadrack 「Chacha」 Angela？ "
         }
     },
+    "NanniAngeli": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2236944-Nanni-Angeli"}],
+            "homepage": [{"type": "personal", "url": "http://www.nanniangeli.it"}]
+        }
+    },
+    "PaoloAngeli": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/paoloangeli"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paolo-angeli-mn0000744510"}],
+            "bandcamp": [{"type": "personal", "url": "https://angelimanucheproductions.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/516009-Paolo-Angeli"}],
+            "homepage": [{"type": "personal", "url": "http://www.paoloangeli.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Paolo%20Angeli%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/angeli-productions"}, {"type": "agency", "url": "https://soundcloud.com/paoloangeli"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/paoloangeli"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/AngeliProductions"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC-6NRTjqOq03YpCkTXeXtkw"}]
+        }
+    },
     "BrunoAngeloni": {
         "links": {
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2714176-Bruno-Angeloni"}]
         }
     },
-    "YannisAnft": {
+    "StefanAngelov": {
         "links": {
-            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yannisanft"}],
-            "discogs": [{"type": "personal", "url": "!https://www.discogs.com/de/artist/7464286-Yannis-Anft"}],
-            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Yannis%20Anft%22&category_name=nach-hoeren"}],
-            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yannis-anft-333486322"}],
-            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Yannis_Anft"}]}]
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/stefan-angelov-mn0001535252"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/934334-Stefan-Angelov"}]
+        }
+    },
+    "OrohAngiama": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oroh-angiama-mn0000908971"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/369641-Oroh-Angiama"}]
+        }
+    },
+    "ArmandAngster": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/armand-angster"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/armand-angster-mn0000048327"}],
+            "bandcamp": [{"type": "album", "url": "https://accrochenote.bandcamp.com/album/en-echo"}, {"type": "album", "url": "https://kl4ng.bandcamp.com/album/live-venise"}, {"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/itin-raire-bis"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1305950-Armand-Angster"}],
+            "homepage": [{"type": "band", "url": "http://www.accrochenote.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Armand%20Angster%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Armand_Angster"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Armand_Angster"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Armand_Angster"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCl4mgMgghtZrkIzoTmUrPNA"}]
+        }
+    },
+    "Tajudeen LekanAnimasahun": {
+        "canonicalName": {
+            "firstname": "Lekan",
+            "surname": "Animashaun"
+        }
+    },
+    "LekanAnimashaun": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-lekan-animashaun"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/lekan-animashaun-mn0001198587"}, {"type": "personal", "url": "https://www.allmusic.com/artist/tajudeen-animashaun-mn0000631661"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?s=%22Lekan%20Animashaun%22&category_name=nach-hoeren"}],
+            "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=84XQisA8RwU"}]
         }
     },
     "AntonisAnissegos": {
@@ -1941,6 +1998,17 @@
             "homepage": [{"type": "personal", "url": "https://www.allenblairman.com/"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Allen_Blairman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Allen_Blairman"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCottO1eVuPFnl3jFaGLA8VA"}]
+        }
+    },
+    "ArtBlakey": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/art-blakey"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/art-blakey-mn0000928942"}],
+            "bandcamp": [{"type": "agency", "url": "https://artblakey.bandcamp.com/"}, {"type": "album","url": "https://gobop.bandcamp.com/album/orgy-in-rhythm-volume-one"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/29977-Art-Blakey"}],
+            "homepage": [{"type": "personal", "url": "http://www.artblakey.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Art%20Blakey%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Art_Blakey"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Art_Blakey"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Art_Blakey"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Art_Blakey"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Art_Blakey"}, {"locale": "zh", "url": "https://zh.wikipedia.org/wiki/%E9%9B%85%E7%89%B9%C2%B7%E5%B8%83%E9%9B%B7%E5%A5%87"}]}]
         }
     },
     "MarvinBlamberg": {
@@ -3002,6 +3070,25 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/juliendesprez"}]
         }
     },
+    "NickDidkovski": {
+        "canonicalName": {
+            "firstname": "Nick",
+            "surname": "Didkovsky"
+        }
+    },
+    "NickDidkovsky": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nick-didkovsky-mn0000768515"}],
+            "bandcamp": [{"type": "personal", "url": "https://nickdidkovsky.bandcamp.com/"}, {"type": "band", "url": "https://doctornerve.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/227906-Nick-Didkovsky"}],
+            "homepage": [{"type": "personal", "url": "http://www.didkovsky.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Nick%20Didkovsky%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nick-didkovsky"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/DoctorNerve"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Nick_Didkovsky"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Nick_Didkovsky"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Nick_Didkovsky"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/doctornerve"}]
+        }
+    },
     "StefanDiez": {
         "canonicalName": {
             "firstname": "Stephan",
@@ -3661,6 +3748,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCECG9arGqKndRozkc_SZVBQ"}]
         }
     },
+    "WiltonGaynair": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-wilton-gaynair"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wilton-bogey-gaynair-mn0000956270"}, {"type": "personal", "url": "https://www.allmusic.com/artist/wilton-gaynair-mn0000722928"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/463161-Wilton-Gaynair"}],
+            "wikipedia": [{"type": "de", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wilton_Gaynair"}, {"type": "en", "url": "https://en.wikipedia.org/wiki/Wilton_Gaynair"}, {"type": "nl", "url": "https://nl.wikipedia.org/wiki/Wilton_Gaynair"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCbapTq7Hzru09QtQGN2gwOw"}]
+        }
+    },
     "WernerGeck": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2063817-Werner-Geck"}]
@@ -4112,6 +4208,16 @@
             "homepage": [{"type": "agency", "url": "https://www.musikschule-henneberger.de/volha-hanchar-lehrerportraet-hp/"}]
         }
     },
+    "BillHardman": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bill-hardman-mn0000078454"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/339953-Bill-Hardman"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Bill%20Hardman%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/billhardmanquintet"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bill_Hardman"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Bill_Hardman"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Bill_Hardman"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC-uZNT84YO-igb7JJI7h6rQ"}]
+        }
+    },
     "ElisabethHarnik": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/elisabeth-harnik-mn0002102098"}],
@@ -4165,6 +4271,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/florianhartlieb"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/florianhartlieb"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/florianhartlieb"}]
+        }
+    },
+    "BillHartman": {
+        "canonicalName": {
+            "firstname": "Bill",
+            "surname": "Hardman"
         }
     },
     "LydiaHaurenherm": {
@@ -4554,6 +4666,12 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/768342-Jan-Huydts"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Huydts"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCZSDv7Wp4uTGuMhtBgPywYg"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCfxOrqrN0NxxcZTNmAQdy-Q"}]
+        }
+    },
+    "JanHydts": {
+        "canonicalName": {
+            "firstname": "Jan",
+            "surname": "Huydts"
         }
     },
     "KonstantinIngenpaß": {
@@ -6109,6 +6227,15 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCwV_nxzjuMs8rUyA0WPlQ7w"}]
         }
     },
+    "Sannah B.Mkhwebane": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o té zpěvačce",
+            "de": "Online keine Infos über diese Sängerin gefunden",
+            "en": "Could not find any information about this singer online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteuse",
+            "zh": "网上找不到这个歌手的资料"
+        }
+    },
     "MaxwellMngadi": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maxwell-mngadi-mn0001222614"}],
@@ -7604,6 +7731,16 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Hans_Schneider_(Bassist)"}]}]
         }
     },
+    "DavidSchnitter": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davidschnitter"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-schnitter-mn0000630418"}],
+            "bandcamp": [{"type": "personal", "url": "https://daveschnitter.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/346569-David-Schnitter"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/david-schnitter"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/David_Schnitter"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/David_Schnitter"}]}]
+        }
+    },
     "DetlefSchoenenberg": {
         "canonicalName": { "firstname": "Detlef", "surname": "Schönenberg" }
     },
@@ -8333,6 +8470,15 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/cecil-taylor-official"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Cecil_Taylor"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Cecil_Taylor"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UClCb8AEFN2jUv9WkqB6JAug"}]
+        }
+    },
+    "Enny M.Tema": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o té zpěvačce",
+            "de": "Online keine Infos über diese Sängerin gefunden",
+            "en": "Could not find any information about this singer online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteuse",
+            "zh": "网上找不到这个歌手的资料"
         }
     },
     "NardosTesfaw": {

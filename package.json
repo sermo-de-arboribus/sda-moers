@@ -2,6 +2,7 @@
   "name": "sda-moers",
   "version": "0.2.1",
   "private": false,
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sermo-de-arboribus/sda-moers.git"
