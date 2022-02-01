@@ -9508,6 +9508,12 @@
             "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=SF0Gd9k-x6c"}]
         }
     },
+    "MaryWithaker": {
+        "canonicalName": {
+            "firstname": "Mary",
+            "surname": "Whitaker"
+        }
+    },
     "Hermann deWitt": {
         "canonicalName": {
             "firstname": "Herman de",
