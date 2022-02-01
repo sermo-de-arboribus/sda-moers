@@ -1715,6 +1715,24 @@
             "zh": "网上找不到这个艺术家的资料"
         }
     },
+    "KenichiAoyama": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2500892-Kenichi-Aoyama"}],
+            "homepage": [{"type": "personal", "url": "http://aoken.info/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/aoyamakenichi"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/aoookoooa"}]
+        }
+    },
+    "PeterApel": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-apel-mn0001973018"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/774789-Peter-Apel"}],
+            "homepage": [{"type": "personal", "url": "http://www.peterapel.de/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/peter-apel-306391051"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/endgame_D"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/PeterApelGitarrist"}]
+        }
+    },
     "PeterApfelbaum": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/peterapfelbaum"}],
@@ -4852,6 +4870,26 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC3RUIzsdu2oQOJwX4eYkicw"}]
         }
     },
+    "GregoryJackson": {
+        "canonicalName": {
+            "firstname": "Michael Gregory",
+            "surname": "Jackson"
+        }
+    },
+    "Michael GregoryJackson": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/michael-gregory-jackson"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michael-gregory-jackson-mn0000887463"}],
+            "bandcamp": [{"type": "personal", "url": "https://michaelgregoryjackson.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/939252-Michael-Gregory-Jackson"}],
+            "homepage": [{"type": "https://www.michaelgregoryjackson.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Gregory%20Jackson%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/michaelgregoryjackson"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MGJMUSIC"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Michael_Gregory_Jackson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Michael_Gregory_(jazz_guitarist)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Michael_Gregory_Jackson"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCwm-p_gvKZE_Zwkgtg_vo4g"}]
+        }
+    },
     "EliseJacoberger": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/elise-jacoberger-mn0003080757"}],
@@ -5537,6 +5575,20 @@
             "homepage": [{"type": "personal", "url": "http://jedrzejlagodzinski.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jedrzejlagodzinski"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCQULVwlSmP1xFyonDKIarRQ"}]
+        }
+    },
+    "OliverLake": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/oliver-lake"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-lake-mn0000398491"}],
+            "bandcamp": [{"type": "personal", "url": "https://oliverlake.bandcamp.com/"}, {"type": "label", "url": "https://oliverlakeintakt.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/49759-Oliver-Lake"}],
+            "homepage": [{"type": "personal", "url": "https://www.oliverlake.net/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Oliver%20Lake%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/oliver-lake"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/OliverLake"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Oliver_Lake"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Oliver_Lake"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Oliver_Lake"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Oliver_Lake"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Oliver_Lake"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/OLake03"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCbXDlLyqwc1n8Ck2DULgdDg"}]
         }
     },
     "CatherineLamb": {
