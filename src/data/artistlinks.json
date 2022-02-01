@@ -1743,6 +1743,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCmw9UqvrqhZxSFZwQuFR23w"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCTcnXPs6yhFOIwzLpQBBJAw"}]
         }
     },
+    "DJApollo": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dj-apollo-mn0000658532"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/25368"}]
+        }
+    },
     "SayanAqmoldaev": {
         "canonicalName": {
             "firstname": "Sayan",
@@ -3241,6 +3247,14 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCfxGwqC5oiOOG11bRiFpUDA"}]
         }
     },
+    "MichaelDi Pasqua": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/michael-dipasqua"}, {"type": "search", "url": "https://www.allaboutjazz.com/musicians/michael-dipasqua"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michael-dipasqua-mn0001186064"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/337594-Michael-DiPasqua"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Michael_Di_Pasqua"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Michael_Di_Pasqua"}]}]
+        }
+    },
     "ErrolDixon": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/errol-dixon-mn0000806742"}],
@@ -3872,7 +3886,7 @@
             "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-wilton-gaynair"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wilton-bogey-gaynair-mn0000956270"}, {"type": "personal", "url": "https://www.allmusic.com/artist/wilton-gaynair-mn0000722928"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/463161-Wilton-Gaynair"}],
-            "wikipedia": [{"type": "de", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wilton_Gaynair"}, {"type": "en", "url": "https://en.wikipedia.org/wiki/Wilton_Gaynair"}, {"type": "nl", "url": "https://nl.wikipedia.org/wiki/Wilton_Gaynair"}]}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wilton_Gaynair"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wilton_Gaynair"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Wilton_Gaynair"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCbapTq7Hzru09QtQGN2gwOw"}]
         }
     },
@@ -4292,6 +4306,14 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/maryhalvorsonofficial"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mary_Halvorson"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mary_Halvorson"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Mary_Halvorson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Mary_Halvorson"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCcqxmuXQI9h8ZrDsb7psEtQ"}]
+        }
+    },
+    "JoyceHammann": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/joyce-hammann"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joyce-hammann-mn0000204781"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/328531-Joyce-Hammann"}],
+            "homepage": [{"type": "personal", "url": "https://about.me/joycehammann"}]
         }
     },
     "ChristianHammer": {
@@ -4882,7 +4904,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michael-gregory-jackson-mn0000887463"}],
             "bandcamp": [{"type": "personal", "url": "https://michaelgregoryjackson.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/939252-Michael-Gregory-Jackson"}],
-            "homepage": [{"type": "https://www.michaelgregoryjackson.com/"}],
+            "homepage": [{"type": "personal", "url": "https://www.michaelgregoryjackson.com/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Gregory%20Jackson%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/michaelgregoryjackson"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/MGJMUSIC"}],
@@ -7050,6 +7072,12 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/evan-parker-official"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Evan_Parker"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Evan_Parker"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Evan_Parker"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Evan_Parker"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Evan_Parker"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCd8ocR0_mHG4YAL1tpeHU1A"}]
+        }
+    },
+    "Mike dePasqua": {
+        "canonicalName": {
+            "firstname": "Michael",
+            "surname": "Di Pasqua"
         }
     },
     "DJPatex": {
@@ -9405,6 +9433,13 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/kenny-wheeler-official"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Kenny_Wheeler"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Kenny_Wheeler"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCw3n6GcHQ-OueZMc7q-5jAQ"}]
+        }
+    },
+    "MaryWhitaker": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mary-whitaker-mn0001563627"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/577376-Mary-Whitaker"}],
+            "homepage": [{"type": "agency", "url": "https://theviolinchannel.com/mary-whitaker-violinist-murdered-upstate-new-york/"}]
         }
     },
     "MarkWhitecage": {
