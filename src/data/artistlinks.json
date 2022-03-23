@@ -1749,6 +1749,24 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/25368"}]
         }
     },
+    "RayAppleton": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/killer-ray-appleton"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ray-appleton-mn0000787027"}],
+            "bandcamp": [{"type": "personal", "url": "https://killerrayappleton.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/254547-Ray-Appleton"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/therayappletonsextet"}],
+            "wikipedia": [{"type": "personal", "url": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ray_Appleton"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ray_Appleton"}]}],
+            "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=2f7KPuw_pjk"}]
+        },
+        "notes": {
+            "cs": "Přezdívka: Killer",
+            "de": "Spitzname: Killer",
+            "en": "Nickname: Killer",
+            "fr": "Sobriquet: Killer",
+            "zh": "外号: Killer"
+        }
+    },
     "SayanAqmoldaev": {
         "canonicalName": {
             "firstname": "Sayan",
@@ -5712,6 +5730,13 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC9l1YiBnAG3eR7r8057iw_A"}]
         }
     },
+    "RonLawrence": {
+        "links": {
+            "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-ron-lawrence"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ron-lawrence-mn0002183932"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/135396-Ron-Lawrence"}]
+        }
+    },
     "JoëlleLéandre": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/joelleleandre"}],
@@ -7845,6 +7870,22 @@
             "surname": "Sakata"
         }
     },
+    "DaveSamuels": {
+        "canonicalName": {
+            "firstname": "David",
+            "surname": "Samuels"
+        }
+    },
+    "DavidSamuels": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/dave-samuels"}, {"type": "search", "url": "https://www.allaboutjazz.com/tag-david-samuels"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-samuels-mn0000223625"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/38200-Dave-Samuels"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Dave%20Samuels%22&category_name=nach-hoeren"}, {"type": "search", "url": "https://radiohoerer.info/?s=%22David%20Samuels%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Dave_Samuels"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Dave_Samuels"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC6AC7p3Zp5uWbXDd7Kt8TUA"}, {"type": "interview", "url": "https://www.youtube.com/watch?v=mo1lJ5s7vi8"}]
+        }
+    },
     "MaxSantner": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6043978-Max-Santner"}],
@@ -8687,6 +8728,17 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yoshiochinsuzuki"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/chinsuzuki"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChkBNm0qv0sqWyf0QJ-jbiw"}]
+        }
+    },
+    "HarvieSwartz": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/harvie-swartz"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harvie-swartz-mn0000951815"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/726834-Harvie-Swartz"}],
+            "homepage": [{"type": "personal", "url": "https://harvies.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Harvie%20Swartz%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/harvie-swartz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Harvie_Swartz"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Harvie_S"}]}]
         }
     },
     "TobiasSykora": {
