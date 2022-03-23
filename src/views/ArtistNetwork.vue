@@ -19,7 +19,7 @@
                 </ul>
                 <h4 v-if="centeredArtist.links.length">{{$t("artistsTable.links")}}</h4>
                 <div style="padding:10px" class="artistlinks" cols="1" cols-sm="2" cols-lg="3">
-                    <template class="col" v-for="links in centeredArtist.links">
+                    <template v-for="links in centeredArtist.links">
                         <b-button v-for="link in links" :key="link.url"
                             :href="link.url"
                             size="sm"

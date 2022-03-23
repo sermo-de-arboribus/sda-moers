@@ -32,18 +32,19 @@
     "vuex-persistedstate": "^3.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/eslint-parser": "^7.17.0",
     "@intlify/vue-i18n-loader": "^1.1.0",
-    "@vue/cli-plugin-babel": "^4.5.17",
-    "@vue/cli-plugin-eslint": "^4.5.17",
-    "@vue/cli-plugin-router": "^4.5.17",
-    "@vue/cli-plugin-vuex": "^4.5.17",
-    "@vue/cli-service": "^4.5.17",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
+    "@vue/cli-plugin-babel": "^5.0.4",
+    "@vue/cli-plugin-eslint": "^5.0.4",
+    "@vue/cli-plugin-router": "^5.0.4",
+    "@vue/cli-plugin-vuex": "^5.0.4",
+    "@vue/cli-service": "^5.0.4",
+    "eslint": "^8.11.0",
+    "eslint-plugin-vue": "^8.5.0",
     "sass": "^1.37.5",
     "sass-loader": "^8.0.2",
-    "vue-cli-plugin-i18n": "^1.0.1",
+    "vue-cli-plugin-i18n": "^2.3.1",
     "vue-template-compiler": "^2.6.14"
   }
 }

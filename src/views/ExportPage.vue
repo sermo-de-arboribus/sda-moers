@@ -55,7 +55,7 @@ const dateFormat = require("dateformat");
 
 export default {
     
-    name: "Export",
+    name: "ExportPage",
     components: {
         DownloadCsv
     },
