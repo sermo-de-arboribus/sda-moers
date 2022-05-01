@@ -28,7 +28,6 @@
       "bySurname": "选项"
     },
     "firstname": "名",
-    "header": "出席{festivalName}的音乐人/艺术家",
     "instruments": "演奏乐器",
     "intro": "这是{websiteCreator}根据{dataProvider}的该音乐节共享资源建立的一个表单，方便音乐爱好者们查询。成因，只缘自推特上的闲谈。目前，本表单内容仅涵盖2019与2020两届音乐节。但往届资料也计划在今后逐步添补完善。同时，在数据处理与使用便利方面，也将不断作出改进。假如您对计划改进的具体内容感兴趣，可以点击{issueTracker}查看。感谢您的到访。相遇，即是有缘。",
     "links": "链接",
@@ -66,6 +65,7 @@
     "enter": "进入",
     "export": "下载资讯",
     "festivalName": "默尔斯音乐节 [Moers Festival]",
+    "header": "出席{festivalName}的音乐人/艺术家",
     "imprint": "版权​说明",
     "issueTracker": "“提案追踪”",
     "network": "网络",

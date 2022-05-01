@@ -1,6 +1,6 @@
 {
   "name": "sda-moers",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": false,
   "license": "GPL-3.0",
   "repository": {
@@ -14,17 +14,17 @@
     "i18n:report": "vue-cli-service i18n:report --src './src/**/*.?(js|vue)' --locales './src/locales/**/*.json'"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.14.0",
-    "bootstrap": "^4.5.2",
-    "bootstrap-vue": "^2.21.0",
-    "core-js": "^3.6.5",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^4.6.1",
+    "bootstrap-vue": "^2.22.0",
+    "core-js": "^3.22.3",
     "d3": "^6.7.0",
-    "dateformat": "^3.0.3",
-    "file-saver": "^2.0.2",
+    "dateformat": "^4.6.2",
+    "file-saver": "^2.0.5",
     "vue": "^2.6.14",
     "vue-good-table": "^2.21.0",
     "vue-headful": "^2.1.0",
-    "vue-i18n": "^8.21.0",
+    "vue-i18n": "^8.27.1",
     "vue-json-csv": "^1.2.11",
     "vue-loading-template": "^1.3.2",
     "vue-router": "^3.5.3",

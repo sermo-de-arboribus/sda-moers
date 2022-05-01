@@ -28,7 +28,6 @@
             "bySurname": "filtr podle příjmení"
         },
         "firstname": "Křestní jméno",
-        "header": "Umělkyně a umělci u festivalu „{festivalName}“",
         "instruments": "Nástroje",
         "intro": "Vítám vás na website {websiteCreator}, prezentující informace o hudebnících které vstupovali na festivalu Moers od 1972. Tady můžete filtrovat a roztřídit jak je libo podle umělce, roku nebo nástroje.",
         "intro2": "O popudu a pohnutku na založení tyto strany jsem napsal {guestarticle} (v němčině) na blogu posluchače radia. Prvotní podnět byl {tweet}. Informace na roky 2019 a 2020 se zakládá na otevřených dat festivalu {dataProvider}, data dřívějších festivalů pochází z oficiální webové strany festivalu. Doplnil jsem odkazy a poznámky. Když chcete, taky si můzete stáhnout data.",
@@ -68,6 +67,7 @@
         "export": "Export dat",
         "festivalName": "Moers Festival",
         "guestarticle": "příspěvek",
+        "header": "Umělkyně a umělci u festivalu „{festivalName}“",
         "imprint": "Tiráž",
         "issueTracker": "Issue-Tracker",
         "network": "Síť umělců",

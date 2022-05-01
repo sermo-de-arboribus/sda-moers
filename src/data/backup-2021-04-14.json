@@ -11762,87 +11762,38 @@
         ]
     },
     {
-        "id": 962,
-        "name": "m\u0153rs sessions! #3",
+        "id": "962a",
+        "name": "m\u0153rs sessions! #3, Set 1",
         "start_date": "2020-05-31 22:30:00",
         "end_date": "2020-05-31 23:30:00",
         "description": "22:30 - 22:55\nJulia Br\u00fcssel - violin (hilde)\nLiz Kosack - keys (51%)\nRichard Scott - elec\nAthina Kontou - bass (\u00c9t\u00e9 Large)\n23:05 - 23:30\nKay L\u00fcbke - drums (Potsa Lotsa XL)\nJan Roder - bass (Potsa Lotsa XL)\nMaria Trautmann - tb (hilde)",
         "page_id": 28,
         "url": null,
         "image_path": "https:\/\/meinmoers.lambdadigamma.com\/storage\/29\/moerssessions.jpg",
-        "category": "",
-        "organisation_id": 1,
         "entry_id": null,
         "is_published": 1,
-        "scheduled_at": null,
         "extras": {
             "descriptionEN": "22:30 - 22:55\nJulia Br\u00fcssel - violin (hilde)\nLiz Kosack - keys (51%)\nRichard Scott - elec\nAthina Kontou - bass (\u00c9t\u00e9 Large)\n23:05 - 23:30\nKay L\u00fcbke - drums (Potsa Lotsa XL)\nJan Roder - bass (Potsa Lotsa XL)\nMaria Trautmann - tb (hilde)"
         },
-        "deleted_at": null,
         "created_at": "2020-05-19 18:50:15",
-        "updated_at": "2020-05-31 20:16:31",
-        "header_url": "https:\/\/meinmoers.lambdadigamma.com\/storage\/29\/moerssessions.jpg",
-        "entry": null,
-        "organisation": {
-            "id": 1,
-            "name": "moers festival",
-            "description": "Das m\u0153rs festival ist ein international beachtetes Gro\u00df-Event der aktuellen improvisierten Musik. Es findet jeweils an Pfingsten statt und steht f\u00fcr Risikobereitschaft und den Mut zu Neuem. Es ist damit Garant f\u00fcr musikalische Entdeckungen jenseits des Mainstream. Abenteuerlust und Grenz\u00fcberschreitungen pr\u00e4gen das Festival, und dass dabei die musikalischen R\u00e4nder weit auseinander liegen ist erkl\u00e4rte Absicht.",
-            "entry_id": null,
-            "group_id": null,
-            "tags": null,
-            "logo_url": null,
-            "deleted_at": null,
-            "created_at": "2019-01-16 00:00:00",
-            "updated_at": "2019-01-16 00:00:00",
-            "header_path": null,
-            "logo_path": null,
-            "media": []
+        "updated_at": "2020-05-31 20:16:31"
+    },
+    {
+        "id": "962b",
+        "name": "m\u0153rs sessions! #3, Set 2",
+        "start_date": "2020-05-31 22:30:00",
+        "end_date": "2020-05-31 23:30:00",
+        "description": "Kay Lübke (dr), Jan Roder (b), Maria Trautmann (tb), Martin Verborg (vi)",
+        "page_id": 28,
+        "url": null,
+        "image_path": "https:\/\/meinmoers.lambdadigamma.com\/storage\/29\/moerssessions.jpg",
+        "entry_id": null,
+        "is_published": 1,
+        "extras": {
+            "descriptionEN": "22:30 - 22:55\nJulia Br\u00fcssel - violin (hilde)\nLiz Kosack - keys (51%)\nRichard Scott - elec\nAthina Kontou - bass (\u00c9t\u00e9 Large)\n23:05 - 23:30\nKay L\u00fcbke - drums (Potsa Lotsa XL)\nJan Roder - bass (Potsa Lotsa XL)\nMaria Trautmann - tb (hilde)"
         },
-        "page": {
-            "id": 28,
-            "title": "m\u0153rs sessions! #3",
-            "slug": "moers-sessions-3-051920185015",
-            "creator_id": null,
-            "deleted_at": null,
-            "created_at": "2020-05-19 18:50:15",
-            "updated_at": "2020-05-19 18:50:15",
-            "blocks": [
-                {
-                    "id": 28,
-                    "page_id": 28,
-                    "type": "markdown",
-                    "data": {
-                        "text": "__22:30 - 22:55__\nJulia Br\u00fcssel - violin (hilde)\nLiz Kosack - keys (51%)\nRichard Scott - elec\nAthina Kontou - bass (\u00c9t\u00e9 Large)\n\n__23:05 - 23:30__\nKay L\u00fcbke - drums (Potsa Lotsa XL)\nJan Roder - bass (Potsa Lotsa XL)\nMaria Trautmann - tb (hilde)"
-                    },
-                    "order": 0,
-                    "deleted_at": null,
-                    "created_at": "2020-05-19 18:50:46",
-                    "updated_at": "2020-05-31 20:16:20"
-                }
-            ]
-        },
-        "media": [
-            {
-                "id": 29,
-                "model_type": "App\\AdvEvent",
-                "model_id": 962,
-                "collection_name": "header",
-                "name": "moerssessions",
-                "file_name": "moerssessions.jpg",
-                "mime_type": "image\/jpeg",
-                "disk": "public",
-                "size": 154368,
-                "manipulations": [],
-                "custom_properties": [],
-                "generated_conversions": "[]",
-                "responsive_images": [],
-                "order_column": 28,
-                "created_at": "2020-05-19T16:50:15.000000Z",
-                "updated_at": "2020-05-19T16:50:15.000000Z",
-                "uuid": "a1d6a84d-80d8-40df-8a7f-4d5b82ea26f0",
-                "conversions_disk": "public"
-            }
-        ]
+        "created_at": "2020-05-19 18:50:15",
+        "updated_at": "2020-05-31 20:16:31"
     },
     {
         "id": 963,

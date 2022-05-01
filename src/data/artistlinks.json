@@ -1767,6 +1767,14 @@
             "zh": "外号: Killer"
         }
     },
+    "PavelArakelian": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/pavel-arakelian"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3362896-Pavel-Arakelian"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pavelarakelian"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/pavelarakelian"}]
+        }
+    },
     "SayanAqmoldaev": {
         "canonicalName": {
             "firstname": "Sayan",

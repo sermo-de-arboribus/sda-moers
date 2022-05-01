@@ -6,12 +6,23 @@
       :lang="currentLanguage"
       :title="$t('htmlHeader.title')" />
     <nav class="navbar navbar-light bg-light">
-      <span class="navbar-brand">
+      <div class="navbar-brand">
         <b-badge class="logo"><i class="fas fa-music" variant="success"></i></b-badge>
         <b-badge class="logo"><i class="fas fa-drum" variant="primary"></i></b-badge>
         <b-badge class="logo"><i class="fas fa-guitar" variant="primary"></i></b-badge>
-      </span>
-      <locale-switch/>
+      </div>
+      <div class="navbar-text">
+        <div class="navbar-item">
+          <i18n path="general.header" tag="div">
+            <template v-slot:festivalName>
+                {{$t("general.festivalName")}}
+            </template>
+          </i18n>
+        </div>
+      </div>
+
+      <locale-switch class="navbar-item"/>
+
     </nav>
     <div id="nav">
       <router-link to="/">Home</router-link> |

@@ -1,6 +1,6 @@
 <template>
     <div class="artists-table">
-        <i18n path="artistsTable.header" tag="h1">
+        <i18n path="general.header" tag="h1">
             <template v-slot:festivalName>
                 <a href="https://moers-festival.de">{{$t("general.festivalName")}}</a>
             </template>
@@ -237,7 +237,8 @@ export default {
                             console.log(data, filterString);
                             return data.some(g => g.concert.includes(filterString)) || data.some(g => g.year.includes(filterString));
                         }
-                    }
+                    },
+                    width: "50%"
                 },
                 {
                     label: this.$t("artistsTable.notes"),
