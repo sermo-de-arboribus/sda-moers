@@ -46,9 +46,6 @@ module.exports = {
                         .filter(a => a)
                         .map(a => a + ")")
                         .map(a => {
-                            if(!a) {
-                                console.error()
-                            }
                             return parseArtist(a);
                         });
                 return Object.assign(event, { artists });

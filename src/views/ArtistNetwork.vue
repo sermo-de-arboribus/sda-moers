@@ -4,8 +4,11 @@
         <p>{{$t("artistsNetwork.intro")}}</p>
         <div class="row">
             <div class="col-9">
-                <div id="networkRoot" ref="networkRoot">
-                </div>
+                <div class="arrow arrow-up" @click="moveViewBox(0, 10)"><ArrowUp/></div>
+                <div class="arrow arrow-down" @click="moveViewBox(0, -10)"><ArrowDown/></div>
+                <div class="arrow arrow-left" @click="moveViewBox(10, 0)"><ArrowLeft/></div>
+                <div class="arrow arrow-right" @click="moveViewBox(-10, 0)"><ArrowRight/></div>
+                <svg id="networkRoot" ref="networkRoot"></svg>
             </div>
             <div class="col-3 sideInfo">
                 <h2>{{$t("artistsNetwork.selectedArtist")}}</h2>
@@ -37,6 +40,33 @@
 </template>
 
 <style>
+.arrow {
+    position: absolute;
+    width: 25px;
+}
+
+.arrow-left {
+    right: 50px;
+    top: 15px;
+}
+
+.arrow-right {
+    right: 10px;
+    top: 15px;
+}
+
+.arrow-up, .arrow-down {
+    right: 30px;
+}
+
+.arrow-down {
+    top: 30px;
+}
+
+.arrow-up {
+    top: 0;
+}
+
 .links line {
     stroke: #999;
     stroke-opacity: 0.6; 
@@ -86,10 +116,19 @@ import d3 from "../lib/d3-imports";
 import { HoverCard } from "../helpers/hover-card";
 import { mapGetters, mapState } from "vuex";
 
+// SVG icons
+import ArrowUp from "../components/svg/ArrowUpIcon.vue";
+import ArrowDown from "../components/svg/ArrowDownIcon.vue";
+import ArrowLeft from "../components/svg/ArrowLeftIcon.vue";
+import ArrowRight from "../components/svg/ArrowRightIcon.vue";
+
 const NETWORK_MAX_DEGREE = 2;
 
 export default {
     name: "ArtistNetwork",
+    components: {
+        ArrowUp, ArrowDown, ArrowLeft, ArrowRight
+    },
     computed: {
         artistNodes() {
             const aggregator = { nodes: new Map(), links: [] };
@@ -152,23 +191,43 @@ export default {
                     "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Amy_Denio"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Amy_Denio"}]}],
                     "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/deniaural"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCWvua5eiLSf9OpTk7Hu5H5w"}]
                 }
+            },
+            viewBox: {
+                x: 0,
+                y: 0,
+                width: 100,
+                height: 100
             }
         }
     },
     methods: {
 
+        serializeViewBox() {
+            const { viewBox } = this;
+            return `${viewBox.x} ${viewBox.y} ${viewBox.width} ${viewBox.height}`
+        },
+
+        moveViewBox(dx, dy) {
+
+            this.viewBox.x += dx;
+            this.viewBox.y += dy;
+
+            const networkRoot = document.getElementById("networkRoot");
+            networkRoot.setAttribute("viewBox", this.serializeViewBox());
+        },
         renderGraph() {
             // select the svg element from the template
             const networkRoot = d3.select("#networkRoot");
 
-            const height = pixelsToNumber(networkRoot.style("height"));
-            const width = pixelsToNumber(networkRoot.style("width"));
+            this.viewBox.height = pixelsToNumber(networkRoot.style("height"));
+            this.viewBox.width = pixelsToNumber(networkRoot.style("width"));
 
-            networkRoot.select("svg").remove();
+            networkRoot.select("#networkRoot").remove();
 
             // get svg root element
             const svg = networkRoot.append("svg")
-                .attr("viewBox", [0, 0, width, height].join(" "))
+                .attr("id", "networkRoot")
+                .attr("viewBox", this.serializeViewBox())
                 .attr("preserveAspectRatio", "xMidYMid meet");
             
             const instanceDomain = [Number.MAX_VALUE, 1];

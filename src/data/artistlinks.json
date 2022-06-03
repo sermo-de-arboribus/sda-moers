@@ -9457,6 +9457,18 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Peter_Weiss_(Schlagzeuger)"}]}]
         }
     },
+    "MatthewWelch": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/matthew-welch"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matthew-welch-mn0001595039"}, {"type": "personal", "url": "https://www.allmusic.com/artist/matthew-welch-mn0000327875"}],
+            "bandcamp": [{"type": "label", "url": "https://kotekanrecords.com/music"}, {"type": "album", "url": "https://kotekanrecords.com/album/a-new-compleat-theory-for-the-highland-bagpipe"}, {"type": "album", "url": "https://kotekanrecords.com/album/anthony-braxton-10-solo-bagpipe-compositions-2000-re-issue"}, {"type": "personal", "url": "https://kotekanrecords.com/album/the-favrile-opalescence"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/835501-Matthew-Welch"}],
+            "homepage": [{"type": "personal", "url": "https://www.matthewwelchmusic.com/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/matthew-welch-1"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/MatthewTWelch"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCVgLxk53nLAnoJCyAZpUkhQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC6rz849S68x1dercxS2NMlg"}]
+        }
+    },
     "AndreasWerliin": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andreas-werliin-mn0001047433"}],
