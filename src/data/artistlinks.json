@@ -7908,6 +7908,12 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/BafiKush"}]
         }
     },
+    "MikeSarin": {
+        "canonicalName": {
+            "firstname": "Michael",
+            "surname": "Sarin"
+        }
+    },
     "HeinzSauer": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/heinzsauer"}],

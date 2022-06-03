@@ -33,17 +33,24 @@ module.exports = {
                 const parsedEventDescription = cleanUpDescriptions(event.description);
                 let eventLineUp = parsedEventDescription ? parsedEventDescription[1] : "";
                 eventLineUp = eventLineUp.replace(/\r\n/, " ")
-                const artists = eventLineUp
-                                .split(/\)\s*,\s*/)
-                                .filter(a => a)
-                                .map(a => a + ")")
-                                .map(a => {
-                                    const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
-                                    const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
-                                    const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
-                                    const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join(""): "";
-                                    return makeArtistNameCanonical({ instruments, surname, firstname });
-                                });
+                const artists = event.artists && event.artists.length
+                    ? event
+                        .artists
+                        .map(a => {
+                            if(!a) return null;
+                            else return parseArtist(a.replace(/Besetzung:\s*/, ""));
+                        })
+                        .filter(a => a)
+                    : eventLineUp
+                        .split(/\)\s*,\s*/)
+                        .filter(a => a)
+                        .map(a => a + ")")
+                        .map(a => {
+                            if(!a) {
+                                console.error()
+                            }
+                            return parseArtist(a);
+                        });
                 return Object.assign(event, { artists });
             })
 
@@ -75,7 +82,7 @@ module.exports = {
                         commit("setLoading", false);
                 })
             } else { */
-                events = [...addAdditionalData(require("../data/backup-2021-04-14.json")), ...require("../data/2021.json")];
+                events = [...addAdditionalData(require("../data/backup-2021-04-14.json")), ...require("../data/2021.json"), ...require("../data/2022.json")];
                 commit("updateEvents", events);
                 console.log("fetched events from local backup");
                 commit("updateVueTablePage");
@@ -305,4 +312,12 @@ function makeArtistNameCanonical({instruments, firstname, surname}) {
         surname = artistLink.canonicalName.surname;
     }
     return {instruments, firstname, surname}
+}
+
+function parseArtist(a) {
+    const parsedArtist = a.match(/(.+?)\s+([\S]*)\s*\(([^)]+)\)/) || "";
+    const instruments = parsedArtist ? parsedArtist[parsedArtist.length - 1].trim() : "";
+    const surname = parsedArtist ? parsedArtist[parsedArtist.length - 2].trim() : "";
+    const firstname = parsedArtist.length > 2 ? parsedArtist.slice(1, parsedArtist.length - 2).join("") : "";
+    return makeArtistNameCanonical({ instruments, surname, firstname });
 }
