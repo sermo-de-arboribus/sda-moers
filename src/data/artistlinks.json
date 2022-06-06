@@ -1939,6 +1939,18 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCNm6Pg25vjh1VEmMxwcGyCQ"}]
         }
     },
+    "Pelayo Fdz.Arrizabalaga": {
+        "canonicalName": {
+            "firstname": "Pelayo",
+            "surname": "Fernández Arrizabalaga"
+        }
+    },
+    "MladenArsenović": {
+        "links": {
+            "homepage": [{"type": "interview", "url": "https://wanted.mondo.rs/Lokalno/Price/a1855/intervju-violoncelo-klasicna-muzika-beogradska-filharmonija.html"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mladja61"}]
+        }
+    },
     "ToneÅse": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tone-%C3se-mn0003675116"}],
@@ -5729,6 +5741,20 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/iztokstein"}]
         }
     },
+    "SarathyKorwar": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/sarathy-korwar"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sarathy-korwar-mn0003512938"}],
+            "bandcamp": [{"type" :"personal", "url": "https://sarathykorwar.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5147902-Sarathy-Korwar"}],
+            "homepage": [{"type": "personal", "url": "https://www.sarathykorwar.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Sarathy%20Korwar%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sarathykorwar"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/SarathyKorwar"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sarathy_Korwar"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Sarathy_Korwar"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCGS5-n8q5WYcCDbIv8FjI4g"}]
+        }
+    },
     "LizKosack": {
         "links": {
             "bandcamp": [{"type": "album", "url": "https://driedorangerecords.bandcamp.com/album/full-moon-day-kosack-schnug-moss-miller"}, {"type": "album", "url": "https://troubleintheeastrecords.bandcamp.com/album/poles-and-pulse"}],
@@ -6908,6 +6934,12 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCblWnz3Ytn9eJBL-PuV-ekQ"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCukkNN_3JFSsS_1t0xUtl0A"}]
         }
     },
+    "SteffenMolderings": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1651121-Steffen-Molderings"}],
+            "homepage": [{"type": "personal", "url": "https://www.facebook.com/steffen.molderings.7"}]
+        }
+    },
     "GarciaMorales": {
         "links": {
             "allmusic": [{"type":"personal", "url": "https://www.allmusic.com/artist/garcia-morales-mn0001237322"}, {"type": "personal", "url": "https://www.allmusic.com/artist/garcia-morales-mn0001097561"}],
@@ -7333,6 +7365,18 @@
             "homepage": [{"type": "personal", "url": "https://www.laurinoppermann.de/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/laurin-oppermann"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCJbHbi6Qi3bCJp-JluErJ9g"}]
+        }
+    },
+    "TamarOsborn": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/tamar-osborn"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tamar-osborn-mn0001023392"}],
+            "bandcamp": [{"type": "personal", "url": "https://tamarosborn.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2342940-Tamar-Osborn"}],
+            "homepage": [{"type": "personal", "url": "https://tamarosborn.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Tamar%20Osborn%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tamarosborn"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/tamarosborn"}]
         }
     },
     "MikeOsborne": {

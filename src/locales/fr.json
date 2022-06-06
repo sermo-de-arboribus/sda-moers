@@ -30,7 +30,7 @@
     "firstname": "Prénom",
     "instruments": "Instruments",
     "links": "Liens",
-    "intro": "Un tableau de {websiteCreator}, que s'appuie sur les données ouvertes du festival par {dataProvider}. Un {tweet} était la cause pour rédiger ce tableau. Provisoirement seulement les concerts des années 2019 et 2020 sont contenu, mais j'aspire à intégrer les données plus viellies aussi. En plus je veux améliorer le maniement du site web et la qualité des données. Si vouz vouz intéressez aux retouches envisagées, je vouz refère à {issueTracker} du répositoire du code.",
+    "intro": "Un tableau de {websiteCreator}, que s'appuie sur les données ouvertes du festival par {dataProvider}. Un {tweet} était la cause pour rédiger ce tableau. Les données pour les concerts des années 2019 à 2022 s'appuient sur les données ouvertes de {dataProvider}, les données plus viellies sont du site web officiel du festival. En plus je veux améliorer le maniement du site web et la qualité des données. Si vouz vouz intéressez aux retouches envisagées, je vouz refère à {issueTracker} du répositoire du code.",
     "notes": "Remarques",
     "pagination": {
       "all": "tout",
