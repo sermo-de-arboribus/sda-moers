@@ -235,8 +235,8 @@
                 "Moritz Simon Geist (robots, electronics)",
                 "Buttonesque",
                 "Patrick Higgins (g)",
-                "Stickboy Compressorhead (dr)",
-                "Bones Compressorhead (g)",
+                "Stickboy (dr)",
+                "Bones (el-b)",
                 "Robert Henke (electronics)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
@@ -261,8 +261,8 @@
             "Moritz Simon Geist (robots, electronics)",
             "Buttonesque",
             "Patrick Higgins (g)",
-            "Stickboy Compressorhead (dr)",
-            "Bones Compressorhead (g)",
+            "Stickboy (dr)",
+            "Bones (el-b)",
             "Robert Henke (electronics)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
@@ -1050,7 +1050,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -1064,7 +1064,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 30,
         "place": {
@@ -1092,7 +1092,7 @@
     },
     {
         "id": 230,
-        "name": "moersify: Drum Theater & Angelika Niescier (DE, MY)",
+        "name": "moersify: Drum Theatre & Angelika Niescier (DE, MY)",
         "start_date": "2022-06-03T18:00:00.000000Z",
         "end_date": "2022-06-03T18:30:00.000000Z",
         "description": "Besetzung: Angelika Niescier (as), Tai Chun Wai (drums), Low Wai Kei (drums), Leow Sze Yee (Drum), Lim Jian Ru (drums), Eng Cheah Her (drums), Chew Soon Heng (drums), Damien Leow (drums)",
@@ -1284,7 +1284,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                null
+                "Steffen Müller (visual design)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -1298,7 +1298,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            null
+            "Steffen Müller (visual design)"
         ],
         "duration": 25,
         "place": {
@@ -2921,8 +2921,8 @@
                 "Moritz Simon Geist (robots, electronics)",
                 "Buttonesque",
                 "Patrick Higgins (g)",
-                "Stickboy Compressorhead (dr)",
-                "Bones Compressorhead (g)",
+                "Stickboy (dr)",
+                "Bones (el-b)",
                 "Robert Henke (electronics)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
@@ -2947,8 +2947,8 @@
             "Moritz Simon Geist (robots, electronics)",
             "Buttonesque",
             "Patrick Higgins (g)",
-            "Stickboy Compressorhead (dr)",
-            "Bones Compressorhead (g)",
+            "Stickboy (dr)",
+            "Bones (el-b)",
             "Robert Henke (electronics)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
@@ -3626,7 +3626,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -3640,7 +3640,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 30,
         "place": {
@@ -4153,7 +4153,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -4991,8 +4991,8 @@
                 "Moritz Simon Geist (robots, electronics)",
                 "Buttonesque",
                 "Patrick Higgins (g)",
-                "Stickboy Compressorhead (dr)",
-                "Bones Compressorhead (g)",
+                "Stickboy (dr)",
+                "Bones (el-b)",
                 "Robert Henke (electronics)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
@@ -5017,8 +5017,8 @@
             "Moritz Simon Geist (robots, electronics)",
             "Buttonesque",
             "Patrick Higgins (g)",
-            "Stickboy Compressorhead (dr)",
-            "Bones Compressorhead (g)",
+            "Stickboy (dr)",
+            "Bones (el-b)",
             "Robert Henke (electronics)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
@@ -5314,12 +5314,12 @@
         "extras": {
             "lineup": [
                 "Patrick Dollas (moderation)",
-                "Joel Grip",
-                "Almut K\u00fchne",
-                "Kristina Zalesskaya",
-                "Jan Dieren",
-                "Felix Klein",
-                "Reinhard Schmeer"
+                "Joel Grip (talk)",
+                "Almut K\u00fchne (talk)",
+                "Kristina Zalesskaya (talk)",
+                "Jan Dieren (talk)",
+                "Felix Klein (talk)",
+                "Reinhard Schmeer (talk)"
             ],
             "collection": "festival22"
         },
@@ -5333,12 +5333,12 @@
         "collection": "festival22",
         "artists": [
             "Patrick Dollas (moderation)",
-            "Joel Grip",
-            "Almut K\u00fchne",
-            "Kristina Zalesskaya",
-            "Jan Dieren",
-            "Felix Klein",
-            "Reinhard Schmeer"
+            "Joel Grip (talk)",
+            "Almut K\u00fchne (talk)",
+            "Kristina Zalesskaya (talk)",
+            "Jan Dieren (talk)",
+            "Felix Klein (talk)",
+            "Reinhard Schmeer (talk)"
         ],
         "duration": 90,
         "place": {
@@ -7710,8 +7710,8 @@
                 "Moritz Simon Geist (robots, electronics)",
                 "Buttonesque",
                 "Patrick Higgins (g)",
-                "Stickboy Compressorhead (dr)",
-                "Bones Compressorhead (g)",
+                "Stickboy (dr)",
+                "Bones (el-b)",
                 "Robert Henke (electronics)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
@@ -7736,8 +7736,8 @@
             "Moritz Simon Geist (robots, electronics)",
             "Buttonesque",
             "Patrick Higgins (g)",
-            "Stickboy Compressorhead (dr)",
-            "Bones Compressorhead (g)",
+            "Stickboy (dr)",
+            "Bones (el-b)",
             "Robert Henke (electronics)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
@@ -8471,7 +8471,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -8485,7 +8485,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 30,
         "place": {
