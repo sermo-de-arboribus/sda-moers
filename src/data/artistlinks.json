@@ -1951,6 +1951,38 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/mladja61"}]
         }
     },
+    "TomArthurs": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/tom-arthurs"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tom-arthurs-mn0002025605"}],
+            "bandcamp": [{"type": "album", "url": "https://babel-label.bandcamp.com/album/centripede"}, {"type": "album", "url": "https://simonvincentcomposerperformer.bandcamp.com/album/real-time-sound-sculpture-vol-1"}, {"type": "album", "url": "https://babel-label.bandcamp.com/album/postcards-from-pushkin"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2479314-Tom-Arthurs"}],
+            "homepage": [{"type": "personal", "url": "https://www.tomarthurs.co.uk/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Tom%20Arthurs%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tomarthurs"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/tomarthursmusic"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tom_Arthurs"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tom_Arthurs"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCo2AXGrmYWxRutgjGZwBAUg"}]
+        }
+    },
+    "KristinAsbjornsen": {
+        "canonicalName": {
+            "firstname": "Kristin",
+            "surname": "Asbjørnsen"
+        }
+    },
+    "KristinAsbjørnsen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/kristin-asbjornsen-15343"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kristin-asbj%C3%B8rnsen-mn0002303198"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/593069-Kristin-Asbj%C3%B8rnsen"}],
+            "homepage": [{"type": "personal", "url": "http://kristinasbjornsen.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Kristin%20Asbj%C3%B8rnsen%22&category_name=nach-hoeren"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/kristin-asbjornsen-official"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Kristin_Asbj%C3%B8rnsen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Kristin_Asbj%C3%B8rnsen"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Kristin_Asbj%C3%B8rnsen"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/costadelljan"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCwnlV3SxbC-id7QZ0JnSQ6g"}]
+        }
+    },
     "ToneÅse": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tone-%C3se-mn0003675116"}],
@@ -3886,6 +3918,23 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/878952-Peter-Evans-2"}],
             "homepage": [{"type": "personal", "url": "http://pevans.squarespace.com/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/peterevans10281"}]
+        }
+    },
+    "MalachiFavors": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/malachi-favors"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/malachi-favors-mn0000668969"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/255027-Malachi-Favors"}],
+            "homepage": [{"type": "personal", "url": "https://www.malachifavors.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Malachi%20Favors%22&category_name=nach-hoeren"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Malachi_Favors"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Malachi_Favors"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Malachi_Favors"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Malachi_Favors"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Malachi_Favors"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCb1cIsqLXY_rvMM5WR33_3A"}]
+        }
+    },
+    "MalachiFavours": {
+        "canonicalName": {
+            "firstname": "Malachi",
+            "surname": "Favors"
         }
     },
     "MarieFenske": {
