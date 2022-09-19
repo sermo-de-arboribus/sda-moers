@@ -1994,11 +1994,67 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCJ6XeCWG15jQhjmyoWHbbPw"}]
         }
     },
+    "Ajalaruru Asinmiyu": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom zpěvákovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteur",
+            "zh": "网上找不到这个歌手的资料"
+        }
+    },
     "RezaAskari": {
         "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/reza-askari"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reza-askari-mn0003146290"}],
             "bandcamp": [{"type": "personal", "url": "https://rezaaskari.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3556867-Reza-Askari"}]
+        }
+    },
+    "RezaAskari-Motlach": {
+        "canonicalName": {
+            "firstname": "Reza",
+            "surname": "Askari"
+        }
+    },
+    "RezaAskari-Motlagh": {
+        "canonicalName": {
+            "firstname": "Reza",
+            "surname": "Askari"
+        }
+    },
+    "PabloAslan": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/pablo-aslan"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pablo-aslan-mn0000067109"}],
+            "bandcamp": [{"type": "label", "url": "https://avantangorecords.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/604275-Pablo-Aslan"}],
+            "homepage": [{"type": "personal", "url": "http://www.pabloaslan.com/pablo/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pabloaslan"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/avantango"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/AvantangoMedia"}]
+        }
+    },
+    "MesseleAsmamaw": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/messele-asmamaw-mn0001786838"}, {"type": "personal", "url": "https://www.allmusic.com/artist/messale-asmamow-mn0003165072"}],
+            "bandcamp": [{"type": "album", "url": "https://terriehesselsterprecords.bandcamp.com/album/baro-101"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/463405-Mesele-Asmamaw"}, {"type": "personal", "url": "https://www.discogs.com/artist/9403798-Messele-Asmamaw"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UChNTBIWYygfJIrkgMGf6DfQ"}]
+        }
+    },
+    "VickyAspinall": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/vicki-aspinall-mn0002285771"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/226051-Vicky-Aspinall"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Vicky_Aspinall"}]}]
+        }
+    },
+    "BashirAssadi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bashir-asadi-mn0001058887"}],
+            "homepage": [{"type": "personal", "url": "https://www.instagram.com/bashir.asadi/"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/watch?v=a9-TGvqVJXg"}]
         }
     },
     "DanielAuner": {
