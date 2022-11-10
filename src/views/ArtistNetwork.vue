@@ -4,10 +4,10 @@
         <p>{{$t("artistsNetwork.intro")}}</p>
         <div class="row">
             <div class="col-9">
-                <div class="arrow arrow-up" @click="moveViewBox(0, 10)"><ArrowUp/></div>
-                <div class="arrow arrow-down" @click="moveViewBox(0, -10)"><ArrowDown/></div>
-                <div class="arrow arrow-left" @click="moveViewBox(10, 0)"><ArrowLeft/></div>
-                <div class="arrow arrow-right" @click="moveViewBox(-10, 0)"><ArrowRight/></div>
+                <div class="arrow arrow-up" @mousedown="startMovingViewBox(0, -10)" @mouseleave="stopMovingViewBox" @mouseup="stopMovingViewBox" @touchstart="startMovingViewBox(0, 10)" @touchend="stopMovingViewBox" @touchcancel="stopMovingViewBox"><ArrowUp/></div>
+                <div class="arrow arrow-down" @mousedown="startMovingViewBox(0, 10)" @mouseleave="stopMovingViewBox" @mouseup="stopMovingViewBox" @touchstart="startMovingViewBox(0, 10)" @touchend="stopMovingViewBox" @touchcancel="stopMovingViewBox"><ArrowDown/></div>
+                <div class="arrow arrow-left" @mousedown="startMovingViewBox(-10, 0)" @mouseleave="stopMovingViewBox" @mouseup="stopMovingViewBox" @touchstart="startMovingViewBox(0, 10)" @touchend="stopMovingViewBox" @touchcancel="stopMovingViewBox"><ArrowLeft/></div>
+                <div class="arrow arrow-right" @mousedown="startMovingViewBox(10, 0)" @mouseleave="stopMovingViewBox" @mouseup="stopMovingViewBox" @touchstart="startMovingViewBox(0, 10)" @touchend="stopMovingViewBox" @touchcancel="stopMovingViewBox"><ArrowRight/></div>
                 <svg id="networkRoot" ref="networkRoot"></svg>
             </div>
             <div class="col-3 sideInfo">
@@ -42,25 +42,25 @@
 <style>
 .arrow {
     position: absolute;
-    width: 25px;
+    width: 35px;
 }
 
 .arrow-left {
-    right: 50px;
-    top: 15px;
+    right: 70px;
+    top: 30px;
 }
 
 .arrow-right {
     right: 10px;
-    top: 15px;
+    top: 30px;
 }
 
 .arrow-up, .arrow-down {
-    right: 30px;
+    right: 40px;
 }
 
 .arrow-down {
-    top: 30px;
+    top: 60px;
 }
 
 .arrow-up {
@@ -192,6 +192,7 @@ export default {
                     "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/deniaural"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCWvua5eiLSf9OpTk7Hu5H5w"}]
                 }
             },
+            movingViewBox: false,
             viewBox: {
                 x: 0,
                 y: 0,
@@ -205,6 +206,17 @@ export default {
         serializeViewBox() {
             const { viewBox } = this;
             return `${viewBox.x} ${viewBox.y} ${viewBox.width} ${viewBox.height}`
+        },
+
+        startMovingViewBox(dx, dy) {
+            if(!this.movingViewBox) {
+                this.movingViewBox = setInterval(() => this.moveViewBox(dx, dy), 300);
+            }
+        },
+
+        stopMovingViewBox() {
+            clearInterval(this.movingViewBox);
+            this.movingViewBox = false;
         },
 
         moveViewBox(dx, dy) {

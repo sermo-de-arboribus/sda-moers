@@ -5250,6 +5250,12 @@
             "surname": "Huydts"
         }
     },
+    "TalIlan": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.geschkult.fu-berlin.de/e/judaistik/mitarbeiter/001Professor_inn_en/Ilan.html"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tal_Ilan"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tal_Ilan"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tal_Ilan"}]}]
+        }
+    },
     "KonstantinIngenpaß": {
         "links": {
             "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-konstantin-ingenpass"}],
@@ -6127,6 +6133,13 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ingridlaubrock"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ingrid_Laubrock"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ingrid_Laubrock"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ingrid_Laubrock"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCdR3xjOhpl0-V5Db2CDkeyQ"}]
+        },
+        "notes": {
+            "cs": "",
+            "de": "Zu Laubrocks Konzert mit Braxtons ZIM Sextet 2017 vgl. den Blog-Artikel http://ifyouknowwhatimsaying.blogspot.com/2022/11/zim-video.html",
+            "en": "For details about Laubrock's concert with Braxton's ZIM sextet cf. Centrifuge's blog article http://ifyouknowwhatimsaying.blogspot.com/2022/11/zim-video.html",
+            "fr": "Pour détails concernant le concert de Laubrock avec ZIM sextet d'Anthony Braxon viz http://ifyouknowwhatimsaying.blogspot.com/2022/11/zim-video.html",
+            "zh": ""
         }
     },
     "BerntLaukamp": {
@@ -8437,6 +8450,11 @@
     "ChristineSchäfer": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7542025-Christine-Sch%C3%A4fer-4"}]
+        }
+    },
+    "AnnaSchapiro": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.annaschapiro.com/"}]
         }
     },
     "LotharScharf": {

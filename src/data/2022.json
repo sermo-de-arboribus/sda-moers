@@ -1891,9 +1891,9 @@
     },
     {
         "id": 2022137,
-        "name": "moers sessions! #1",
+        "name": "moers sessions! #1, set 1",
         "start_date": "2022-06-03T22:00:00.000000Z",
-        "end_date": "2022-06-03T23:30:00.000000Z",
+        "end_date": "2022-06-03T22:25:00.000000Z",
         "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
         "page_id": 295,
         "url": null,
@@ -1904,7 +1904,11 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jan Klare (Kurator)"
+                "Tizia Zimmermann (acc)",
+                "Matthew Welch (bagpipes)",
+                "Giannis Arapis (git)",
+                "Talia Herzlich (vl)",
+                "Yoni Gotlibovich (vcl)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -1918,9 +1922,13 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jan Klare (Kurator)"
+            "Tizia Zimmermann (acc)",
+            "Matthew Welch (bagpipes)",
+            "Giannis Arapis (git)",
+            "Talia Herzlich (vl)",
+            "Yoni Gotlibovich (vcl)"
         ],
-        "duration": 90,
+        "duration": 25,
         "place": {
             "id": 202215,
             "lat": 51.4420784,
@@ -1944,6 +1952,129 @@
             "deleted_at": null
         }
     },
+    {
+        "id": 2022244,
+        "name": "moers sessions! #1, set 2",
+        "start_date": "2022-06-03T22:35:00.000000Z",
+        "end_date": "2022-06-03T23:00:00.000000Z",
+        "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
+        "page_id": 295,
+        "url": null,
+        "image_path": null,
+        "category": "",
+        "organisation_id": null,
+        "place_id": 15,
+        "platform_id": null,
+        "extras": {
+            "lineup": [
+                "Peter Apfelbaum (sax)",
+                "Assif Tsahar (sax)",
+                "Shoji Hano (dr)",
+                "Max Johnson (bass)"
+            ],
+            "collection": "festival22",
+            "tickets": "ben\u00f6tigt kein Ticket"
+        },
+        "published_at": "2022-05-05T10:00:00.000000Z",
+        "cancelled_at": null,
+        "scheduled_at": null,
+        "created_at": "2022-05-04T10:36:16.000000Z",
+        "updated_at": "2022-05-23T10:58:29.000000Z",
+        "archived_at": null,
+        "deleted_at": null,
+        "collection": "festival22",
+        "artists": [
+            "Peter Apfelbaum (sax)",
+            "Assif Tsahar (sax)",
+            "Shoji Hano (dr)",
+            "Max Johnson (bass)"
+        ],
+        "duration": 25,
+        "place": {
+            "id": 202215,
+            "lat": 51.4420784,
+            "lng": 6.6201512,
+            "name": "Aula Filder Benden",
+            "street_name": "Zahnstra\u00dfe",
+            "street_number": "43",
+            "address_addition": null,
+            "postalcode": "47447",
+            "postal_town": "Moers",
+            "country_code": "DE",
+            "opening_hours": null,
+            "tags": "",
+            "url": null,
+            "phone": null,
+            "extras": null,
+            "page_id": null,
+            "validated_at": "2021-03-24T08:08:45.000000Z",
+            "created_at": "2021-03-24T08:08:45.000000Z",
+            "updated_at": "2022-05-10T17:45:04.000000Z",
+            "deleted_at": null
+        }
+    },
+    {
+        "id": 2022245,
+        "name": "moers sessions! #1, set 3",
+        "start_date": "2022-06-03T23:05:00.000000Z",
+        "end_date": "2022-06-03T23:30:00.000000Z",
+        "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
+        "page_id": 295,
+        "url": null,
+        "image_path": null,
+        "category": "",
+        "organisation_id": null,
+        "place_id": 15,
+        "platform_id": null,
+        "extras": {
+            "lineup": [
+                "Asaf Schorl (bass)",
+                "Sana Nagano (violin)",
+                "Florian Walter (reeds)",
+                "Alfred Vogel (dr)"
+            ],
+            "collection": "festival22",
+            "tickets": "ben\u00f6tigt kein Ticket"
+        },
+        "published_at": "2022-05-05T10:00:00.000000Z",
+        "cancelled_at": null,
+        "scheduled_at": null,
+        "created_at": "2022-05-04T10:36:16.000000Z",
+        "updated_at": "2022-05-23T10:58:29.000000Z",
+        "archived_at": null,
+        "deleted_at": null,
+        "collection": "festival22",
+        "artists": [
+            "Asaf Schorl (bass)",
+            "Sana Nagano (violin)",
+            "Florian Walter (reeds)",
+            "Alfred Vogel (dr)"
+        ],
+        "duration": 25,
+        "place": {
+            "id": 202215,
+            "lat": 51.4420784,
+            "lng": 6.6201512,
+            "name": "Aula Filder Benden",
+            "street_name": "Zahnstra\u00dfe",
+            "street_number": "43",
+            "address_addition": null,
+            "postalcode": "47447",
+            "postal_town": "Moers",
+            "country_code": "DE",
+            "opening_hours": null,
+            "tags": "",
+            "url": null,
+            "phone": null,
+            "extras": null,
+            "page_id": null,
+            "validated_at": "2021-03-24T08:08:45.000000Z",
+            "created_at": "2021-03-24T08:08:45.000000Z",
+            "updated_at": "2022-05-10T17:45:04.000000Z",
+            "deleted_at": null
+        }
+    },
+    
     {
         "id": 2022175,
         "name": "DJ Tudo - \u201eI only believe in a god that dances\u201c",
@@ -2350,7 +2481,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Anna Schapiro"
+                "Anna Schapiro (talk)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -2364,7 +2495,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Anna Schapiro"
+            "Anna Schapiro (talk)"
         ],
         "duration": 30,
         "place": {
@@ -2405,7 +2536,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Tal Ilan"
+                "Tal Ilan (reading)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -2419,7 +2550,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Tal Ilan"
+            "Tal Ilan (reading)"
         ],
         "duration": 120,
         "place": {
@@ -2557,9 +2688,9 @@
     },
     {
         "id": 2022140,
-        "name": "moers sessions! #2",
+        "name": "moers sessions! #2, set 1",
         "start_date": "2022-06-04T10:00:00.000000Z",
-        "end_date": "2022-06-04T11:30:00.000000Z",
+        "end_date": "2022-06-04T10:40:00.000000Z",
         "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
         "page_id": 297,
         "url": null,
@@ -2570,7 +2701,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jan Klare (Kurator)"
+                "Francesco Guerri (cello)",
+                "Adaya Godlevsky (harp)",
+                "Stefano Calderano (git)",
+                "Michael Vatcher (drums)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -2584,7 +2718,73 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jan Klare (Kurator)"
+            "Francesco Guerri (cello)",
+            "Adaya Godlevsky (harp)",
+            "Stefano Calderano (git)",
+            "Michael Vatcher (drums)"
+        ],
+        "duration": 90,
+        "place": {
+            "id": 202215,
+            "lat": 51.4420784,
+            "lng": 6.6201512,
+            "name": "Aula Filder Benden",
+            "street_name": "Zahnstra\u00dfe",
+            "street_number": "43",
+            "address_addition": null,
+            "postalcode": "47447",
+            "postal_town": "Moers",
+            "country_code": "DE",
+            "opening_hours": null,
+            "tags": "",
+            "url": null,
+            "phone": null,
+            "extras": null,
+            "page_id": null,
+            "validated_at": "2021-03-24T08:08:45.000000Z",
+            "created_at": "2021-03-24T08:08:45.000000Z",
+            "updated_at": "2022-05-10T17:45:04.000000Z",
+            "deleted_at": null
+        }
+    },
+    {
+        "id": 2022246,
+        "name": "moers sessions! #2, set 2",
+        "start_date": "2022-06-04T10:50:00.000000Z",
+        "end_date": "2022-06-04T11:30:00.000000Z",
+        "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
+        "page_id": 297,
+        "url": null,
+        "image_path": null,
+        "category": "",
+        "organisation_id": null,
+        "place_id": 15,
+        "platform_id": null,
+        "extras": {
+            "lineup": [
+                "Milton Michaeli (piano)",
+                "Simon Camatta (drums)",
+                "Francesco Bigoni (reeds)",
+                "Ken Filiano (bass)",
+                "Hans Peter Hiby (sax)"
+            ],
+            "collection": "festival22",
+            "tickets": "ben\u00f6tigt kein Ticket"
+        },
+        "published_at": "2022-05-05T10:00:00.000000Z",
+        "cancelled_at": null,
+        "scheduled_at": null,
+        "created_at": "2022-05-04T10:42:55.000000Z",
+        "updated_at": "2022-05-23T10:58:33.000000Z",
+        "archived_at": null,
+        "deleted_at": null,
+        "collection": "festival22",
+        "artists": [
+            "Milton Michaeli (piano)",
+            "Simon Camatta (drums)",
+            "Francesco Bigoni (reeds)",
+            "Ken Filiano (bass)",
+            "Hans Peter Hiby (sax)"
         ],
         "duration": 90,
         "place": {
@@ -4918,9 +5118,9 @@
     },
     {
         "id": 2022150,
-        "name": "moers sessions! #3",
+        "name": "moers sessions! #3, set 1",
         "start_date": "2022-06-05T10:00:00.000000Z",
-        "end_date": "2022-06-05T11:30:00.000000Z",
+        "end_date": "2022-06-05T10:25:00.000000Z",
         "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
         "page_id": 270,
         "url": null,
@@ -4931,7 +5131,9 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jan Klare (Kurator)"
+                "Joe Hertenstein (drums)",
+                "Vicente Hansen Atria (drums)",
+                "Jasper Stadhouders (git)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -4945,9 +5147,133 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jan Klare (Kurator)"
+            "Joe Hertenstein (drums)",
+            "Vicente Hansen Atria (drums)",
+            "Jasper Stadhouders (git)"
         ],
-        "duration": 90,
+        "duration": 25,
+        "place": {
+            "id": 202215,
+            "lat": 51.4420784,
+            "lng": 6.6201512,
+            "name": "Aula Filder Benden",
+            "street_name": "Zahnstra\u00dfe",
+            "street_number": "43",
+            "address_addition": null,
+            "postalcode": "47447",
+            "postal_town": "Moers",
+            "country_code": "DE",
+            "opening_hours": null,
+            "tags": "",
+            "url": null,
+            "phone": null,
+            "extras": null,
+            "page_id": null,
+            "validated_at": "2021-03-24T08:08:45.000000Z",
+            "created_at": "2021-03-24T08:08:45.000000Z",
+            "updated_at": "2022-05-10T17:45:04.000000Z",
+            "deleted_at": null
+        }
+    },
+    {
+        "id": 2022247,
+        "name": "moers sessions! #3, set 2",
+        "start_date": "2022-06-05T10:35:00.000000Z",
+        "end_date": "2022-06-05T11:00:00.000000Z",
+        "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
+        "page_id": 270,
+        "url": null,
+        "image_path": null,
+        "category": "",
+        "organisation_id": null,
+        "place_id": 15,
+        "platform_id": null,
+        "extras": {
+            "lineup": [
+                "Tomeka Reid (cello)",
+                "Bart Maris (tp)",
+                "Haggai Fershtman (drums)",
+                "Luke Stewart (bass)"
+            ],
+            "collection": "festival22",
+            "tickets": "ben\u00f6tigt kein Ticket"
+        },
+        "published_at": "2022-05-05T10:00:00.000000Z",
+        "cancelled_at": null,
+        "scheduled_at": null,
+        "created_at": "2022-05-04T11:15:01.000000Z",
+        "updated_at": "2022-05-23T10:58:37.000000Z",
+        "archived_at": null,
+        "deleted_at": null,
+        "collection": "festival22",
+        "artists": [
+            "Tomeka Reid (cello)",
+            "Bart Maris (tp)",
+            "Haggai Fershtman (drums)",
+            "Luke Stewart (bass)"
+        ],
+        "duration": 25,
+        "place": {
+            "id": 202215,
+            "lat": 51.4420784,
+            "lng": 6.6201512,
+            "name": "Aula Filder Benden",
+            "street_name": "Zahnstra\u00dfe",
+            "street_number": "43",
+            "address_addition": null,
+            "postalcode": "47447",
+            "postal_town": "Moers",
+            "country_code": "DE",
+            "opening_hours": null,
+            "tags": "",
+            "url": null,
+            "phone": null,
+            "extras": null,
+            "page_id": null,
+            "validated_at": "2021-03-24T08:08:45.000000Z",
+            "created_at": "2021-03-24T08:08:45.000000Z",
+            "updated_at": "2022-05-10T17:45:04.000000Z",
+            "deleted_at": null
+        }
+    },
+    {
+        "id": 2022248,
+        "name": "moers sessions! #3, set 3",
+        "start_date": "2022-06-05T11:05:00.000000Z",
+        "end_date": "2022-06-05T11:30:00.000000Z",
+        "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
+        "page_id": 270,
+        "url": null,
+        "image_path": null,
+        "category": "",
+        "organisation_id": null,
+        "place_id": 15,
+        "platform_id": null,
+        "extras": {
+            "lineup": [
+                "Joke Lantz (el)",
+                "Michael Vatcher (dr)",
+                "Gamin Kang (korean woodwinds)",
+                "Tobias Klein (sax)"
+            ],
+            "collection": "festival22",
+            "tickets": "ben\u00f6tigt kein Ticket"
+        },
+        "published_at": "2022-05-05T10:00:00.000000Z",
+        "cancelled_at": null,
+        "scheduled_at": null,
+        "created_at": "2022-05-04T11:15:01.000000Z",
+        "updated_at": "2022-05-23T10:58:37.000000Z",
+        "archived_at": null,
+        "deleted_at": null,
+        "collection": "festival22",
+        "artists": [
+            "Joke Lantz (el)",
+            "Michael Vatcher (dr)",
+            "Gamin Kang (korean woodwinds)",
+            "Tobias Klein (sax)"
+        ],
+        "duration": 25,
         "place": {
             "id": 202215,
             "lat": 51.4420784,
@@ -7387,9 +7713,9 @@
     },
     {
         "id": 2022159,
-        "name": "moers sessions! #4",
+        "name": "moers sessions! #4, set 1",
         "start_date": "2022-06-06T10:00:00.000000Z",
-        "end_date": "2022-06-06T11:30:00.000000Z",
+        "end_date": "2022-06-06T10:40:00.000000Z",
         "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
         "page_id": 284,
         "url": null,
@@ -7400,7 +7726,11 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jan Klare (Kurator)"
+                "Jonathan Goldberger (git)",
+                "Philipp Moser (drums)",
+                "Jason Roebke (bass)",
+                "John Dikeman (sax)",
+                "Mat Muntz (bass)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -7414,9 +7744,76 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jan Klare (Kurator)"
+            "Jonathan Goldberger (git)",
+            "Philipp Moser (drums)",
+            "Jason Roebke (bass)",
+            "John Dikeman (sax)",
+            "Mat Muntz (bass)"
         ],
-        "duration": 90,
+        "duration": 40,
+        "place": {
+            "id": 202215,
+            "lat": 51.4420784,
+            "lng": 6.6201512,
+            "name": "Aula Filder Benden",
+            "street_name": "Zahnstra\u00dfe",
+            "street_number": "43",
+            "address_addition": null,
+            "postalcode": "47447",
+            "postal_town": "Moers",
+            "country_code": "DE",
+            "opening_hours": null,
+            "tags": "",
+            "url": null,
+            "phone": null,
+            "extras": null,
+            "page_id": null,
+            "validated_at": "2021-03-24T08:08:45.000000Z",
+            "created_at": "2021-03-24T08:08:45.000000Z",
+            "updated_at": "2022-05-10T17:45:04.000000Z",
+            "deleted_at": null
+        }
+    },
+    {
+        "id": 2022249,
+        "name": "moers sessions! #4, set 2",
+        "start_date": "2022-06-06T10:50:00.000000Z",
+        "end_date": "2022-06-06T11:30:00.000000Z",
+        "description": "Die legend\u00e4ren Sessions; kuratiert von Jan Klare",
+        "page_id": 284,
+        "url": null,
+        "image_path": null,
+        "category": "",
+        "organisation_id": null,
+        "place_id": 15,
+        "platform_id": null,
+        "extras": {
+            "lineup": [
+                "Gon\u00e7alo Almeida (b)",
+                "Francesco Diodati (guitar)",
+                "Almut K\u00fchne (voc)",
+                "Laura Polence (voc)",
+                "Steffen Müller (visual design)"
+            ],
+            "collection": "festival22",
+            "tickets": "ben\u00f6tigt kein Ticket"
+        },
+        "published_at": "2022-05-05T10:00:00.000000Z",
+        "cancelled_at": null,
+        "scheduled_at": null,
+        "created_at": "2022-05-04T11:40:47.000000Z",
+        "updated_at": "2022-05-23T10:58:42.000000Z",
+        "archived_at": null,
+        "deleted_at": null,
+        "collection": "festival22",
+        "artists": [
+            "Gon\u00e7alo Almeida (b)",
+            "Francesco Diodati (guitar)",
+            "Almut K\u00fchne (voc)",
+            "Laura Polence (voc)",
+            "Steffen Müller (visual design)"
+        ],
+        "duration": 40,
         "place": {
             "id": 202215,
             "lat": 51.4420784,
