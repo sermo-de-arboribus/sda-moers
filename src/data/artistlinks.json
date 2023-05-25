@@ -2940,6 +2940,12 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/simoncamatta"}]
         }
     },
+    "SteveCameron": {
+        "links": {
+            "bandcamp": [{"type": "band", "url": "https://editrix.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7321890-Steve-Cameron-6"}]
+        }
+    },
     "RodrigoCampos": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rodrigo-campos-mn0001539846/"}],
@@ -3289,6 +3295,12 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/%C3va-csizmadia-mn0002957979"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2876366-%C3%89va-Csizmadia"}],
             "homepage": [{"type": "agency", "url": "https://www.musicbrig.de/lehrer"}]
+        }
+    },
+    "JoshDaniel": {
+        "links": {
+            "bandcamp": [{"type": "band", "url": "https://editrix.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6703356-Josh-Daniel-2"}]
         }
     },
     "MarieDaniels": {

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 2023001,
+        "name": "Editrix (US)",
+        "start_date": "2023-05-26T16:45:00.000000Z",
+        "end_date": "2023-05-26T17:25:00.000000Z",
+        "description": "Gitarrist:in Wendy Eisenberg kehrt nach their fulminanten Auftritt mit Strictly Missionary 2021 mit der Formation Editrix  und einem Soloset zurück nach Moers. Editrix sind ein erster Vorgeschmack auf das, was euch Pfingsten 2023 (auch) in Moers erwartet: Bands und Projects abseits aller Klischees, voller Energie, klug und mit Haltung. Lang lebe die Avantgarde!",
+        "artists": [
+            "Steve Cameron (b)",
+            "Josh Daniel (dr)",
+            "Wendy Eisenberg (git, voc)"
+        ]
+    },
+    {
+        "id": 2023002,
+        "name": "SAPAT (DE, SE, UK) [Cafe OTO & moers festival residence project #1]",
+        "start_date": "2023-05-26T17:40:00.000000Z",
+        "end_date": "2023-05-26T18:20.000000Z",
+        "description": "(London/Moers) Das Cafe OTO ist in London der! Ort für Free Jazz, Improvisierte Musik und Experimentelles mit Live-Musik an sieben Abenden der Woche. Gemeinsam haben das Cafe OTO und das moers festival nun ein umfangreiches Residence-Projekt mit mehreren Residenzen in London auf die Beine gestellt, bei dem Künstler:innen aus NRW und den UK zusammentreffen. Die Ergebnisse aus diesen Kollaborationen werden in London und auf dem moers festival 2023 und 2024 uraufgeführt.\n\n       Teil des Programmes sind u. a. Elvin Brandhi und Joel Grip. Elvin Brandhis improvisierte Vokalakrobatik zieht die Logik auf links, zugunsten eines kompromisslosen Ausrufs. Das, was da aus ihrem Mund dringt wird Eins mit elektronisch-rhythmischen Konstellationen. Joel Grip spielt mit der jeweiligen Situation und zerlegt sie in ihre Spannung und ihren Sound. Klangsprache und Timing seines Bassspiels beziehen sich auf die lange Geschichte seines Instruments mit allen daraus entstandenen Strömungen.",
+        "artists": [
+            "Elvin Brandhi (voc, elec)",
+            "Tabea Lara Ngozi Briggs (voc, hrp, elec)",
+            "Joel Grip (b)"
+        ]
+    },
+    {
+        "id": 2023003,
+        "name": "FYEAR (CA)",
+        "start_date": "2023-05-26T18:40:00.000000Z",
+        "end_date": "2023-05-26T19:20:00.000000Z",
+        "description": "FYEAR schlägt eine Brücke zwischen Improvisation und Komposition, elektronischer und akustischer Instrumentierung, Sprache und abstrakter Vokalisation und kombiniert einen schrillen Puls mit einem weitreichenden Gefühl von Freiheit. Die Mixed-Media-Kompositionen beschwören die Dringlichkeit des unruhigen Moments herauf und werfen gleichzeitig einen Blick in die Zukunft.",
+        "artists": [
+            "Jason Sharp (bs, elec, comp)",
+            "Joe Grass (pedal steel)",
+            "Jesse Zubot (v)",
+            "Josh Zubot (v)",
+            "Kaie Kellough (voc, lyrics)",
+            "Tanya Evanson (voc)",
+            "Jahsun Promesse (dr)",
+            "Stefan Schneider (dr)",
+            "Kevin Lo (projections)"
+        ]
+    },
+    {
+        "id": "2023004",
+        "name": "Laura Cocks (US)",
+        "start_date": "2023-05-26T19:30:00.000000Z",
+        "end_date": "2023-05-26T20:10:00.000000Z",
+        "description": "Huuuiiiiii! Windkraft ist das Ding! Was man damit alles bewegen und anstellen kann: Richtig schnell die kylwirische See durchstechen, den ganzen Planeten retten, den eigenen festgefahrenen Kurs ändern, mit über 111 verschiedenen Töne in nur wenigen Sekunden. Mit über 112 Dezibel Willenskraft kann man auch mit einer kleinen Jolle schneller als mit bekloppten hightech-Segelyachten den Atlantik überqueren, so, wie Laura Cocks. Unerhörte Töne, Klänge, Flageolets, multiphonics - ein lauter schriller schöner Schrei nach Veränderung. Mitgliedschaft in der SUN HAN Gilde und ablandiger Wind am Rodelberg bescheren uns einen mutigen Aufbruch ins Neurofrequenz-Neuland - Huuuiiii!",
+        "artists": [
+            "Laura Cocks (fl)"
+        ]
+    }
+]
