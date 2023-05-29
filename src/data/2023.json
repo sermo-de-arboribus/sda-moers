@@ -2,8 +2,8 @@
     {
         "id": 2023001,
         "name": "Editrix (US)",
-        "start_date": "2023-05-26T16:45:00.000000Z",
-        "end_date": "2023-05-26T17:25:00.000000Z",
+        "start_date": "2023-05-26T16:45:00.000000+02:00",
+        "end_date": "2023-05-26T17:25:00.000000+02:00",
         "description": "Gitarrist:in Wendy Eisenberg kehrt nach their fulminanten Auftritt mit Strictly Missionary 2021 mit der Formation Editrix  und einem Soloset zurück nach Moers. Editrix sind ein erster Vorgeschmack auf das, was euch Pfingsten 2023 (auch) in Moers erwartet: Bands und Projects abseits aller Klischees, voller Energie, klug und mit Haltung. Lang lebe die Avantgarde!",
         "artists": [
             "Steve Cameron (b)",
@@ -14,8 +14,8 @@
     {
         "id": 2023002,
         "name": "SAPAT (DE, SE, UK) [Cafe OTO & moers festival residence project #1]",
-        "start_date": "2023-05-26T17:40:00.000000Z",
-        "end_date": "2023-05-26T18:20.000000Z",
+        "start_date": "2023-05-26T17:40:00.000000+02:00",
+        "end_date": "2023-05-26T18:20.000000+02:00",
         "description": "(London/Moers) Das Cafe OTO ist in London der! Ort für Free Jazz, Improvisierte Musik und Experimentelles mit Live-Musik an sieben Abenden der Woche. Gemeinsam haben das Cafe OTO und das moers festival nun ein umfangreiches Residence-Projekt mit mehreren Residenzen in London auf die Beine gestellt, bei dem Künstler:innen aus NRW und den UK zusammentreffen. Die Ergebnisse aus diesen Kollaborationen werden in London und auf dem moers festival 2023 und 2024 uraufgeführt.\n\n       Teil des Programmes sind u. a. Elvin Brandhi und Joel Grip. Elvin Brandhis improvisierte Vokalakrobatik zieht die Logik auf links, zugunsten eines kompromisslosen Ausrufs. Das, was da aus ihrem Mund dringt wird Eins mit elektronisch-rhythmischen Konstellationen. Joel Grip spielt mit der jeweiligen Situation und zerlegt sie in ihre Spannung und ihren Sound. Klangsprache und Timing seines Bassspiels beziehen sich auf die lange Geschichte seines Instruments mit allen daraus entstandenen Strömungen.",
         "artists": [
             "Elvin Brandhi (voc, elec)",
@@ -26,29 +26,691 @@
     {
         "id": 2023003,
         "name": "FYEAR (CA)",
-        "start_date": "2023-05-26T18:40:00.000000Z",
-        "end_date": "2023-05-26T19:20:00.000000Z",
+        "start_date": "2023-05-26T18:40:00.000000+02:00",
+        "end_date": "2023-05-26T19:20:00.000000+02:00",
         "description": "FYEAR schlägt eine Brücke zwischen Improvisation und Komposition, elektronischer und akustischer Instrumentierung, Sprache und abstrakter Vokalisation und kombiniert einen schrillen Puls mit einem weitreichenden Gefühl von Freiheit. Die Mixed-Media-Kompositionen beschwören die Dringlichkeit des unruhigen Moments herauf und werfen gleichzeitig einen Blick in die Zukunft.",
         "artists": [
-            "Jason Sharp (bs, elec, comp)",
+            "Jason Sharp (bass sax, bs, elec, comp)",
             "Joe Grass (pedal steel)",
-            "Jesse Zubot (v)",
-            "Josh Zubot (v)",
+            "Jesse Zubot (vl)",
+            "Josh Zubot (vl)",
             "Kaie Kellough (voc, lyrics)",
             "Tanya Evanson (voc)",
             "Jahsun Promesse (dr)",
-            "Stefan Schneider (dr)",
+            "Stefan Schneider [*1976] (dr)",
             "Kevin Lo (projections)"
         ]
     },
     {
-        "id": "2023004",
+        "id": 2023004,
         "name": "Laura Cocks (US)",
-        "start_date": "2023-05-26T19:30:00.000000Z",
-        "end_date": "2023-05-26T20:10:00.000000Z",
+        "start_date": "2023-05-26T19:30:00.000000+02:00",
+        "end_date": "2023-05-26T20:10:00.000000+02:00",
         "description": "Huuuiiiiii! Windkraft ist das Ding! Was man damit alles bewegen und anstellen kann: Richtig schnell die kylwirische See durchstechen, den ganzen Planeten retten, den eigenen festgefahrenen Kurs ändern, mit über 111 verschiedenen Töne in nur wenigen Sekunden. Mit über 112 Dezibel Willenskraft kann man auch mit einer kleinen Jolle schneller als mit bekloppten hightech-Segelyachten den Atlantik überqueren, so, wie Laura Cocks. Unerhörte Töne, Klänge, Flageolets, multiphonics - ein lauter schriller schöner Schrei nach Veränderung. Mitgliedschaft in der SUN HAN Gilde und ablandiger Wind am Rodelberg bescheren uns einen mutigen Aufbruch ins Neurofrequenz-Neuland - Huuuiiii!",
         "artists": [
             "Laura Cocks (fl)"
         ]
+    },
+    {
+        "id": 2023005,
+        "name": "Lukas Ligeti spricht: … à propos de mon père (AT)",
+        "start_date": "2023-05-26T19:40:00.000000+02:00",
+        "description": "Über seinen Vater so sprechen zu können setzt eigene musikalische Leistungen voraus. Lukas Ligeti bleibt nicht im Schatten seines Vaters, sondern wandelt ganz selbstverständlich zwischen den Welten der Neuen und der Improvisierten Musik. Ob er in Wien, New York oder auf dem afrikanischen Kontinent unterwegs ist – eigentlich war er auch immer schon irgendwie in Moers. Nun endlich physisch in Moers zu Gast, dürfen wir unter anderem gespannt sein, was Lukas Ligeti über seinen Vater zu erzählen hat.",
+        "artists": [
+            "Lukas Ligeti (talk)"
+        ]
+    },
+    {
+        "id": 2023006,
+        "name": "moersify @ Rudolf-Schloer-Stift",
+        "start_date": "2023-05-26T13:00:00+02:00",
+        "description": "Rudolf-Schloer-Stift, Kranichstarße 1, 47441 Moers",
+        "artists": [
+            "Matthias Schubert (ts)"
+        ]
+    },
+    {
+        "id": 2023007,
+        "name": "moersify @ Rathaus Moers, Büro des Bürgermeisters",
+        "start_date": "2023-05-26T13:00:00+02:00",
+        "description": "Rathaus Moers, Büro des Bürgermeisters, Rathausplatz 1, 47441 Moers",
+        "artists": [
+            "Bart Maris (tp)",
+            "Filip Wauters (g)",
+            "Giovanni Barcella (dr)"
+        ]
+    },
+    {
+        "id": 2023008,
+        "name": "moersify @ Grafsschafter Diakonie",
+        "start_date": "2023-05-26T13:45:00+02:00",
+        "description": "Grafsschafter Diakonie „Haus für Jung und Alt“",
+        "artists": [
+            "Matthias Schubert (ts)"
+        ]
+    },
+    {
+        "id": 2023009,
+        "name": "moersify @ Altmarkt",
+        "start_date": "2023-05-26T14:00:00+02:00",
+        "description": "Altmarkt, 47441 Moers",
+        "artists": [
+            "Matthias Schubert (ts)"
+        ]
+    },
+    {
+        "id": 2023010,
+        "name": "Lukas Ligeti: en même temps (AT, FR)",
+        "start_date": "2023-05-26T20:10:00+02:00",
+        "description": "2022 entstand in Moers das neue Format @the_same_time ein, bei dem Musiker:innen auf zwei Bühnen zugleich und miteinander spielen, das Publikum live aber nur das hört, was es auch sieht. Erst einige Stunden später ist der Zusammenschnitt beider Konzertteile in der virtuellen Realität moerslandVR als Ganzes zu erleben. Lukas Ligeti komponiert speziell für dieses Format das Stück „en même temps“, das er mit zwei Quartette des 21-köpfigen Pariser Ensembles Icosikaihenagone von Benjamin Duboc erarbeitet. In realem Regen bei virtuellem Sonnenschein – stereo aus der Zeit in Farbe geträumt.",
+        "artists": [
+            "Lukas Ligeti (comp)",
+            "Guylaine Cosseron (voc)",
+            "Jean-Sébastien Mariage (e-g)",
+            "Jean-Luc Petit (ccl, sax)",
+            "Gaël Mevel (vclo)",
+            "Sophia Domancich (p)",
+            "Amélie Grould (perc)",
+            "Thierry Waziniak (dr, perc)",
+            "Diemo Schwarz (elec)"
+        ]
+    },
+    {
+        "id": 2023011,
+        "name": "SEABROOK TRIO (US)",
+        "start_date": "2023-05-26T21:10:00+02:00",
+        "description": "Fans der Improvisierten Musik können sich mit dem Seabrook Trio auf ein Zusammentreffen dreier Ausnahmemusiker freuen: Gitarrist Brandon Seabrook kommt mit Gerald Cleaver am Schlagzeug und Cooper-Moore am „Diddley Bow“.",
+        "artists": ["Brandon Seabrook (g)","Gerald Cleaver (dr)","Cooper-Moore (Diddley Bow)"]
+    },
+    {
+        "id": 2023012,
+        "name": "SCATTER THE ATOMS THAT REMAIN with special guest Gary Bartz (US)",
+        "start_date": "2023-05-26T21:10:00+02:00",
+        "description": "Musik soll nicht nach etwas oder jemandem klingen, sondern etwas Neues erzeugen. Seele soll sie haben und empowern. Dieser Anspruch von SCATTER THE ATOMS THAT REMAIN, angstfreie, kompromisslose und dennoch beflügelnde Musik zu machen, ist hoch. Ihre neue musikalisch-visuelle EMANCIPATION SUITE erzählt von BE-FREI-UNG. Und Gary Bartz (langjähriger Saxophonist bei Miles Davis) als special guest kennt sich aus mit spiritueller Freyheidt..",
+        "artists": ["Franklin Kiermyer (dr, leader)", "Davis Whitfield (p, musical director)", "Géraud Portal (b)", "Gary Bartz (sax)","Lea Brugnoli (visuals)"]
+    },
+    {
+        "id": 2023013,
+        "name": "Stummfilmmusik „Das Cabinet des Dr. Caligari“",
+        "start_date": "2023-05-26T23:00:00+02:00",
+        "description": "Freitag ist Filmclubabend! Der Orgelvirtuose, Komponist und Titularorganist der Kaiser-Wilhelm-Gedächtnis-Kirche in Berlin Wolfgang Seifen ist eng mit dem Niederrhein verbunden, wirkte er doch in früheren Jahren in Nettetal und später lange an der Marienbasilika in Kevelaer. Vor allem aber verbindet ihn eins mit dem moers festival: die große Leidenschaft des Improvisierens. So spielt er immer wieder mit spannenden Musiker*innen - Eingeweihte konnten ihn im vergangenen Sommer gemeinsam mit der Moerser Stadtmusikerin 2022, Tomeka Reid, in der St. Josef Kirche erleben. Zum 52. moers festival improvisiert Wolfgang Seifen zu einem absoluten Klassiker der Stummfilmgeschichte: Die expressionistischen und obskuren Bilder des Meisterwerks Das Cabinet des Dr. Caligari von Robert Wiene aus dem Jahr 1920 sind auch nach über 100 Jahren noch eindringlich und wirken auf eine frappierende Weise (die wohl durch die Musik Seifens noch verstärkt wird) brandaktuell: eine in große Depression, Tyrannei allerorts, „Opium“ für’s Volk - und schlafwandelnde Veränderungen in der Gesellschaft… gruselig!",
+        "artists": [ "Wolfgang Seifen (church organ)"]
+    },
+    {
+        "id": 2023014,
+        "name": "Limosa Limosa (FI, GQ, NL)",
+        "start_date": "2023-05-26T23:15:00+02:00",
+        "description": "Etwas übermütig drehte das moers festival den Globus und patschte mit verbundenen Augen im ersten Versuch auf den afrikanischen Äquator. Mit Entsetzen stellte es fest, dass ausgerechnet Äquatorialguinea überhaupt keine Berührung mit der gedachten Linie hatte, sondern Landmasse und Inseln irgendwie versprengt waren. Durch die Drehung des Globus fiel allerdings unser Lieblingsbuch über Vogelkunde um, und blieb mit den Seiten über die Uferschnepfe und den Säbelschnäbler geöffnet liegen. Limosa Limosa war geboren – oder war es doch der Pied Avocet? Wie schön, dass so manche bunten Vögel vom Äquator im Sommer bis Holland und an den Niederrhein reisen. Wie schön, dass sie es sich im Winter dann südlich der Sahara und sogar auf Bioko im Warmen gemütlich machen. Die Uferschnepfe schreibt im Winter heimlich Jazzrockopern. Und sie nutzt die Zeit auf Bioko, um sich für den Sommer schöne, bunte Kleider zu schneidern. Wobei der Säbelschnäbler selbst einfach wirklich kein guter Ornithologe ist. Kennt er nichtmal Ikot, den bunten Woodpecker? Oder den finnischen Seenvogel Szafirowski?",
+        "artists": ["Nelida Karr (voc, g)","Jan Mikael Szafirowski (e-g)", "Solomon Eduok (p)","Luc Ex (b)", "Alex Ikot (dr)"]
+    },
+    {
+        "id": 2023015,
+        "name": "eddy kwon + SUN HAN GUILD (US)",
+        "start_date": "2023-05-27T00:15:00+02:00",
+        "description": "AUFBRUCH. Inspiriert von den „Spirit Worshipers' Guilds“ des frühen 20. Jahrhunderts in Korea, nutzt SUN HAN GUILD das Ritual als Möglichkeit, um über die spirituelle Transzendenz Vorstellungen von Sexualität, Identität und Traditionen zu erforschen und in Frage zu stellen. Hierzu gehört auch die Exploration queerer Identität in der Ahnenlinie. Komponistin und Performerin Eddy Kwon (v, voc), Laura Cocks (fl, voc), Jessie Cox (perc, voc), DoYeon Kim (gayageum, voc) und Lester St. Louis (vc, voc) schaffen eine immoersive, spirituelle Klangreise voller origineller Musik und faszinierender Performance, um damit eben diesen Zustand der Trance und des vollkommenen Synapsenschlusses herzustellen.",
+        "artists": ["Eddy Kwon (v, voc)","Laura Cocks (fl, voc)","Jessie Cox (perc, voc)","DoYeon Kim (gayageum, voc)","Lester St. Louis (vc, voc)"]
+    },
+    {
+        "id": 2023016,
+        "name": "moersify @ Bibliothek Moers",
+        "start_date": "2023-05-27T11:30:00+02:00",
+        "description": "Bibliothek Moers, Wilhelm-Schroeder-Straße 10, 47441 Moers",
+        "artists": ["Caroline Kraabel (sax)","Tabea Briggs (hrp)"]
+    },
+    {
+        "id": 2023017,
+        "name": "moersify @ Mandragora",
+        "start_date": "2023-05-27T12:30:00+02:00",
+        "description": "Mandragora, Hanns-Dieter-Hüsch-Platz 1, 47441 Moers",
+        "artists": ["Maéva Rabassa (hrp)"]
+    },
+    {
+        "id": 2023018,
+        "name": "Moers Sessions 2023 #1",
+        "start_date": "2023-05-26T22:00:00+02:00",
+        "end_date": "2023-05-26T22:00:30+02:00",
+        "description": "",
+        "artists": ["Sandy Ewen (git)", "Caroline Kraabel (sax, voc)", "Patricia Bosshard (vl)", "Gaël Mevel (vc)"]
+    },
+    {
+        "id": 2023019,
+        "name": "Moers Sessions 2023 #1",
+        "start_date": "2023-05-26T22:35:00+02:00",
+        "end_date": "2023-05-26T23:00:30+02:00",
+        "description": "",
+        "artists": ["Tone Åse (voc, el)", "Guylaine Cosseron (voc)", "Isabelle Duthoit (voc, cl)"]
+    },
+    {
+        "id": 2023020,
+        "name": "Moers Sessions 2023 #1",
+        "start_date": "2023-05-26T23:00:00+02:00",
+        "end_date": "2023-05-26T23:30:00+02:00",
+        "description": "",
+        "artists": ["Thierry Waziniak (dr)", "Matthias Schubert (sax)", "Damon Smith (bs)", "Jean Daufresne (tuba)", "Sophia Domancich (p)"]
+    },
+    {
+        "id": 2023021,
+        "name": "Moers Sessions 2023 #2",
+        "start_date": "2023-05-27T11:00:00+02:00",
+        "end_date": "2023-05-26T11:30:00+02:00",
+        "description": "",
+        "artists": ["Kaie Kellough (voc)", "Steffen Roth (dr)", "Joshua Zubot (vl)", "Julia Brüssel (vl)"]
+    },
+    {
+        "id": 2023022,
+        "name": "Moers Sessions 2023 #2",
+        "start_date": "2023-05-27T11:35:00+02:00",
+        "end_date": "2023-05-26T12:00:00+02:00",
+        "description": "",
+        "artists": ["Oli Potratz (bs)", "Brandon Seabrook (git)", "Jason Sharp (sax)", "Simon Camatta (dr)"]
+    },
+    {
+        "id": 2023023,
+        "name": "Moers Sessions 2023 #2",
+        "start_date": "2023-05-27T12:05:00+02:00",
+        "end_date": "2023-05-26T12:30:00+02:00",
+        "description": "",
+        "artists": ["Alexey Kruglov (sax)", "Joe Grass (pedal steel)", "Stephan Deller (bass)", "Petr Talalay (dr)"]
+    },
+    {
+        "id": 2023024,
+        "name": "Ghost Dogs (DE)",
+        "start_date": "2023-05-27T11:00:00+02:00",
+        "description": "moersify @ Bettenkamper Meer",
+        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (b)", "Armin Thommesen (dr)"]
+    },
+    {
+        "id": 2023025,
+        "name": "ZAÄAR (BE)",
+        "start_date": "2023-05-27T13:00:00+02:00",
+        "description": "Welcome to the jungle! Für Fans von Neptunian Maximalism gibt es einen neuen Stern am Himmel: ZAÄAR. Wer Lust auf ein wenig Psychedelik und experimental Drone Doom hat, ist bei dem Auskopplungsprojekt der belgischen Formation gut aufgehoben.",
+        "artists": ["Guillaume Cazalet (voc, fl, castanets)", "JJ Duerinckx (sax)", "HP Desrosiers (BN, Santur)", "Didié Nietzche (elec)", "Andres Navarro (perc)"]
+    },
+    {
+        "id": 2023026,
+        "name": "moersfiy @ Barbara Buchhandlung",
+        "start_date": "2023-05-27T13:30:00+02:00",
+        "description": "Barbara Buchhandlung, Burgstraße 3, 47441 Moers",
+        "artists": ["DoYeon Kim (gayageum, voc)"]
+    },
+    {
+        "id": 2023027,
+        "name": "Trondheim Voices: Folklore (NO)",
+        "start_date": "2023-05-27T14:00:00+02:00",
+        "description": "Das norwegische Nonett kehrt nach 2019 gleich mit zwei Projekten zurück nach Moers: Zum einen fließen in „Folklore“ Tradition, zeitgenössische Improvisation, Anleihen aus György Ligetis Klangsprache, Live-Elektronik und Lichtkunst ineinander. Zum anderen verneigen sich mit „Lux Aeterna :Remix“ die Sängerinnen vor dem prägenden Chorwerk Ligetis.",
+        "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)", "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)", "Ståle Storløkken (live elec)"]
+    },
+    {
+        "id": 2023028,
+        "name": "Kruglov / Kozhevnikova / Camatta (RU, DE)",
+        "start_date": "2023-05-27T14:30:00+02:00",
+        "description": "moersify @ Cafe Mondrian",
+        "artists": ["Alexey Kruglov (sax), Karina Kozhevnikova (p, voc), Simon Camatta (dr)"]
+    },
+    {
+        "id": 2023029,
+        "name": "moersify @ Rudolf-Schloer-Stift",
+        "start_date": "2023-05-27T15:00:00+02:00",
+        "description": "",
+        "artists": ["Christian Sharpe (tp)", "Adele Thoma (p)"]
+    }, 
+    {
+        "id": 2023030,
+        "name": "Ganelin Trio Priority (DE, IL, LT)",
+        "start_date": "2023-05-27T15:20:00+02:00",
+        "description": "Vyacheslav Ganelin, russisch geborener Pianist und Keyboarder, brach 1970 mit dem ersten Avantgarde Jazz Ensemble der Sowjetunion auf und sorgte international bis weit in die 80er Jahre für Aufsehen. Nach seiner Auswanderung nach Israel Ende des Jahrzehnts landete er schließlich in Litauen. Seit 1999 bildet er, ohne Unterbrechungen, gemeinsam mit dem litauischen Saxophonisten Petras Vysniauskas und dem deutschen Schlagzeuger Klaus Kugel das Ganelin Trio Priority. Slava Ganelin findet hier musikalisch den Weg zurück in seine litauische Heimat, indem er freien Jazz mit dem – WERT – der klassischen und traditionellen Musik Litauens verwebt.",
+        "artists": ["Petras Vysniauskas (sax)", "Vyacheslav Ganelin (p, keys)", "Klaus Kugel (dr)"]
+    },
+    {
+        "id": 2023031,
+        "name": "moersify @ Jan Dieren Wahlbüro",
+        "start_date": "2023-05-27T15:30:00+02:00",
+        "description": "Jan Dieren Wahlbüro, Ostring 3, 47441 Moers",
+        "artists": ["Jessie Cox (dr)"]
+    },
+    {
+        "id": 2023032,
+        "name": "Nélida Karr (GQ)",
+        "start_date": "2023-05-27T16:20:00+02:00",
+        "description": "Ab sofort wirft das moers festival jedes Jahr seinen Blick auf ein Land des afrikanischen Kontinents. 2023 liegt der Fokus auf Äquatorialguinea, einem der kleinsten Staaten Afrikas, der über Festland und Inseln verstreut ist und den einzig spanischsprachigen Staat des Kontinents bildet. Aus diesen politisch und gesellschaftlich schwierigen Verhältnissen wirkt die Stimme Nélida Karrs wie eine Sternschnuppe. In ihrer Musik vereinen sich die Schönheit, Würde und kulturelle Traditionen vieler Generationen. Sie ist das musikalische Gedächtnis, die Stimme Äquatorialguineas. Neben ihrer künstlerischen Arbeit engagiert sie sich in ihrer Heimat für Bildung und Chancengleichheit.",
+        "artists": ["Nélida Karr (voc, git)"]
+    },
+    {
+        "id": 2023033,
+        "name": "moersify @ Feinkost Schneiderei",
+        "start_date": "2023-05-27T16:30:00+02:00",
+        "description": "Feinkost Schneiderei, Pfefferstraße 2, 47441 Moers",
+        "artists": ["Brandon Seabrook (g)"]
+    },
+    {
+        "id": 2023034,
+        "name": "BURCH / CAMATTA / KRAABEL / MEHNER (DE, UK)",
+        "start_date": "2023-05-27T16:35:00+02:00",
+        "description": "Während Gyil-Virtuosin Burch der Festivalgemeinde durch verschiedene Husarenstückchen während der letzten Jahre bestens vertraut ist, fällt mit Caroline Kraabel eine weitgereiste Weltumspielerin in die Grafenstadt ein, die gefährliche Improvisation als Lebensweise betrachtet. Saxophonspielerisch zieht sie durchs Alltägliche, switcht überraschend zwischen Sprache und Spiel und gehört zum berüchtigten London Improvisers Orchestra. Haudegen Simon Camatta wirbelte sich ebenfalls während der letzten Jahre durch zahlreiche Abenteuer im Metamoersum und nimmt zwischen all den Trommelneuronen den Botenstoff SMS todernst. Mit Raissa Mehner bricht eine noch junge Tonpiratin, die - so scheint es - furchtlos jeder unbekannten Tonfolge entgegentritt, über den Moersbach auf in Richtung Themse. Da dieser verwegene Viererbund sich Pfingsten erstmalig in Moers versammelt, muss man auf alles gefasst sein. (Pssst: Die Befürchtung der Stadtspitze ist, dass die Be-frei-ung Britanniens am Rodelberg vorbereitet werden soll)",
+        "artists": ["Raissa Mehner (g)", "Caroline Kraabel (sax)", "Bex Burch (perc)", "Simon Camatta (dr)"]
+    },
+    {
+        "id": 2023035,
+        "name": "Ensemble Icosikaihenagone / Volumes II, fiction for musicians only (AT, CH, FR)",
+        "start_date": "2023-05-27T17:00:00+02:00",
+        "description": "Mit einer Besetzung aus verschiedenen Instrumenten und einer unkonventionellen Herangehensweise an Komposition und Improvisation schafft das 21-köpfige Ensemble Icosikaihenagone unter der Leitung des französischen Komponisten und Bassisten Benjamin Duboc eine faszinierende Klanglandschaft. Die Musiker*innen lassen sich von unterschiedlichen Epochen und Stilen inspirieren - von traditionellen Volksweisen über moderne Klassik bis hin zu experimentellen Klängen.",
+        "artists": ["Benjamin Duboc (b)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (as)", "Mathias Naon (vl)", "Gaël Mevel (vcl)", "Jean Daufresne (tub)", "Jean-Sébastien Mariage (e-git)", "Diemo Schwarz (elec)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (ccl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
+    },
+    {
+        "id": 2023036,
+        "name": "Selvhenter feat. Marilyn Mazur (DK, US)",
+        "start_date": "2023-05-27T18:30:00+02:00",
+        "description": "Aus Kopenhagen kommt eine noch junge und impulsive Gruppe der Experimentalszene, die bekannt ist für frequenzenreiche Klangvielfalt, Genre-hopping und manchmal sogar tanzbare Unberechenbarkeit. Man könnte sagen, Selvhenter sorgen für dynamisches und emotionales Triggern des Thalamus! In Moers verstärkt die phantastische Schlagwerkerin Marilyn Mazur (schon wieder eine Synapse zu Miles Davis) zu einer echten Supergroup",
+        "artists": ["Maria Bertel (tb, synth)", "Sonja LaBianca (sax)", "Jaleh Negari (dr, synth, keys)", "Anja Jacobsen (dr, keys)", "Marilyn Mazur (dr, perc)"]
+    },
+    {
+        "id": 2023037,
+        "name": "Kaie Kellough + Cooper-Moore (CA, US)",
+        "start_date": "2023-05-27T19:25:00+02:00",
+        "description": "Dieses geplante Konzert wurde abgesagt",
+        "artists": []
+    },
+    {
+        "id": 2023038,
+        "name": "Moerser Jazz Quartett (DE)",
+        "start_date": "2023-05-27T19:33:00+02:00",
+        "description": "Die Röhre, Weygoldstraße 10, 47441 Moers",
+        "artists": ["Thomas Klecha-Fauré (vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (b)"]
+    }, 
+    {
+        "id": 2023039,
+        "name": "MUSIC FROM KYLWIRIA (DE, US, CY)",
+        "start_date": "2023-05-27T20:04:00+02:00",
+        "description": "Mit fünf Jahren erfand György Ligeti Kylwiria, ein utopisches Land mit eigener Sprache, Grammatik, sozialer Ordnung und Gerechtigkeit, das er mit 13 wieder verließ. Das moers festival kehrt dorthin zurück… Zu Ligetis 100. Geburtstag hat das moers festival die Auftragskomposition MUSIC FROM KYLWIRIA an sechs Komponist:innen vergeben, deren Schaffen von Ligetis Musik geprägt wurde: Nate Wooley, Lucia Kilger, Vassos Nicolaou, Theresia Philipp, André O. Möller und Carolin Pook. Den Klangkörper bilden fünf der sechs Komponist:innen sowie, unter der Leitung von Susanne Blumenthal, das offene und internationale Kollektiv ColLAB Cologne, bestehend aus Studierenden der Hochschule für Musik und Tanz Köln. Das ColLAB Cologne agiert auf höchstem künstlerischem Niveau an der Schnittstelle von Performance, Improvisation und der Interpretation komponierter Musik. Die Auftragskomposition wird am 27.05. in Moers uraufgeführt und im Rahmen der Ligeti 100-Woche zwei Stunden lang live im WDR3-Hörfunk übertragen.",
+        "artists": ["Lucia Kilger (comp)", "Vassos Nicolaou (elec, comp)", "Theresia Philipp (sax, comp)", "André O. Möller (g, comp)", "Carolin Pook (v, comp)", "Laura Cocks (fl)", "Christian Sharpe (tp)", "Maéva Rabassa (hrp)", "Adele Thoma (p)", "Liga Korne (p)", "Carlotta Ramos (b)", "Rita Soares (perc)", "Yukari Yagi (perc)", "Susanne Blumenthal (cond)"]
+    },
+    {
+        "id": 2023040,
+        "name": "Arbenz / Hart / Friedman / Mondlak: Blending Contrasts (CH, UK, US)",
+        "start_date": "2023-05-27T20:25:00+02:00",
+        "description": "Was passiert, wenn man zwei eingespielte Duos mit gleicher Besetzung zusammen als Ensemble performen lässt? Wie verbinden sich deren Synapsen – waagerecht, überkreuzchen, über b-chen, gibt`s ein Mehr an -WERT- ?. Oder verbinden sie sich gar nicht erst, sondern verschmelzen gleich? Im Experiment Blending Contrasts werden David Friedman (vib) & Drori Mondlak (dr) sowie Jim Hart (vib, mar) & Florian Arbenz (dr, perc) einen idiophonen Klangkosmos erschaffen, in dem 4 Sticks, 8 Schlägel, ein Dutzend Trommeln & Cymbeln, 49 Holzplatten, 72 Metallplatten und Abermilliarden Nervenzellen wirbeln, fegen, trillern, paradiddlen, rühren, schlagen, pulsieren und schweben. … geht sonst nur im Traum.",
+        "artists": ["David Friedman (vib)", "Drori Mondlak (dr)", "Jim Hart (vib, mar)", "Florian Arbenz (dr, perc)"]
+    },
+    {
+        "id": 2023041,
+        "name": "Deli Girls (US)",
+        "start_date": "2023-05-27T20:30:00+02:00",
+        "description": "moersify @ Peschkenhaus",
+        "artists": ["Danny Orlowski (voc)", "Hatechild (prod)"]
+    },
+    {
+        "id": 2023042,
+        "name": "Baby Sommer's Brother & Sisterhood (DE, UK)",
+        "start_date": "2023-05-27T21:50:00+02:00",
+        "description": "Deutsche (Free)Jazz-Geschichte aus mehreren Generationen, zigfach preisgekrönte Musiker:innen: Silke Eberhard, Ulrich Gumpert, Lina Allemano, Gebhard Ullmann, Anna Kaluza, Matthias Schubert, Anne Lucks, Robert Lucaciu, Tobias Delius, Gerhard Gschlößl, Martin Klingeberg, Nikolaus Neuser, Raymond McDonald, Frank Gratkowski - und Günter Baby Sommer, Moers-Urgestein, der auf seiner Snare seinem 80. Geburtstag im August entgegenwirbelt, ausbricht, mitreißt. Gemeinsam holen sie seit ihrer Gründung 2021 den Spirit von Chris McGregors legendärer „Brotherhood of Breath“ auf die Bühne. Baby Sommers Brother & Sisterhood verbindet mühelos Nationen und Traditionen und beweist, dass solche Kategorien endgültig überholt sind. Diese mutige Hood eint die Freude der kollektiven Improvisation zu eigenen und fremden Originalstücken, die sich 2023 neu zusammenclustern, wieder auseinanderdriften und überraschende Synapsen schlagen.",
+        "artists": ["„Assi“ Glöde (prod)", "Anke Lucks (tb)", "Anna Kaluza (as)", "Gebhard Ullmann (ts, fl, bcl)", "Gerhard Gschlößl (tb)", "Günter Baby Sommer (dr, comp, artistic direction)", "Lina Allemano (tp)", "Matthias Schubert (ts)", "Nikolaus Neuser (tp)", "Raymond MacDonald (ts, as, comp)", "Robert Lucaciu (b)", "Silke Eberhard (as)", "Uli Gumpert (p)", "Tobias Delius (ts, cl)", "Frank Gratkowski (as, cl, fl)"]
+    },
+    {
+        "id": 2023043,
+        "name": "Aki Rissanen: Omniwerk Impressions (FI)",
+        "start_date": "2023-05-27T22:00:00+02:00",
+        "description": "Aki Rissanen ist ein musikalischer Einzelgänger, der mit Spielwitz und musikalischer Leichtfüßigkeit zwischen den verschiedenen Genres und Stilistiken zu springen vermag. Als einer der führenden nordeuropäischen Pianisten, hat er bereits mit vielen namhaften Vertreter*innen des Jazz zusammengearbeitet, wobei sein Augenmerk auf seinem eigenen Piano-Trio liegt, mit dem er seit vielen Jahren konsequent spielt und arbeitet. Nach Moers kommt Rissanen mit einem eigens konzipierten, neuartigen Instrument, dem Omniwerk. Dieses hybride, zweimanualige Tasteninstrument erinnert an eine Mischung aus Cembalo, Laute und Nylongitarre, das Rissanen klug mit elektronischen Klangerzeugern kombiniert. Rissanen nimmt uns in der Stadtkirche mit auf eine außergewöhnliche Klangreise zwischen alter, neuer und elektronischer Musik, zu der er auch Ligetis Étude No. 5 Arc-en-ciel exklusiv mit ins Programm aufgenommen hat.",
+        "artists": ["Aki Rissanen (Omniwerk)"]
+    },
+    {
+        "id": 2023044,
+        "name": "The Gavin Bryars Ensemble (UK)",
+        "start_date": "2023-05-27T22:45:00+02:00",
+        "description": "Das The Gavin Bryars Ensemble ist ein erweitertes Streichquartett unter der Leitung des britischen Komponisten, Bassisten und Pianisten Gavin Bryars. In den 60er Jahren war er als Jazzbassist tätig, bevor er sich der Minimal- und Experimentalmusik zuwandte. Seine konsequente und fast stoische kompositorische Haltung, hymnisch-harmonische Sätze mit dissonanten und geräuschhaften Neurotransmittern zu kontrastieren, zu dekonstruieren, erfordert lange Bögen und die Zeit, sich auf diese Tiefen einzulassen. Bryars’ „The Sinking of the Titanic“ (1975) wirkt erschreckend aktuell, „Jesus’ Blood Never Failed Me Yet“ brachte sogar Tom Waits in Bryars’ Gedankenwelt. Der große -WERT- seines Schaffens zwischen Neuer und Alter Musik liegt vielleicht in der erfrischend leichten Verbindung von Sinnlichkeit, Witz, DEMUT und Entschleunigung. Den Botenstoff GABA braucht man während dieses 90-minütigen Konzertes definitiv nicht.",
+        "artists": ["Morgan Goff (vl)", "Nick Cooper (vcl)", "Audrey Riley (vcl)", "James Woodrow (e-git)", "Yuri Bryars (b, p)", "Gavin Bryars (b, p)"]
+    },
+    {
+        "id": 2023045,
+        "name": "Mark Ernestus’ Ndagga Rhythm Force (DE, SN)",
+        "start_date": "2023-05-27T23:15:00+02:00",
+        "description": "Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.?AFRIKA - Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.",
+        "artists": ["Mbene Diatta Seck (voc)", "Bada Seck (Sabar)", "Baye Mamour Seck (Sabar)", "Ibou Mbaye (keys)", "Modou Mbaye (Tama/talking drum)", "Ousmane Ka (dr)", "Mark Ernestus (prod)"]
+    },
+    {
+        "id": 2023046,
+        "name": "Wendy Eisenberg (US)",
+        "start_date": "2023-05-28T:00:25:00+02:00",
+        "description": "Gitarrist:in Wendy Eisenberg kehrt nach their fulminanten Auftritt mit Strictly Missionary 2021 mit einem Soloset zurück nach Moers.",
+        "artists": ["Wendy Eisenberg (git, voc)"]
+    },
+    {
+        "id": 2023047,
+        "name": "Moers Sessions 2023 #3",
+        "start_date": "2023-05-28T11:00:00+02:00",
+        "end_date": "2023-05-28T11:30:00+02:00",
+        "description": "",
+        "artists": ["Aki Rissanen (p)", "Jesse Zubot (vl)", "Raymond MacDonald (as)", "Sissel Vera Pettersen (voc)", "Jean-luc Cappozzo (tp)"]
+    },
+    {
+        "id": 2023048,
+        "name": "Moers Sessions 2023 #3",
+        "start_date": "2023-05-28T11:35:00+02:00",
+        "end_date": "2023-05-28T12:00:00+02:00",
+        "description": "",
+        "artists": ["Gonçalo Almeida (bass)", "Raissa Mehner (git)", "Jean-Sébastien Mariage (e-git)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
+    },
+    {
+        "id": 2023049,
+        "name": "Moers Sessions 2023 #3",
+        "start_date": "2023-05-28T12:05:00+02:00",
+        "end_date": "2023-05-28T12:30:00+02:00",
+        "description": "",
+        "artists": ["Damon Smith (bar-sax)", "Klaus Kugel (dr)", "Franz Hautzinger (tp)", "Anke Lucks (tb)", "Jean-Luc Petit (cbcl, sax)", "Benjamin Duboc (bs)"]
+    },
+    {
+        "id": 2023050,
+        "name": "moersify @ Rudolf-Schloer-Stift",
+        "start_date": "2023-05-28T13:30:00+02:00",
+        "description": "Rudolf-Schloer-Stift, Kranichstarße 1, 47441 Moers",
+        "artists": ["Didié Nietzch (elec)"]
+    },
+    {
+        "id": 2023051,
+        "name": "Propan (NO)",
+        "start_date": "2023-05-28T14:10:00+02:00",
+        "description": "Seit 2011 erforschen die Hirnklangforscherinnen Ina Sagstuen und Natali Abrahamsen Garner vom Osloer Institut Propan in kontinuierlicher Arbeit die verschiedenen Rollen und Möglichkeiten der Stimme. Ihr gewagter Ansatz zur Musik überrascht andere Klangforschende immer wieder erneut, ihre Arbeiten werden teilweise mit der Musik von Björk in ihrer experimentellsten Phase verglichen. In offenen Laborversuchen werden die eigenen Stimmen immer wieder dekonstruiert und aus detaillierten Klangzellen neu aufgebaut. Texturen, Hooklines, Grooves und ungeahnte Botenstoffe entstehen - seltsam nah und vertraut, elektronisch bearbeitet oder akustisch begleitet. Merkwürdig, dass Forschung so berührend klingen kann...",
+        "artists": ["Ina Sagstuen (voc/efx)", "Natali Abrahamsen Garner (voc/efx)"]
+    },
+    {
+        "id": 2023052,
+        "name": "TEMBER Ensemble & guests (DE, IR, IT)",
+        "start_date": "2023-05-28T15:10:00+02:00",
+        "description": "Jin, Jiyan, Azadî! Das Tember Ensemble beschäftigt sich mit der aktuellen politischen Situation im Iran. BE-FREI-UNG! Gegründet wurde Tember von Alireza Ostovar und Azin Zahedi mit der Vision, innovative Musik in einzigartigen Atmosphären zu schaffen. Hier verbinden sich traditionelle Musikkultur mit zeitgenössischen und elektroakustischen Zugängen.Beim moers festival wird das Tember Ensemble durch den iranischen Videokünstler Arman Moghadam zum Quintett erweitert.",
+        "artists": ["Valentina Bellanova (nay, fl)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (Iranian santur)", "Arman Moghadam (live video)", "Ali Ostovar (live-electronics/Mixer)"]
+    },
+    {
+        "id": 2023053,
+        "name": "Aki Rissanen (FI)",
+        "start_date": "2023-05-28T16:05:00+02:00",
+        "description": "Auch das dritte special der hybriden Reihe @the same time, welche zwei Acts an zwei verschiedenen Orten gleichzeitig auf die Bühne bringt und diese klanglich miteinander zu verschmelzen sucht, verspricht zu einem spannenden Klangabenteuer zu werden. Am Rodelberg hören wir Joe Grass an der Pedal Steel Guitar, der sich von den ihm über Kopfhörer zugespielten, inspirierenden Klängen des Omniwerks auf dieses Duett einlässt. In der Halle gibt sich gleichermaßen Aki Rissanen den ihn wiederrum erreichenden Klängen der Gayageum hin, die in gewisser Weise sogar verwandt zu denen seines etwas eigensinnigen, zweimanualigen Instruments sind. In den Genuss dessen, was die beiden Musizierenden während ihres musikalischen Rendez-vous´ gehört haben, kommt die moers-community erst am Montag, den 29. Mai 2023 im moersland(VR). Die neuronale Verknüpfung dieser beiden Klangwelten, dürfte wohl bis dato absolut unerhört sein!",
+        "artists": ["Aki Rissanen (Omniwerk)"]
+    },
+    {
+        "id": 2023054,
+        "name": "moersify @ Grafsschafter Diakonie",
+        "start_date": "2023-05-28T13:30:00+02:00",
+        "description": "Grafsschafter Diakonie „Haus für Jung und Alt“",
+        "artists": ["Mik Quantius (voc)"]
+    },
+    {
+        "id": 2023055,
+        "name": "Joe Grass (CA)",
+        "start_date": "2023-05-28T16:05:00+02:00",
+        "description": "Auch das dritte special der hybriden Reihe @the same time, welche zwei Acts an zwei verschiedenen Orten gleichzeitig auf die Bühne bringt und diese klanglich miteinander zu verschmelzen sucht, verspricht zu einem spannenden Klangabenteuer zu werden. Am Rodelberg hören wir Joe Grass an der Pedal Steel Guitar, der sich von den ihm über Kopfhörer zugespielten, inspirierenden Klängen des Omniwerks auf dieses Duett einlässt. In der Halle gibt sich gleichermaßen Aki Rissanen den ihn wiederrum erreichenden Klängen der Gayageum hin, die in gewisser Weise sogar verwandt zu denen seines etwas eigensinnigen, zweimanualigen Instruments sind. In den Genuss dessen, was die beiden Musizierenden während ihres musikalischen Rendez-vous´ gehört haben, kommt die moers-community erst am Montag, den 29. Mai 2023 im moersland(VR). Die neuronale Verknüpfung dieser beiden Klangwelten, dürfte wohl bis dato absolut unerhört sein!",
+        "artists": ["Joe Grass (pedal steel)"]
+    },
+    {
+        "id": 2023056,
+        "name": "Keune / Ewen / Smith (CA, DE, US)",
+        "start_date": "2023-05-28T17:00:00+02:00",
+        "description": "Mit Stefan Keune, Sandy Ewen und Damon Smith treffen drei konsequent eigenwillige Synapsenschaffende aufeinander. Saxophonist Keune aus Deutschland, Gitarristin Ewen aus Kanada und Kontrabassist Smith aus Amerika vereinen in ihrem gemeinsamen Spiel nicht nur ganz grundsätzlich, sondern auch durch ihr Leben und Aufwachsen an verschiedenen Orten auf der Welt persönliche Einflüsse miteinander. Was Pfingsten daraus wird? BE-FREI-UNG - energetisch, radikal und kompromisslos.",
+        "artists": ["Stefan Keune (sax)", "Sandy Ewen (git)", "Damon Smith (b)"]
+    },
+    {
+        "id": 2023057,
+        "name": "„Kultur? Weiß nicht, vielleicht morgen.“ Warum viele draußen bleiben und warum sich das ändern muss",
+        "start_date": "2023-05-28T17:35:00+02:00",
+        "description": "Discussion",
+        "artists": ["Dr. Julia Römhild (Moderation)", "Rainer Bode (Diskussion)", "Anke Fischer (Diskussion)", "Gudrun Kranacher (Diskussion)", "Kantara Karadeniz (Diskussion)", "Benjamin Pannenbecker (Diskussion)"]
+    },
+    {
+        "id": 2023058,
+        "name": "le petit macabre, Lukas Döhler, Ensemble INprogRES (DE, MX, US)",
+        "start_date": "2023-05-28T18:20:00+02:00",
+        "description": "In Anspielung auf György Ligetis Oper Le Grand Macabre, die ihn zu einem der wichtigsten Komponisten der Neuen Musik machte, entsteht mit le petit macabre zum 100. Geburtstag Ligetis ein neues Arrangement seiner Werke, das sich über seinen gesamten Schaffenszeitraum erstreckt.",
+        "artists": ["Lukas Döhler (artistic direction, arragement)", "Ferdinand Heuberger(comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
+            "Justin Cherry (fg)", "Sofie Berge (h)", "Severin Haslach (vlc)", "Femke Ehrentraut (v)", "Andreas Osterloh (as)",
+            "Maximilian Dickel (git)", "Juliana Dickel (ss)", "Judith Pfeiffer (fl)", "Jonah Pfeiffer (dr)", "Niklas Scheusener (cl)", 
+            "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (v, voc)"]
+    },
+    {
+        "id": 2023059,
+        "name": "Moerser Jazz Quartett (DE), moersify @ Wohnungsbau Moers",
+        "start_date": "2023-05-26T22:00:00+02:00",
+        "description": "",
+        "artists": ["Thomas Klecha-Fauré (Vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (b)"]
+    },
+    {
+        "id": 2023060,
+        "name": "moersify @ Grafsschafter Diakonie",
+        "start_date": "2023-05-27T15:45:00+02:00",
+        "description": "",
+        "artists": ["Christian Sharpe (tp)", "Adele Thoma (p)"]
+    },
+    {
+        "id": 2023061,
+        "name": "moersify @ Grafsschafter Wirtshaus",
+        "start_date": "2023-05-27T17:30:00+02:00",
+        "description": "Guillaume Cazalet, Jean-Jacques Duerinckx, Hugues Philippe Desrosiers, Didié Nietzch (BE)",
+        "artists": ["Guillaume Cazalet (git, sitar, voc), Jean-Jacques Duerinckx (), Hugues Philippe Desrosiers (), Didié Nietzch ()"]
+    },
+    {
+        "id": 2023062,
+        "name": "moersify @ Haarschneiderei",
+        "start_date": "2023-05-27T18:30:00+02:00",
+        "description": "Haarschneiderei, Kirchstraße 11, 47441 Moers",
+        "artists": ["Frank Gratkowski (sax)"]
+    },
+    {
+        "id": 2023063,
+        "name": "Ghost Dogs (DE)",
+        "start_date": "2023-05-28T11:00:00+02:00",
+        "description": "moersify @ Bettenkamper Meer",
+        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (b)", "Armin Thommesen (dr)"]
+    },
+    {
+        "id": 2023064,
+        "name": "moersify @ Café Lyzeum",
+        "start_date": "2023-05-28T11:00:00+02:00",
+        "description": "Alexey Kruglov, Caroline Kraabel, Didié Nietzch, Piotr Talalay (BE, RU, UK)",
+        "artists": ["Alexey Kruglov (sax)", "Caroline Kraabel (sax)", "Didié Nietzch (elec)", "Piotr Talalay (dr)"]
+    },
+    {
+        "id": 2023065,
+        "name": "EVE RISSER - RED DESERT ORCHESTRA : EURYTHMIA (BE, BF, DE, FR)",
+        "start_date": "2023-05-28T19:20:00+02:00",
+        "description": "Unter der Leitung der französischen Komponistin und Pianistin Eve Risser lässt das zwölfköpfige Red Desert Orchestra europäische Orchesterfarben mit westafrikanischen Klangteppichen verschmelzen, ohne dabei die Bedeutung der beiden Traditionen zu schmälern. Risser fügt ihrem Red Desert Orchestra 2023 sowohl westafrikanische Balafone, Djemben und Bara hinzu sowie Sounds von Synthesizern und E-Gitarre, die sich mit Melodien und Arrangements für Holz und Blech homogen und mitunter hypnotisch verbinden. Damit schafft sie einen polyrhythmisch-orchestralen Spannungsaufbau, der das Erbe des legendären Sun Ra Arkestra wieder aufleuchten lässt. Rissers Klangwelt zieht die Zuhörenden in hypnotische Schleifen, die zu einer spirituellen und nomadischen Erfahrung führen, aus der die brillianten Solist:innen frei und mutig aufbrechen!",
+        "artists": ["Eve Risser (comp, p, voc)", "Antonin-Tri Hoang (as, analog synth)", "Sakina Abdou (ts)", "Grégoire Tirtiaux (bs, qarqabas)",
+            "Nils Ostendorf (tp, analog synth)", "Matthias Müller (tb)", "Tatiana Paris (e-git, voc)", "Ophélia Hié (balafon, bara, voc)",
+            "Mélissa Hié (balafon, djembe, voc)", "Fanny Lasfargues (electro-acoustic bass)", "Oumarou Bambara (djembe, bara)",
+            "Emmanuel Scarpa (drums, voice)", "Celine Grangey (sound engineer)", "Laurent Carrier (production)"]
+    },
+    {
+        "id": 2023066,
+        "name": "Jooklo Duo (IT)",
+        "start_date": "2023-05-28T20:20:00+02:00",
+        "description": "Seit über einem Jahrzehnt faszinieren Jooklo Duo ihr Publikum mit ihren leidenschaftlichen und kraftvollen Interpretationen von Free Jazz, Psychedelia und Punk. Virginia Genta (reeds, flutes, p, perc) und David Vanzan (dr) haben in der Vergangenheit zahlreiche Ensembles gebildet und mit vielen Größen der experimentellen Musikszene zusammengearbeitet. Ihr einzigartiger, energiegeladener Sound ist tief verwurzelt in der Free-Jazz-Avantgarde und von traditioneller Folk-Musik beeinflusst. Live sind sie ein unvergessliches Erlebnis, das die Synapsen bisweilen in einen Zustand transzendentalischen Dauerfeuerns versetzt.",
+        "artists": ["Virginia Genta (reeds, flutes, p, perc)", "David Vanzan (dr)"]
+    },
+    {
+        "id": 2023067,
+        "name": "Billy Hart Quartet (US)",
+        "start_date": "2023-05-28T20:30:00+02:00",
+        "description": "Seit nun mehr als 40 Jahren blitzt Billy Harts demütiges Genie immer wieder im internationalen Jazz auf. Mal unprätentiös dienend, mal impulsiv und gewitzt spielte er in zahllosen Formationen (schon wieder ein Gefährte von Miles Davis), gewann renommierte Preise und gründete 2003 sein eigenes Quartett. Neben seinem kongenialen Bassisten Ben Street und Dayna Stephens, einem Philosophen am Tenorsaxophon, freuen wir uns (und die Alpakas erst!) auf ein Wiederhören mit dem wunderbaren Ethan Iverson am Piano. Zusammensein in Moers - is this doch a jazz fest?",
+        "artists": ["Billy Hart (dr)", "Ben Street (b)", "Dayna Stephens (ts)", "Ethan Iverson (p)"]
+    },
+    {
+        "id": 2023068,
+        "name": "Viola Yip / Noa Even (HK, US)",
+        "start_date": "2023-05-28T21:40:00+02:00",
+        "description": "Kreisschaltungskompositionen für selbst kreiierte elektronische Sextanten, gehackte assimilierte Gegenstände mutiger Seefrauschaft, Soundsturmgehacktes, erstaunlich differenziertes Brizzeln im unteren Mittenfrequenzspektrum bei psychedelisch-eleganter Drift. Viola wird eins mit ihrer Dau, mit ihren neuronalen Willenstransmittern, wie eine plastikbefreite See wohl zu klingen habe. In ihren Hochseeklangräumen bleibt sogar noch Zeit und Raum für über Holzblättchen und Luftsäulen übermittelte, behende gegriffene zeitgenössische Klangrätsel. Eigentlich wollten Noa und Viola sich heute auf der anderen Rheinseite zum Tanze treffen, beim Musikclub100 im Ruhrorter Lokal Harmonie. Denn dies wäre genau die geographische Mitte zwischen Hongkong und Philadelphia gewesen. Hat aber heute geschlossen und da wird sich halt ein paar Grad backbord in Moers getroffen. Ahoi, Mono-no-Aware!",
+        "artists": ["Viola Yip (elec)", "Noa Even (ts)"]
+    },
+    {
+        "id": 2023069,
+        "name": "Das Kondensat plus Liz Kosack – Andere Planeten (DE, US)",
+        "start_date": "2023-05-28T21:45:00+02:00",
+        "description": "Gebhard Ullmann (sax), Oliver Potratz (b) und Eric Schaefer (dr) – drei exponierte Trabanten des deutschen Jazz. Das Trio ist intuitiv und synapsenartig verbunden, verfeinert stetig seine Laufbahn, komprimiert, verdichtet, sodass immer wieder Unerhörtes daraus kondensiert. Der Verzicht auf vorhersehbare Improvisationsmethoden, der Ansatz des Instant Composings und ungewöhnliche Mittel der Synthese aus Analogem und Digitalem ermöglichen die Veränderung des Aggregatzustandes: Das Kondensat. Als Asteroidin trifft Liz Kosack mit ihrem futuristischen Synthesizerspiel auf die Trabanten, während in Moers ein großer Monolith die freejazzliche Grundordnung durcheinanderbringt: Entstehen Pfingsten „Andere Planeten“?",
+        "artists": ["Gebhard Ullmann (sax)", "Liz Kosack (keys)", "Oliver Potratz (b)", "Eric Schaefer (dr) "]
+    },
+    {
+        "id": 2023070,
+        "name": "Lux Aeterna: Ligeti 100 - SWR Vokalensemble & Remix by Trondheim Voices (DE, IL, NO)",
+        "start_date": "2023-05-28T22:00:00+02:00",
+        "description": "",
+        "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)",
+            "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)",
+            "Ståle Storløkken (live elec)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
+            "Eva-Maria Schappé (voc)", "Dorothea Winkel (voc)", "Johanna Zimmer (voc)", "Michelle Ryan (voc)", "Aya Tsujimoto (voc)", 
+            "Dorothea Jakob (voc)", "Sophie Harr (voc)", "Sabine Czinczel (voc)", "Stefanie Gläser-Blumenschein (voc)", 
+            "Judith Hilger (voc)", "Ulrike Koch (voc)", "Wiebke Wighardt (voc)", "Filippa Möres-Busch (voc)", "Sandra Stahlheber (voc)",
+            "Frank Bossert (voc)", "Johannes Kaleschke (voc)", "Christopher Kaplan (voc)", "Rüdiger Linn (voc)", "Julius Pfeifer (voc)", 
+            "Alexander Yudenkov (voc)", "Daniel Schmid (voc)", "Steffen Kruse (voc)", "Georg Gädker (voc)", "Bernhard Hartmann (voc)", 
+            "Florian Kontschak (voc)", "Torsten Müller (voc)", "Philip Niederberger (voc)", "Mikhail Nikiforov (voc)",
+            "Mikhail Shashkov (voc)", "Yuval Weinberg (cond)"]
+    },
+    {
+        "id": 2023071,
+        "name": "Crystal Peñalosa (US)",
+        "start_date": "2023-05-28T22:15:00+02:00",
+        "description": "Wenn Crystal Peñalosa nach Inspiration sucht, stromert sie einfach durch die Straßen Kylwirias. Saugt demütig Eindrücke auf, lässt sie auf sich wirken und lässt sich von Lichtblitzen im Unterbewusstsein leiten. Dann verbinden sich frequenzmäandernde Soundscapes, innerste Gedanken, Lautheit, mutige Positionierungen zu aktuellen Diskursen - und allem, was sonst noch klanginhaltlich gerade so wichtig erscheint…  Ein authentischer AUFBRUCH. Fesselnd und mit Tiefe.",
+        "artists": ["Crystal Peñalosa (elec, voc)"]
+    },
+    {
+        "id": 2023072,
+        "name": "Mariachi (FR)",
+        "start_date": "2023-05-28T22:50:00+02:00",
+        "description": "Konzert auf hoher See. Am Boden bei den Tretminen. Kontrolliertes Clustergetöse aus Frequenzbergen und drone-Kavenzmännern. Bytes, Knacken, Sirren, Elmsfeuerwork, Single-coil-Geswitche, nicht zuviel Distortion in den oberen Mitten, Jammerhaken hart am Wind, der Korpus schafft das easy. Eins mit dem Holz und den sechs Seilen. Ich segle mich frei… Ein Blick übers Vorderdeck, auf dem ein Typ mit Jesusfrisur, Kreuz und Bierbauch, Tattoos, Kutte und schmierigen Haaren herumstrolcht - Shit, hab ich dafür angeheuert? Als Schiffzimmermensch geschuftet, um mir diesen fetten Amp für meine wohlfein dosierten Feedbackschleifen zusammenzusparen? Nein, ich fand schon die Stones immer scheisse und all diese anderen Metal-Powerchord-Vollhonks. Und Du Jesus, du wirst von mir auch nicht einen einzigen Sound hören, der so oder so ähnlich klingt. Ah, bist gar nicht mehr da - wahrscheinlich schon wieder unter Deck. … Uh, ok… Bierbauch ist Jazzfan und schwimmt rüber zum Rodelberg. Ahoi Kapitän!",
+        "artists": ["Nina Garcia (e-g)"]
+    },
+    {
+        "id": 2023073,
+        "name": "Burkina Electric (AT, BF)",
+        "start_date": "2023-05-28T23:20:00+02:00",
+        "description": "Der Schlagzeuger, Elektronik-Musiker und Komponist Lukas Ligeti vereint in seinen Kompositionen verschiedenste musikalische Traditionen, darunter die europäische Avantgarde, Jazz, Experimentelle Musik sowie Einflüsse verschiedener Musikkulturen des afrikanischen Kontinents. Damit folgt er den Spuren seines Vaters, der ebenfalls ein weitreichendes Interesse an traditioneller afrikanischer Musik hatte und sich u. a. intensiv mit der simbabwischen Shona-Musik oder pygmäischer Musik beschäftigte. Aus einem Projekt Lukas Ligetis mit Musiker:innen aus Burkina Faso entstand 2007 die Formation Burkina Electric. Deren Musik ist eine Verbindung burkinischer Musiktradition, Elektronik, westlicher Avantgarde sowie modernem Tanz mit traditionellen Elementen.",
+        "artists": ["Lukas Ligeti (dr, elec)", "Vicky Lamour (dance)", "Zoko Zoko (dance)", "Maï Lingani (voc)", "Wende K. Blass (git)"]
+    },
+    {
+        "id": 2023074,
+        "name": "Pharmakon (US)",
+        "start_date": "2023-05-28T23:25:00+02:00",
+        "description": "Margaret Chardiet lernte früh, ihrer Intuition zu vertrauen. In New York City wuchs sie auf und in der lokalen Musik- und Kunstszene heran. Das kulturelle Geschehen in der Stadt faszinierte sie. Bereits im Alter von 16 Jahren entschied sie, sich ganzheitlich der Kunst zu widmen: Pharmakon war geboren und ist nun, 17 Jahre später, selbst schon im Teenageralter. Immer zwischen BE-FREI-UNG und AUFBRUCH, bleiben Chardiets Einflüsse aus der Punkmusik, in deren Bereich sie bereits Teil mehrerer Bands war, allgegenwärtig. Harter Sound und Elektronik bilden eine Symbiose, die durch Solokünstlerin Chardiets Performance erst lebendig wird. Mittlerweile lässt sich die Musik von Pharmakon auch in Filmen wie Transfiguration (2017) und Sound of Metal (2019) finden.",
+        "artists": ["Margaret Chardiet (elec, voc)"]
+    },
+    {
+        "id": 2023075,
+        "name": "Bloch/Mehner (DE)",
+        "start_date": "2023-05-28T23:30:00+02:00",
+        "description": "In unkonventioneller Besetzung aus Kirchenorgel und E-Gitarre lassen die Kölnerinnen Annie Bloch und Raissa Mehner ihre Klangwelten kollidieren. Unbefangen stellt das Duo in seinen Kompositionen und Improvisationen das Verhältnis von Wiederholung und Veränderung auf die Probe. Auf der Suche nach Schnittstellen ihrer musikalischen Einflüsse aus Jazz, Experimenteller Musik, Progressive Rock, Klassik und Folk lassen sie frappierende Klangräume entstehen - dabei kommen sich eines der ältesten und eines der jüngsten Musikinstrumente provozierend nahe. Bloch / Mehner kontrastieren nahtlos im Anschluss die große Lux Aeterna - Hommage des SWR Vokalensembles und der Trondheim Voices in der Stadtkirche.",
+        "artists": ["Annie Bloch (church organ)", "Raissa Mehner (g)"]
+    },
+    {
+        "id": 2023076,
+        "name": "Putan Club (FR, IT)",
+        "start_date": "2023-05-28T23:59:00+02:00",
+        "description": "FeministEltronicIndustrialAvantRockTechnoWorldSauvagerie\nDer Putan Club ist ein einzigartiger musikalischer Geheimbund der Italienerin Gianna Greco (b, voc) und dem Franzosen François R. Cambuzat (git, elec, voc). Energieblitze aus experimentellem Post-Punk, Noise Rock und elektronischem Sound bilden magnetische Wirbel zu einer schillernd klingenden Nervenzellenkirmes. Greco's kraftvoller Gesang und Cambuzat's komplexes Gitarrenspiel -hypnotisierend, kompromisslos, energisch und voller MUT: ein Aufruf zum Handeln, eine dringende und kompromisslose Stimme in einer Welt, die oft zu ängstlich ist, um sich zu äußern.",
+        "artists": ["Gianna Greco (b, voc)", "François R. Cambuzat (git, voc, computer)"]
+    },
+    {
+        "id": 2023077,
+        "name": "Deli Girls (US)",
+        "start_date": "2023-05-29T00:35:00+02:00",
+        "description": "Danny Orlowski (voc) und verschiedene Produzenten bilden das queere Techno-Punk-Duo aus New York City. Ihre Musik: eine Mischung aus Industrial, Nu-Metal, Hip-Hop, Noise und Punkrock – laut, hart, energiegeladen. Doch die Musik der Deli Girls ist nicht nur laut und kraftvoll, sie ist auch eine Botschaft: Anti-Establishment, Anti-Diskriminierung, Pro-Queer, Pro-Freak. BE-FREI-UNG!",
+        "artists": ["Danny Orlowski (voc)", "Hatechild (prod)"]
+    },
+    {
+        "id": 2023078,
+        "name": "Moers Sessions 2023 #4",
+        "start_date": "2023-05-29T11:00:00+02:00",
+        "end_date": "2023-05-29T11:30:00+02:00",
+        "artists": ["Robert Kroos (electronics)", "Sandy Ewen (git)", "Andres Navarro (perc)", "Stefan Keune (sax)", "JJ Duerinckx (sax)"]
+    },
+    {
+        "id": 2023079,
+        "name": "Moers Sessions 2023 #4",
+        "start_date": "2023-05-29T11:35:00+02:00",
+        "end_date": "2023-05-29T12:00:00+02:00",
+        "artists": ["Guillaume Cazalet (git, sitar, voc)", "Gianna Greco (bass)", "Gonçalo Almeida (bass)", "Simon Camatta (dr)", "François R. Cambuzat (git, voc)", "Virginia Genta (sax)"]
+    },
+    {
+        "id": 2023080,
+        "name": "Moers Sessions 2023 #4",
+        "start_date": "2023-05-29T12:05:00+02:00",
+        "end_date": "2023-05-29T12:30:00+02:00",
+        "artists": ["Tatiana Paris (e-git, voc)", "Gebhard Ullmann (sax)", "Matthias Müller (tb)", "Damon Smith (bar-sax)", "Emmanuel Scarpa (drums)"]
+    },
+    {
+        "id": 2023081,
+        "name": "Ghost Dogs (DE)",
+        "start_date": "2023-05-29T11:00:00+02:00",
+        "description": "moersify @ Bettenkamper Meer",
+        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (b)", "Armin Thommesen (dr)"]
+    },
+    {
+        "id": 2023082,
+        "name": "Maya Dunietz / Chris Cutler / Tim Hodgkinson (IL, UK)",
+        "start_date": "2023-05-29T13:00:00+02:00",
+        "description": "Maya Dunietz, die auch schon 2022 im Kontext des Israel-Schwerpunkts in Moers zu erleben war, ist eine bemerkenswerte Komponistin, Pianistin, und Performance-Künstlerin, für die ihr musikalisches Schaffen, Installationen und Skulpturen gleichberechtigt nebeneinander stehen. Zusammen mit Malefizkerl Chris Cutler und Holzblasgitarrenanthropologe Tim Hodgkinson an den Schlagstöcken, kartographiert sie in diesem Jahr erneut ihr Traumland aus Klangart, motorischer Meisterschaft und ingeniösem Substrat. Nachdem das Trio sich kurz zuvor im Londoner Café OTO eingespielt hat, ist dieses Spektakel ein Muss für alle Schwarmgeister experimenteller Musik voller Spielwitz und Spontanität.",
+        "artists": ["Maya Dunietz (keys)", "Chris Cutler (dr)", "Tim Hodgkinson (sax)"]
+    },
+    {
+        "id": 2023083,
+        "name": "Recursion (DE)",
+        "start_date": "2023-05-29T14:00:00+02:00",
+        "description": "Jan Krause, Steven Koch und Christopher Retz vom Kollektiv Recursion sind die 16. Improviser in Residence in Moers. Das in 2019 Kunst- und Klangkollektiv ist ein Gewächs der Region, das ganz wesentlich durch das moers festival geprägt und sozialisiert wurde. Recursion verfolgt das Ziel, experimentelle Kunst und Musik in der Region zu etablieren.",
+        "artists": ["Steven Koch (elec)", "Jan Krause (git, elec)", "Chris Retz (elec)"]
+    },
+    {
+        "id": 2023084,
+        "name": "HYDRA ENSEMBLE (CH, HR, NL, PO)",
+        "start_date": "2023-05-29T15:00:00+02:00",
+        "description": "Hoffentlich verliert das Hydra Ensemble in Moers ein paar Köpfe! Denn Nina Hitz (vc), Lucija Gregov (vc), Gonçalo Almeida (b) und Rutger Zuydervelt (elec) wachsen immer wieder neue nach. Nach dem Online-Debüt 2020 schlängeln sich nun Cluster, Klangwolken und vielköpfige Kreationen aus dem Soundlabor aus dreieinhalb Himmelsrichtungen bis an den Niederrhein und schlagen dort neue Synapsen: AUFBRUCH - mit einem mutigen Dutzend Saiten, flirrenden Schaltkreisen und jeder Menge K(n)öpfe...",
+        "artists": ["Nina Hitz (vclo)", "Lucija Gregov (vclo)", "Gonçalo Almeida (b)", "Robert Kroos (elec)"]
+    },
+    {
+        "id": 2023085,
+        "name": "Burkina Electric & Ensemble BRuCH: Égal... pas pareil... nonpareil (AT, BF, FR, CA, DE, UK)",
+        "start_date": "2023-05-29T16:10:00+02:00",
+        "description": "Unter der Leitung von Lukas Ligeti (Schlagzeug, Elektronik) wird dessen Werk „Égal… pas pareil… nonpareil“ im Auftrag des moers festivals um einen zweiten Satz erweitert und in der erweiterten Fassung von dem Ensembleduo Burkina Electric und BRuCH auf dem moers festival uraufgeführt. Die von Lukas Ligeti mitbegründete Formation Burkina Electric verbindet burkinische Musiktradition, Elektronik, westliche Avantgarde sowie modernen Tanz mit traditionellen Elementen. Das Ensemble BRuCH legt seinen Schwerpunkt auf die Interpretation zeitgenössischer Werke des 20. und 21. Jahrhunderts, entwickelt Kompositionen in enger Zusammenarbeit mit jungen Komponist:innen und zeichnet sich durch die ungewöhnliche Besetzung mit Stimme, Flöte, Cello und Klavier aus.",
+        "artists": ["Lukas Ligeti (dr, elec)", "Vicky Lamour (dance)", "Zoko Zoko (dance)", "Maï Lingani (voc)", "Wende K. Blass (g)", "Marie Heeschen (voc)", "Sally Beck (fl)", "Ella Rohwer (vclo)", "Claudia Chan (p)"]
+    },
+    {
+        "id": 2023086,
+        "name": "Valentina Magaletti (IT)",
+        "start_date": "2023-05-29T17:00:00+02:00",
+        "description": "",
+        "artists": ["Valentina Magaletti (dr, perc)"]
+    },
+    {
+        "id": 2023087,
+        "name": "SWR Vokalensemble (DE, IL)",
+        "start_date": "2023-05-29T17:10:00+02:00",
+        "description": "Im Zuge des großen moers festival-Schwerpunktes um György Ligeti, der am Festivalsonntag (28.05.2023) seinen 100. Geburtstag gefeiert hätte, freuen wir uns auf das phantastische SWR Vokalensemble. Dieses beschäftigt sich mit Kompositionen Ligetis und wird in verschiedenen Kontexten zu erleben sein.",
+        "artists": ["Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
+        "Eva-Maria Schappé (voc)", "Dorothea Winkel (voc)", "Johanna Zimmer (voc)", "Michelle Ryan (voc)", "Aya Tsujimoto (voc)", 
+        "Dorothea Jakob (voc)", "Sophie Harr (voc)", "Sabine Czinczel (voc)", "Stefanie Gläser-Blumenschein (voc)", 
+        "Judith Hilger (voc)", "Ulrike Koch (voc)", "Wiebke Wighardt (voc)", "Filippa Möres-Busch (voc)", "Sandra Stahlheber (voc)",
+        "Frank Bossert (voc)", "Johannes Kaleschke (voc)", "Christopher Kaplan (voc)", "Rüdiger Linn (voc)", "Julius Pfeifer (voc)", 
+        "Alexander Yudenkov (voc)", "Daniel Schmid (voc)", "Steffen Kruse (voc)", "Georg Gädker (voc)", "Bernhard Hartmann (voc)", 
+        "Florian Kontschak (voc)", "Torsten Müller (voc)", "Philip Niederberger (voc)", "Mikhail Nikiforov (voc)",
+        "Mikhail Shashkov (voc)", "Yuval Weinberg (cond)"]
+    },
+    {
+        "id": 2023088,
+        "name": "Kruglov / Kozhevnikova / Talalay (RU)",
+        "start_date": "2023-05-29T18:40:00+02:00",
+        "description": "Ein AUFBRUCH aus der Stagnation begann in Arkhangelsk, der nordrussischen Hafenstadt, in der sich die nach ihr benannte, legendäre Freejazzgruppe formierte. Am 25. Mai 1979 - im Klima der sich ankündigenden Perestroika, war diese Gruppe bereits in Moers zu Gast. Weder der präfrontale Kortex noch unser Archiv konnten uns dabei helfen, ob Oleg Yudanov damals mit ausgelaufen ist. „In einer verborgenen, wild zerklüfteten Felsenbucht, liegt Odysseus, der berühmte Held und Zerstörer Trojas mit seiner Flotte vor Anker.“ Er wollte zurückkehren - Ob Oleg Yudanow damals bereits als Schlagzeuger unterstütze, ist nicht ganz klar. Wo der präfrontale Kortex uns beim Erinnern nicht geholfen hat, konnte es unser Archiv auch nicht...tja. Wie auch immer: Yudanov war irgendwie immer schon mit Moers verbunden. Nun kehrt er zurück - in einem stark gewandelten Klima. Und schickgibt uns mit dem Saxophonisten und Multiinstrumentalisten Alexey Kruglow, sowie der Pianistin und Sängerin Karina Kozhevnikova und dem schlagfertigen wie taktlosen Fellstreichler Piotr Talalay einen Einblick in die aktuelle Speerspitze der russischen AvantgardeSzene. „Der Morgen graut; Odysseus ruht im Halbschlummer.“ In Arkhangelsk ist Winter; schwierig, sich hier zwischen , die sich zwischen Improvisiertem, Komponiertem, Improvisiertem, Akademischem und Folklore freizuspielenispielt. Alles ist möglich.Yudanov ist nicht in Moers. „Aber er erkennt die Heimat nicht und unglücklich blickt er umher.“",
+        "artists": ["Alexey Kruglov (sax)", "Karina Kozhevnikova (p, voc)", "Piotr Talalay (dr)"]
+    },
+    {
+        "id": 2023089,
+        "name": "Kenny Garrett and Sounds from the Ancestors (US)",
+        "start_date": "2023-05-29T19:45:00+02:00",
+        "description": "Der letzte große Saxophonist, der mit Miles Davis spielte, wird endlich zu Gast in Moers sein: Kenny Garrett and Sounds From The Ancestors heißt das Projekt Garretts, der mit seinem unverwechselbaren Sound eine ganze Generation prägte.",
+        "artists": ["Kenny Garrett (as,ts)", "Corcoran Holt (b)", "Rudy Bird (perc)", "David Brown (p)", "Ronald Bruner (dr)"]
+    },
+    {
+        "id": 2023090,
+        "name": "NEPTUNIAN MAXIMALISM (BE)",
+        "start_date": "2023-05-29T21:00:00+02:00",
+        "description": "NEPTUNIAN MAXIMALISM ist eine Gemeinschaft von Musiker:innen, die ursprünglich aus Kylwiria kamen und seitdem auf der Suche nach der Zukunft des Lebens auf der Erde sind.  Auf diese Reise nehmen die Masterminds Guillaume Cazalet (bariton git, sitar, voc) und Reeds-Player Jean-Jacques Duerinckx (bs/elec, sss) mit Reshma Goolamy (b), Romain Martini (git), Didié Nietzsch (digital soundscapes, spectral), Joaquin Bermudez (amplified saz), Stephane Fedele (dr) und Lukas Melville Bouchenot (dr) eine außergewöhnliche Auswahl an „occultural engineers“ mit nach Moers. Das Tor zum Bewusstsein öffnet sich durch die Verwendung spekulativer Texte, obskurer Sprache und das Experimentieren mit klanglichen Botenstoffen.",
+        "artists": ["Romain Martini (g)", "Guillaume Cazalet (bariton guitar, sitar, voc)", "Jean-Jacques Duerinckx (bs/elec, sss)", "Reshma Goolamy (b)", "Didié Nietzsch (digital soundscapes, spectral)", "Joaquin Bermudez (amplified saz)", "Stephane Fedele (dr)", "Lukas Melville Bouchenot (dr)"]
+    },
+    {
+        "id": 2023091,
+        "name": "Putan Club (FR, IT)",
+        "start_date": "2023-05-29T22:30:00+02:00",
+        "description": "Der Putan Club ist ein einzigartiger musikalischer Geheimbund der Italienerin Gianna Greco (b, voc) und dem Franzosen François R. Cambuzat (git, elec, voc). Energieblitze aus experimentellem Post-Punk, Noise Rock und elektronischem Sound bilden magnetische Wirbel zu einer schillernd klingenden Nervenzellenkirmes. Greco's kraftvoller Gesang und Cambuzat's komplexes Gitarrenspiel -hypnotisierend, kompromisslos, energisch und voller MUT: ein Aufruf zum Handeln, eine dringende und kompromisslose Stimme in einer Welt, die oft zu ängstlich ist, um sich zu äußern.",
+        "artists": ["Gianna Greco (b, voc)", "François R. Cambuzat (git, voc, computer)"]
     }
 ]
