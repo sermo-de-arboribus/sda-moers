@@ -2165,6 +2165,17 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@davidaubaile6979"}]
         }
     },
+    "PascalAuberson": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pascal-auberson-mn0002297156"}],
+            "bandcamp": [{"type": "personal", "url": "https://workshopdelyon.bandcamp.com/album/wdl-avec-yves-robert-et-pascal-auberson-3-mars-1989"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/990721-Pascal-Auberson"}],
+            "homepage": [{"type": "personal", "url": "https://www.pascalauberson.ch/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pascalauberson"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/pascalauberson"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxYaI8n-U50o-MFL2MIUF-Q"}]
+        }
+    },
     "DanielAuner": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/daniel-auner-mn0002608663"}],
@@ -2818,6 +2829,23 @@
     "Tabea Lara NgoziBriggs": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://tabeabriggs.net/"}]
+        }
+    },
+    "ChrisBrigham": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/chris-brigham-mn0002064307"}],
+            "homepage": [{"type": "agency", "url": "https://snowpond.org/brass/349-chris-brigham"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/chris-brigham-714771935"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/horningaround"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@chrisbrigham5467"}]
+        }
+    },
+    "BillBrimfield": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/billy-brimfield-mn0001572384"}],
+            "bandcamp": [{"type": "album", "url": "https://paulhartsaw.bandcamp.com/album/bootleg-series-no1-hungry-brain-chicago-09-29-2002"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1191701-Bill-Brimfield"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bill_Brimfield"}]}]
         }
     },
     "LeonBritchard": {
