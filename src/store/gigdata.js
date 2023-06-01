@@ -265,6 +265,7 @@ function getLogoUrl(serviceKey) {
         case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
         case "discogs": return "/discogs-logo.png";
         case "jazzsession": return "/tjs-squarelogo.jpg";
+        case "linkedin": return "/In-Blue-34.png";
         case "radiohoerer": return "/radio-icon.png";
         case "soundcloud": return "https://w.soundcloud.com/icon/assets/images/orange_white_32-94fc761.png";
         case "twitter": return "/Twitter_Logo_Blue.png";                

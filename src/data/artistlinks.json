@@ -2176,6 +2176,45 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCxYaI8n-U50o-MFL2MIUF-Q"}]
         }
     },
+    "GeorgesAubert": {
+        "links": {
+            "discogs": [{"type": "band", "url": "https://www.discogs.com/artist/3590715-Loud-Minority-Septet"}],
+            "homepage": [{"type": "agency", "url": "https://data.bnf.fr/fr/14151276/georges_aubert/"}, {"type": "agency", "url": "https://cdac.lacitedelavoix.net/index.php?lvl=author_see&id=16932"}, {"type": "agency", "url": "https://isni.oclc.org/DB=1.2//CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000000504659336&TERMS_OF_USE_AGREED=Y&terms_of_use_agree=send&COOKIE=U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E8dde5025-16,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R77.185.130.13,FY"}, {"type": "band", "url": "https://bigbandjazz69.wixsite.com/villefranche/presse"}]
+        },
+        "notes": {
+            "cs": "Nespletejte s Georgesem Aubertem, varhaníkem, cellistou a dirigentem barokní hudby",
+            "de": "Nicht zu verwechseln mit Georges Aubert, Organist, Cellist und Dirigent von Barockmusik.",
+            "en": "Not to be confused with Georges Aubert, organist, cellist and conductor of baroque music.",
+            "fr": "Ne confondez pas avec Georges Aubert, organiste, violoncelliste et chef d'orchestre de musique baroque.",
+            "zh": "不要与巴洛克风琴手 Georges Aubert混淆。"
+        }
+    },
+    "PierreAudétat": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/pierre-audetat"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/pierre-aud%C3%A9tat-mn0000283830"}],
+            "bandcamp": [{"type": "album", "url": "https://subrosalabel.bandcamp.com/album/freewheel"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/44564-Pierre-Aud%C3%A9tat"}],
+            "homepage": [{"type": "personal", "url": "http://pierreaudetat.com/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/pierre-aud%C3%A9tat-3bb63346/"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/pierreaudetat"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/OdetaTV"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Pierre_Aud%C3%A9tat"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Pierre_Aud%C3%A9tat"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@odetatv"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCs_MjE9z8jDoMZ6XHjKLs3Q"}]
+        }
+    },
+    "MichelAumont": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michel-aumont-mn0001753040"}],
+            "bandcamp": [{"type": "personal", "url": "https://michelaumont.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2698342-Michel-Aumont-2"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/michel-aumont-b419276b/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/michel-aumont"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/michaumont"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Michel_Aumont_(clarinettiste)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@michelaumont1"}]
+        }
+    },
     "DanielAuner": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/daniel-auner-mn0002608663"}],
@@ -2189,6 +2228,23 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/barbara-de-menezes-galante-auner-mn0003725692"}, {"type": "band", "url": "https://www.discogs.com/artist/7223110-Auner-Quartett"}],
             "homepage": [{"type": "personal", "url": "https://www.danielauner.com/"}, {"type": "band", "url": "https://www.aunerquartett.at/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Galantebarbara"}]
+        }
+    },
+    "Ne MyoAung": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "http://www.myanmarmusicfestival.com/ne-myo-aung.html"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/c/NeMyoAung"}, {"type": "agency", "url": "https://youtu.be/3q-OQI1Q4J4"}]
+        }
+    },
+    "HaraldAustbø": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harald-austb%C3%B8-mn0003120030"}],
+            "bandcamp": [{"type": "personal", "url": "https://haraldaustbo.bandcamp.com"}, {"type": "album", "url": "https://blowpipe.bandcamp.com/album/ontwaak"}, {"type": "personal", "url": "https://blowpipe.bandcamp.com/album/requiem-for-the-world-as-we-know-it"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1231422-Harald-Austbo"}],
+            "homepage": [{"type": "label", "url": "http://www.blowpipe.org/harald_austb.html"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Harald%20Austb%C3%B8%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-999180013"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCwRHXPEIT-v_WvK7zPatA_Q"}]
         }
     },
     "AminaAziz": {
@@ -2908,6 +2964,18 @@
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Cameron_Brown"}, {"locales": "en", "url": "https://en.wikipedia.org/wiki/Cameron_Brown_(musician)"}]}]
         }
     },
+    "JeriBrown": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/jeri-brown"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jeri-brown-mn0000270729"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1214324-Jeri-Brown"}],
+            "homepage": [{"type": "personal", "url": "https://www.jeribrown.com/"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jeri-brown"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/_Jeri_Brown"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jeri_Brown"}, {"locale": "en", "url":" https://en.wikipedia.org/wiki/Jeri_Brown"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Jeri_Brown"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@Spiritica123"}]
+        }
+    },
     "TyroneBrowne": {
         "firstname": "Tyrone",
         "surname": "Brown"
@@ -2920,7 +2988,8 @@
     },
     "LeaBrugnoli": {
         "links": {
-            "homepage": [{"type": "personal", "url": "http://leabrugnoli.com/"}, {"type": "interview", "url": "https://womeninlighting.com/site/your-interviews/lea-brugnoli"}, {"type": "personal", "url": "https://www.linkedin.com/in/leabrugnoli"}]
+            "homepage": [{"type": "personal", "url": "http://leabrugnoli.com/"}, {"type": "interview", "url": "https://womeninlighting.com/site/your-interviews/lea-brugnoli"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/leabrugnoli"}]
         }
     },
     "RobBruynen": {
@@ -4110,6 +4179,17 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChg03mroGV5xUEqyDh7zD3Q"}]
         }
     },
+    "JamesEmery": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/james-emery"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/james-emery-mn0000141688"}, {"type": "band", "url": "https://www.allmusic.com/artist/james-emery-septet-mn0000785628"}, {"type": "band", "url": "https://www.allmusic.com/artist/james-emery-duo-mn0003255222"}],
+            "bandcamp": [{"type": "personal", "url": "https://emeryjames.bandcamp.com/"}, {"type": "album", "url": "https://destination-out.bandcamp.com/album/exo-eso"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/314875-James-Emery"}],
+            "homepage": [{"type": "personal", "url": "https://www.james-emery.com/"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/James_Emery"}, {"locale": "de", "url": "https://en.wikipedia.org/wiki/James_Emery_(musician)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@jamesemerymusic8016"}]
+        }
+    },
     "PeterEngelhardt": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/peter-engelhardt-mn0003222007"}],
@@ -4230,6 +4310,34 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/tanyaevanson"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/semayatavon"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@tawhidatanyaevanson"}]
+        }
+    },
+    "DouglasEwart": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/douglas-ewart"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/douglas-ewart-mn0000200224"}, {"type": "band", "url": "https://www.allmusic.com/artist/douglas-ewart-quintet-mn0000199077"}],
+            "bandcamp": [{"type": "band", "url": "https://smithewartreed.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/237521-Douglas-Ewart"}],
+            "homepage": [{"tpye": "personal", "url": "https://www.douglasewart.com/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/douglas-r-ewart-8b029911/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Douglas%20Ewart%22"}, {"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Douglas%20R.%20Ewart%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-844177965"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Bambooewart"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Douglas_Ewart"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Douglas_Ewart"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCesGmynCmsbbEWJX2_7NwFA"}]
+        }
+    },
+    "SandyEwen": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/sandy-ewen"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sandy-ewen-mn0000720801"}],
+            "bandcamp": [{"type": "personal", "url": "https://sandyewen.bandcamp.com/"}, {"type": "album", "url": "https://blueholerecordings.bandcamp.com/album/sandy-ewen"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/535169-Sandy-Ewen"}],
+            "homepage": [{"type": "personal", "url": "https://www.sandyewen.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Sandy%20Ewen%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sandyewen"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sandy_Ewen"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@sandyewen7003"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCGXq8RLOub_YCXUoEC2losg"}]
         }
     },
     "LucEx": {
@@ -4379,7 +4487,7 @@
     },
     "HannahFreienstein": {
         "links": {
-            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/hannah-freienstein-a498b593"}, {"type": "band", "url": "https://www.dancefloor1700.com/%C3%BCber-uns-1/"}]
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/hannah-freienstein-a498b593"}, {"type": "band", "url": "https://www.dancefloor1700.com/%C3%BCber-uns-1/"}]
         }
     },
     "PeterFrey": {
@@ -4691,7 +4799,8 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gliceria-abreu-mn0000940421"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7580046-Gliceria-Abreu"}],
-            "homepage": [{"type": "band", "url": "http://afrocubanallstarsonline.com/"}, {"type": "personal", "url": "https://www.linkedin.com/in/gliceria-gonzalez-abreu-a4b59b62/"}]
+            "homepage": [{"type": "band", "url": "http://afrocubanallstarsonline.com/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/gliceria-gonzalez-abreu-a4b59b62/"}]
         }
     },
     "Laura LidyaGonzález Abreu": {
@@ -6238,6 +6347,21 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCAitBpzGZpgrqplWWVzFLJg"}]
         }
     },
+    "KarinaKoževnikova": {
+        "links": {
+            "bandcamp": [{"type": "album", "url": "https://alexeykruglov.bandcamp.com/album/polyphonic-circle"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4396868-%D0%9A%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%9A%D0%BE%D0%B6%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0"}],
+            "homepage": [{"type": "personal", "url": "https://karinakozhevnikova.ru/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/1mhlsk6druzn"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@karinajazzsinger"}]
+        }
+    },
+    "KarinaKozhevnikova": {
+        "canonicalName": {
+            "firstname": "Karina",
+            "surname": "Koževnikova"
+        }
+    },
     "NiidaKozo": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/niida-kozo-mn0000947540"}, {"type": "personal", "url": "https://www.allmusic.com/artist/kozo-niida-mn0003965372"}],
@@ -6276,6 +6400,16 @@
             "homepage": [{"type": "agency", "url": "http://www.rheinlaender.de/bands/achim_kraemer.htm"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Achim_Kr%C3%A4mer"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCskweEfHo7SGt_TcGgYPH6Q"}]
+        }
+    },
+    "WayneKramer": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wayne-kramer-mn0000247557"}],
+            "bandcamp": [{"type": "album", "url": "https://pereubu.bandcamp.com/album/mubuc5-pere-ubu-featuring-wayne-kramer"}, {"type": "personal", "url": "https://mikeskill.bandcamp.com/album/67-riot-feat-wayne-kramer"}, {"type": "album", "url": "https://delicatesteve.bandcamp.com/album/american-ruse-feat-wayne-kramer"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/45686-Wayne-Kramer"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/waynekramer"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Wayne_Kramer"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Wayne_Kramer_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wayne_Kramer_(guitarist)"}, {"locale": "en", "url": "https://fr.wikipedia.org/wiki/Wayne_Kramer_(guitariste)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Wayne_Kramer"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCSh5Jz4m9ITyWpdLUHvKeZQ"}]
         }
     },
     "AnaKravanja": {
@@ -7011,7 +7145,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/emmet-mcdonald-mn0001232094"}],
             "allaboutjazz": [{"type": "personal", "url": "https://www.discogs.com/artist/2133204-Emmett-McDonald"}],
-            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/emmett-mcdonald-34694285/"}]
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/emmett-mcdonald-34694285/"}]
         }
     },
     "ChrisMcGregor": {
@@ -8389,6 +8523,39 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/wolfgang-puschnig"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wolfgang_Puschnig"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Wolfgang_Puschnig"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCjtGIGYHbWoF6FOweNjh_6A"}]
+        }
+    },
+    "Judicael VahiniryRabaroelina": {
+        "canonicalName": {
+            "firstname": "Judicaël Vahiniry",
+            "surname": "Rabaroelina"
+        }
+    },
+    "Judicaël VahiniryRabaroelina": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6697499-Nini-Vahiniry"}],
+            "homepage": [{"type": "band", "url": "https://worldmusiccentral.org/2018/10/10/artist-profiles-rajery/"}]
+        },
+        "note": {
+            "cs": "Přezdívka: Nini",
+            "de": "Spitzname: Nini",
+            "en": "Nickname: Nini",
+            "fr": "Sobriquet: Nini",
+            "zh": "外号: Nini"
+        }
+    },
+    "MaévaRabassa": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "http://labor.kolleg-musik-kunst.de/2020/08/28/freie-improvisation/"}, {"type": "personal", "url": "https://www.facebook.com/maeva.rabassa/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ma-va-rabassa"}]
+        }
+    },
+    "TonyRabeson": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tony-rabeson-mn0001836889"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/317358-Tony-Rabeson"}],
+            "homepage": [{"type": "personal", "url": "http://pitajazz.free.fr/Tony.htm"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tony_Rabeson"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Tony_Rabeson"}]}]
         }
     },
     "IdrisRahman": {
@@ -10015,7 +10182,7 @@
     "ThorstenTöpp": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thorsten-t%C3%B6pp-mn0003534456"}],
-            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/thorsten-töpp-913aa7133/"}]
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/thorsten-töpp-913aa7133/"}]
         }
     },
     "ChrisTordini": {
@@ -10154,6 +10321,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCngNvmFArTotzzjBAgk_3Vw"}]
         }
     },
+    "TomasUlrich": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/tomas-ulrich"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tomas-ulrich-mn0000608947"}],
+            "bandcamp": [{"type": "album", "url": "https://rodrigoamado.bandcamp.com/album/surface"}, {"type": "album", "url": "https://barkinghooparchival.bandcamp.com/album/ocean-of-earth"}, {"type": "album", "url": "https://christofthewes.bandcamp.com/album/clear-horizons"}, {"type": "album", "url": "https://christofthewes.bandcamp.com/album/two-pieces"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/518836-Tomas-Ulrich"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/tomas-ulrich-2b211523/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Tomas%20Ulrich%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tomas_Ulrich"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tomas_Ulrich"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/playlist?list=PLguYnvkEwcGquLxH6ZSBtuWp3CUCku4I_"}]
+        }
+    },
     "MichalUrbaniak": {
         "canonicalName": { "firstname": "Michał", "surname": "Urbaniak" }
     },
@@ -10261,7 +10440,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonas-verwijnen-mn0002363899"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/401157-Jonas-Verwijnen"}],
-            "homepage": [{"type": "personal", "url": "https://de.linkedin.com/in/jonas-verwijnen-71a29611"}],
+            "linkedin": [{"type": "personal", "url": "https://de.linkedin.com/in/jonas-verwijnen-71a29611"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jonas-kaiku"}]
         }
     },
@@ -10563,7 +10742,7 @@
     },
     "ChrisWeddle": {
         "links": {
-            "homepage": [{"type": "personal", "url": "https://www.linkedin.com/in/chris-weddle-752583a9/?originalSubdomain=de"}]
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/chris-weddle-752583a9/?originalSubdomain=de"}]
         }
     },
     "MaxWehner": {
