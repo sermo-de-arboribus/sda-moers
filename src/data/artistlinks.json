@@ -2778,6 +2778,43 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCB9ro1CT23t2alxd-wPlGWQ"}]
         }
     },
+    "AndresBosshard": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/andres-bosshard-mn0000036867"}, {"type": "personal", "url": "https://www.allmusic.com/artist/andreas-bosshard-mn0001390262"}, {"type": "personal", "url": "https://www.allmusic.com/artist/andreas-bosshard-mn0000036921"}],
+            "bandcamp": [{"type": "album", "url": "https://pentiments.bandcamp.com/album/piano-streaming-fl-gel-im-sinkflug-ber-gr-neck"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/471694-Andres-Bosshard"}],
+            "homepage": [{"type": "personal", "url": "http://www.soundcity.ws/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/andres-bosshard-5322ba15/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Andres%20Bosshard%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/andresbosshard"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/AndresBosshard"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Andres_Bosshard"}]}]
+        }
+    },
+    "PatriciaBosshard": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/patricia-bosshard"}],
+            "bandcamp": [{"type": "band", "url": "https://patriciabosshardxaviercharles.bandcamp.com/"}, {"type": "band", "url": "https://patriciabosshardandsimongrab.bandcamp.com/"}, {"type": "album", "url": "https://thodolnetlabel.bandcamp.com/album/les-lieux-loign-s"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1323717-Patricia-Bosshard"}],
+            "homepage": [{"type": "personal", "url": "https://patriciabosshard.com/"}],
+            "soundcloud": [{"type":"personal", "url": "https://soundcloud.com/user-953547448"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Patricia_Bosshard"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Patricia_Bosshard"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@patriciabosshard978"}]
+        }
+    },
+    "MatthiasBossi": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/matthias-bossi"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matthias-bossi-mn0000907369"}],
+            "bandcamp": [{"type": "personal", "url": "https://matthiasbossi.bandcamp.com/album/exploration-of-delusions-piano-meditations"}, {"type": "band", "url": "https://rabbitrabbitradio.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/735952-Matthias-Bossi"}],
+            "homepage": [{"type": "personal", "url": "http://matthiasbossi.com/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/matthias-bossi-05a1802b/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/rabbit-rabbit-radio"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/Rabbit2Radio"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/@RabbitRabbitRadio"}]
+        }
+    },
     "WimBoth": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/wimboth"}],

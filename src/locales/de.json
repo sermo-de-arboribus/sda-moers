@@ -79,6 +79,30 @@
     "keywords": "Moers Festival, Improvisationskünstler, Jazzmusiker, offene Daten",
     "title": "Künstler:innen beim „Moers Festival“"
   },
+  "instruments": {
+    "as": "Altsaxophon",
+    "bvoc": "Begleitgesang",
+    "comp": "Komposition",
+    "dr": "Schlagzeug",
+    "g": "Gitarre",
+    "garagab": "Qarqaba",
+    "ghaita": "Ghaita",
+    "gimbri": "Gimbri",
+    "keyb": "Keyboard",
+    "Klangregie": "Klangregie",
+    "lira": "Leier",
+    "org": "Orgel",
+    "p": "Klavier",
+    "perc": "Perkussion",
+    "Raumklang": "Raumklang",
+    "reeds": "Rohrblattinstrumente",
+    "tebel": "Tebel",
+    "tirbouga": "Tirbouga",
+    "tp": "Trompete",
+    "tt": "Schallplattenspieler",
+    "vl": "Geige",
+    "voc": "Gesang"
+  },
   "localeSwitch": {
     "chooseLanguage": "Sprache wählen"
   }

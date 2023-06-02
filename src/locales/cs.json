@@ -79,6 +79,30 @@
         "keywords": "Moers Festival, improvizační umělci, jazzové hudebníci, otevřená data",
         "title": "Umělkyně a umělci u festivalu „Moers Festival“"
     },
+    "instruments": {
+        "as": "altsaxofon",
+        "bvoc": "doprovodné vokály",
+        "comp": "hudební skladba",
+        "dr": "bicí souprava",
+        "g": "kytara",
+        "garagab": "qarqaba",
+        "ghaita": "ghaita",
+        "gimbri": "gimbri",
+        "keyb": "klávesy",
+        "Klangregie": "zvuková režie",
+        "lira": "lyra",
+        "org": "varhany",
+        "p": "klavír",
+        "perc": "perkuse",
+        "Raumklang": "prostorový zvuk",
+        "reeds": "plátková hudební nástroje",
+        "tebel": "tebel",
+        "tirbouga": "tirbouga",
+        "tp": "trubka",
+        "tt": "gramofon",
+        "vl": "housle",
+        "voc": "zpěv"
+      },
     "localeSwitch": {
         "chooseLanguage": "Vybrat jazyk"
     }
