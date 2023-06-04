@@ -79,6 +79,31 @@
     "keywords": "Moers Festival, improvised music, improvisers, jazz musicians, open data",
     "title": "Artists at the Moers Festival"
   },
+  "instruments": {
+    "as": "alto saxophone",
+    "b": "bass",
+    "bvoc": "backing vocals",
+    "comp": "composition",
+    "dr": "drums",
+    "g": "guitar",
+    "garagab": "krakeb",
+    "ghaita": "rhaita",
+    "gimbri": "sintir",
+    "keyb": "keyboards",
+    "Klangregie": "sound direction",
+    "lira": "lyre",
+    "org": "organ",
+    "p": "piano",
+    "perc": "percussion",
+    "Raumklang": "room sound",
+    "reeds": "reed instruments",
+    "tebel": "tebel",
+    "tirbouga": "tirbouga",
+    "tp": "trumpet",
+    "tt": "turntables",
+    "vl": "violin",
+    "voc": "vocals"
+  },
   "localeSwitch": {
     "chooseLanguage": "choose language"
   }

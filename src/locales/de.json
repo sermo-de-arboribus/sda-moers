@@ -81,6 +81,7 @@
   },
   "instruments": {
     "as": "Altsaxophon",
+    "b": "Bass",
     "bvoc": "Begleitgesang",
     "comp": "Komposition",
     "dr": "Schlagzeug",

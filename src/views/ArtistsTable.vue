@@ -51,7 +51,7 @@
                     </div>
                 </b-row>
                 <div v-else-if="props.column.field == 'instruments'">
-                    {{ props.row.instruments.join(", ") }}
+                    {{ props.row.instruments.map(i => $t(`instruments.${i}`)).join(", ") }}
                 </div>
 
                 <vue-good-table v-else-if="props.column.field == 'concerts'"
@@ -163,8 +163,8 @@ export default {
                     label: this.$t("artistsTable.starttime"),
                     field: "starttime",
                     type: "date",
-                    dateInputFormat: "yyyy-MM-dd HH:mm:ss",
-                    dateOutputFormat: "yyyy-MM-dd HH:mm:ss",
+                    dateInputFormat: "yyyy-MM-dd'T'HH:mm:ssXXX",
+                    dateOutputFormat: "yyyy-MM-dd'T'HH:mm:ssXXX",
                     width: "25%"
                 },
                 {
@@ -222,7 +222,11 @@ export default {
                         enabled: true,
                         placeholder: this.$t("artistsTable.filters.byInstruments"),
                         filterFn: (data, filterString) => {
-                            return data.has(filterString);
+                            console.log("Searching for instrument in ", data);
+                            return data.some(i => {
+                                const localizedInstrument = this.$t(`instruments.${i}`);
+                                return localizedInstrument.includes(filterString);
+                            });
                         }
                     }
                 },
@@ -234,7 +238,6 @@ export default {
                         enabled: true,
                         placeholder: this.$t("artistsTable.filters.byConcerts"),
                         filterFn: (data, filterString) => {
-                            console.log(data, filterString);
                             return data.some(g => g.concert.includes(filterString)) || data.some(g => g.year.includes(filterString));
                         }
                     },

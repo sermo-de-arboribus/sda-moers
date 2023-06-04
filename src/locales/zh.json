@@ -77,6 +77,31 @@
     "keywords": "默尔斯音乐节, 音乐即兴",
     "title": "出席默尔斯音乐节 [Moers Festival]的音乐人/艺术家"
   },
+  "instruments": {
+    "as": "中音萨克斯风",
+    "b": "低音提琴",
+    "bvoc": "和聲歌手",
+    "comp": "作曲家",
+    "dr": "鼓",
+    "g": "吉他",
+    "garagab": "krakeb",
+    "ghaita": "rhaita",
+    "gimbri": "sintir",
+    "keyb": "電子琴",
+    "Klangregie": "声音方向",
+    "lira": "七弦琴",
+    "org": "器官",
+    "p": "钢琴",
+    "perc": "打击乐器",
+    "Raumklang": "环绕声",
+    "reeds": "簧片乐器",
+    "tebel": "tebel",
+    "tirbouga": "tirbouga",
+    "tp": "小号",
+    "tt": "留声机",
+    "vl": "小提琴",
+    "voc": "唱"
+  },
   "localeSwitch": {
     "chooseLanguage": "选择语言"
   }
