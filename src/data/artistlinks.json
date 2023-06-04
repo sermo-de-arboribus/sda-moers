@@ -2247,6 +2247,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCwRHXPEIT-v_WvK7zPatA_Q"}]
         }
     },
+    "PatrickAuzier": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1458826-Patrick-Auzier"}],
+            "homepage": [{"type": "agency", "url": "http://archives.belluard.ch/archiv/index_185-6.htm"}]
+        }
+    },
     "AminaAziz": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://www.picuki.com/profile/amina_aziz__"}]
