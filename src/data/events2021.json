@@ -496,8 +496,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jan Klare - Kurator",
-                "tba"
+                "Jan Klare (Kurator)"
             ],
             "collection": "festival21",
             "attendance_mode": "online"
@@ -511,8 +510,7 @@
         "deleted_at": null,
         "collection": "festival21",
         "artists": [
-            "Jan Klare - Kurator",
-            "tba"
+            "Jan Klare (Kurator)"
         ],
         "place": {
             "id": 9,

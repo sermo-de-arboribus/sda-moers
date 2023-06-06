@@ -1,7 +1,7 @@
 [
     {
       "name": "Globe Unity Orchestra (DE\/GB\/USA)",
-      "description": "Besetzung: Alexander von Schlippenbach (p), Kenny Wheeler (tp), Enrico Rava (tp), Mark Charig (tp), Roswell Rudd (tb), Albert Mangelsdorff (tb), Paul Rutherford (tb), Günter Christmann (tb), Evan Parker (reeds), Gerd Dudek (reeds), Tristan Honsinger (cello), Bob Stewart (tuba), Buschi Niebergall (b), Paul Lovens (perc)",
+      "description": "Besetzung: Alexander von Schlippenbach (p), Kenny Wheeler (tp), Enrico Rava (tp), Mark Charig (tp), Roswell Rudd (tb), Albert Mangelsdorff (tb), Paul Rutherford (tb), Günter Christmann (tb), Evan Parker (reeds), Gerd Dudek (reeds), Tristan Honsinger (cello), Bob Stewart (tu), Buschi Niebergall (b), Paul Lovens (perc)",
       "id": "d2e269",
       "start_date": "1979-06-01T00:00:00Z"
     },
@@ -133,13 +133,13 @@
     },
     {
       "name": "Cecil Taylor Sextet (USA)",
-      "description": "Besetzung: Cecil Taylor (p), Raphe Malik (tp), James Lyons (reeds), Ron Johnson (dr), Ramsey Ameen (viol), Sirone (b)",
+      "description": "Besetzung: Cecil Taylor (p), Raphe Malik (tp), James Lyons (reeds), Ron Johnson (dr), Ramsey Ameen (vl), Sirone (b)",
       "id": "d2e382",
       "start_date": "1978-05-12T00:00:00Z"
     },
     {
       "name": "Double Image (USA)",
-      "description": "Besetzung: David Friedman (vibraphone), David Samuels (marimbaphone), Harvie Swartz (b), Mike de Pasqua (dr, perc)",
+      "description": "Besetzung: David Friedman (vib), David Samuels (mar), Harvie Swartz (b), Mike de Pasqua (dr, perc)",
       "id": "d2e389",
       "start_date": "1978-05-13T00:00:00Z"
     },
@@ -229,7 +229,7 @@
     },
     {
       "name": "Blasverbot (DE)",
-      "description": "Besetzung: Teddy Biesterfeld (reeds), Christoph Eidens (p), Klaus Dusek (b), Rainer Broden (dr)",
+      "description": "Besetzung: Teddy Biesterfeld (reeds), Christoph Eidens (p), Klaus Dusek (cb), Rainer Broden (dr)",
       "id": "d2e457",
       "start_date": "1978-05-15T00:00:00Z"
     },
@@ -319,7 +319,7 @@
     },
     {
       "name": "Blasverbot (DE)",
-      "description": "Besetzung: Achim Niemann (reeds, fl), Daniel Jakobs (dr), Klaus Dusek (b), Christoph Eidens (p)",
+      "description": "Besetzung: Achim Niemann (reeds, fl), Daniel Jakobs (dr), Klaus Dusek (cb), Christoph Eidens (p)",
       "id": "d2e539",
       "start_date": "1977-05-29T00:00:00Z"
     },
@@ -379,7 +379,7 @@
     },
     {
       "name": "David Friedmann & Double Image (USA)",
-      "description": "Besetzung: David Friedmann (vib), David Samuels (marimbaphone), Harvie Swartz (b), Mike de Pasqua (dr)",
+      "description": "Besetzung: David Friedmann (vib), David Samuels (mar), Harvie Swartz (b), Mike de Pasqua (dr)",
       "id": "d2e586",
       "start_date": "1977-05-30T00:00:00Z"
     },
@@ -439,7 +439,7 @@
     },
     {
       "name": "Misha Mengelberg Tentett (NL)",
-      "description": "Besetzung: Misha Mengelberg (p), Peter Bennink (reeds), Peter Brötzmann (reeds), Bert Koppelaar (tb), Guilias Bergeyk (reeds), Maurice Horsthuis (viola), Derek Bailey (g), Tristan Honzinger (cello), Märten van Regteren-Altena (b), Han Bennink (dr, perc)",
+      "description": "Besetzung: Misha Mengelberg (p), Peter Bennink (reeds), Peter Brötzmann (reeds), Bert Koppelaar (tb), Guilias Bergeyk (reeds), Maurice Horsthuis (viola), Derek Bailey (g), Tristan Honzinger (clo), Märten van Regteren-Altena (cb), Han Bennink (dr, perc)",
       "id": "d2e659",
       "start_date": "1976-06-05T00:00:00Z"
     },
@@ -463,7 +463,7 @@
     },
     {
       "name": "Globe Unity Orchestra plus Gardemusikzug Blau-Weiss Moers e.V. & Wuppermusikanten",
-      "description": "Besetzung: Alexander von Schlippenbach (p), Evan Parker (reeds), Peter Brötzmann (reeds), Rüdiger Carl (reeds), Gerd Dudek (reeds), Michel Pilz (b-cl), Manfred Schoof (tp), Kenny Wheeler (tp), Günter Christmann (tb), Paul Rutherford (tb), Buschi Niebergall (b), Peter Kowald (b, tu), Paul Lovens (dr, perc), Friedel Kolb (Leitg. Gardemusikzug Blau- Weiss Moers plus Wuppermusikanten)",
+      "description": "Besetzung: Alexander von Schlippenbach (p), Evan Parker (reeds), Peter Brötzmann (reeds), Rüdiger Carl (reeds), Gerd Dudek (reeds), Michel Pilz (bcl), Manfred Schoof (tp), Kenny Wheeler (tp), Günter Christmann (tb), Paul Rutherford (tb), Buschi Niebergall (b), Peter Kowald (b, tu), Paul Lovens (dr, perc), Friedel Kolb (Leitg. Gardemusikzug Blau- Weiss Moers plus Wuppermusikanten)",
       "id": "d2e678",
       "start_date": "1976-06-06T00:00:00Z"
     },
@@ -511,7 +511,7 @@
     },
     {
       "name": "Gunter Hampel Galaxie Dream Band (USA\/DE)",
-      "description": "Besetzung: Gunter Hampel (vib, b-cl, p), Thomas Keyserling (fl), Allan Praskin (reeds), Martin Bues (dr)",
+      "description": "Besetzung: Gunter Hampel (vib, bcl, p), Thomas Keyserling (fl), Allan Praskin (reeds), Martin Bues (dr)",
       "id": "d2e730",
       "start_date": "1975-05-16T00:00:00Z"
     },
@@ -565,13 +565,13 @@
     },
     {
       "name": "Hans Reichel Trio (NL\/DE)",
-      "description": "Besetzung: Hans Reichel (g), Michel Waiszvisz (reeds), Maarten van Regteren-Altena (b)",
+      "description": "Besetzung: Hans Reichel (g), Michel Waiszvisz (reeds), Maarten van Regteren-Altena (cb)",
       "id": "d2e773",
       "start_date": "1975-05-18T00:00:00Z"
     },
     {
       "name": "Third Eye (NL\/CHN)",
-      "description": "Besetzung: Jan Huydts (el-p, reeds), Nippi Noya (cga), Ali Haurand (b), Leo de Reuter (dr, perc), Frank Köllges (e-p, dr)",
+      "description": "Besetzung: Jan Huydts (el-p, reeds), Nippi Noya (congas), Ali Haurand (b), Leo de Reuter (dr, perc), Frank Köllges (e-p, dr)",
       "id": "d2e777",
       "start_date": "1975-05-18T00:00:00Z"
     },
@@ -589,7 +589,7 @@
     },
     {
       "name": "Globe Unity Orchestra (GB\/DE)",
-      "description": "Besetzung: Alexander von Schlippenbach (p), Kenny Wheeler (tp), Manfred Schoof (tp), Albert Mangelsdorff (tb), Paul Rutherford (tb), Günter Christmann (tb), Peter Brötzmann (reeds), Evan Parker (sax), Rüdiger Carl (reeds), Gerd Dudek (sax), Michel Pilz (b-cl), Buschi Niebergall (b), Peter Kowald (b, tu), Paul Lovens (dr, perc)",
+      "description": "Besetzung: Alexander von Schlippenbach (p), Kenny Wheeler (tp), Manfred Schoof (tp), Albert Mangelsdorff (tb), Paul Rutherford (tb), Günter Christmann (tb), Peter Brötzmann (reeds), Evan Parker (sax), Rüdiger Carl (reeds), Gerd Dudek (sax), Michel Pilz (bcl), Buschi Niebergall (b), Peter Kowald (b, tu), Paul Lovens (dr, perc)",
       "id": "d2e789",
       "start_date": "1975-05-18T00:00:00Z"
     },
@@ -649,7 +649,7 @@
     },
     {
       "name": "Michel Pilz Quintett (BE\/DE)",
-      "description": "Besetzung: Michel Pilz (reeds, b-cl), Wolfgang Engstfeld (reeds), Stefan Diez (g), Reinhard Glöder (b), Peter Weiss (dr)",
+      "description": "Besetzung: Michel Pilz (reeds, bcl), Wolfgang Engstfeld (reeds), Stefan Diez (g), Reinhard Glöder (b), Peter Weiss (dr)",
       "id": "d2e853",
       "start_date": "1974-06-01T00:00:00Z"
     },
@@ -703,7 +703,7 @@
     },
     {
       "name": "Willem Breuker 11Piece Band (NL)",
-      "description": "Besetzung: Willem Breuker (reeds), Bob Driessen (reeds), Hermann de Witt (reeds), Ronald Snyders (reeds, fl), Maurice Horsthuis (viola), Leo Cuypers (el-p), Jan Wolff (horns), Willem van Maanen (tb), Bernhard Hunekink (tb), Michel Waisvicz (reeds), Marten van Regteren-Altena (b)",
+      "description": "Besetzung: Willem Breuker (reeds), Bob Driessen (reeds), Hermann de Witt (reeds), Ronald Snyders (reeds, fl), Maurice Horsthuis (viola), Leo Cuypers (el-p), Jan Wolff (horns), Willem van Maanen (tb), Bernhard Hunekink (tb), Michel Waisvicz (reeds), Marten van Regteren-Altena (cb)",
       "id": "d2e893",
       "start_date": "1974-06-02T00:00:00Z"
     },
@@ -781,7 +781,7 @@
     },
     {
       "name": "Jan Garbarek Trio (NOR) ",
-      "description": "Besetzung: Jan Garbarek (as), Arild Anderson (b), Edward Vesala (dr, perc)",
+      "description": "Besetzung: Jan Garbarek (as), Arild Anderson (cb), Edward Vesala (dr, perc)",
       "id": "d2e973",
       "start_date": "1973-06-10T00:00:00Z"
     },
@@ -811,7 +811,7 @@
     },
     {
       "name": "Gunter Hampel Galaxie Dream Band (USA)",
-      "description": "Besetzung: Gunter Hampel (vib, b-cl, p), Jeanne Lee (voice), Perry Robinson (cl), Mark Whitecage (a-cl, fl), Allan Praskin (reeds), Jack Gregg (b), Jonathan Kline (v), Charlie Miller (tp, fl-h)",
+      "description": "Besetzung: Gunter Hampel (vib, bcl, p), Jeanne Lee (voice), Perry Robinson (cl), Mark Whitecage (a-cl, fl), Allan Praskin (reeds), Jack Gregg (b), Jonathan Kline (v), Charlie Miller (tp, fl-h)",
       "id": "d2e1001",
       "start_date": "1973-06-11T00:00:00Z"
     },
@@ -883,13 +883,13 @@
     },
     {
       "name": "Ibliss (IRQ\/BRD)",
-      "description": "Besetzung: Basil Hammoudi (cga, voc), Rainer Büchel (ts), Wolfgang Büllmeyer (g), Norbert Büllmeier (eb), Andreas Homann (dr)",
+      "description": "Besetzung: Basil Hammoudi (congas, voc), Rainer Büchel (ts), Wolfgang Büllmeyer (g), Norbert Büllmeier (eb), Andreas Homann (dr)",
       "id": "d2e1088",
       "start_date": "1972-06-11T00:00:00Z"
     },
     {
       "name": "Albert Mangelsdorff Quartet (BRD)",
-      "description": "Besetzung: Albert Mangelsdorff (tb), Heinz Sauer (ts), Eberhard Weber (b), Klaus Hübner (dr)",
+      "description": "Besetzung: Albert Mangelsdorff (tb), Heinz Sauer (ts), Eberhard Weber (cb), Klaus Hübner (dr)",
       "id": "d2e1094",
       "start_date": "1972-06-11T00:00:00Z"
     },
@@ -997,7 +997,7 @@
     },
     {
       "name": "Christoph Eidens & Suburban Dreams (DE)",
-      "description": "Besetzung: Christoph Eidens (vib, marimba, perc), Peter Engelhardt (g), Hartmut Kracht (b), Matthias Rumpf (dr, perc), Alphonso \"Poncho\" Valdes (Timbales, perc), Daniel Bassanta (Conga, perc)",
+      "description": "Besetzung: Christoph Eidens (vib, mar, perc), Peter Engelhardt (g), Hartmut Kracht (b), Matthias Rumpf (dr, perc), Alphonso \"Poncho\" Valdes (Timbales, perc), Daniel Bassanta (Conga, perc)",
       "id": "d3e344",
       "start_date": "1989-05-15T00:00:00Z"
     },
@@ -1051,7 +1051,7 @@
     },
     {
       "name": "\"Jazz Warriors\" (GB)",
-      "description": "Besetzung: Patrick Cameron (perc), Paul Sharpe (fl), Cleveland Watkiss (voc), Harry Becket (tp), Clarence Adoo (tp), Claude Deppa (tp), Andy Grappy (tba), Adrian Reid (keyb), Robin Walker (tb), Winston Rollins (tb), Steve Washington (dr), Alan Weekes (g), Wayne Batchelor & Ike Leo (Double Basses), Glenn Williams (bars), Jeff Gordon (ts), Steve Williamson (ts), Michael Rose (as), Jason Yarde (as), Carl Kirton (engineer)",
+      "description": "Besetzung: Patrick Cameron (perc), Paul Sharpe (fl), Cleveland Watkiss (voc), Harry Becket (tp), Clarence Adoo (tp), Claude Deppa (tp), Andy Grappy (tu), Adrian Reid (keyb), Robin Walker (tb), Winston Rollins (tb), Steve Washington (dr), Alan Weekes (g), Wayne Batchelor & Ike Leo (Double Basses), Glenn Williams (bars), Jeff Gordon (ts), Steve Williamson (ts), Michael Rose (as), Jason Yarde (as), Carl Kirton (engineer)",
       "id": "d3e397",
       "start_date": "1988-05-21T00:00:00Z"
     },
@@ -1117,7 +1117,7 @@
     },
     {
       "name": "Sylvain Kassap Octet (FRA)",
-      "description": "Besetzung: Sylvain Kassap (reeds), Claude Barthelemy (g), Yves Robert (tb), Jacques Veille (tb), Michel Godard (tba), Pablo Cueco (perc), Bruno Chevillon (b), Jacques Mahieux (dr)",
+      "description": "Besetzung: Sylvain Kassap (reeds), Claude Barthelemy (g), Yves Robert (tb), Jacques Veille (tb), Michel Godard (tu), Pablo Cueco (perc), Bruno Chevillon (b), Jacques Mahieux (dr)",
       "id": "d3e450",
       "start_date": "1988-05-23T00:00:00Z"
     },
@@ -1189,7 +1189,7 @@
     },
     {
       "name": "David Murray Orchestra (USA)",
-      "description": "Besetzung: David Murray (ts, cond), James Spaulding (reeds), Don Byron (bars, cl), Vincent Harrring (as), Rasul Sidik (tp), Roy Cambell (tp), Hugh Ragin (tp), Craig Harris (tb), Al Patterson (tb), Sharon Freeman (frh), John Sass (tba), Fred Hopkins (b), Ralph Peterson jr. (dr ), Sonelius Smith (p)",
+      "description": "Besetzung: David Murray (ts, cond), James Spaulding (reeds), Don Byron (bars, cl), Vincent Harrring (as), Rasul Sidik (tp), Roy Cambell (tp), Hugh Ragin (tp), Craig Harris (tb), Al Patterson (tb), Sharon Freeman (frh), John Sass (tu), Fred Hopkins (b), Ralph Peterson jr. (dr ), Sonelius Smith (p)",
       "id": "d3e516",
       "start_date": "1987-06-06T00:00:00Z"
     },
@@ -1225,7 +1225,7 @@
     },
     {
       "name": "Pata Orchester (DE)",
-      "description": "Besetzung: Norbert Stein (reeds, comp), Hennes Hehn (reeds), Wollie Kaiser (reeds, cl), Gerhard Veeck (reeds), Michael Heupel (fl), Thomas Heberer (tp), Achim Fink (tb, tba), Joachim Gellert (tb), Mathias van Welck (Marimba, perc), Reiner Winterschladen (tp), Martin Kastenholz (synth), Georg Ruby (p), Ulla Oster (b), Reinhard Kobialka (dr), Fritz Wittek (dr)",
+      "description": "Besetzung: Norbert Stein (reeds, comp), Hennes Hehn (reeds), Wollie Kaiser (reeds, cl), Gerhard Veeck (reeds), Michael Heupel (fl), Thomas Heberer (tp), Achim Fink (tb, tu), Joachim Gellert (tb), Mathias van Welck (Marimba, perc), Reiner Winterschladen (tp), Martin Kastenholz (synth), Georg Ruby (p), Ulla Oster (b), Reinhard Kobialka (dr), Fritz Wittek (dr)",
       "id": "d3e546",
       "start_date": "1987-06-08T00:00:00Z"
     },
@@ -1255,7 +1255,7 @@
     },
     {
       "name": "The Lindsay Cooper Film Music Orchestra (GB)",
-      "description": "Besetzung: Lindsay Cooper (reeds, p), Vicky Aspinall (v, g), Georgie Born (b, clo), Sally Potter (voc), Phil Minton (voc, tp), Chris Cutler (dr)",
+      "description": "Besetzung: Lindsay Cooper (reeds, p), Vicky Aspinall (vl, g), Georgie Born (b, clo), Sally Potter (voc), Phil Minton (voc, tp), Chris Cutler (dr)",
       "id": "d3e581",
       "start_date": "1986-05-16T00:00:00Z"
     },
@@ -1441,7 +1441,7 @@
     },
     {
       "name": "Rimaak (BRD\/USA\/GB\/COL)",
-      "description": "Besetzung: Raimund Rennebaum (keyb), Heiner Rennebaum (g), Peter Schulte (as), Karl Farrent (tp, flh), Ulli Fricke (dr, marimba), Daniel Basanta (perc), Chuck Cornish (frh), Uwe Walter (b), Berthold Holewik (v), Ina Klettke (v), Heribert Kalthoff (va), Christian Jüttendonk (vc)",
+      "description": "Besetzung: Raimund Rennebaum (keyb), Heiner Rennebaum (g), Peter Schulte (as), Karl Farrent (tp, flh), Ulli Fricke (dr, mar), Daniel Basanta (perc), Chuck Cornish (frh), Uwe Walter (b), Berthold Holewik (v), Ina Klettke (v), Heribert Kalthoff (va), Christian Jüttendonk (vc)",
       "id": "d3e737",
       "start_date": "1985-05-26T00:00:00Z"
     },
@@ -1693,7 +1693,7 @@
     },
     {
       "name": "George Lewis Orchestra (USA\/GB\/DDR\/CAN\/DE\/NL)",
-      "description": "Besetzung: Ernst-Ludwig Petrovsky (as), Douglas Ewart (as), Kenny Wheeler (tp), Heinz Becker (tp), Conny Bauer (tb), Garret List (tb), Bobby Few (p), Maarten Altena (b), Heiner Goebbels (reeds), Oliver Johnson (dr), Lauren Newton (voc), Dagmar Krause (voc), Melvin Poore (tb), N.N. (vln), N.N. (clo), N.N. (fl)",
+      "description": "Besetzung: Ernst-Ludwig Petrovsky (as), Douglas Ewart (as), Kenny Wheeler (tp), Heinz Becker (tp), Conny Bauer (tb), Garret List (tb), Bobby Few (p), Maarten Altena (cb), Heiner Goebbels (reeds), Oliver Johnson (dr), Lauren Newton (voc), Dagmar Krause (voc), Melvin Poore (tb), N.N. (vln), N.N. (clo), N.N. (fl)",
       "id": "d3e1013",
       "start_date": "1983-05-23T00:00:00Z"
     },
@@ -1729,7 +1729,7 @@
     },
     {
       "name": "Noodband (NL)",
-      "description": "Besetzung: Greetje Bijma (voc), Alan Laurillard (s), Frans Vermeerssens (s), Gerard Ammerlaan (e-b), Sybrand Hoeksma (e-b), Bert Kleijn (dr), Charles Huffstadt (dr)",
+      "description": "Besetzung: Greetje Bijma (voc), Alan Laurillard (s), Frans Vermeerssens (s), Gerard Ammerlaan (el-b), Sybrand Hoeksma (el-b), Bert Kleijn (dr), Charles Huffstadt (dr)",
       "id": "d3e1060",
       "start_date": "1982-05-28T00:00:00Z"
     },
@@ -1837,13 +1837,13 @@
     },
     {
       "name": "Vario II (GB\/NL\/DE)",
-      "description": "Besetzung: Maggie Nichols (voc), John Russell (g), Günter Christmann (tb, b), Märten Altena (b), Paul Lovens (perc), John Rose (v)",
+      "description": "Besetzung: Maggie Nichols (voc), John Russell (g), Günter Christmann (tb, b), Märten Altena (cb), Paul Lovens (perc), John Rose (vl)",
       "id": "d3e1157",
       "start_date": "1981-06-05T00:00:00Z"
     },
     {
       "name": "Alterations (GB)",
-      "description": "Besetzung: Peter Cusack (g), Terry Day (perc), David Toop (fl, cello), Steve Beresford (p, eb, perc)",
+      "description": "Besetzung: Peter Cusack (g), Terry Day (perc), David Toop (fl, clo), Steve Beresford (p, eb, perc)",
       "id": "d3e1161",
       "start_date": "1981-06-05T00:00:00Z"
     },
@@ -1855,7 +1855,7 @@
     },
     {
       "name": "Hannes Zerbe Blechband (DDR=GDR)",
-      "description": "Besetzung: Hannes Zerbe (p), Harry Kuhn (tp), Heinz Becker (tp), Manfred Hering (reeds), Manfred Schulze (cl, reeds), Bernd Swoboda (tb), Rainer Hofmann (frhn), Dieter Unkrodt (tb), Peter Grönning (dr), special guests: Melvyn Poore (tuba), Pinguin Moschner (tb)",
+      "description": "Besetzung: Hannes Zerbe (p), Harry Kuhn (tp), Heinz Becker (tp), Manfred Hering (reeds), Manfred Schulze (cl, reeds), Bernd Swoboda (tb), Rainer Hofmann (frhn), Dieter Unkrodt (tb), Peter Grönning (dr), Melvyn Poore (tu), Pinguin Moschner (tb)",
       "id": "d3e1172",
       "start_date": "1981-06-06T00:00:00Z"
     },
@@ -1867,7 +1867,7 @@
     },
     {
       "name": "Frank Wright Quintet (USA)",
-      "description": "Besetzung: Frank Wright (reeds), Arthur Jones (reeds), Bobby Few (p), Jean Jacques Avenel (b), Muhamed Ali (dr)",
+      "description": "Besetzung: Frank Wright (reeds), Arthur Jones (reeds), Bobby Few (p), Jean-Jacques Avenel (cb), Muhamed Ali (dr)",
       "id": "d3e1181",
       "start_date": "1981-06-06T00:00:00Z"
     },
@@ -1909,7 +1909,7 @@
     },
     {
       "name": "Vienna Art Orchestra (AUT\/CH\/DE)",
-      "description": "Besetzung: Lauren Newton (voc), Harry Sokal (reeds), Wolfgang Puschnig (reeds), Roman Schwaller (reeds), Herbert Joos (flh, tp), Karl Fian (flh), Christian Radovan, (tb), Stefan Bauer (vibes), Uli Scherer (p), Jens Dudli (dr), Wolfgang Reisinger (perc), Matthias Rüegg (leader, comp, arr)",
+      "description": "Besetzung: Lauren Newton (voc), Harry Sokal (reeds), Wolfgang Puschnig (reeds), Roman Schwaller (reeds), Herbert Joos (flh, tp), Karl Fian (flh), Christian Radovan, (tb), Stefan Bauer (vib), Uli Scherer (p), Jens Dudli (dr), Wolfgang Reisinger (perc), Matthias Rüegg (leader, comp, arr)",
       "id": "d3e1215",
       "start_date": "1981-06-08T00:00:00Z"
     },
@@ -1963,7 +1963,7 @@
     },
     {
       "name": "Mike Westbrook Orchestra (GB)",
-      "description": "Besetzung: Mike Westbrook (p, tuba), Chris Biscoe (as, ss, bs, fl), Lindsay Cooper (bassoon, oboe, ss) Steve Cook (b, g), Mike Davis (tp), Phil Minton (tp, voc), Dave Barry (dr, perc), Chris Hunter (as, ss, fl), Georgie Born (cello), Alan Sinclair (tuba), Kate Westbrook (tenor horn, piccolo, voc), Brian Godding (g), Dick Pearce (tp), Malcolm Griffiths (tb)",
+      "description": "Besetzung: Mike Westbrook (p, tu), Chris Biscoe (as, ss, bs, fl), Lindsay Cooper (bassoon, oboe, ss) Steve Cook (b, g), Mike Davis (tp), Phil Minton (tp, voc), Dave Barry (dr, perc), Chris Hunter (as, ss, fl), Georgie Born (clo), Alan Sinclair (tu), Kate Westbrook (ten-h, piccolo, voc), Brian Godding (g), Dick Pearce (tp), Malcolm Griffiths (tb)",
       "id": "d3e1269",
       "start_date": "1980-05-24T00:00:00Z"
     },
@@ -1993,7 +1993,7 @@
     },
     {
       "name": "Uli P. Lask Urban Musik Ensemble (DE\/DDR\/NL\/GB)",
-      "description": "Besetzung: Uli P. Lask (as), Ernst-Ludwig Petrowsky (as), Hermann Basten (bs), Theo Jörgensmann (cl), Maggie Nichols (voc), Heinz Becker (tp), Willem van Maanen (tb), Stefan Bauer (vibraphone), Georg Gräwe (p), Pinguin Moschner (tuba), Kai Kanthak (b), Dyonisius Kube (dr), Stefan Krämer (dr)",
+      "description": "Besetzung: Uli P. Lask (as), Ernst-Ludwig Petrowsky (as), Hermann Basten (bs), Theo Jörgensmann (cl), Maggie Nichols (voc), Heinz Becker (tp), Willem van Maanen (tb), Stefan Bauer (vib), Georg Gräwe (p), Pinguin Moschner (tu), Kai Kanthak (b), Dyonisius Kube (dr), Stefan Krämer (dr)",
       "id": "d3e1293",
       "start_date": "1980-05-25T00:00:00Z"
     },
@@ -2023,7 +2023,7 @@
     },
     {
       "name": "Hans Rempel Orchester (DDR=GDR)",
-      "description": "Besetzung: Hans Rempel (p), Heinz Becker (tp), Joachim Graswurm (tp), Johannes Bauer (tb), Burkhard Glaetzner (oboe), Ernst-Ludwig Petrowsky (reeds), Helmut Forsthoff (reeds), Wolfgang Weber (cello), Klaus Koch (b), Andreas Aigmüller (dr)",
+      "description": "Besetzung: Hans Rempel (p), Heinz Becker (tp), Joachim Graswurm (tp), Johannes Bauer (tb), Burkhard Glaetzner (oboe), Ernst-Ludwig Petrowsky (reeds), Helmut Forsthoff (reeds), Wolfgang Weber (clo), Klaus Koch (b), Andreas Aigmüller (dr)",
       "id": "d3e1316",
       "start_date": "1980-05-26T00:00:00Z"
     },
@@ -2131,7 +2131,7 @@
     },
     {
       "name": "Lindsay Cooper Song Project (GB)",
-      "description": "Besetzung: Lindsay Cooper (comp), Veryan Weston (p, arr), Phil Minton (voc), Maggie Nichols (voc), Dean Brodrick (keyb, bassoon), Paul Jayasinha (tp, clo), Ian Mitchell (b-cl), Robyn Schulkowsky (perc)",
+      "description": "Besetzung: Lindsay Cooper (comp), Veryan Weston (p, arr), Phil Minton (voc), Maggie Nichols (voc), Dean Brodrick (keyb, bassoon), Paul Jayasinha (tp, clo), Ian Mitchell (bcl), Robyn Schulkowsky (perc)",
       "id": "d4e324",
       "start_date": "1999-05-23T00:00:00Z"
     },
@@ -2149,7 +2149,7 @@
     },
     {
       "name": "Loft Leaders Orchestra (DE)",
-      "description": "Besetzung: Frank Gratkowski (as, b-cl, fl), Matthias Schubert (ts), Reiner Winterschladen (tp), Nils Wogram (tb), Ernst Reijseger (clo), Dieter Manderscheid (b), Achim Krämer (dr)",
+      "description": "Besetzung: Frank Gratkowski (as, bcl, fl), Matthias Schubert (ts), Reiner Winterschladen (tp), Nils Wogram (tb), Ernst Reijseger (clo), Dieter Manderscheid (b), Achim Krämer (dr)",
       "id": "d4e339",
       "start_date": "1999-05-24T00:00:00Z"
     },
@@ -2227,7 +2227,7 @@
     },
     {
       "name": "Gianluigi Trovesi Octet (IT)",
-      "description": "Besetzung: Gianluigi Trovesi (as, cl), Pino Minafra (tp, flh, megaphone, didjeridoo), Beppo Caruso (tb, tba), Marco Remondini (clo, as), Roberto Bonati (b), Marco Esposito (b), Fulvio Maras (perc), Vittorio Marinoni (dr)",
+      "description": "Besetzung: Gianluigi Trovesi (as, cl), Pino Minafra (tp, flh, megaphone, didjeridoo), Beppo Caruso (tb, tu), Marco Remondini (clo, as), Roberto Bonati (b), Marco Esposito (b), Fulvio Maras (perc), Vittorio Marinoni (dr)",
       "id": "d4e413",
       "start_date": "1998-05-31T00:00:00Z"
     },
@@ -2263,19 +2263,19 @@
     },
     {
       "name": "Bik Bent Braam (NL)",
-      "description": "Besetzung: Michiel Braam (p), Frank Nielander (ss), Bart van der Putten (as), Franz Vermeerssen (ts), Rutger van Otterloo (bs), Eric Vloeimans (tp), Eric Boeren (tp), Wolter Wierbos (tb), Hans Sperla (tb), Peter Haex (tba), Patrick Votrian (tba), Wilbert de Joode (b), Joop van Erven (dr)",
+      "description": "Besetzung: Michiel Braam (p), Frank Nielander (ss), Bart van der Putten (as), Franz Vermeerssen (ts), Rutger van Otterloo (bs), Eric Vloeimans (tp), Eric Boeren (tp), Wolter Wierbos (tb), Hans Sperla (tb), Peter Haex (tu), Patrick Votrian (tu), Wilbert de Joode (b), Joop van Erven (dr)",
       "id": "d4e440",
       "start_date": "1998-06-01T00:00:00Z"
     },
     {
       "name": "Fanfare Ciocarlia (ROM)",
-      "description": "Besetzung: Ivancea Ioan (cl), Ivancea Oprica (cl, reeds), Ivancea Craciun (reeds), Ivancea Laurentiu (cor), Calin Constantin (horn), Cantea Constantin (tba), Trifan Monel (tba), Cantea Nicusor (tp), Lazar Radalescu (tp), Trifan Costica (tp), Ursu Costel (kettledrum)",
+      "description": "Besetzung: Ivancea Ioan (cl), Ivancea Oprica (cl, reeds), Ivancea Craciun (reeds), Ivancea Laurentiu (cor), Calin Constantin (horn), Cantea Constantin (tu), Trifan Monel (tu), Cantea Nicusor (tp), Lazar Radalescu (tp), Trifan Costica (tp), Ursu Costel (kettledrum)",
       "id": "d4e444",
       "start_date": "1998-06-01T00:00:00Z"
     },
     {
       "name": "Nguyên Lê & Maghreb Friends (FRA\/DZ\/AUT)",
-      "description": "Besetzung: Nguyên Lê (g), Michel Alibo (voc, e-b), Mohamed Menni (voc, perc), Aziz Sahmaoui (voc, gumbri, perc), Karim Ziad (voc, perc, dr), Bojan Z (keyb, p), Wolfgang Puschnig (reeds)",
+      "description": "Besetzung: Nguyên Lê (g), Michel Alibo (voc, el-b), Mohamed Menni (voc, perc), Aziz Sahmaoui (voc, gumbri, perc), Karim Ziad (voc, perc, dr), Bojan Z (keyb, p), Wolfgang Puschnig (reeds)",
       "id": "d4e449",
       "start_date": "1998-06-01T00:00:00Z"
     },
@@ -2395,7 +2395,7 @@
     },
     {
       "name": "Edward Wilkerson & Eight Bould Souls (USA)",
-      "description": "Besetzung: Edward Wilkerson (reeds, cl), Mwata Bowden (reeds, cl), Naomi Millender (clo), Aaron Dodd (tba), Robert Griffin (tp), Isaiah Jackson (tp), Richard Brown (b), Dushan Mosley (dr)",
+      "description": "Besetzung: Edward Wilkerson (reeds, cl), Mwata Bowden (reeds, cl), Naomi Millender (clo), Aaron Dodd (tu), Robert Griffin (tp), Isaiah Jackson (tp), Richard Brown (b), Dushan Mosley (dr)",
       "id": "d4e555",
       "start_date": "1997-05-19T00:00:00Z"
     },
@@ -2515,7 +2515,7 @@
     },
     {
       "name": "David Murray Bigband (USA)",
-      "description": "Besetzung: David Murray (ts, ld), George Lewis (tb), Craig Harris (tb), Alfred Patterson (tb), Bob Steward (tba), Marshall Sealy (frh), Omar Kabir (tp), Steve Bernstein (tp), James Zolllar (tp), Takashi Shimamoto (tp), Enrique Fernandez (as), Jorge Sylvester (as), Benny Russell (ts, ss), Aaron Stewart (ts, ss), Alex Harding (bs), Marc Johnson (dr), Fred Hopkins (b), Bruce Flowers (p), William Connell jr. (fl)",
+      "description": "Besetzung: David Murray (ts, ld), George Lewis (tb), Craig Harris (tb), Alfred Patterson (tb), Bob Steward (tu), Marshall Sealy (frh), Omar Kabir (tp), Steve Bernstein (tp), James Zolllar (tp), Takashi Shimamoto (tp), Enrique Fernandez (as), Jorge Sylvester (as), Benny Russell (ts, ss), Aaron Stewart (ts, ss), Alex Harding (bs), Marc Johnson (dr), Fred Hopkins (b), Bruce Flowers (p), William Connell jr. (fl)",
       "id": "d4e661",
       "start_date": "1996-05-27T00:00:00Z"
     },
@@ -2539,7 +2539,7 @@
     },
     {
       "name": "Horace Tapscott's Panafrican People\u0091s Arkestra (USA)",
-      "description": "Besetzung: Horace Tapscott (p), Nate Morgan (p), Roberto Miranda (b), Dwight Trible (voc), Michael Session (reeds), Jesse Sharps (reeds), Charles Owens (reeds), Steve Smith (tp), Fundi Legon (frh), Therman Green (tb), Williams Roger (tba), David Bryant (b), Sunship Theus (dr), Fritz Wise (dr), Arthur Blythe (reeds)",
+      "description": "Besetzung: Horace Tapscott (p), Nate Morgan (p), Roberto Miranda (b), Dwight Trible (voc), Michael Session (reeds), Jesse Sharps (reeds), Charles Owens (reeds), Steve Smith (tp), Fundi Legon (frh), Therman Green (tb), Williams Roger (tu), David Bryant (b), Sunship Theus (dr), Fritz Wise (dr), Arthur Blythe (reeds)",
       "id": "d4e694",
       "start_date": "1995-06-03T00:00:00Z"
     },
@@ -2629,7 +2629,7 @@
     },
     {
       "name": "Vernon Reid & Masque (USA)",
-      "description": "Besetzung: Vernon Reid (g & guitar synth), Don Byron (cl, b-cl), DJ Logic (tt), Hank Schroy (b), Leon Grunebaum (keyb), Curtis Watts (dr)",
+      "description": "Besetzung: Vernon Reid (g & guitar synth), Don Byron (cl, bcl), DJ Logic (tt), Hank Schroy (b), Leon Grunebaum (keyb), Curtis Watts (dr)",
       "id": "d4e766",
       "start_date": "1995-06-05T00:00:00Z"
     },
@@ -2665,7 +2665,7 @@
     },
     {
       "name": "Die Knödel (AUT)",
-      "description": "Besetzung: Cathi Aglibut (v), Christof Dienz (bassoon, Chefcompositeur), Julia Feigl (v, hölzernes Gelächter), Margreth Köll (harp), Michael Öttl (g), Andres Lackner (tp, horn), Alexandra Pedarnig (b, Hackbrett), Walter Seebacher (cl, Hackbrett)",
+      "description": "Besetzung: Cathi Aglibut (vl), Christof Dienz (bassoon, Chefcompositeur), Julia Feigl (v, hölzernes Gelächter), Margreth Köll (harp), Michael Öttl (g), Andres Lackner (tp, horn), Alexandra Pedarnig (b, Hackbrett), Walter Seebacher (cl, Hackbrett)",
       "id": "d4e807",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -2677,7 +2677,7 @@
     },
     {
       "name": "Michel Waisvisz (NL)",
-      "description": "Besetzung: a one-man-electro-orchestra with child voices, Michel Waisvisz (live electronics)",
+      "description": "Besetzung: a one-man-electro-orchestra with child voices, Michel Waisvisz (electr)",
       "id": "d4e815",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -2695,13 +2695,13 @@
     },
     {
       "name": "James Jabbo Ware & The Me, We And Them Orchestra (USA)",
-      "description": "Besetzung: James Jabbo Ware (cond), J.D. Parran (as, cl), Paavo Carey (ts, as), Gene Ghee (ts, cl), Patience Higgins (bs), Eddie Preston (tp), Cecil Bridgewater (tp), Frank Gordon (tp), Charles Stephens (tb), Richard Harper (tb), Bill Lowe (b-tb, tba), Donald Smith (p), Clint Houston (b), Warren Smith (dr)",
+      "description": "Besetzung: James Jabbo Ware (cond), J.D. Parran (as, cl), Paavo Carey (ts, as), Gene Ghee (ts, cl), Patience Higgins (bs), Eddie Preston (tp), Cecil Bridgewater (tp), Frank Gordon (tp), Charles Stephens (tb), Richard Harper (tb), Bill Lowe (b-tb, tu), Donald Smith (p), Clint Houston (b), Warren Smith (dr)",
       "id": "d4e828",
       "start_date": "1994-05-21T00:00:00Z"
     },
     {
       "name": "Klaus König Orchestra (DE\/USA\/FRA\/CAN)",
-      "description": "Besetzung: Klaus König (comp, cond), Wollie Kaiser (ss, ts, bcl), Frank Gratkowski (ss, as, fl), Matthias Schubert (ts, ob), Reiner Winterschladen (tp), Kenny Wheeler (tp), Jörg Huke (tp, flh), Michel Godard (tba), Robert Dick (fl), Mark Feldman (v), Stefan Bauer (marimba), Mark Dresser (b), Gerry Hemingway (dr)",
+      "description": "Besetzung: Klaus König (comp, cond), Wollie Kaiser (ss, ts, bcl), Frank Gratkowski (ss, as, fl), Matthias Schubert (ts, oboe), Reiner Winterschladen (tp), Kenny Wheeler (tp), Jörg Huke (tp, flh), Michel Godard (tu), Robert Dick (fl), Mark Feldman (vl), Stefan Bauer (mar), Mark Dresser (cb), Gerry Hemingway (dr)",
       "id": "d4e835",
       "start_date": "1994-05-22T00:00:00Z"
     },
@@ -2743,7 +2743,7 @@
     },
     {
       "name": "Evan Parker Extended Projekt (GB\/DE\/FRA\/MTQ)",
-      "description": "Besetzung: Evan Parker (ts), Martin Speicher (as, ss), Marc Boukouya (tp), Sophia Domacich (p), Francine Luce (voc), Mark Sanders (dr, perc), Aleksander Kolkowoski (v), Regina Pastuszyk (cl, bcl, cbcl, tarogato)",
+      "description": "Besetzung: Evan Parker (ts), Martin Speicher (as, ss), Marc Boukouya (tp), Sophia Domancich (p), Francine Luce (voc), Mark Sanders (dr, perc), Aleksander Kolkowoski (vl), Regina Pastuszyk (cl, bcl, cbcl, tarogato)",
       "id": "d4e867",
       "start_date": "1994-05-23T00:00:00Z"
     },
@@ -2923,7 +2923,7 @@
     },
     {
       "name": "Baron Samedi s’\u0092Endimanche (FRA)",
-      "description": "Besetzung: Michel Boiton (perc), Christian Rollet (perc), Michael Boudoux (perc), Abdelouab Abrit (perc), Michel Godard (tba, serpent), Jean-Marie Maddeddu (mime, voc, perc)",
+      "description": "Besetzung: Michel Boiton (perc), Christian Rollet (perc), Michael Boudoux (perc), Abdelouab Abrit (perc), Michel Godard (tu, serpent), Jean-Marie Maddeddu (mime, voc, perc)",
       "id": "d4e1030",
       "start_date": "1992-06-06T00:00:00Z"
     },
@@ -2959,7 +2959,7 @@
     },
     {
       "name": "ltalian Instabile Orchestra (IT)",
-      "description": "Besetzung: Renato Geremia (v), Paolo Damiani (clo), Giorgio Gaslini (p), Eugenio Colombo (ss, fl), Carlo Actis Dato (ts, bs, bcl), Gianluigi Trovesi (as, bcl), Mario Schiano (as), Daniele Cavallanti, ts, bs Guido Mazzon, tp Giancarlo Schiaffini (tb, tba), Martin Mayes (frh), Lauro Rossi (tb), Pino Minafra (tp), Alberto Mandarini (tp), Sebi Tramontana (tb), Vittorino Curci (tp), Bruno Tommaso (b), Vincenzo Mazzone (dr, perc), Tiziano Tononi (dr, perc)",
+      "description": "Besetzung: Renato Geremia (v), Paolo Damiani (clo), Giorgio Gaslini (p), Eugenio Colombo (ss, fl), Carlo Actis Dato (ts, bs, bcl), Gianluigi Trovesi (as, bcl), Mario Schiano (as), Daniele Cavallanti, ts, bs Guido Mazzon, tp Giancarlo Schiaffini (tb, tu), Martin Mayes (frh), Lauro Rossi (tb), Pino Minafra (tp), Alberto Mandarini (tp), Sebi Tramontana (tb), Vittorino Curci (tp), Bruno Tommaso (b), Vincenzo Mazzone (dr, perc), Tiziano Tononi (dr, perc)",
       "id": "d4e1058",
       "start_date": "1992-06-07T00:00:00Z"
     },
@@ -3001,7 +3001,7 @@
     },
     {
       "name": "Andy Emler Megaoctet (FRA)",
-      "description": "Besetzung: Andy Emler (p, key), Benat Achiary (voc), Michel Massot (tb, tba), Phillippe Sellam (as), Simon Spang- Hanssen (ts), Xavier Desandre (perc), Nguyên Lê (g), François Moutin (b), Tony Rabeson (dr)",
+      "description": "Besetzung: Andy Emler (p, key), Benat Achiary (voc), Michel Massot (tb, tu), Phillippe Sellam (as), Simon Spang- Hanssen (ts), Xavier Desandre (perc), Nguyên Lê (g), François Moutin (b), Tony Rabeson (dr)",
       "id": "d4e1090",
       "start_date": "1992-06-08T00:00:00Z"
     },
@@ -3019,7 +3019,7 @@
     },
     {
       "name": "Doctor Nerve (USA)",
-      "description": "Besetzung: Nick Didkovsky (g), Yves Duboin (ss), Dave Douglas (tp), Rob Henke (tp), Michael Lytle (bcl), Marc Wagnon (vibes), Greg Anderson (eb), Leo Ciesa (dr)",
+      "description": "Besetzung: Nick Didkovsky (g), Yves Duboin (ss), Dave Douglas (tp), Rob Henke (tp), Michael Lytle (bcl), Marc Wagnon (vib), Greg Anderson (el-b), Leo Ciesa (dr)",
       "id": "d4e1116",
       "start_date": "1991-05-17T00:00:00Z"
     },
@@ -3037,7 +3037,7 @@
     },
     {
       "name": "WDR Bigband - Jerry van Royen (DE\/FRA\/USA)",
-      "description": "Besetzung: Heiner Wiberni (reeds), Harald Rosenstein (reeds), Oliver Peters (reeds), Rolf Römer (reeds), Paul Peucker (reeds), Andy Haderer (tp), Rob Bruynen (tp), Klaus Osterloh (tp), Rick Kiefer (tp), Dave Horler (tb), Henning Berg (tb), Bernt Laukamp (tb), Roy Deuvall (tb) feat. Ray Anderson (tb), Michel Godard (tba), Frank Gratkowski (as), Simon Nabatov (p), Werner Neumann (g), Tim Wells (b), Wolfgang Reisinger (dr)",
+      "description": "Besetzung: Heiner Wiberni (reeds), Harald Rosenstein (reeds), Oliver Peters (reeds), Rolf Römer (reeds), Paul Peucker (reeds), Andy Haderer (tp), Rob Bruynen (tp), Klaus Osterloh (tp), Rick Kiefer (tp), Dave Horler (tb), Henning Berg (tb), Bernt Laukamp (tb), Roy Deuvall (tb) feat. Ray Anderson (tb), Michel Godard (tu), Frank Gratkowski (as), Simon Nabatov (p), Werner Neumann (g), Tim Wells (b), Wolfgang Reisinger (dr)",
       "id": "d4e1131",
       "start_date": "1991-05-18T00:00:00Z"
     },
@@ -3049,25 +3049,25 @@
     },
     {
       "name": "Wolfgang Puschnig \"Alpine Aspects\" & Die Amstettner Musikanten (USA\/AUT)",
-      "description": "Besetzung: Wolfgang Puschnig (reeds, arr), Linda Sharrock (voc), Jon Sass (tba), Bumi Fian (tp), Jamaaladeen Tacuma (b), Thomas Alkier (dr), Amstettner Musikanten, Kapellmeister Robert Pussecker: Oskar Eder (al, picc), Ingrid Schaupp (cl, reeds), Johann Leonhartsberger (cl, reeds), Raimund Aichinger (cl, reeds), Gerhard Aflenzer (tp, flg), Franz Rappersberger (tp, flg), Hermann Berger (tb, tenor), Günter Innerlohinger (tb, tenor), Leopold Libal (tb, tenor), Herbert Klaus (tba), Wolfgang Schneider (dr)",
+      "description": "Besetzung: Wolfgang Puschnig (reeds, arr), Linda Sharrock (voc), Jon Sass (tu), Bumi Fian (tp), Jamaaladeen Tacuma (el-b), Thomas Alkier (dr), Robert Pussecker (cond), Oskar Eder (al, picc), Ingrid Schaupp (cl, reeds), Johann Leonhartsberger (cl, reeds), Raimund Aichinger (cl, reeds), Gerhard Aflenzer (tp, flg), Franz Rappersberger (tp, flg), Hermann Berger (tb, tenor), Günter Innerlohinger (tb, tenor), Leopold Libal (tb, tenor), Herbert Klaus (tu), Wolfgang Schneider (dr)",
       "id": "d4e1139",
       "start_date": "1991-05-18T00:00:00Z"
     },
     {
       "name": "Linda Sharrock & the Three Man Band (USA\/AUT\/DE)",
-      "description": "Besetzung: Linda Sharrock (voc), Wolfgang Puschnig (reeds, arr), Jamaaladeen Tacuma (b), Frank Samba (dr)",
+      "description": "Besetzung: Linda Sharrock (voc), Wolfgang Puschnig (reeds, arr), Jamaaladeen Tacuma (el-b), Frank Samba (dr)",
       "id": "d4e1144",
       "start_date": "1991-05-18T00:00:00Z"
     },
     {
       "name": "Louis Moholo \"Viva La Black\" (ZAF)",
-      "description": "Besetzung: Marc Charig (tp), Sean Bergin (ts), Frank Douglas (g), Jean Jacques Avenel (b), Louis Moholo (dr, voc), Thebe Lipere (african perc, voc)",
+      "description": "Besetzung: Marc Charig (tp), Sean Bergin (ts), Frank Douglas (g), Jean-Jacques Avenel (cb), Louis Moholo (dr, voc), Thebe Lipere (african perc, voc)",
       "id": "d4e1148",
       "start_date": "1991-05-18T00:00:00Z"
     },
     {
       "name": "Michel Godard \"LE BUCHER DES SILENCES\" (FRA)",
-      "description": "Besetzung: Michel Godard (tba), Valentin Clastrier (drehleier), Michael Riessler (reeds, cl), Gerard Siracusa (dr, perc)",
+      "description": "Besetzung: Michel Godard (tu), Valentin Clastrier (drehleier), Michael Riessler (reeds, cl), Gerard Siracusa (dr, perc)",
       "id": "d4e1152",
       "start_date": "1991-05-18T00:00:00Z"
     },
@@ -3079,7 +3079,7 @@
     },
     {
       "name": "L’\u0091Orchestre National de Jazz (FRA)",
-      "description": "Besetzung: Claude Barthelemy (g), Serge Lazarevitch (g), Gerard Pansanel (g), Michel Godard (tba), Luca Bonvini (tb), Yves Favre (tb) Bobby Rangell (reeds), Michael Riessler (reeds), Jean-François Canape (tp), Patrick Fabert (tp), Jean-Louis Matinier (acc), Mico Nissim (p), Renaud Garcia-Fons (b), Jean-Luc Ponthieux (b), Manuel Denizet (dr), Christian Lete (dr)",
+      "description": "Besetzung: Claude Barthelemy (g), Serge Lazarevitch (g), Gerard Pansanel (g), Michel Godard (tu), Luca Bonvini (tb), Yves Favre (tb) Bobby Rangell (reeds), Michael Riessler (reeds), Jean-François Canape (tp), Patrick Fabert (tp), Jean-Louis Matinier (acc), Mico Nissim (p), Renaud Garcia-Fons (b), Jean-Luc Ponthieux (b), Manuel Denizet (dr), Christian Lete (dr)",
       "id": "d4e1163",
       "start_date": "1991-05-19T00:00:00Z"
     },
@@ -3109,7 +3109,7 @@
     },
     {
       "name": "Andy Sheppard \"Soft on the Inside\" (GB)",
-      "description": "Besetzung: Andy Sheppard (ts, ss), Pete Hurt (reeds), Chris Biscoe (reeds), Stuart Brooks (tp), Claude Deppa (tp), Gary Valente (tb), Ernst Reijseger (clo), Mano Ventura (g), Orphy Robinson (vibes), Steve Lodder (reeds), Dave Buxton (p, reeds), Pete Maxfield (b), Han Bennink (dr), Simon Gore (dr)",
+      "description": "Besetzung: Andy Sheppard (ts, ss), Pete Hurt (reeds), Chris Biscoe (reeds), Stuart Brooks (tp), Claude Deppa (tp), Gary Valente (tb), Ernst Reijseger (clo), Mano Ventura (g), Orphy Robinson (vib), Steve Lodder (reeds), Dave Buxton (p, reeds), Pete Maxfield (b), Han Bennink (dr), Simon Gore (dr)",
       "id": "d4e1187",
       "start_date": "1991-05-20T00:00:00Z"
     },
@@ -3157,7 +3157,7 @@
     },
     {
       "name": "Roy Brooks & the Aboriginal Percussion Choir (Detroit\/USA)",
-      "description": "Besetzung: Roy Brooks (dr, steel dr, perc), Flash Beaver (tap dance), Lawrence Williams (vibes, dr, marimba),Charles Russel (steel dr, vibes, perc), Jerry Le Duff (el-p, world perc, ob, afr. perc), Francesco Mora (latin perc), Hal Page (dr), Emile Borde (steel dr), Eli P. Fountain (perc), Ray Mantilla (perc), Alioune Diop (perc)",
+      "description": "Besetzung: Roy Brooks (dr, steel dr, perc), Flash Beaver (tap dance), Lawrence Williams (vib, dr, mar), Charles Russel (steel dr, vib, perc), Jerry Le Duff (el-p, world perc, ob, afr. perc), Francesco Mora (latin perc), Hal Page (dr), Emile Borde (steel dr), Eli P. Fountain (perc), Ray Mantilla (perc), Alioune Diop (perc)",
       "id": "d4e1234",
       "start_date": "1990-06-01T00:00:00Z"
     },
@@ -3199,13 +3199,13 @@
     },
     {
       "name": "L'Impossible Trio (FRA)",
-      "description": "Besetzung: Philippe Deschepper (g), Michael Godard (tba), Youval Micenmacher (dr, zarb, derbouka)",
+      "description": "Besetzung: Philippe Deschepper (g), Michael Godard (tu), Youval Micenmacher (dr, zarb, derbouka)",
       "id": "d4e1269",
       "start_date": "1990-06-03T00:00:00Z"
     },
     {
       "name": "Kenn Cox Guerilla Jam Band (Detroit\/USA)",
-      "description": "Besetzung: Kenn Cox (p), Raycee Biggs (tp), Brad Felt (tba), Vincent Bowen (reeds, fl), Phil Lasley (as), Jaribu Shahid (b), Tani Tabbal (dr), Philipp E. Cox (ob), Teresa G. Mora (voc)",
+      "description": "Besetzung: Kenn Cox (p), Raycee Biggs (tp), Brad Felt (tu), Vincent Bowen (reeds, fl), Phil Lasley (as), Jaribu Shahid (b), Tani Tabbal (dr), Philipp E. Cox (ob), Teresa G. Mora (voc)",
       "id": "d4e1273",
       "start_date": "1990-06-03T00:00:00Z"
     },
@@ -3295,7 +3295,7 @@
     },
     {
       "name": "Valgeir Sigurðsson & Band (ISL\/USA)",
-      "description": "Besetzung: Valgeir Sigurðsson (laptop, perc, keys), Sigríður Sunna Reynisdóttir (acc, p), Hildur Guðnadóttir (clo, laptop), Sam Amidon (guitar, vocals), Shahzad Ismaily (drums)",
+      "description": "Besetzung: Valgeir Sigurðsson (laptop, perc, keys), Sigríður Sunna Reynisdóttir (acc, p), Hildur Guðnadóttir (clo, laptop), Sam Amidon (g, voc), Shahzad Ismaily (dr)",
       "id": "d5e296",
       "start_date": "2009-05-30T00:00:00Z"
     },
@@ -3343,7 +3343,7 @@
     },
     {
       "name": "Darcy James Argue & Secret Society (USA)",
-      "description": "Besetzung: Darcy James Argue (cond), Erica von Kleist (fl, ss, as), Rob Wilkerson (fl, cl, ss, as), Sam Sadigursky (cl, ss, ts), Mark Small (cl, b-cl, ts), Josh Sinton (cl, b-cl, bs), Seneca Black (tp), Ingrid Jensen (tp), Matt Holman (tp), Nadje Noordhuis (tp), Tom Goehring (tp), Ryan Keberle (tb), Mike Fahie (tb), James Hirschfeld (tb), Jennifer Wharton (b-tb), Sebastian Noelle (g), Mike Holober (p), Matt Clohesy (b), Jon Wikan (dr, perc)",
+      "description": "Besetzung: Darcy James Argue (cond), Erica von Kleist (fl, ss, as), Rob Wilkerson (fl, cl, ss, as), Sam Sadigursky (cl, ss, ts), Mark Small (cl, bcl, ts), Josh Sinton (cl, bcl, bs), Seneca Black (tp), Ingrid Jensen (tp), Matt Holman (tp), Nadje Noordhuis (tp), Tom Goehring (tp), Ryan Keberle (tb), Mike Fahie (tb), James Hirschfeld (tb), Jennifer Wharton (b-tb), Sebastian Noelle (g), Mike Holober (p), Matt Clohesy (b), Jon Wikan (dr, perc)",
       "id": "d5e332",
       "start_date": "2009-05-31T00:00:00Z"
     },
@@ -3367,7 +3367,7 @@
     },
     {
       "name": "Tim Isfort Tentett (DE\/CH)",
-      "description": "Besetzung: Tim Isfort (b), Jim Campbell (electr), Ania Losinger (xala), Matthias Eser (marimba), Daniel Schroeteler (dr), Peter Engelhardt (g), Peter Bolte (as), Frank Bergmann (ts), Mirjam Hardenberg (clo, voc), Henning Sieverts (clo, b)",
+      "description": "Besetzung: Tim Isfort (b), Jim Campbell (electr), Ania Losinger (xala), Matthias Eser (mar), Daniel Schroeteler (dr), Peter Engelhardt (g), Peter Bolte (as), Frank Bergmann (ts), Mirjam Hardenberg (clo, voc), Henning Sieverts (clo, b)",
       "id": "d5e352",
       "start_date": "2009-06-01T00:00:00Z"
     },
@@ -3397,7 +3397,7 @@
     },
     {
       "name": "musikFabrik (DE)",
-      "description": "Besetzung: Helen Bledsoe (fl), Peter Veale (ob), Carl Rosman (cl), Christine Chapman (horn), Nathan Plante (tp), Melvyn Poore (tba), Dirk Rothbrust (dr), Ulrich Löffler (p), Hannah Weirich (v), Dirk Wietheger (clo), Michael Tiepold (b), HC Gilje (live video), Yannis Kyriakides (live electr), Thomas Saur (sound)",
+      "description": "Besetzung: Helen Bledsoe (fl), Peter Veale (ob), Carl Rosman (cl), Christine Chapman (horn), Nathan Plante (tp), Melvyn Poore (tu), Dirk Rothbrust (dr), Ulrich Löffler (p), Hannah Weirich (v), Dirk Wietheger (clo), Michael Tiepold (b), HC Gilje (live video), Yannis Kyriakides (electr), Thomas Saur (sound)",
       "id": "d5e386",
       "start_date": "2008-05-09T00:00:00Z"
     },
@@ -3595,7 +3595,7 @@
     },
     {
       "name": "Steven Bernstein\u0092s Millennial Territory Orchestra (USA)",
-      "description": "Besetzung: Steven Bernstein (tp), Eric Lawrence (reeds), Doug Wieselman (reeds), Peter Apfelbaum (reeds), Clark Gayton (tb), Charlie Burnham (v), Matt Munisteri (g), Ben Allison (b), Ben Perowsky (dr)",
+      "description": "Besetzung: Steven Bernstein (tp), Eric Lawrence (reeds), Doug Wieselman (reeds), Peter Apfelbaum (reeds), Clark Gayton (tb), Charlie Burnham (vl), Matt Munisteri (g), Ben Allison (cb), Ben Perowsky (dr)",
       "id": "d5e552",
       "start_date": "2007-05-26T00:00:00Z"
     },
@@ -3727,7 +3727,7 @@
     },
     {
       "name": "United Women\u0091s Orchestra feat. Michael Schiefel (DE\/NL)",
-      "description": "Besetzung: Michael Schiefel (voc), Ineke van Doorn (voc), Meike Goosmann (ss, as, cl), Corinna Danzer (as, fl), Marie-Christine Schröck (ts, cl), Christine Hörmann (bari, fl), Silke Eberhard (bcl, cl), Christina Fuchs (ts, bcl, cond), Hazel Leach (ts, fl, cond), Steffi Deckers (tp), Hermine Schneider (tp), Sabine Ercklentz (tp), Gisela Messollen (tp), Teddy Steen (tb), Petra Krumphuber (tb), Anke Lucks (tb), Janni Struzyk (tba), Anne Lieberwirth (b), Julia Hülsmann (p), Aimee Povel (dr)",
+      "description": "Besetzung: Michael Schiefel (voc), Ineke van Doorn (voc), Meike Goosmann (ss, as, cl), Corinna Danzer (as, fl), Marie-Christine Schröck (ts, cl), Christine Hörmann (bari, fl), Silke Eberhard (bcl, cl), Christina Fuchs (ts, bcl, cond), Hazel Leach (ts, fl, cond), Steffi Deckers (tp), Hermine Schneider (tp), Sabine Ercklentz (tp), Gisela Messollen (tp), Teddy Steen (tb), Petra Krumphuber (tb), Anke Lucks (tb), Janni Struzyk (tu), Anne Lieberwirth (b), Julia Hülsmann (p), Aimee Povel (dr)",
       "id": "d5e682",
       "start_date": "2006-06-04T00:00:00Z"
     },
@@ -3769,7 +3769,7 @@
     },
     {
       "name": "Stefan Bauer \u0084Voyage\u0093 (DE\/USA) remembering Christoph Eidens",
-      "description": "Besetzung: Michal Cohen (voc), Chris Bacas (sax), Stefan Bauer (vib, mar), Ugonna Okegwo (b), Ted Poor (dr)",
+      "description": "Besetzung: Michal Cohen (voc), Chris Bacas (sax), Stefan Bauer (vib, mar), Ugonna Okegwo (cb), Ted Poor (dr)",
       "id": "d5e715",
       "start_date": "2006-06-05T00:00:00Z"
     },
@@ -3877,13 +3877,13 @@
     },
     {
       "name": "Shibuza Shirazu Orchestra (JPN)",
-      "description": "Besetzung: Daisuke Fuwa (cond, eb), Hiroaki Katayama (ts), Han Sato (ts), Syoichiro Yashida (ts), Yoshiyuki Kawaguchi (as), Keiko Komori (as), Hideki Tachibana (as), Akira Kitou (bs), Yoichiro Kita (tp), Mitsuhide Tatsumi (tp), Kazushi \u0091Santi\u0092 Matsumoto (tb), Daisuke Takaoka (tba), Aya Murodate (fl, voc), Yuji Katsui (v), Sachiko Nakajima (keyb), Dairo Suga (g), Hiroyuki Otsuka (g), Ryoichi Saito (g), Aki Ono (art), Hiroshi Higo (eb), Hitoshi Kuramochi (dr), Jun Isobe (dr), Mari Sekine (perc), Walti Bucheli (panflute), Yumi \u0091Pero\u0092 Wada (dance), Toyomi \u0091Rott\u0092 Inoue (dance), Toyo Matsuabra (butoh dance), Shimo (butoh dance), Shinichi Watabe (voc, actor), Tomoko Namba (voice, actor), Teruto Soejima (prod), Yasuhiko Abeta (stage design), Atsushi Tanaka (sounds), Yuichi Yokozawa (vj), Kenichi Aoyama (painter)",
+      "description": "Besetzung: Daisuke Fuwa (cond, eb), Hiroaki Katayama (ts), Han Sato (ts), Syoichiro Yashida (ts), Yoshiyuki Kawaguchi (as), Keiko Komori (as), Hideki Tachibana (as), Akira Kitou (bs), Yoichiro Kita (tp), Mitsuhide Tatsumi (tp), Kazushi \u0091Santi\u0092 Matsumoto (tb), Daisuke Takaoka (tu), Aya Murodate (fl, voc), Yuji Katsui (v), Sachiko Nakajima (keyb), Dairo Suga (g), Hiroyuki Otsuka (g), Ryoichi Saito (g), Aki Ono (art), Hiroshi Higo (eb), Hitoshi Kuramochi (dr), Jun Isobe (dr), Mari Sekine (perc), Walti Bucheli (panflute), Yumi \u0091Pero\u0092 Wada (dance), Toyomi \u0091Rott\u0092 Inoue (dance), Toyo Matsuabra (butoh dance), Shimo (butoh dance), Shinichi Watabe (voc, actor), Tomoko Namba (voice, actor), Teruto Soejima (prod), Yasuhiko Abeta (stage design), Atsushi Tanaka (sounds), Yuichi Yokozawa (vj), Kenichi Aoyama (painter)",
       "id": "d5e810",
       "start_date": "2005-05-15T00:00:00Z"
     },
     {
       "name": "Fes (BEL)",
-      "description": "Besetzung: Bruno Vansina (bs), Michel Mast (ts), Benjamin Bourtreur (as), Peter Vermeersch (cl), Tom Wouters (cl, xyl, vcl), Bart Maris (tp), Luc van Lieshout (tp), Marc Meeuwissen (tb), Stefaan Blancke (tb), Berlinde De Man (tba), Wim Willaert (acc, vcl), Peter Vandenberghe (p, keyb), Kristof Roseeuw (b), Teun Verbruggen (dr)",
+      "description": "Besetzung: Bruno Vansina (bs), Michel Mast (ts), Benjamin Bourtreur (as), Peter Vermeersch (cl), Tom Wouters (cl, xyl, vcl), Bart Maris (tp), Luc van Lieshout (tp), Marc Meeuwissen (tb), Stefaan Blancke (tb), Berlinde De Man (tu), Wim Willaert (acc, vcl), Peter Vandenberghe (p, keyb), Kristof Roseeuw (b), Teun Verbruggen (dr)",
       "id": "d5e817",
       "start_date": "2005-05-16T00:00:00Z"
     },
@@ -3907,7 +3907,7 @@
     },
     {
       "name": "DJ Grazzhoppa’s DJ Bigband (BEL)",
-      "description": "Besetzung: DJ Grazzhoppa (tt), DJ Lamont (tt), DJ Smimooz Exel (tt), DJ Mixmonster Menno (tt), DJ XXL (tt), DJ Yzerbeat (tt), DJ J to the C (tt), DJ Boulaone (tt), DJ Ptimus (tt), DJ Vindictiv (tt), DJ Iron (tt), DJ Courtasock (tt), Fabrizio Cassol (sax), Monique Harcum (voc), Zumo des Scumos (vj)",
+      "description": "Besetzung: DJ Grazzhoppa (tt), DJ Lamont (tt), DJ Smimooz Exel (tt), DJ Mixmonster Menno (tt), DJ XXL (tt), DJ Yzerbeat (tt), DJ J to the C (tt), DJ Boulaone (tt), DJ Ptimus (tt), DJ Vindictiv (tt), DJ Iron (tt), DJ Courtasock (tt), Fabrizio Cassol (sax), Monique Harcum (voc), Maarten van Vooren (vj), Jonathan Cuvelier (vj)",
       "id": "d5e834",
       "start_date": "2005-05-16T00:00:00Z"
     },
@@ -3943,13 +3943,13 @@
     },
     {
       "name": "Soul Sonic Circus (Morning Project)",
-      "description": "Besetzung: Mars Williams (ringmaster, sax), Hugh Ragin (tp), DJ Logic (turntables), Jim Baker (p), Wayne Kramer (g), Greg Suran (g), Tommy Klein (g), Fred Lonberg-Holm (clo), Kent Kessler (b), Rob Wassermann (b), Hamid Drake (dr), David Suycott (dr), Michael Zerang (dr), Lola the Circus Dog (ringmaster 2, artist), Jeff Jenkins (artist), Julie Greenberg (artist), Andrew Adams (artist), Erika Gilfether (artist), Shayna Swanson (artist), George Fuller (artist), Almas Miermanov (artist), Douglas Grew (artist)",
+      "description": "Besetzung: Mars Williams (ringmaster, sax), Hugh Ragin (tp), DJ Logic (tt), Jim Baker (p), Wayne Kramer (g), Greg Suran (g), Tommy Klein (g), Fred Lonberg-Holm (clo), Kent Kessler (b), Rob Wassermann (b), Hamid Drake (dr), David Suycott (dr), Michael Zerang (dr), Lola the Circus Dog (ringmaster 2, artist), Jeff Jenkins (artist), Julie Greenberg (artist), Andrew Adams (artist), Erika Gilfether (artist), Shayna Swanson (artist), George Fuller (artist), Almas Miermanov (artist), Douglas Grew (artist)",
       "id": "d5e887",
       "start_date": "2004-05-29T00:00:00Z"
     },
     {
       "name": "Le Sacre du Tympan (FRA)",
-      "description": "Besetzung: Aude Challeat (fl), Guillaume Dutrieux (tp, bugle), Yann Martin (tp, bugle), Christophe Monniot (reeds), Remi Sciuto (reeds, fl; Frederic Gastard - reeds; Mathieu Donarier - reeds), Julien Chirol (tb), Daniel Zimmermann (tb), Pascal Benech (tb), Renald Villoteau (tba), Nicolas Mathuriau (glsp, xyl, vib), Vincent Taurelle (p, synth, sampler), Fred Pallem (b, cond, comp), Vincent Taeger (dr)",
+      "description": "Besetzung: Aude Challeat (fl), Guillaume Dutrieux (tp, bugle), Yann Martin (tp, bugle), Christophe Monniot (reeds), Remi Sciuto (reeds, fl; Frederic Gastard - reeds; Mathieu Donarier - reeds), Julien Chirol (tb), Daniel Zimmermann (tb), Pascal Benech (tb), Renald Villoteau (tu), Nicolas Mathuriau (glsp, xyl, vib), Vincent Taurelle (p, synth, sampler), Fred Pallem (b, cond, comp), Vincent Taeger (dr)",
       "id": "d5e894",
       "start_date": "2004-05-29T00:00:00Z"
     },
@@ -3991,7 +3991,7 @@
     },
     {
       "name": "Soul Sonic Circus (Morning Project)",
-      "description": "Besetzung: Mars Williams (ringmaster, sax), Hugh Ragin (tp), DJ Logic (turntables), Jim Baker (p), Wayne Kramer (g), Greg Suran (g), Tommy Klein (g), Fred Lonberg-Holm (clo), Kent Kessler (b), Rob Wassermann (b), Hamid Drake (dr), David Suycott (dr), Michael Zerang (dr), Lola the Circus Dog (ringmaster 2, artist), Jeff Jenkins (artist), Julie Greenberg (artist), Andrew Adams (artist), Erika Gilfether (artist), Shayna Swanson (artist), George Fuller (artist), Almas Miermanov (artist), Douglas Grew (artist)",
+      "description": "Besetzung: Mars Williams (ringmaster, sax), Hugh Ragin (tp), DJ Logic (tt), Jim Baker (p), Wayne Kramer (g), Greg Suran (g), Tommy Klein (g), Fred Lonberg-Holm (clo), Kent Kessler (b), Rob Wassermann (b), Hamid Drake (dr), David Suycott (dr), Michael Zerang (dr), Lola the Circus Dog (ringmaster 2, artist), Jeff Jenkins (artist), Julie Greenberg (artist), Andrew Adams (artist), Erika Gilfether (artist), Shayna Swanson (artist), George Fuller (artist), Almas Miermanov (artist), Douglas Grew (artist)",
       "id": "d5e935",
       "start_date": "2004-05-30T00:00:00Z"
     },
@@ -4027,7 +4027,7 @@
     },
     {
       "name": "David Thomas & Reflections in the Mirrorman (GB\/USA)",
-      "description": "Besetzung: David Thomas (voc, melodeon), Jackie Leven (voc), Keith Moliné (g, v, electr), Andy Diagram (tp, electr), Michael Cosgrove (tp, key)",
+      "description": "Besetzung: David Thomas (voc, melodeon), Jackie Leven (voc), Keith Moliné (g, v, electr), Andy Diagram (tp, electr), Michael Cosgrave (tp, key)",
       "id": "d5e967",
       "start_date": "2004-05-30T00:00:00Z"
     },
@@ -4081,7 +4081,7 @@
     },
     {
       "name": "Brotherhood of Brass (USA) feat. Frank London's Klezmer Brass All Stars & Boban Markovic' Orkestar (SRB)",
-      "description": "Besetzung: Frank London (tp), Matt Darriau (sax), Merlin Shepherd (cl), Curtis Hasselbring (tb), Paul Morrissett (bs, hrn), Ron Caswell (tba), David Licht (dr), Boban Markovic (voc, flh), Srdjan Spasic (flh), Marko Markovic (flh), Jovica Ajdarevic (flh), Goran Spasic (tenor horn), Asim Ajdinovic (tenor horn), Isidor Eminovic (tenor horn), Sasa Alisanovic (helicon), Dragoljub Eminovic (tenor horn), Asmet Eminovic (perc) Nedzat Zumberovic (dr)",
+      "description": "Besetzung: Frank London (tp), Matt Darriau (sax), Merlin Shepherd (cl), Curtis Hasselbring (tb), Paul Morrissett (bs, hrn), Ron Caswell (tu), David Licht (dr), Boban Markovic (voc, flh), Srdjan Spasic (flh), Marko Markovic (flh), Jovica Ajdarevic (flh), Goran Spasic (ten-h), Asim Ajdinovic (ten-h), Isidor Eminovic (ten-h), Sasa Alisanovic (helicon), Dragoljub Eminovic (ten-h), Asmet Eminovic (perc) Nedzat Zumberovic (dr)",
       "id": "d5e1016",
       "start_date": "2004-05-31T00:00:00Z"
     },
@@ -4093,7 +4093,7 @@
     },
     {
       "name": "Soul Sonic Circus (Morning Project)",
-      "description": "Besetzung: Mars Williams (ringmaster, sax), Hugh Ragin (tp), DJ Logic (turntables), Jim Baker (p), Wayne Kramer (g), Greg Suran (g), Tommy Klein (g), Fred Lonberg-Holm (clo), Kent Kessler (b), Rob Wassermann (b), Hamid Drake (dr), David Suycott (dr), Michael Zerang (dr), Lola the Circus Dog (ringmaster 2, artist), Jeff Jenkins (artist), Julie Greenberg (artist), Andrew Adams (artist), Erika Gilfether (artist), Shayna Swanson (artist), George Fuller (artist), Almas Miermanov (artist), Douglas Grew (artist)",
+      "description": "Besetzung: Mars Williams (ringmaster, sax), Hugh Ragin (tp), DJ Logic (tt), Jim Baker (p), Wayne Kramer (g), Greg Suran (g), Tommy Klein (g), Fred Lonberg-Holm (clo), Kent Kessler (b), Rob Wassermann (b), Hamid Drake (dr), David Suycott (dr), Michael Zerang (dr), Lola the Circus Dog (ringmaster 2, artist), Jeff Jenkins (artist), Julie Greenberg (artist), Andrew Adams (artist), Erika Gilfether (artist), Shayna Swanson (artist), George Fuller (artist), Almas Miermanov (artist), Douglas Grew (artist)",
       "id": "d5e1038",
       "start_date": "2004-05-31T00:00:00Z"
     },
@@ -4117,7 +4117,7 @@
     },
     {
       "name": "Ljiljana Buttler & Mostar Sevdah Reunion (SRB\/BIH)",
-      "description": "Besetzung: Ljiljana Buttler (voc), Ilijaz Delic (voc), Mustafa Santic (acc, cl), Milic Petrovic (g), Sandi Durakovic (rhythm guitar), Kosta Latinovic (double bass), Nedeljko Kovacevic (v), Sead Avdic (dr)",
+      "description": "Besetzung: Ljiljana Buttler (voc), Ilijaz Delic (voc), Mustafa Santic (acc, cl), Milic Petrovic (g), Sandi Durakovic (rhythm guitar), Kosta Latinovic (double bass), Nedeljko Kovacevic (v), Sead Avdić (dr)",
       "id": "d5e1064",
       "start_date": "2003-06-06T00:00:00Z"
     },
@@ -4219,7 +4219,7 @@
     },
     {
       "name": "Steamboat Switzerland Extended Ensemble (CH\/GB\/USA\/NL) plays ORANGE SLICE by David Dramm",
-      "description": "Besetzung: Dominik Blum (hammond organ, analog synthesizer, p), Gerard Bouwhuis (sampling keyb, p), Marino Pliakas (eb), Pete Wilson (eb), Lucas Niggli (dr, perc), Remo Signer (dr, perc), Marco Blaauw (tp), Reijer Dorresteijn (tp), Bob Koertshuis (tp), Willy Strehler (live sound), Clare Gallagher (monitor sound), David Dramm (live electronics)",
+      "description": "Besetzung: Dominik Blum (hammond organ, analog synthesizer, p), Gerard Bouwhuis (sampling keyb, p), Marino Pliakas (eb), Pete Wilson (eb), Lucas Niggli (dr, perc), Remo Signer (dr, perc), Marco Blaauw (tp), Reijer Dorresteijn (tp), Bob Koertshuis (tp), Willy Strehler (live sound), Clare Gallagher (monitor sound), David Dramm (electr)",
       "id": "d5e1166",
       "start_date": "2003-06-09T00:00:00Z"
     },
@@ -4243,7 +4243,7 @@
     },
     {
       "name": "electronic lounge III (Morning Project)",
-      "description": "Besetzung: Frank Schulte (electr, conception), Anna Homler (voc, perf, sounds), Claus von Bebber (turntables, electr), Kalle Laar (g, electr), Jan St. Werner (electr), Martin Tétreault (electr), Xavier Garcia (electr), Rosa Barba (film, installation), Michael Vorfeld (light, installation)",
+      "description": "Besetzung: Frank Schulte (electr, conception), Anna Homler (voc, perf, sounds), Claus von Bebber (tt, electr), Kalle Laar (g, electr), Jan St. Werner (electr), Martin Tétreault (electr), Xavier Garcia (electr), Rosa Barba (film, installation), Michael Vorfeld (light, installation)",
       "id": "d5e1188",
       "start_date": "2003-06-09T00:00:00Z"
     },
@@ -4309,7 +4309,7 @@
     },
     {
       "name": "Dampfschiff Schweiz (Morning Project)",
-      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, b-cl), Christian Weber (b, electronics), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
       "id": "d5e1271",
       "start_date": "2002-05-18T00:00:00Z"
     },
@@ -4351,7 +4351,7 @@
     },
     {
       "name": "Tous Dehors - 'Dommage à Glenn' (FRA)",
-      "description": "Besetzung: Laurent Dehors (reeds, cornemuse), Catherine Delaunay (reeds), Michel Massot (tb, tu), Jacky Lignon (acc), Jean Marc Quillet (vib, marimbaphone), David Chevallier (g), Francois Merville (dr), Bertrand Bigot (effects, sounds)",
+      "description": "Besetzung: Laurent Dehors (reeds, cornemuse), Catherine Delaunay (reeds), Michel Massot (tb, tu), Jacky Lignon (acc), Jean Marc Quillet (vib, mar), David Chevallier (g), Francois Merville (dr), Bertrand Bigot (effects, sounds)",
       "id": "d5e1309",
       "start_date": "2002-05-19T00:00:00Z"
     },
@@ -4369,7 +4369,7 @@
     },
     {
       "name": "Dampfschiff Schweiz (Morning Project)",
-      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, b-cl), Christian Weber (b, electronics), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
       "id": "d5e1329",
       "start_date": "2002-05-19T00:00:00Z"
     },
@@ -4399,7 +4399,7 @@
     },
     {
       "name": "Queen Salawa Abeni & The Waka Modernizer@African Dance Night",
-      "description": "Besetzung: Queen Salawa Abeni (voc), Jelili Balogun (bg-voc), Ajalaruru Asinmiyu (bg-voc), Tunde Adekoyan (g), Gbenga Ogun (keys, p), Oroh Angiama (b), Ayan Ayandosu (talking drum), Rasak Adegoke (talking drum), Lekan Babalola (conga, perc), Toyin Adeogun (kit drum)",
+      "description": "Besetzung: Queen Salawa Abeni (voc), Jelili Balogun (bg-voc), Ajalaruru Asinmiyu (bg-voc), Tunde Adekoyan (g), Gbenga Ogun (keys, p), Oroh Angiama (el-b), Ayan Ayandosu (talking drum), Rasak Adegoke (talking drum), Lekan Babalola (conga, perc), Toyin Adeogun (dr)",
       "id": "d5e1357",
       "start_date": "2002-05-19T00:00:00Z"
     },
@@ -4417,7 +4417,7 @@
     },
     {
       "name": "Rève d'Éléphant Orchestra (BEL)",
-      "description": "Besetzung: Pierre Bernard (fl), Laurent Blondiau (tp, flh), Michel Massot (tba, tb), Jean-Yves Evrard (g), Michel Debrulle (dr), Etienne Plumer (dr, perc), Stephan Pougin (perc)",
+      "description": "Besetzung: Pierre Bernard (fl), Laurent Blondiau (tp, flh), Michel Massot (tu, tb), Jean-Yves Evrard (g), Michel Debrulle (dr), Etienne Plumer (dr, perc), Stephan Pougin (perc)",
       "id": "d5e1375",
       "start_date": "2002-05-20T00:00:00Z"
     },
@@ -4447,7 +4447,7 @@
     },
     {
       "name": "Dampfschiff Schweiz (Morning Project)",
-      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, b-cl), Christian Weber (b, electronics), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
       "id": "d5e1403",
       "start_date": "2002-05-20T00:00:00Z"
     },
@@ -4513,18 +4513,18 @@
     },
     {
       "name": "Dr. Nerve & Sirius String Quartet (USA)",
-      "description": "Besetzung: Nick Didkovski (g), Yves Duboin (ss, fl), Rob Henke (tp), Kathleen Supové (keyb), Michael Lytle (bcl), Greg Anderson (b), Leo Ciesa (dr), Joyce Hammann (v), Mary Withaker (v), Ron Lawrence (va), Tomas Ulrich (clo)",
+      "description": "Besetzung: Nick Didkovski (g), Yves Duboin (ss, fl), Rob Henke (tp), Kathleen Supové (keyb), Michael Lytle (bcl), Greg Anderson (el-b), Leo Ciesa (dr), Joyce Hammann (v), Mary Withaker (v), Ron Lawrence (va), Tomas Ulrich (clo)",
       "id": "d5e1483",
       "start_date": "2001-06-02T00:00:00Z"
     },
     {
       "name": "Jeri Brown Quartet (USA)",
-      "description": "Besetzung: Jeri Brown (voc), Stephen Scott (p), Avery Sharpe (b), Wali Muhammad (dr), Russel Gunn",
+      "description": "Besetzung: Jeri Brown (voc), Stephen Scott (p), Avery Sharpe (cb), Wali Muhammad (dr)",
       "id": "d5e1488",
       "start_date": "2001-06-02T00:00:00Z"
     },
     {
-      "name": "Ethnomusicology (USA)",
+      "name": "Russel Gunn Ethnomusicology (USA)",
       "description": "Besetzung: Russel Gunn (voc, tp), Gregory Tardy (ts, fl), Bruce Williams (as), Andre Heyward (tb), James Hurt (p), Rodney Jordan (b), Woody Williams (dr), Khalil Kwame Bell (perc), DJ Apollo (tt)",
       "id": "d5e1493",
       "start_date": "2001-06-02T00:00:00Z"
@@ -4573,7 +4573,7 @@
     },
     {
       "name": "Boban Marković Orkestar (SRB)",
-      "description": "Besetzung: Boban Markovic (tp), Jovica Ajdarevic (tp), Srdjan Spasic (tp), Momcilo Krstic (as), Dragoljub Eminovic (t-h), Asim Ajdinovic (t-h), Selistar Eminovic (t-h), Srdjan Eminovic (t-h), Sasa Alisanovic (helicon), Srboljub Mirkovic (dr), Asmet Eminovic (dr)",
+      "description": "Besetzung: Boban Markovic (tp), Jovica Ajdarevic (tp), Srdjan Spasic (tp), Momcilo Krstic (as), Dragoljub Eminovic (ten-h), Asim Ajdinovic (ten-h), Selistar Eminovic (ten-h), Srdjan Eminovic (ten-h), Sasa Alisanovic (helicon), Srboljub Mirkovic (dr), Asmet Eminovic (dr)",
       "id": "d5e1540",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4693,7 +4693,7 @@
     },
     {
       "name": "Action & Interaction II: Shibusashirazu Project (JPN)",
-      "description": "Besetzung: Daisuke Fuwa (leader, composer, conductor, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (violin), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (b-cl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki _ shamisen; Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
+      "description": "Besetzung: Daisuke Fuwa (leader, composer, conductor, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (violin), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki _ shamisen; Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
       "id": "d5e1669",
       "start_date": "2000-06-10T00:00:00Z"
     },
@@ -4711,7 +4711,7 @@
     },
     {
       "name": "Wimme (FIN)",
-      "description": "Besetzung: Wimme Saari (voc), Tapani Rinne (b-cl, whistle), Jari Kokkonen (keyb, samplers), Matti Wallenius (acoustic-g, banjo, ukulele, mandolin)",
+      "description": "Besetzung: Wimme Saari (voc), Tapani Rinne (bcl, whistle), Jari Kokkonen (keyb, samplers), Matti Wallenius (acoustic-g, banjo, ukulele, mandolin)",
       "id": "d5e1686",
       "start_date": "2000-06-10T00:00:00Z"
     },
@@ -4723,7 +4723,7 @@
     },
     {
       "name": "Shibusashirazu Orchestra (JPN)",
-      "description": "Besetzung: Daisuke Fuwa (ld, comp, cond, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (v), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (b-cl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki (shamisen), Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
+      "description": "Besetzung: Daisuke Fuwa (ld, comp, cond, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (v), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki (shamisen), Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
       "id": "d5e1696",
       "start_date": "2000-06-10T00:00:00Z"
     },
@@ -4735,13 +4735,13 @@
     },
     {
       "name": "Action & Interaction II: Shibusashirazu Project (JPN)",
-      "description": "Besetzung: Daisuke Fuwa (leader, composer, conductor, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (violin), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (b-cl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki _ shamisen; Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
+      "description": "Besetzung: Daisuke Fuwa (leader, composer, conductor, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (violin), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki _ shamisen; Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
       "id": "d5e1712",
       "start_date": "2000-06-11T00:00:00Z"
     },
     {
       "name": "Jazz Jamaica All Stars (JAM\/GB)",
-      "description": "Besetzung: Gary Crosby (ld, double-b), Juliet Roberts (voc), Eddie 'Tan Tan' Thornton (tp), Guy Barker (tp), Kevin Robinson (tp), Colin Graham (tp), Fayyaz Virji (tb), Winston Rollins (tb), Annie Whitehead (tb), Trevor Edwards (tb), Andy Sheppard (reeds), Michael 'Bammie' Rose (reeds), Denys Baptiste (reeds), Brian Edwards (reeds), Orphy Robinson (vib, marimba), Clifton `Bigga` Morrison (keyb), Alan Weekes (g), Tony Uter (perc), Kenrick Rowe (dr)",
+      "description": "Besetzung: Gary Crosby (ld, double-b), Juliet Roberts (voc), Eddie 'Tan Tan' Thornton (tp), Guy Barker (tp), Kevin Robinson (tp), Colin Graham (tp), Fayyaz Virji (tb), Winston Rollins (tb), Annie Whitehead (tb), Trevor Edwards (tb), Andy Sheppard (reeds), Michael 'Bammie' Rose (reeds), Denys Baptiste (reeds), Brian Edwards (reeds),  (vib, marimba), Clifton `Bigga` Morrison (keyb), Alan Weekes (g), Tony Uter (perc), Kenrick Rowe (dr)",
       "id": "d5e1718",
       "start_date": "2000-06-11T00:00:00Z"
     },
@@ -4807,7 +4807,7 @@
     },
     {
       "name": "Action & Interaction II: Shibusashirazu Project (JPN)",
-      "description": "Besetzung: Daisuke Fuwa (leader, composer, conductor, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (violin), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (b-cl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki _ shamisen; Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
+      "description": "Besetzung: Daisuke Fuwa (leader, composer, conductor, b), Aya Murodate (voc), Midori Yoshioka (voc), Ayako Sasaki (voc, key), Kunihiro Izumi (voc, as, shakuhachi), Yuji Katsui (violin), Takeshi Shibuya (key), Yoichiro Kita (tp), Hiroaki Katayama (ts), Tetsu Hirosawa (ts), Junji Hirose (ts), Nobuhiro Nakane (tb), Naoki Hanashima (bcl), Daisuke Takaoka (tu), Ryuichi Yoshida (bs), Yoshiyuki Kawaguchi (as, ss), Yutaka Ota (as, ryuteki), Takayuki Kato (g), Akihiro Ishiwatari (g), Hiroshi Higo (b), Aki Ono (b), Chizuko Yamazaki _ shamisen; Takayuki Matsumura (perc), Yasuhiro Yoshigaki (dr), Shiro Onuma (dr), Masahiro Uemura (dr), Sayaka Nakada (dance), Yumi Wada (dance), Kenichiro Hoshino (butoh-dance), So Ueda (butoh-dance), Toyo Matsubara (butoh-dance), Ikumi (butoh-dance), Mayumi (butoh-dance), Masashi Kasahara (actor), Shuichi Hayashi (act), Masashi Sugiyama (happenist), Fumio Ueki (stage art), Yukari Miura (stage art), Yasuhiko Abeta (stage director)",
       "id": "d5e1778",
       "start_date": "2000-06-12T00:00:00Z"
     },
@@ -4879,7 +4879,7 @@
     },
     {
       "name": "Nate Wooley's Seven Storey Mountain (USA\/DE\/AUT\/CH\/SWE\/NOR)",
-      "description": "Besetzung: Nate Wooley (ampl. tr), C. Spencer Yeh (ampl. v), Samara Lubelski (ampl. vi), Julien Depresz (eg), Ryan Sawyer (dr), Ben Hall (dr), Emilio Gordoa (vib), Steve Heather (vib), Marc Unternahrer (tba), Chris Heenan (bcl), Per Johansson (bcl), Damir Bacikin (ptr), Nils Ostendorf (tr), Nikolaus Neuser (tr), Matthias Mueller (tn), Hilary Jeffrey (tn), Matthias Muche (btn)",
+      "description": "Besetzung: Nate Wooley (ampl. tr), C. Spencer Yeh (ampl. v), Samara Lubelski (ampl. vi), Julien Depresz (eg), Ryan Sawyer (dr), Ben Hall (dr), Emilio Gordoa (vib), Steve Heather (vib), Marc Unternährer (tu), Chris Heenan (bcl), Per Johansson (bcl), Damir Bacikin (ptr), Nils Ostendorf (tr), Nikolaus Neuser (tr), Matthias Mueller (tn), Hilary Jeffrey (tn), Matthias Muche (btn)",
       "id": "d6e286",
       "start_date": "2018-05-18T00:00:00Z"
     },
@@ -4939,7 +4939,7 @@
     },
     {
       "name": "Ralph Alessi & This Against That feat. Ravi Coltrane (USA)",
-      "description": "Besetzung: Ralph Alessi (tr), Andy Milne (p), Drew Gress (b), Mark Ferber (dr), Ravi Coltrane (tsax)",
+      "description": "Besetzung: Ralph Alessi (tp), Andy Milne (p), Drew Gress (b), Mark Ferber (dr), Ravi Coltrane (tsax)",
       "id": "d6e335",
       "start_date": "2018-05-20T00:00:00Z"
     },
@@ -4987,7 +4987,7 @@
     },
     {
       "name": "Henning Sieverts \/ Francois Thuillier: Bass Brothers (DE\/ FR)",
-      "description": "Besetzung: Henning Sieverts (kb, vc), Francois Thuillier (tba)",
+      "description": "Besetzung: Henning Sieverts (kb, vc), Francois Thuillier (tu)",
       "id": "d6e371",
       "start_date": "2018-05-21T00:00:00Z"
     },
@@ -5041,7 +5041,7 @@
     },
     {
       "name": "Carolin Pook <> Spacepilot (DE\/USA)",
-      "description": "Besetzung: Carolin Pook (v, comp), Sabine Akiko Ahrendt (v), Werner Dickel (va), Elisabeth Coudoux (vc), Spacepilot: Elias Meister (g, fx), Leo Genovese (synth, key, fx), Joe Hertenstein (dr, perc, fx)",
+      "description": "Besetzung: Carolin Pook (vl, comp), Sabine Akiko Ahrendt (vl), Werner Dickel (va), Elisabeth Coudoux (vc), Spacepilot: Elias Meister (g, fx), Leo Genovese (synth, key, fx), Joe Hertenstein (dr, perc, fx)",
       "id": "d6e422",
       "start_date": "2017-06-02T00:00:00Z"
     },
@@ -5077,7 +5077,7 @@
     },
     {
       "name": "Anthony Braxton Zim Sextet (USA)",
-      "description": "Besetzung: Anthony Braxton (reeds, electr, comp), Taylor Ho Bynum (brass), Shelley Burgon (harp), Jaqueline Kerrod (harp), Tomeka Reid (vc), Dan Peck (tba), Ingrid Laubrock (ss)",
+      "description": "Besetzung: Anthony Braxton (reeds, electr, comp), Taylor Ho Bynum (brass), Shelley Burgon (harp), Jaqueline Kerrod (harp), Tomeka Reid (vc), Dan Peck (tu), Ingrid Laubrock (ss)",
       "id": "d6e450",
       "start_date": "2017-06-03T00:00:00Z"
     },
@@ -5119,7 +5119,7 @@
     },
     {
       "name": "The Bad Plus (USA)",
-      "description": "Besetzung: Ethan Iverson (p), Reid Anderson (b), Dave King (dr)",
+      "description": "Besetzung: Ethan Iverson (p), Reid Anderson (cb), Dave King (dr)",
       "id": "d6e482",
       "start_date": "2017-06-04T00:00:00Z"
     },
@@ -5179,7 +5179,7 @@
     },
     {
       "name": "No BS! Brass Band (USA)",
-      "description": "Besetzung: Reggie Pace (tb), Bryan Hooten (tb), John Hulley (tb), Reggie Chapman (tb), Dillard Watt (tb), Sam Koff (tp), Marcus Tenney (tp), Taylor Barnett (tp), Rob Quallich (tp), David Hood (sax), Stefan Demetriadis (tba), Lance Koehler (dr)",
+      "description": "Besetzung: Reggie Pace (tb), Bryan Hooten (tb), John Hulley (tb), Reggie Chapman (tb), Dillard Watt (tb), Sam Koff (tp), Marcus Tenney (tp), Taylor Barnett (tp), Rob Quallich (tp), David Hood (sax), Stefan Demetriadis (tu), Lance Koehler (dr)",
       "id": "d6e539",
       "start_date": "2016-05-13T00:00:00Z"
     },
@@ -5329,7 +5329,7 @@
     },
     {
       "name": "Michael Mantler \"The Jazz Composer\u0092s Orchestra Update\" feat. Nouvelle Cuisine Big Band cond. by Christoph Cech (DE\/CH\/USA\/SWE\/AUT)",
-      "description": "Besetzung: Michael Mantler (tp), Bjarne Roupé (g), David Helbock (p), Harry Sokal (sax), Wolfgang Puschnig (sax, fl), Christoph Cech (cond), Bernhard Nolf (tp), Martin Ohrwalder (tp), Reinhard Zmölnig (frh), Hans Peter Manser (frh), Peter Nickel (tb), Florian Heigl (btb), Alexander Rindberger (tba), Fabian Rucker (reeds), Vincent Pongracz (reeds), Christian Kronreif (reeds), Manfred Balasch (reeds), Florian Fennes (reeds), Tibor Kövesdi (b), Manuel Mayr (b), Lukas Kranzelbinder (b), Lukas Knöfler (dr), Bernie Mallinger (v), Igmar Jenner (v), Cynthia Liao (va), Sophie Abraham (clo)",
+      "description": "Besetzung: Michael Mantler (tp), Bjarne Roupé (g), David Helbock (p), Harry Sokal (sax), Wolfgang Puschnig (sax, fl), Christoph Cech (cond), Bernhard Nolf (tp), Martin Ohrwalder (tp), Reinhard Zmölnig (frh), Hans Peter Manser (frh), Peter Nickel (tb), Florian Heigl (btb), Alexander Rindberger (tu), Fabian Rucker (reeds), Vincent Pongracz (reeds), Christian Kronreif (reeds), Manfred Balasch (reeds), Florian Fennes (reeds), Tibor Kövesdi (b), Manuel Mayr (b), Lukas Kranzelbinder (b), Lukas Knöfler (dr), Bernie Mallinger (v), Igmar Jenner (v), Cynthia Liao (va), Sophie Abraham (clo)",
       "id": "d6e668",
       "start_date": "2015-05-23T00:00:00Z"
     },
@@ -5401,7 +5401,7 @@
     },
     {
       "name": "Sebastian Gramss\u0091 BASSMASSE (DE\/USA\/IT\/NOR\/MX\/CH)",
-      "description": "Besetzung: Rodrigo López Klingenfuss (cond), Sebastian Gramss (solo bass), Mark Dresser (solo bass), Dieter Manderscheid (solo bass), Reza Askari-Motlagh (b), Stefan Berger (b), Dietmar Fuhr (b), Volker Heinze (b), David Helm (b), Constantin Herzog (b), Jakob Kühnemann (b), André Nendza (b), Joscha Oetz (b), Christian Ramond (b), Stefan Schönegg (b), Nicolai Amrehn (b), David Andres (b), Alexander Dawo (b), Matthias Debus (b), Svenja Doeinck (b), Hendrika Entzian (b), Johannes Frisch (b), Elisabeth Fügemann (b), Lelio Giannetto (b), Florian Herzog (b), Lukas Keller (b), Bernd Keul (b), Alexander Linster (b), Robert Lucaciu (b), Johannes Nebel (b), Conrad Noll (b), Johannes North (b), Matthias Nowak (b), Ulla Oster (b), Daniela Petry (b), David Sánchez García (b), Sebastian Schaffmeister (b), Stefan Scheib (b), Jörg Spix (b), Daniel Studer (b), Christian Meaas Svendsen (b), Jan Tengeler (b), Georg Wolf (b), Moritz Götzen (b), Kenn Hartwig (b)",
+      "description": "Besetzung: Rodrigo López Klingenfuss (cond), Sebastian Gramss (cb), Mark Dresser (cb), Dieter Manderscheid (cb), Reza Askari-Motlagh (cb), Stefan Berger (cb), Dietmar Fuhr (cb), Volker Heinze (cb), David Helm (cb), Constantin Herzog (cb), Jakob Kühnemann (cb), André Nendza (cb), Joscha Oetz (cb), Christian Ramond (cb), Stefan Schönegg (cb), Nicolai Amrehn (cb), David Andres (cb), Alexander Dawo (cb), Matthias Debus (cb), Svenja Doeinck (cb), Hendrika Entzian (cb), Johannes Frisch (cb), Elisabeth Fügemann (cb), Lelio Giannetto (cb), Florian Herzog (cb), Lukas Keller (cb), Bernd Keul (cb), Alexander Linster (cb), Robert Lucaciu (cb), Johannes Nebel (cb), Conrad Noll (cb), Johannes North (cb), Matthias Nowak (cb), Ulla Oster (b), Daniela Petry (cb), David Sánchez García (cb), Sebastian Schaffmeister (cb), Stefan Scheib (cb), Jörg Spix (cb), Daniel Studer (cb), Christian Meaas Svendsen (cb), Jan Tengeler (cb), Georg Wolf (cb), Moritz Götzen (cb), Kenn Hartwig (cb)",
       "id": "d6e742",
       "start_date": "2014-06-06T00:00:00Z"
     },
@@ -5425,7 +5425,7 @@
     },
     {
       "name": "Paal Nilssen-Love \u0093Large Unit\u0093 (NOR)",
-      "description": "Besetzung: Thomas Johansson (tp), Mats Äleklint (tb), Børre Mølstad (tba), Kasper Værnes (sax), Klaus Holm (sax), Lasse Marhaug (elec), Ketil Gutvik (git), Jon Rune Strøm (b), Christian Meaas Svendsen (b), Andreas Wildhagen (dr), Paal Nilssen-Love (dr)",
+      "description": "Besetzung: Thomas Johansson (tp), Mats Äleklint (tb), Børre Mølstad (tu), Kasper Værnes (sax), Klaus Holm (sax), Lasse Marhaug (elec), Ketil Gutvik (git), Jon Rune Strøm (b), Christian Meaas Svendsen (b), Andreas Wildhagen (dr), Paal Nilssen-Love (dr)",
       "id": "d6e762",
       "start_date": "2014-06-07T00:00:00Z"
     },
@@ -5491,7 +5491,7 @@
     },
     {
       "name": "Letieres Leite & Orkestra Rumpilezz (BRA)",
-      "description": "Besetzung: Letieres Leite (sax, fl), Rowney Scott (sax, fl), Leonardo Rocha (sax_fl), Andrè Becker (sax, fl), Paulinho Andrade (sax, fl), Joatan Nascimento (tp, flh), Guiga Scott (tp, flh), João Teoria (tp, flh), Rudney Machado (tp, flh), Hugo Santos (tb), Vanilson Lemos (tb), Juracy Machado (tb), Vinicius Feitas (sax), Erison Moreira (tba), Adailson Rodrigues (btb), Gabi Guedes (perc), Icaro Sá (perc), Ricardo Braga (perc), Kaina do Jeje (perc), Jorge Wallace (perc)",
+      "description": "Besetzung: Letieres Leite (sax, fl), Rowney Scott (sax, fl), Leonardo Rocha (sax_fl), Andrè Becker (sax, fl), Paulinho Andrade (sax, fl), Joatan Nascimento (tp, flh), Guiga Scott (tp, flh), João Teoria (tp, flh), Rudney Machado (tp, flh), Hugo Santos (tb), Vanilson Lemos (tb), Juracy Machado (tb), Vinicius Feitas (sax), Erison Moreira (tu), Adailson Rodrigues (btb), Gabi Guedes (perc), Icaro Sá (perc), Ricardo Braga (perc), Kaina do Jeje (perc), Jorge Wallace (perc)",
       "id": "d6e810",
       "start_date": "2014-06-08T00:00:00Z"
     },
@@ -5539,7 +5539,7 @@
     },
     {
       "name": "The Alchemist (UK) \/ Arditti String Quartet",
-      "description": "Besetzung: Irvine Arditti (v), Ashot Sarkissjan (v), Ralf Ehlers (va), Lucas Fels (clo)",
+      "description": "Besetzung: Irvine Arditti (vl), Ashot Sarkissjan (vl), Ralf Ehlers (va), Lucas Fels (clo)",
       "id": "d6e871",
       "start_date": "2013-05-17T00:00:00Z"
     },
@@ -5647,7 +5647,7 @@
     },
     {
       "name": "Local Heroes (DE)",
-      "description": "Besetzung: NDR Big Band (DE\/FRA\/GB\/IT) »The Dark Side of the Moon« - A Tribute To Pink Floyd Solisten: Maria Pia de Vito (voc), Nguyên Lê (g), Michael Gibbs (arr, cond) NDR Big Band: Thorsten Benkenstein (tp), Nicolas Boysen (tp), Claus Stötter (tp), Reiner Winterschladen (tp), Fiete Felsch (sax), Peter Bolte (sax), Christof Lauer (sax), Lutz Büchner (sax), Frank Delle (sax), Dan Gottshall (tb), Klaus Heidenreich (tb), Stefan Lottermann (tb), Ingo Lahme (tb), Jürgen Attig (b), Vladyslav Sendecki (p), Gary Husband (dr), Marcio Doctor (perc), Walter Quintus (sound)",
+      "description": "Besetzung: NDR Big Band (DE\/FRA\/GB\/IT) »The Dark Side of the Moon« - A Tribute To Pink Floyd Solisten: Maria Pia de Vito (voc), Nguyên Lê (g), Michael Gibbs (arr, cond) NDR Big Band: Thorsten Benkenstein (tp), Nicolas Boysen (tp), Claus Stötter (tp), Reiner Winterschladen (tp), Fiete Felsch (sax), Peter Bolte (sax), Christof Lauer (sax), Lutz Büchner (sax), Frank Delle (sax), Dan Gottshall (tb), Klaus Heidenreich (tb), Stefan Lottermann (tb), Ingo Lahme (tb), Jürgen Attig (el-b), Vladyslav Sendecki (p), Gary Husband (dr), Marcio Doctor (perc), Walter Quintus (sound)",
       "id": "d6e976",
       "start_date": "2013-05-20T00:00:00Z"
     },
@@ -5665,7 +5665,7 @@
     },
     {
       "name": "The Dorf (DE)",
-      "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (vl), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Adrian Prost (tb), Johannes Brackmann (tb), Alexander Giffey (tb), Alexander Morsey (tba), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Axel Knappmeyer (sax), Florian Walter (sax), Veit Lange (sax), Andreas Wahl (g), Christian Hammer (g), Serge Corteyn (g), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Uli Sigg (visuals), Denis Cosmar (sound), Jan Klare (air movement)",
+      "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (vl), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Adrian Prost (tb), Johannes Brackmann (tb), Alexander Giffey (tb), Alexander Morsey (tu), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Axel Knappmeyer (sax), Florian Walter (sax), Veit Lange (sax), Andreas Wahl (g), Christian Hammer (g), Serge Corteyn (g), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Uli Sigg (visuals), Denis Cosmar (sound), Jan Klare (air movement)",
       "id": "d6e1011",
       "start_date": "2012-05-25T00:00:00Z"
     },
@@ -5701,7 +5701,7 @@
     },
     {
       "name": "Radiation 10 (FRA)",
-      "description": "Besetzung: Aymeric Avice (tp), Hugues Mayot (sax, cl), Fidel Fourneyron (tb, tba), Clément Janinet (vl), Julien Desprez (g), Bruno Ruder (rhodes), Benjamin Flament (vib), Joachim Florent (b), Emmanuel Scarpa (dr), Patrick Peignelin (sound)",
+      "description": "Besetzung: Aymeric Avice (tp), Hugues Mayot (sax, cl), Fidel Fourneyron (tb, tu), Clément Janinet (vl), Julien Desprez (g), Bruno Ruder (rhodes), Benjamin Flament (vib), Joachim Florent (b), Emmanuel Scarpa (dr), Patrick Peignelin (sound)",
       "id": "d6e1044",
       "start_date": "2012-05-26T00:00:00Z"
     },
@@ -5839,7 +5839,7 @@
     },
     {
       "name": "Little Red Big Bang (DE, DK)",
-      "description": "Besetzung: Elena Setién (voc), Johanna Borchert (p), Jimmy Nyborg (tp), Kevin Christensen (tb), Jakob Munck (tba), Jesper Løvdal (sax), Jeppe Højgaard (sax), Jonas Westergaard (b), Peter Bruun (dr)",
+      "description": "Besetzung: Elena Setién (voc), Johanna Borchert (p), Jimmy Nyborg (tp), Kevin Christensen (tb), Jakob Munck (tu), Jesper Løvdal (sax), Jeppe Højgaard (sax), Jonas Westergaard (b), Peter Bruun (dr)",
       "id": "d6e1184",
       "start_date": "2011-06-11T00:00:00Z"
     },
@@ -5983,7 +5983,7 @@
     },
     {
       "name": "Miss Platnum (DE\/AUT)",
-      "description": "Besetzung: Ruth Maria Renner (voc), Ritsche Koch (tp), Jerome Bugnon (tb), Stefan Pahlke (tba), Roy Knauf (dr), Beat Halberschmidt (b), Christian Marien (perc), Grace Risch (voc), Solange Miranda-Wieland (voc)",
+      "description": "Besetzung: Ruth Maria Renner (voc), Ritsche Koch (tp), Jerome Bugnon (tb), Stefan Pahlke (tu), Roy Knauf (dr), Beat Halberschmidt (b), Christian Marien (perc), Grace Risch (voc), Solange Miranda-Wieland (voc)",
       "id": "d6e1328",
       "start_date": "2010-05-21T00:00:00Z"
     },
@@ -6031,7 +6031,7 @@
     },
     {
       "name": "Steve Lehman Octet (USA\/PR)",
-      "description": "Besetzung: Steve Lehman (sax), Jeremy Viner (sax), Jonathan Finlayson (tp), Tim Albright (tb), José Davila (tba), Chris Dingman (vib), Drew Gress (b), Tyshawn Sorey (dr)",
+      "description": "Besetzung: Steve Lehman (sax), Jeremy Viner (sax), Jonathan Finlayson (tp), Tim Albright (tb), José Davila (tu), Chris Dingman (vib), Drew Gress (b), Tyshawn Sorey (dr)",
       "id": "d6e1373",
       "start_date": "2010-05-22T00:00:00Z"
     },
@@ -6073,7 +6073,7 @@
     },
     {
       "name": "Grubenklang \"Reloaded\" (DE\/UK\/AUT\/IT\/USA)",
-      "description": "Besetzung: Georg Graewe (p), Theo Jörgensmann (cl), Frank Gratkowski (sax, cl), Tobias Delius (sax), Eckard Koltermann (bs, bcl), Thomas Berghammer (tp), Sebastiano Tramontana (tb), Melvyn Poore (tba), Martin Siewert (g), John Lindberg (b), Dieter Manderscheid (b), Michael Vatcher (dr), Achim Krämer (dr)",
+      "description": "Besetzung: Georg Graewe (p), Theo Jörgensmann (cl), Frank Gratkowski (sax, cl), Tobias Delius (sax), Eckard Koltermann (bs, bcl), Thomas Berghammer (tp), Sebastiano Tramontana (tb), Melvyn Poore (tu), Martin Siewert (g), John Lindberg (b), Dieter Manderscheid (b), Michael Vatcher (dr), Achim Krämer (dr)",
       "id": "d6e1413",
       "start_date": "2010-05-23T00:00:00Z"
     },
@@ -6085,7 +6085,7 @@
     },
     {
       "name": "Peter Brötzmann Chicago Tentet (DE\/SWE\/USA\/NOR)",
-      "description": "Besetzung: Peter Brötzmann (sax, cl), Mats Gustafsson (sax, cl), Ken Vandermark (sax, cl), Joe McPhee (tp), Johannes Bauer (tb), Jeb Bishop (tb), Per-Åke Holmlander (tba), Fred Lonberg-Holm (clo), Kent Kessler (b), Paal Nilssen-Love (dr), Michael Zerang (dr)",
+      "description": "Besetzung: Peter Brötzmann (sax, cl), Mats Gustafsson (sax, cl), Ken Vandermark (sax, cl), Joe McPhee (tp), Johannes Bauer (tb), Jeb Bishop (tb), Per-Åke Holmlander (tu), Fred Lonberg-Holm (clo), Kent Kessler (b), Paal Nilssen-Love (dr), Michael Zerang (dr)",
       "id": "d6e1424",
       "start_date": "2010-05-23T00:00:00Z"
     },

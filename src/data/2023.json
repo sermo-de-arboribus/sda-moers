@@ -178,7 +178,7 @@
         "start_date": "2023-05-26T22:35:00+02:00",
         "end_date": "2023-05-26T23:00:30+02:00",
         "description": "",
-        "artists": ["Tone Åse (voc, el)", "Guylaine Cosseron (voc)", "Isabelle Duthoit (voc, cl)"]
+        "artists": ["Tone Åse (voc, elec)", "Guylaine Cosseron (voc)", "Isabelle Duthoit (voc, cl)"]
     },
     {
         "id": 2023020,
@@ -186,7 +186,7 @@
         "start_date": "2023-05-26T23:00:00+02:00",
         "end_date": "2023-05-26T23:30:00+02:00",
         "description": "",
-        "artists": ["Thierry Waziniak (dr)", "Matthias Schubert (sax)", "Damon Smith (bs)", "Jean Daufresne (tuba)", "Sophia Domancich (p)"]
+        "artists": ["Thierry Waziniak (dr)", "Matthias Schubert (sax)", "Damon Smith (cb)", "Jean Daufresne (tu)", "Sophia Domancich (p)"]
     },
     {
         "id": 2023021,
@@ -238,7 +238,7 @@
         "name": "Trondheim Voices: Folklore (NO)",
         "start_date": "2023-05-27T14:00:00+02:00",
         "description": "Das norwegische Nonett kehrt nach 2019 gleich mit zwei Projekten zurück nach Moers: Zum einen fließen in „Folklore“ Tradition, zeitgenössische Improvisation, Anleihen aus György Ligetis Klangsprache, Live-Elektronik und Lichtkunst ineinander. Zum anderen verneigen sich mit „Lux Aeterna :Remix“ die Sängerinnen vor dem prägenden Chorwerk Ligetis.",
-        "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)", "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)", "Ståle Storløkken (live elec)"]
+        "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)", "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)", "Ståle Storløkken (elec)"]
     },
     {
         "id": 2023028,
@@ -294,7 +294,7 @@
         "name": "Ensemble Icosikaihenagone / Volumes II, fiction for musicians only (AT, CH, FR)",
         "start_date": "2023-05-27T17:00:00+02:00",
         "description": "Mit einer Besetzung aus verschiedenen Instrumenten und einer unkonventionellen Herangehensweise an Komposition und Improvisation schafft das 21-köpfige Ensemble Icosikaihenagone unter der Leitung des französischen Komponisten und Bassisten Benjamin Duboc eine faszinierende Klanglandschaft. Die Musiker*innen lassen sich von unterschiedlichen Epochen und Stilen inspirieren - von traditionellen Volksweisen über moderne Klassik bis hin zu experimentellen Klängen.",
-        "artists": ["Benjamin Duboc (b)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (as)", "Mathias Naon (vl)", "Gaël Mevel (vcl)", "Jean Daufresne (tub)", "Jean-Sébastien Mariage (e-git)", "Diemo Schwarz (elec)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (ccl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
+        "artists": ["Benjamin Duboc (b)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (as)", "Mathias Naon (vl)", "Gaël Mevel (clo)", "Jean Daufresne (tu)", "Jean-Sébastien Mariage (e-git)", "Diemo Schwarz (elec)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (ccl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
     },
     {
         "id": 2023036,
@@ -387,7 +387,7 @@
         "start_date": "2023-05-28T11:35:00+02:00",
         "end_date": "2023-05-28T12:00:00+02:00",
         "description": "",
-        "artists": ["Gonçalo Almeida (bass)", "Raissa Mehner (git)", "Jean-Sébastien Mariage (e-git)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
+        "artists": ["Gonçalo Almeida (el-b)", "Raissa Mehner (git)", "Jean-Sébastien Mariage (e-git)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
     },
     {
         "id": 2023049,
@@ -395,7 +395,7 @@
         "start_date": "2023-05-28T12:05:00+02:00",
         "end_date": "2023-05-28T12:30:00+02:00",
         "description": "",
-        "artists": ["Damon Smith (bar-sax)", "Klaus Kugel (dr)", "Franz Hautzinger (tp)", "Anke Lucks (tb)", "Jean-Luc Petit (cbcl, sax)", "Benjamin Duboc (bs)"]
+        "artists": ["Damon Smith (cb)", "Klaus Kugel (dr)", "Franz Hautzinger (tp)", "Anke Lucks (tb)", "Jean-Luc Petit (cbcl, sax)", "Benjamin Duboc (bs)"]
     },
     {
         "id": 2023050,
@@ -444,7 +444,7 @@
         "name": "Keune / Ewen / Smith (CA, DE, US)",
         "start_date": "2023-05-28T17:00:00+02:00",
         "description": "Mit Stefan Keune, Sandy Ewen und Damon Smith treffen drei konsequent eigenwillige Synapsenschaffende aufeinander. Saxophonist Keune aus Deutschland, Gitarristin Ewen aus Kanada und Kontrabassist Smith aus Amerika vereinen in ihrem gemeinsamen Spiel nicht nur ganz grundsätzlich, sondern auch durch ihr Leben und Aufwachsen an verschiedenen Orten auf der Welt persönliche Einflüsse miteinander. Was Pfingsten daraus wird? BE-FREI-UNG - energetisch, radikal und kompromisslos.",
-        "artists": ["Stefan Keune (sax)", "Sandy Ewen (git)", "Damon Smith (b)"]
+        "artists": ["Stefan Keune (sax)", "Sandy Ewen (git)", "Damon Smith (cb)"]
     },
     {
         "id": 2023057,
@@ -550,7 +550,7 @@
         "description": "",
         "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)",
             "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)",
-            "Ståle Storløkken (live elec)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
+            "Ståle Storløkken (elec)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
             "Eva-Maria Schappé (voc)", "Dorothea Winkel (voc)", "Johanna Zimmer (voc)", "Michelle Ryan (voc)", "Aya Tsujimoto (voc)", 
             "Dorothea Jakob (voc)", "Sophie Harr (voc)", "Sabine Czinczel (voc)", "Stefanie Gläser-Blumenschein (voc)", 
             "Judith Hilger (voc)", "Ulrike Koch (voc)", "Wiebke Wighardt (voc)", "Filippa Möres-Busch (voc)", "Sandra Stahlheber (voc)",
@@ -620,14 +620,14 @@
         "name": "Moers Sessions 2023 #4",
         "start_date": "2023-05-29T11:35:00+02:00",
         "end_date": "2023-05-29T12:00:00+02:00",
-        "artists": ["Guillaume Cazalet (git, sitar, voc)", "Gianna Greco (bass)", "Gonçalo Almeida (bass)", "Simon Camatta (dr)", "François R. Cambuzat (git, voc)", "Virginia Genta (sax)"]
+        "artists": ["Guillaume Cazalet (git, sitar, voc)", "Gianna Greco (bass)", "Gonçalo Almeida (el-b)", "Simon Camatta (dr)", "François R. Cambuzat (git, voc)", "Virginia Genta (sax)"]
     },
     {
         "id": 2023080,
         "name": "Moers Sessions 2023 #4",
         "start_date": "2023-05-29T12:05:00+02:00",
         "end_date": "2023-05-29T12:30:00+02:00",
-        "artists": ["Tatiana Paris (e-git, voc)", "Gebhard Ullmann (sax)", "Matthias Müller (tb)", "Damon Smith (bar-sax)", "Emmanuel Scarpa (drums)"]
+        "artists": ["Tatiana Paris (e-git, voc)", "Gebhard Ullmann (sax)", "Matthias Müller (tb)", "Damon Smith (cb)", "Emmanuel Scarpa (drums)"]
     },
     {
         "id": 2023081,
@@ -641,7 +641,7 @@
         "name": "Maya Dunietz / Chris Cutler / Tim Hodgkinson (IL, UK)",
         "start_date": "2023-05-29T13:00:00+02:00",
         "description": "Maya Dunietz, die auch schon 2022 im Kontext des Israel-Schwerpunkts in Moers zu erleben war, ist eine bemerkenswerte Komponistin, Pianistin, und Performance-Künstlerin, für die ihr musikalisches Schaffen, Installationen und Skulpturen gleichberechtigt nebeneinander stehen. Zusammen mit Malefizkerl Chris Cutler und Holzblasgitarrenanthropologe Tim Hodgkinson an den Schlagstöcken, kartographiert sie in diesem Jahr erneut ihr Traumland aus Klangart, motorischer Meisterschaft und ingeniösem Substrat. Nachdem das Trio sich kurz zuvor im Londoner Café OTO eingespielt hat, ist dieses Spektakel ein Muss für alle Schwarmgeister experimenteller Musik voller Spielwitz und Spontanität.",
-        "artists": ["Maya Dunietz (keys)", "Chris Cutler (dr)", "Tim Hodgkinson (sax)"]
+        "artists": ["Maya Dunietz (keyb)", "Chris Cutler (dr)", "Tim Hodgkinson (sax)"]
     },
     {
         "id": 2023083,
@@ -655,7 +655,7 @@
         "name": "HYDRA ENSEMBLE (CH, HR, NL, PO)",
         "start_date": "2023-05-29T15:00:00+02:00",
         "description": "Hoffentlich verliert das Hydra Ensemble in Moers ein paar Köpfe! Denn Nina Hitz (vc), Lucija Gregov (vc), Gonçalo Almeida (b) und Rutger Zuydervelt (elec) wachsen immer wieder neue nach. Nach dem Online-Debüt 2020 schlängeln sich nun Cluster, Klangwolken und vielköpfige Kreationen aus dem Soundlabor aus dreieinhalb Himmelsrichtungen bis an den Niederrhein und schlagen dort neue Synapsen: AUFBRUCH - mit einem mutigen Dutzend Saiten, flirrenden Schaltkreisen und jeder Menge K(n)öpfe...",
-        "artists": ["Nina Hitz (vclo)", "Lucija Gregov (vclo)", "Gonçalo Almeida (b)", "Robert Kroos (elec)"]
+        "artists": ["Nina Hitz (vclo)", "Lucija Gregov (vclo)", "Gonçalo Almeida (el-b)", "Robert Kroos (elec)"]
     },
     {
         "id": 2023085,

@@ -2253,6 +2253,22 @@
             "homepage": [{"type": "agency", "url": "http://archives.belluard.ch/archiv/index_185-6.htm"}]
         }
     },
+    "SeadAvdić": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1845291-Sead-Avdi%C4%87"}]
+        }
+    },
+    "Jean-JacquesAvenel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/jean-jacques-avenel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jean-jacques-avenel-mn0000880298"}],
+            "bandcamp": [{"type": "album", "url": "https://francoiscarrier.bandcamp.com/album/within"}, {"type": "album", "url": "https://jazzdorseries.bandcamp.com/album/live-at-p-le-sud-strasbourg-15112011"}, {"type": "album", "url": "https://caligolarecords.bandcamp.com/album/celebrating-the-music-of-mal-waldron"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/309512-Jean-Jacques-Avenel"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Jean-Jacques%20Avenel%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jean-Jacques_Avenel"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jean-Jacques_Avenel"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCpBDQUSmnGFiIiEyt5HamGw"}]
+        }
+    },
     "AminaAziz": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://www.picuki.com/profile/amina_aziz__"}]
@@ -3504,6 +3520,14 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/serge-corteyn"}]
         }
     },
+    "MichaelCosgrave": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michael-cosgrave-mn0002180920"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1006109-Michael-Cosgrave"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Totemike"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@totemike/videos"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCWm7ds_28RgUbdUrdCa367Q"}]
+        }
+    },
     "DenisCosmar": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4316965-Denis-Cosmar"}]
@@ -3517,6 +3541,13 @@
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Guylaine%20Cosseron%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/guylaine-cosseron"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@guylainecosseron5235"}]
+        }
+    },
+    "ChristopheCostabel": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/847943-Christophe-Costabel"}],
+            "homepage": [{"type": "agency", "url": "https://blog.scottomusique.com/annuaire/2134/christophe-costabel/"}, {"type": "personal", "url": "https://www.instagram.com/christophecostabel/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/christophe-costabel-5623a6115/"}]
         }
     },
     "PierreCourbois": {
@@ -3644,6 +3675,36 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1237432-Henryk-Darlowski"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Henryk_Darlowski"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCJ6m3IVglC67Zx5Jw8hz6mQ"}]
+        }
+    },
+    "Carlo ActisDato": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/carlo-actis-dato"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/carlo-actis-dato-mn0000794119"}],
+            "bandcamp": [{"type": "album", "url": "https://enzorocco.bandcamp.com/album/domestic-rehearsals"}, {"type": "album", "url": "https://enzorocco.bandcamp.com/album/noise-from-the-neighbours"}, {"type": "album", "url": "https://ictusrecords.bandcamp.com/album/lava-flows"}, {"type": "album", "url": "https://federicomarchesano.bandcamp.com/album/citt-densa"}, {"type": "album", "url": "https://sasimerecords.bandcamp.com/album/truly-trully-project"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/863820-Carlo-Actis-Dato"}],
+            "homepage": [{"type": "personal", "url": "http://www.actisdato.it/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/carlo-actis-dato-52319648/"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/carloactisdato"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Carlo_Actis_Dato"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Carlo_Actis_Dato"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@carloactisdatovideo"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCvA6fVuD7qWq-r_x0S5wxiw"}]
+        }
+    },
+    "JeanDaufresne": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4265129-Jean-Daufresne"}],
+            "homepage": [{"type": "personal", "url": "http://jeandaufresne.com/"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@jeandaufresne1807/"}]
+        }
+    },
+    "MarieDaulne": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marie-daulne-mn0000824534"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/93541-Marie-Daulne"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/marie-daulne-65721339/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/zapmama"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/mariedaulne"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Zap_Mama"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Zap_Mama"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Zap_Mama"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Zap_Mama"}]}, {"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Marie_Daulne"}]}]
         }
     },
     "WolfgangDauner": {
@@ -3933,6 +3994,11 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC-gZI3Q0Q6j6ddT0-hA6_sQ"}]
         }
     },
+    "PatrickDollas": {
+        "links": {
+            "homepage": [{"type": "agency", "url": "https://www.schlosstheater-moers.de/ensemble-team/patrick-dollas/"}]
+        }
+    },
     "SophiaDomancich": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/sophia-domancich"}],
@@ -3942,6 +4008,21 @@
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Sophia%20Domancich%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/sophiadomancich"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Sophia_Domancich"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Sophia_Domancich"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Sophia_Domancich"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Sophia_Domancich"}]}]
+        }
+    },
+    "ChanoDominguez": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/chano-dominguez"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/chano-dom%C3%ADnguez-mn0000199906"}],
+            "bandcamp": [{"type": "personal", "url": "https://chanodominguez.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/319337-Chano-Dom%C3%ADnguez"}],
+            "homepage": [{"type": "personal", "url": "https://chanodominguez.com/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/chano-dominguez-66408635/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Chano%20Dominguez%22"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/chano-dominguez-official"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/chanodominguez"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Chano_Dom%C3%ADnguez"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Chano_Dom%C3%ADnguez"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Chano_Dom%C3%ADnguez"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCEFZazJaa7g9DdRQ83MP5rA"}]
         }
     },
     "DaveDouglas": {
@@ -4070,6 +4151,33 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/jozef-dumoulin"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jozef_Dumoulin"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jozef_Dumoulin"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Jozef_Dumoulin"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCemZEalBaszyhxcbPVzL1dw"}]
+        }
+    },
+    "KlausDusek": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/8041589-Klaus-Dusek"}],
+            "homepage": [{"type": "agency", "url": "https://www.theater-pforzheim.de/das-theater/ensemble-mitarbeiter/badische-philharmonie/orchestermitglieder-1-2.html"}]
+        }
+    },
+    "IsabelleDuthoit": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/isabelle-duthoit"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/isabelle-duthoit-mn0001852651"}],
+            "bandcamp": [{"type": "album", "url": "https://corvorecords.bandcamp.com/album/esox-lucius"}, {"type": "album", "url": "https://matthiasmueller.bandcamp.com/album/the-monophonic-havel"}, {"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/lily"}, {"type": "album", "url": "https://creativesources.bandcamp.com/album/kochuu"}, {"type": "album", "url": "https://creativesources.bandcamp.com/album/light-air-still-gets-dark"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/214090-Isabelle-Duthoit"}],
+            "homepage": [{"type": "personal", "url": "https://www.isabelledutoit.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Isabelle%20Duthoit%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-132065266"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Isabelle_Duthoit"}]}]
+        }
+    },
+    "GuillaumeDutrieux": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/guillaume-dutrieux-mn0001447009"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/738206-Guillaume-Dutrieux"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/guillaume-dutrieux-63996b268/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/guillaume-dutrieux"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@gitanhitech"}]
         }
     },
     "JohnnyDyani": {
@@ -9282,6 +9390,11 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCinr-hmBqOfj1zmnT4PVRhw"}]
         }
     },
+    "AngelikaSchubert": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6987220-Angelika-Schubert-2"}]
+        }
+    },
     "MatthiasSchubert": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/matthias-schubert"}],
@@ -9290,6 +9403,11 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/851228-Matthias-Schubert"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Matthias%20Schubert%22"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url":" https://de.wikipedia.org/wiki/Matthias_Schubert"}]}]
+        }
+    },
+    "RetoSchubiger": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3180416-Reto-Schubiger"}]
         }
     },
     "KaiSchumacher": {
@@ -9362,6 +9480,17 @@
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Richard%20Scott%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/bastardscience"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCyU7tcNimViKY9ne5MFwjXw"}]
+        }
+    },
+    "StephenScott": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/stephen-scott"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/stephen-scott-mn0000022751"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1769721-Stephen-Scott-5"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Stephen%20Scott%22"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/StephenSPiano"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Stephen_Scott"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Stephen_Scott_(jazz_pianist)"}, {"locale": "fr", "url":" https://fr.wikipedia.org/wiki/Stephen_Scott_(pianiste)"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Stephen_Scott"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzf9p3_UjiJ-LwlTYFfp2tA"}]
         }
     },
     "BrandonSeabrook": {
@@ -9503,6 +9632,21 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCc859yTh6mRZSEc_Kw4adBA"}]
         }
     },
+    "AverySharpe": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/avery-sharpe"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/avery-sharpe-mn0000064860"}],
+            "bandcamp": [{"type": "personal", "url": "https://averysharpe.bandcamp.com/"}, {"type": "album", "url": "https://doitnow.bandcamp.com/album/paul-richmond-avery-sharpe-tony-vacca-the-shea-theater"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/903516-Avery-Sharpe"}],
+            "homepage": [{"type": "personal", "url": "https://www.averysharpe.com/"}],
+            "jazzsession": [{"type": "personal", "url": "https://thejazzsession.com/2009/08/26/the-jazz-session-75-avery-sharpe/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Avery%20Sharpe%22"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/averysharpe"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/asharpe8jz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Avery_Sharpe"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Avery_Sharpe"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Avery_Sharpe"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@asharpe8jz"}]
+        }
+    },
     "KevinShea": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/kevinshea"}],
@@ -9615,6 +9759,19 @@
             "en": "Could not find any information about this singer online",
             "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteuse",
             "zh": "网上找不到这个歌手的资料"
+        }
+    },
+    "DamonSmith": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/damon-smith"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/damon-smith-mn0000666416"}],
+            "bandcamp": [{"type": "label", "url": "https://balancepointacoustics.bandcamp.com/"}, {"type": "band", "url": "https://joemorrisdamonsmith.bandcamp.com"}, {"type": "band", "url": "https://theverycupoftrembling.bandcamp.com/"}, {"type": "band", "url": "https://hookertrio.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/941095-Damon-Smith"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Damon%20Smith%22"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/damonsmithtrio"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Damonatbpa"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Damon_Smith"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Damon_Smith"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Damon_Smith"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@newmusicbass"}]
         }
     },
     "LeoSmith": {
@@ -10712,6 +10869,15 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/filipwauters"}]
         }
     },
+    "Chemere CheboWaysa": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom zpěvákovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce chanteur",
+            "zh": "网上找不到这个歌手的资料"
+        }
+    },
     "ThierryWaziniak": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thierry-waziniak-mn0001945597"}],
@@ -10743,13 +10909,24 @@
     },
     "Charlotte JohannaWeber": {
         "links": {
-            "homepage": [{"type": "agency", "url": "https://www.jugend-musiziert.org/wettbewerbe/regionalwettbewerbe/duisburg/ergebnisse.html?tx_solr%5Bfilter%5D%5B1%5D=ageGroup%3AIV"}]
+            "homepage": [{"type": "agency", "url": "https://www.jugend-musiziert.org/fileadmin/user_upload/jumudb_user/10_00/Danke-Plakat_2020.pdf"}]
         }
     },
     "CharlotteWeber": {
         "canonicalName": {
             "firstname": "Charlotte Johanna",
             "surname": "Weber"
+        }
+    },
+    "ChristianWeber": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/christian-weber"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/christian-weber-mn0001580971"}],
+            "bandcamp": [{"type": "personal", "url": "https://christianweber.bandcamp.com"}, {"type": "band", "url": "https://eskelinwebergrienerintakt.bandcamp.com/"}, {"type": "album", "url": "https://intaktrec.bandcamp.com/album/auge"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/442194-Christian-Weber-2"}],
+            "homepage": [{"type": "personal", "url": "http://www.christianweber.org/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Christian%20Weber%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Christian_Weber_(Kontrabassist)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Christian_Weber_(double_bass_player)"}]}]
         }
     },
     "EberhardWeber": {

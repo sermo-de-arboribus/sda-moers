@@ -1458,9 +1458,9 @@
         "extras": {
             "lineup": [
                 "Francesco Bigoni (reeds)",
-                "Francesco Diodati (guitar)",
-                "Beno\u00eet Delbecq (piano)",
-                "Steve Arg\u00fcelles (drums)"
+                "Francesco Diodati (g)",
+                "Beno\u00eet Delbecq (p)",
+                "Steve Arg\u00fcelles (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket"
@@ -1614,7 +1614,7 @@
         "name": "moersify: Tamar Osborn & Sarathy Korwar (UK, US)",
         "start_date": "2022-06-03T20:00:00Z",
         "end_date": "2022-06-03T20:30:00Z",
-        "description": "Besetzung: Tamar Osborn (b-cl, fl, ss), Sarathy Korwar (drums, tabla)",
+        "description": "Besetzung: Tamar Osborn (bcl, fl, ss), Sarathy Korwar (drums, tabla)",
         "page_id": 369,
         "url": null,
         "image_path": null,
@@ -1625,7 +1625,7 @@
         "extras": {
             "tickets": "kein Ticket ben\u00f6tigt",
             "lineup": [
-                "Tamar Osborn (b-cl, fl, ss)",
+                "Tamar Osborn (bcl, fl, ss)",
                 "Sarathy Korwar (drums, tabla)"
             ],
             "collection": "festival22"
@@ -1639,7 +1639,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Tamar Osborn (b-cl, fl, ss)",
+            "Tamar Osborn (bcl, fl, ss)",
             "Sarathy Korwar (drums, tabla)"
         ],
         "duration": 30,
@@ -1906,9 +1906,9 @@
             "lineup": [
                 "Tizia Zimmermann (acc)",
                 "Matthew Welch (bagpipes)",
-                "Giannis Arapis (git)",
+                "Giannis Arapis (g)",
                 "Talia Herzlich (vl)",
-                "Yoni Gotlibovich (vcl)"
+                "Yoni Gotlibovich (clo)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -1924,9 +1924,9 @@
         "artists": [
             "Tizia Zimmermann (acc)",
             "Matthew Welch (bagpipes)",
-            "Giannis Arapis (git)",
+            "Giannis Arapis (g)",
             "Talia Herzlich (vl)",
-            "Yoni Gotlibovich (vcl)"
+            "Yoni Gotlibovich (clo)"
         ],
         "duration": 25,
         "place": {
@@ -2826,8 +2826,8 @@
         "extras": {
             "lineup": [
                 "Almut K\u00fchne (voc)",
-                "Joke Lanz (turntables)",
-                "Alfred Vogel (drums)"
+                "Joke Lanz (tt)",
+                "Alfred Vogel (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -2842,8 +2842,8 @@
         "collection": "festival22",
         "artists": [
             "Almut K\u00fchne (voc)",
-            "Joke Lanz (turntables)",
-            "Alfred Vogel (drums)"
+            "Joke Lanz (tt)",
+            "Alfred Vogel (dr)"
         ],
         "duration": 40,
         "place": {
@@ -2935,7 +2935,7 @@
         "name": "moersify: Flock Unplugged live radio recording for Worldwide FM (UK, US)",
         "start_date": "2022-06-04T12:30:00Z",
         "end_date": "2022-06-04T13:00:00Z",
-        "description": "Besetzung: Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics), Tamar Osborn (b-cl, fl, ss, EHX deluxe memory boy), Al MacSween (prepared piano, moog sub37), Sarathy Korwar (drums, tabla)",
+        "description": "Besetzung: Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics), Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy), Al MacSween (prepared piano, moog sub37), Sarathy Korwar (drums, tabla)",
         "page_id": 370,
         "url": null,
         "image_path": null,
@@ -2947,7 +2947,7 @@
             "tickets": "kein Ticket ben\u00f6tigt",
             "lineup": [
                 "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
-                "Tamar Osborn (b-cl, fl, ss, EHX deluxe memory boy)",
+                "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
                 "Al MacSween (prepared piano, moog sub37)",
                 "Sarathy Korwar (drums, tabla)"
             ],
@@ -2963,7 +2963,7 @@
         "collection": "festival22",
         "artists": [
             "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
-            "Tamar Osborn (b-cl, fl, ss, EHX deluxe memory boy)",
+            "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
             "Al MacSween (prepared piano, moog sub37)",
             "Sarathy Korwar (drums, tabla)"
         ],
@@ -3301,10 +3301,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Sana Nagano (violin\/fx)",
-                "Peter Apfelbaum (ts\/megaphone)",
+                "Sana Nagano (violin, fx)",
+                "Peter Apfelbaum (ts, )",
                 "Jonathan Goldberger (guitar)",
-                "Ken Filiano (bass\/fx)",
+                "Ken Filiano (b, fx)",
                 "Joe Hertenstein (drums)"
             ],
             "collection": "festival22",
@@ -3319,11 +3319,11 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Sana Nagano (violin\/fx)",
-            "Peter Apfelbaum (ts\/megaphone)",
-            "Jonathan Goldberger (guitar)",
-            "Ken Filiano (bass\/fx)",
-            "Joe Hertenstein (drums)"
+            "Sana Nagano (vl, fx)",
+            "Peter Apfelbaum (ts, megaphone)",
+            "Jonathan Goldberger (g)",
+            "Ken Filiano (b, fx)",
+            "Joe Hertenstein (dr)"
         ],
         "duration": 50,
         "place": {
@@ -3718,7 +3718,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Kasper Agnas (guitar)"
+                "Kasper Agnas (g)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -3732,7 +3732,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Kasper Agnas (guitar)"
+            "Kasper Agnas (g)"
         ],
         "duration": 30,
         "place": {
@@ -3936,13 +3936,13 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Snir Kaduri (flute)",
-                "Jonathan Hadas (clarinet)",
-                "Nadav Cohen (fagott)",
-                "Talia Herzlich (violin)",
-                "Yoni Gotlibovich (violincello)",
-                "Amit Dolberg (piano)",
-                "M\u00e4dchenchor am Essener Dom (25 Choristinnen unter der Leitung von Steffen Schreyer)"
+                "Snir Kaduri (fl)",
+                "Jonathan Hadas (cl)",
+                "Nadav Cohen (bsn)",
+                "Talia Herzlich (vl)",
+                "Yoni Gotlibovich (clo)",
+                "Amit Dolberg (p)",
+                "Steffen Schreyer (cond)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket"
@@ -3956,13 +3956,13 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Snir Kaduri (flute)",
-            "Jonathan Hadas (clarinet)",
-            "Nadav Cohen (fagott)",
-            "Talia Herzlich (violin)",
-            "Yoni Gotlibovich (violincello)",
-            "Amit Dolberg (piano)",
-            "M\u00e4dchenchor am Essener Dom (25 Choristinnen unter der Leitung von Steffen Schreyer)"
+            "Snir Kaduri (fl)",
+            "Jonathan Hadas (cl)",
+            "Nadav Cohen (bsn)",
+            "Talia Herzlich (vl)",
+            "Yoni Gotlibovich (clo)",
+            "Amit Dolberg (p)",
+            "Steffen Schreyer (cond)"
         ],
         "duration": 60,
         "place": {
@@ -4396,7 +4396,7 @@
         "name": "moersify: Sana Nagano & Joke Lanz (CH, JP)",
         "start_date": "2022-06-04T20:00:00Z",
         "end_date": "2022-06-04T20:30:00Z",
-        "description": "Besetzung: Sana Nagano (vl), Joke Lanz (turntables)",
+        "description": "Besetzung: Sana Nagano (vl), Joke Lanz (tt)",
         "page_id": 374,
         "url": null,
         "image_path": null,
@@ -4407,7 +4407,7 @@
         "extras": {
             "lineup": [
                 "Sana Nagano (vl)",
-                "Joke Lanz (turntables)"
+                "Joke Lanz (tt)"
             ],
             "tickets": "kein Ticket ben\u00f6tigt",
             "collection": "festival22"
@@ -4422,7 +4422,7 @@
         "collection": "festival22",
         "artists": [
             "Sana Nagano (vl)",
-            "Joke Lanz (turntables)"
+            "Joke Lanz (tt)"
         ],
         "duration": 30,
         "place": {
@@ -4519,7 +4519,7 @@
         "extras": {
             "lineup": [
                 "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
-                "Tamar Osborn (b-cl, fl, ss, EHX deluxe memory boy)",
+                "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
                 "Al MacSween (prepared piano, moog sub37)",
                 "Sarathy Korwar (drums, tabla)"
             ],
@@ -4536,7 +4536,7 @@
         "collection": "festival22",
         "artists": [
             "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
-            "Tamar Osborn (b-cl, fl, ss, EHX deluxe memory boy)",
+            "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
             "Al MacSween (prepared piano, moog sub37)",
             "Sarathy Korwar (drums, tabla)"
         ],
@@ -5131,8 +5131,8 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Joe Hertenstein (drums)",
-                "Vicente Hansen Atria (drums)",
+                "Joe Hertenstein (dr)",
+                "Vicente Hansen Atria (dr)",
                 "Jasper Stadhouders (git)"
             ],
             "collection": "festival22",
@@ -5147,8 +5147,8 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Joe Hertenstein (drums)",
-            "Vicente Hansen Atria (drums)",
+            "Joe Hertenstein (dr)",
+            "Vicente Hansen Atria (dr)",
             "Jasper Stadhouders (git)"
         ],
         "duration": 25,
@@ -5505,8 +5505,8 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jim Hart (vibraphone, marimba)",
-                "Florian Arbenz (drums, percussion)"
+                "Jim Hart (vib, mar)",
+                "Florian Arbenz (dr, perc)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -5520,8 +5520,8 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jim Hart (vibraphone, marimba)",
-            "Florian Arbenz (drums, percussion)"
+            "Jim Hart (vib, mar)",
+            "Florian Arbenz (dr, perc)"
         ],
         "duration": 45,
         "place": {
@@ -6119,7 +6119,7 @@
                 "Bart Maris (tp)",
                 "John Dikeman (ts)",
                 "Jasper Stadhouders (guitar)",
-                "Gon\u00e7alo Almeida (b)",
+                "Gon\u00e7alo Almeida (el-b)",
                 "Philipp Moser (drums)"
             ],
             "collection": "festival22",
@@ -6140,7 +6140,7 @@
             "Bart Maris (tp)",
             "John Dikeman (ts)",
             "Jasper Stadhouders (guitar)",
-            "Gon\u00e7alo Almeida (b)",
+            "Gon\u00e7alo Almeida (el-b)",
             "Philipp Moser (drums)"
         ],
         "duration": 45,
@@ -7789,7 +7789,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Gon\u00e7alo Almeida (b)",
+                "Gon\u00e7alo Almeida (el-b)",
                 "Francesco Diodati (guitar)",
                 "Almut K\u00fchne (voc)",
                 "Laura Polence (voc)",
@@ -7807,7 +7807,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Gon\u00e7alo Almeida (b)",
+            "Gon\u00e7alo Almeida (el-b)",
             "Francesco Diodati (guitar)",
             "Almut K\u00fchne (voc)",
             "Laura Polence (voc)",
@@ -7852,16 +7852,16 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Alex Zethson (piano, key)",
-                "Karin Ingves (piano)",
-                "Anna Lindal (violin)",
-                "My Hellgren (cello)",
-                "Giannis Arapis (guitar)",
-                "Kasper Agnas (guitar)",
+                "Alex Zethson (p, keyb)",
+                "Karin Ingves (p)",
+                "Anna Lindal (vl)",
+                "My Hellgren (clo)",
+                "Giannis Arapis (g)",
+                "Kasper Agnas (g)",
                 "Anton Toorell (guitar)",
-                "Elsa Bergman (bass)",
-                "Gustav Hielm (bass)",
-                "Andreas Hiroui Larsson (drums)",
+                "Elsa Bergman (b)",
+                "Gustav Hielm (b)",
+                "Andreas Hiroui Larsson (dr)",
                 "Juan Romero (perc)"
             ],
             "collection": "festival22",
@@ -7876,16 +7876,16 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Alex Zethson (piano, key)",
-            "Karin Ingves (piano)",
-            "Anna Lindal (violin)",
-            "My Hellgren (cello)",
-            "Giannis Arapis (guitar)",
-            "Kasper Agnas (guitar)",
-            "Anton Toorell (guitar)",
-            "Elsa Bergman (bass)",
-            "Gustav Hielm (bass)",
-            "Andreas Hiroui Larsson (drums)",
+            "Alex Zethson (p, keyb)",
+            "Karin Ingves (p)",
+            "Anna Lindal (vl)",
+            "My Hellgren (clo)",
+            "Giannis Arapis (g)",
+            "Kasper Agnas (g)",
+            "Anton Toorell (g)",
+            "Elsa Bergman (b)",
+            "Gustav Hielm (b)",
+            "Andreas Hiroui Larsson (dr)",
             "Juan Romero (perc)"
         ],
         "duration": 50,
@@ -8275,7 +8275,7 @@
         "name": "moersify: Musicians of Spinifex (DE, NL, PT)",
         "start_date": "2022-06-06T14:00:00Z",
         "end_date": "2022-06-06T14:30:00Z",
-        "description": "Besetzung: Philipp Moser (dr), Gon\u00e7alo Almeida (bs), Jasper Stadhouders (git), Tobias Klein (as)",
+        "description": "Besetzung: Philipp Moser (dr), Gon\u00e7alo Almeida (el-b), Jasper Stadhouders (git), Tobias Klein (as)",
         "page_id": 379,
         "url": null,
         "image_path": null,
@@ -8286,7 +8286,7 @@
         "extras": {
             "lineup": [
                 "Philipp Moser (dr)",
-                "Gon\u00e7alo Almeida (bs)",
+                "Gon\u00e7alo Almeida (el-b)",
                 "Jasper Stadhouders (git)",
                 "Tobias Klein (as)"
             ],
@@ -8303,7 +8303,7 @@
         "collection": "festival22",
         "artists": [
             "Philipp Moser (dr)",
-            "Gon\u00e7alo Almeida (bs)",
+            "Gon\u00e7alo Almeida (el-b)",
             "Jasper Stadhouders (git)",
             "Tobias Klein (as)"
         ],
@@ -8352,7 +8352,7 @@
                 "Sam Haberman (drums)",
                 "Oliver Siegel (accordion, synths, percussion)",
                 "Laura Polence (voc)",
-                "Florian Walter (b-cl)",
+                "Florian Walter (bcl)",
                 "Julia Br\u00fcssel (violin)",
                 "Simon Camatta (perc, clapping)",
                 "Carolin Pook (perc, clapping)",
@@ -8376,7 +8376,7 @@
             "Sam Haberman (drums)",
             "Oliver Siegel (accordion, synths, percussion)",
             "Laura Polence (voc)",
-            "Florian Walter (b-cl)",
+            "Florian Walter (bcl)",
             "Julia Br\u00fcssel (violin)",
             "Simon Camatta (perc, clapping)",
             "Carolin Pook (perc, clapping)",
@@ -8752,8 +8752,8 @@
             "lineup": [
                 "Anna Webber (sax)",
                 "gamin (korean woodwinds)",
-                "Mat Muntz (bagpipe, bass)",
-                "Vicente Hansen Atria (drums, elec)"
+                "Mat Muntz (bagpipe, b)",
+                "Vicente Hansen Atria (dr, elec)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket"
@@ -8769,8 +8769,8 @@
         "artists": [
             "Anna Webber (tenor sax)",
             "gamin (korean woodwinds)",
-            "Mat Muntz (bagpipe, bass)",
-            "Vicente Hansen Atria (drums, elec)"
+            "Mat Muntz (bagpipe, b)",
+            "Vicente Hansen Atria (dr, elec)"
         ],
         "duration": 45,
         "place": {
