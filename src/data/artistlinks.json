@@ -1,4 +1,10 @@
 {
+    "Addi": {
+        "canonicalName": {
+            "firstname": "Arnar Þór",
+            "surname": "Gíslason"
+        }
+    },
     "Cooper-Moore": {
         "canonicalName": { "firstname": "", "surname": "Cooper-Moore"},
         "links": {
@@ -2269,6 +2275,34 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCpBDQUSmnGFiIiEyt5HamGw"}]
         }
     },
+    "CarlosAverhoff": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/carlos-averhoff"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/carlos-averhoff-mn0000763855"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/329914-Carlos-Averhoff"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Carlos_Averhoff"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Carlos_Averhoff"}]}]
+        }
+    },
+    "AymericAvice": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/aymeric-avice"}],
+            "bandcamp": [{"type": "album", "url": "https://jazzdorseries.bandcamp.com/album/apocalypse-selon-saint-niels"}, {"type": "album", "url": "https://2035archives.bandcamp.com/album/01062018"}, {"type": "album", "url": "https://nunc-nunc.bandcamp.com/album/split-sessions"}, {"type": "album", "url": "https://propaveritamerve.bandcamp.com/album/envol"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2883694-Aymeric-Avice"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/aymeric-avice"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@MRICism"}]
+        }
+    },
+    "EissaAwad": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6264546-%D8%B9%D9%8A%D8%B3%D9%89-%D8%B9%D9%88%D8%A7%D8%AF"}]
+        }
+    },
+    "BenoîtAvihoue": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/beno%C3%AEt-avihoue-mn0001374645"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3660169-Beno%C3%AEt-Avihoue"}]
+        }
+    },
     "AminaAziz": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://www.picuki.com/profile/amina_aziz__"}]
@@ -3041,7 +3075,12 @@
     },
     "JuliaBrüssel": {
         "links": {
-            "bandcamp": [{"type": "band", "url": "https://umlandrecords.bandcamp.com/album/open"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/julia-brussel-mn0004021250"}],
+            "bandcamp": [{"type": "label", "url": "https://umlandrecords.bandcamp.com/album/open"}, {"type": "album", "url": "https://ernestorodrigues.bandcamp.com/album/fantasy-eight"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5957267-Julia-Br%C3%BCssel"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/julia-br%C3%BCssel-864816235/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/hildemusic"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Julia_Br%C3%BCssel"}] }],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/watch?v=IOK72DGIjLw"}]
         }
     },
@@ -5139,6 +5178,24 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/gastellogastello"}]
         }
     },
+    "Örn ElíasGuðmundsson": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://mugison.bandcamp.com"}, {"type": "label", "url": "https://mugison-ipecac.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/105041-Mugison"}],
+            "homepage": [{"type": "personal", "url": "http://www.mugison.com/"}],
+            "mugison": [{"type": "personal", "url": "https://soundcloud.com/mugison"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/mugison"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mugison"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mugison"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@mugiboogie"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Mugison",
+            "de": "Künstlername: Mugison",
+            "en": "Artist's name: Mugison",
+            "fr": "Pseudonyme: Mugison",
+            "zh": "艺名: Mugison"
+        }
+    },
     "FriedrichGulda": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/friedrich-gulda"}],
@@ -5148,6 +5205,20 @@
             "homepage": [{"type": "personal", "url": "http://www.gulda.at/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Friedrich%20Gulda%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/friedrich-gulda"}]
+        }
+    },
+    "RusselGunn": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/russell-gunn"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/russell-gunn-mn0000180614"}],
+            "bandcamp": [{"type": "album", "url": "https://dionnefarris.bandcamp.com/album/dionne-get-your-gunn"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/305943-Russell-Gunn"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/russell-gunn-1271b3a0/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Russell%20Gunn%22"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/russellgunn"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/RussellGunn"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Russell_Gunn"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Russell_Gunn"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Russell_Gunn"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Russell_Gunn"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UClAIdN0fQuaAF9YNrI8O30A"}]
         }
     },
     "WillGuthrie": {
@@ -7820,6 +7891,18 @@
             "homepage": [{"type": "personal", "url": "https://smuller.work/"}]
         }
     },
+    "Mugison": {
+        "canonicalName": {
+            "firstname": "Örn Elías",
+            "surname": "Guðmundsson"
+        }
+    },
+    "WaliMuhammad": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/wali-muhammad-mn0000813684"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2907108-Wali-Muhammad"}]
+        }
+    },
     "NoraMulder": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nora-mulder-mn0002234850"}],
@@ -8601,6 +8684,18 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/vixemariah"}]
         }
     },
+    "OliverPotratz": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oliver-potratz-mn0000056685"}],
+            "bandcamp": [{"type": "album", "url": "https://joambros.bandcamp.com/album/swan-trio-2"}, {"type": "album", "url": "https://christophe-schweizer.bandcamp.com/album/christophe-schweizers-young-rich-famous-grand-grace"}, {"type": "album", "url": "https://olibott.bandcamp.com/album/content-blue"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1140457-Oliver-Potratz"}],
+            "homepage": [{"type": "personal", "url": "http://www.oliver-potratz.de/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Oliver%20Potratz%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/oliver-potratz"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Oliver_Potratz"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@globalsuburbia"}]
+        }
+    },
     "AllanPraskin": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/allanpraskin"}],
@@ -8985,6 +9080,20 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/CarlRosman"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Carl_Rosman"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCogANG8D7qw7buFFkApJFcw"}]
+        }
+    },
+    "SteffenRoth": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/steffen-roth"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/steffen-roth-mn0003306298"}],
+            "bandcamp": [{"type": "personal", "url": "https://steffen-roth.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3977328-Steffen-Roth"}],
+            "homepage": [{"type": "personal", "url": "https://www.steffenroth.de/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Steffen%20Roth%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/monkymusic"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Steffen_Roth"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Steffen_Roth_(Musiker)"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@m0nKymusic"}]
         }
     },
     "ÉmilieRougier": {
@@ -10227,6 +10336,18 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCdmtZ8355xvA-W-A4PTxPEg"}]
         }
     },
+    "GregoryTardy": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gregory-tardy-mn0000162540"}, {"type": "personal", "url": "https://www.allmusic.com/artist/greg-tardy-mn0000192750"}],
+            "bandcamp": [{"type": "personal", "url": "https://gregorytardy.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/272436-Greg-Tardy"}],
+            "homepage": [{"type": "personal", "url": "https://www.gregorytardy.com/"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Greg%20Tardy%22"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/gregory-tardy"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Gregory_Tardy"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Gregory_Tardy"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@gregorytardy1243"}, {"type": "agency", "url": "https://www.youtube.com/channel/UC8wwowWW7hL8sy-dktd0NAw"}]
+        }
+    },
     "CecilTaylor": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/ceciltaylor"}],
@@ -11108,6 +11229,15 @@
             "homepage": [{"type": "agency", "url": "http://www.das-juelicht.de/nachrichten/artikel/16480.php"}]
         }
     },
+    "BruceWilliams": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/bruce-williams"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bruce-williams-mn0000941686"}],
+            "bandcamp": [{"type": "personal", "url": "https://brucewilliamsjazz.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url":" https://www.discogs.com/de/artist/1049750-Bruce-Williams-2"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC6vbmPQ2cQ70hPc9LrH1wiA"}]
+        }
+    },
     "DavidWilliams": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/davidwilliams"}],
@@ -11352,7 +11482,7 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCs0S25xjg7nBHOjKvhvOq0A"}]            
         }
     },
-    "JoshZubot": {
+    "JoshuaZubot": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/josh-zubot"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/josh-zubot-mn0001925492"}, {"type": "personal", "url": "https://www.allmusic.com/artist/joshua-zubot-mn0003366321"}],

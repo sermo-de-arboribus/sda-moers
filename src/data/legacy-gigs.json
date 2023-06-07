@@ -2197,7 +2197,7 @@
     },
     {
       "name": "The Ex & ICP Orkest (NL)",
-      "description": "Besetzung: G.W. Sok (voc), Andy (g), Terrie (g, b), Luc (b), Katrin (dr), Misha Mengelberg (p), Michael Moore (reeds, cl), Wolter Wierbos (tb), Thomas Heberer (tp), Tristan Honsinger (clo), Ernst Reijseger (clo), Ernst Glerum (b), Han Bennink (dr)",
+      "description": "Besetzung: G.W. Sok (voc), Andy Ex (g), Terrie Ex (g, b), Luc Ex (b), Katrin Ex (dr), Misha Mengelberg (p), Michael Moore (reeds, cl), Wolter Wierbos (tb), Thomas Heberer (tp), Tristan Honsinger (clo), Ernst Reijseger (clo), Ernst Glerum (b), Han Bennink (dr)",
       "id": "d4e389",
       "start_date": "1998-05-30T00:00:00Z"
     },
@@ -2209,7 +2209,7 @@
     },
     {
       "name": "Claudio Puntin & Quipu (ISL\/CH\/DE\/USA)",
-      "description": "Besetzung: Claudio Puntin (cl), Geröur Gunnardöttir (v), Klaus Stötter (tp, flh), Jean Paul Celea (b), Jim Black (dr)",
+      "description": "Besetzung: Claudio Puntin (cl), Geröur Gunnardöttir (vl), Klaus Stötter (tp, flh), Jean Paul Celea (b), Jim Black (dr)",
       "id": "d4e397",
       "start_date": "1998-05-30T00:00:00Z"
     },
@@ -2605,7 +2605,7 @@
     },
     {
       "name": "Ne Zhdali (EST)",
-      "description": "Besetzung: Leonid Soybelmann (g, voc), Ilya Komarov (b, didjeridoo, choir), Vadim Veeremaa (tp, horn, choir), Andrei Kulagin (casio), „rapman\" (voc, soundobjects), Oleg Davidovich (tb, g, choir), Vitaly Redchits (dr, choir)",
+      "description": "Besetzung: Leonid Soybelmann (g, voc), Ilya Komarov (b, didjeridoo, choir), Vadim Veeremaa (tp, horn, choir), Andrei Kulagin (casio „rapman“, voc, soundobjects), Oleg Davidovich (tb, g, choir), Vitaly Redchits (dr, choir)",
       "id": "d4e743",
       "start_date": "1995-06-04T00:00:00Z"
     },
@@ -2671,7 +2671,7 @@
     },
     {
       "name": "The Ex & Tom Cora (NL\/USA)",
-      "description": "Besetzung: Katrin (dr, voc), Terrie (g), Luc (b), G.W. Sok (voc), Tom Cora (clo)",
+      "description": "Besetzung: Katrin Ex (dr, voc), Terrie Ex (g), Luc Ex (b), G.W. Sok (voc), Tom Cora (clo)",
       "id": "d4e811",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -3007,7 +3007,7 @@
     },
     {
       "name": "\"Tribute to John Carter\" (USA)",
-      "description": "Besetzung: David Murray (cl, reeds), Bobby (Lee) Bradford (tp), Dave Burrel (p), Fred Hopkins (b), Andrew Cyrille (dr)",
+      "description": "Besetzung: David Murray (cl, reeds), Bobby Lee Bradford (tp), Dave Burrel (p), Fred Hopkins (b), Andrew Cyrille (dr)",
       "id": "d4e1094",
       "start_date": "1992-06-08T00:00:00Z"
     },
@@ -3229,7 +3229,7 @@
     },
     {
       "name": "Nusrat Fateh Ali Khan (PAK)",
-      "description": "Besetzung: Nusrat Fateh Ali Khan (lead voc), Farrukh Fateh Ali Khan (voc, harmonium), Bildai Khan (tabla), Kokab Ali (voc), Mujahid Farid (senior voc),  (choir, voc, handclapping), Rahmat Ali (choir, voc, handclapping), Kahhid Mahmood (choir, voc, handclapping), Rahat Ali (choir, voc, handclapping), Mohammad Ali (choir, voc, handclapping), Asad Ali (choir, voc, handclapping)",
+      "description": "Besetzung: Nusrat Fateh Ali Khan (lead voc), Farrukh Fateh Ali Khan (voc, harmonium), Bildai Khan (tabla), Kokab Ali (voc), Mujahid Farid (senior voc), Ghulam Farid (choir, voc, handclapping), Rahmat Ali (choir, voc, handclapping), Kahhid Mahmood (choir, voc, handclapping), Rahat Ali (choir, voc, handclapping), Mohammad Ali (choir, voc, handclapping), Asad Ali (choir, voc, handclapping)",
       "id": "d4e1292",
       "start_date": "1990-06-04T00:00:00Z"
     },
@@ -4099,7 +4099,7 @@
     },
     {
       "name": "Gangbe Brass Band (BEN)",
-      "description": "Besetzung: Aristide Agondanou (voc, tp, perc), Martial Ahouandjinou (voc, tb), Willy David A. Benni (voc, tp, perc), Benoit Avihoue (voc, tp, perc), Athanase O. Dehoumon (voc, tp, sax, perc), Lucien Gbaguidi (sax), Jean d\u0092’Arc Gnonlonfoun (voc, perc), Samuel Gnonlonfoun (voc, tp, perc), Joseph Houessou (voc, tb, perc), James Vodounnon (voc, tb, euphonium)",
+      "description": "Besetzung: Aristide Agondanou (voc, tp, perc), Martial Ahouandjinou (voc, tb), Willy David A. Benni (voc, tp, perc), Benoît Avihoue (voc, tp, perc), Athanase O. Dehoumon (voc, tp, sax, perc), Lucien Gbaguidi (sax), Jean d\u0092’Arc Gnonlonfoun (voc, perc), Samuel Gnonlonfoun (voc, tp, perc), Joseph Houessou (voc, tb, perc), James Vodounnon (voc, tb, euphonium)",
       "id": "d5e1049",
       "start_date": "2003-06-06T00:00:00Z"
     },
@@ -4741,7 +4741,7 @@
     },
     {
       "name": "Jazz Jamaica All Stars (JAM\/GB)",
-      "description": "Besetzung: Gary Crosby (ld, double-b), Juliet Roberts (voc), Eddie 'Tan Tan' Thornton (tp), Guy Barker (tp), Kevin Robinson (tp), Colin Graham (tp), Fayyaz Virji (tb), Winston Rollins (tb), Annie Whitehead (tb), Trevor Edwards (tb), Andy Sheppard (reeds), Michael 'Bammie' Rose (reeds), Denys Baptiste (reeds), Brian Edwards (reeds),  (vib, marimba), Clifton `Bigga` Morrison (keyb), Alan Weekes (g), Tony Uter (perc), Kenrick Rowe (dr)",
+      "description": "Besetzung: Gary Crosby (ld, double-b), Juliet Roberts (voc), Eddie 'Tan Tan' Thornton (tp), Guy Barker (tp), Kevin Robinson (tp), Colin Graham (tp), Fayyaz Virji (tb), Winston Rollins (tb), Annie Whitehead (tb), Trevor Edwards (tb), Andy Sheppard (reeds), Michael 'Bammie' Rose (reeds), Denys Baptiste (reeds), Brian Edwards (reeds), Orphy Robinson (vib, marimba), Clifton `Bigga` Morrison (keyb), Alan Weekes (g), Tony Uter (perc), Kenrick Rowe (dr)",
       "id": "d5e1718",
       "start_date": "2000-06-11T00:00:00Z"
     },
@@ -5005,7 +5005,7 @@
     },
     {
       "name": "Siddi Traces (GER\/IND)",
-      "description": "Besetzung: Julia Brüssel (v, elec) \/ Ludger Schmidt (clo, elec), Sourendro (p, harmonium), Soumyojit (voc), Biswajit (tablas), Achim Zepezauer (electronics)",
+      "description": "Besetzung: Julia Brüssel (vl, elec), Ludger Schmidt (clo, elec), Sourendro (p, harmonium), Soumyojit (voc), Biswajit (tablas), Achim Zepezauer (electronics)",
       "id": "d6e383",
       "start_date": "2018-05-21T00:00:00Z"
     },
@@ -5383,7 +5383,7 @@
     },
     {
       "name": "Frank Gratkowski \"Z-Country Paradise\" (DE\/FIN\/SRB)",
-      "description": "Besetzung: Jelena Kuljic (voc), Frank Gratkowski (sax, bcl), Kalle Kalima (g), Oliver Potratz (b), Christian Marien (dr)",
+      "description": "Besetzung: Jelena Kuljic (voc), Frank Gratkowski (sax, bcl), Kalle Kalima (g), Oliver Potratz (cb), Christian Marien (dr)",
       "id": "d6e712",
       "start_date": "2015-05-25T00:00:00Z"
     },

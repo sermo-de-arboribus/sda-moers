@@ -177,7 +177,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist (robots & electronics)"
+                "Moritz Simon Geist (robots, electr)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -191,7 +191,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist (robots & electronics)"
+            "Moritz Simon Geist (robots, electr)"
         ],
         "duration": 479,
         "place": {
@@ -232,17 +232,17 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist (robots, electronics)",
+                "Moritz Simon Geist (robots, electr)",
                 "Patrick Higgins (g)",
                 "Stickboy (dr)",
                 "Bones (el-b)",
-                "Robert Henke (electronics)",
+                "Robert Henke (electr)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
-                "Tina Tonagel (performance and installation)",
-                "AI by Recursion (DE)",
+                "Tina Tonagel (performance, installation)",
+                "AI by Recursion (artificial intelligence)",
                 "Bart Maris (tp)",
-                "Florina Speth (cello)",
+                "Florina Speth (clo)",
                 "Kay Sievers (robots)"
             ],
             "collection": "festival22",
@@ -257,17 +257,17 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist (robots, electronics)",
+            "Moritz Simon Geist (robots, electr)",
             "Patrick Higgins (g)",
             "Stickboy (dr)",
             "Bones (el-b)",
-            "Robert Henke (electronics)",
+            "Robert Henke (electr)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
-            "Tina Tonagel (performance and installation)",
-            "AI by Recursion (DE)",
+            "Tina Tonagel (performance, installation)",
+            "AI by Recursion (artificial intelligence)",
             "Bart Maris (tp)",
-            "Florina Speth (cello)",
+            "Florina Speth (clo)",
             "Kay Sievers (robots)"
         ],
         "duration": 479,
@@ -1397,9 +1397,9 @@
         "extras": {
             "lineup": [
                 "Florian Walter (reeds)",
-                "Tizia Zimmermann (accordion)",
-                "Bones (bass)",
-                "Stickboy (drums)"
+                "Tizia Zimmermann (acc)",
+                "Bones (el-b)",
+                "Stickboy (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket (Festivalhalle) \/ Festivalticket\/M\u00d6RZZ Ticket (Rodelberg)"
@@ -1414,9 +1414,9 @@
         "collection": "festival22",
         "artists": [
             "Florian Walter (reeds)",
-            "Tizia Zimmermann (accordion)",
-            "Bones (bass)",
-            "Stickboy (drums)"
+            "Tizia Zimmermann (acc)",
+            "Bones (el-b)",
+            "Stickboy (dr)"
         ],
         "duration": 30,
         "place": {
@@ -1518,7 +1518,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jochen Rückert (electronics)"
+                "Jochen Rückert (electr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -1532,7 +1532,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jochen Rückert (electronics)"
+            "Jochen Rückert (electr)"
         ],
         "duration": 30,
         "place": {
@@ -1681,7 +1681,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Wolff Parkinson White"
+                "Jochen Rückert (electr)"
             ],
             "collection": "festival22"
         },
@@ -1694,7 +1694,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Wolff Parkinson White"
+            "Jochen Rückert (electr)"
         ],
         "duration": 30,
         "place": {
@@ -1849,7 +1849,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Andrea Taeggi - composer"
+                "Andrea Taeggi (comp)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -1863,7 +1863,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Andrea Taeggi - composer"
+            "Andrea Taeggi (comp)"
         ],
         "duration": 1439,
         "place": {
@@ -2145,7 +2145,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -2159,7 +2159,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 1439,
         "place": {
@@ -2646,7 +2646,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist"
+                "Moritz Simon Geist (robots, electr)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -2660,7 +2660,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist"
+            "Moritz Simon Geist (robots, electr)"
         ],
         "duration": 719,
         "place": {
@@ -2884,10 +2884,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Chris Williams (trumpet)",
+                "Chris Williams (tp)",
                 "Chris Pitsiokos (sax)",
-                "Luke Stewart (bass)",
-                "Jason Nazary (drums)"
+                "Luke Stewart (b)",
+                "Jason Nazary (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket"
@@ -2901,10 +2901,10 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Chris Williams (trumpet)",
+            "Chris Williams (tp)",
             "Chris Pitsiokos (sax)",
-            "Luke Stewart (bass)",
-            "Jason Nazary (drums)"
+            "Luke Stewart (b)",
+            "Jason Nazary (dr)"
         ],
         "duration": 50,
         "place": {
@@ -3006,7 +3006,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Dr. Felix Klein"
+                "Dr. Felix Klein (talk)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -3020,7 +3020,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Dr. Felix Klein"
+            "Dr. Felix Klein (talk)"
         ],
         "duration": 90,
         "place": {
@@ -3118,17 +3118,17 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist (robots, electronics)",
+                "Moritz Simon Geist (robots, electr)",
                 "Patrick Higgins (g)",
                 "Stickboy (dr)",
                 "Bones (el-b)",
-                "Robert Henke (electronics)",
+                "Robert Henke (electr)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
-                "Tina Tonagel (performance and installation)",
-                "AI by Recursion (DE)",
+                "Tina Tonagel (performance, installation)",
+                "AI by Recursion (artificial intelligence)",
                 "Bart Maris (tp)",
-                "Florina Speth (cello)",
+                "Florina Speth (clo)",
                 "Kay Sievers (robots)"
             ],
             "collection": "festival22",
@@ -3143,17 +3143,17 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist (robots, electronics)",
+            "Moritz Simon Geist (robots, electr)",
             "Patrick Higgins (g)",
             "Stickboy (dr)",
             "Bones (el-b)",
-            "Robert Henke (electronics)",
+            "Robert Henke (electr)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
-            "Tina Tonagel (performance and installation)",
-            "AI by Recursion (DE)",
+            "Tina Tonagel (performance, installation)",
+            "AI by Recursion (artificial intelligence)",
             "Bart Maris (tp)",
-            "Florina Speth (cello)",
+            "Florina Speth (clo)",
             "Kay Sievers (robots)"
         ],
         "duration": 540,
@@ -4365,7 +4365,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 30,
         "place": {
@@ -4579,7 +4579,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Wolff Parkinson White"
+                "Jochen Rückert (electr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -4593,7 +4593,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Wolff Parkinson White"
+            "Jochen Rückert (electr)"
         ],
         "duration": 30,
         "place": {
@@ -4634,7 +4634,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Silke Eberhard"
+                "Silke Eberhard (sax)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -4648,7 +4648,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Silke Eberhard"
+            "Silke Eberhard (sax)"
         ],
         "duration": 1439,
         "place": {
@@ -4689,7 +4689,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -4703,7 +4703,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 1439,
         "place": {
@@ -4854,7 +4854,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Arnold Dreyblatt"
+                "Arnold Dreyblatt (perf, installation)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -4868,7 +4868,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Arnold Dreyblatt"
+            "Arnold Dreyblatt (perf, installation)"
         ],
         "duration": 60,
         "place": {
@@ -5076,7 +5076,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist"
+                "Moritz Simon Geist (robots, electr)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -5090,7 +5090,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist"
+            "Moritz Simon Geist (robots, electr)"
         ],
         "duration": 719,
         "place": {
@@ -5312,17 +5312,17 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist (robots, electronics)",
+                "Moritz Simon Geist (robots, electr)",
                 "Patrick Higgins (g)",
                 "Stickboy (dr)",
                 "Bones (el-b)",
-                "Robert Henke (electronics)",
+                "Robert Henke (electr)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
-                "Tina Tonagel (performance and installation)",
-                "AI by Recursion (DE)",
+                "Tina Tonagel (performance, installation)",
+                "AI by Recursion (artificial intelligence)",
                 "Bart Maris (tp)",
-                "Florina Speth (cello)",
+                "Florina Speth (clo)",
                 "Kay Sievers (robots)"
             ],
             "collection": "festival22",
@@ -5337,17 +5337,17 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist (robots, electronics)",
+            "Moritz Simon Geist (robots, electr)",
             "Patrick Higgins (g)",
             "Stickboy (dr)",
             "Bones (el-b)",
-            "Robert Henke (electronics)",
+            "Robert Henke (electr)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
-            "Tina Tonagel (performance and installation)",
-            "AI by Recursion (DE)",
+            "Tina Tonagel (performance, installation)",
+            "AI by Recursion (artificial intelligence)",
             "Bart Maris (tp)",
-            "Florina Speth (cello)",
+            "Florina Speth (clo)",
             "Kay Sievers (robots)"
         ],
         "duration": 719,
@@ -6807,7 +6807,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jochen Rückert (electronics)"
+                "Jochen Rückert (electr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -6821,7 +6821,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jochen Rückert (electronics)"
+            "Jochen Rückert (electr)"
         ],
         "duration": 30,
         "place": {
@@ -7042,7 +7042,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -7056,7 +7056,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 30,
         "place": {
@@ -7097,8 +7097,8 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Tomeka Reid",
-                "Tomas Fujiwara"
+                "Tomeka Reid (dj)",
+                "Tomas Fujiwara (dj)"
             ],
             "tickets": "kein Ticket ben\u00f6tigt",
             "collection": "festival22"
@@ -7112,8 +7112,8 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Tomeka Reid",
-            "Tomas Fujiwara"
+            "Tomeka Reid (dj)",
+            "Tomas Fujiwara (dj)"
         ],
         "duration": 240,
         "place": {
@@ -7155,9 +7155,9 @@
         "extras": {
             "lineup": [
                 "Andrew Bernstein (sax, perc)",
-                "Owen Gardner (guitar)",
-                "Max Eilbacher (bass, synth)",
-                "Sam Haber-man (drums)"
+                "Owen Gardner (g)",
+                "Max Eilbacher (b, synth)",
+                "Sam Haberman (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -7172,9 +7172,9 @@
         "collection": "festival22",
         "artists": [
             "Andrew Bernstein (sax, perc)",
-            "Owen Gardner (guitar)",
-            "Max Eilbacher (bass, synth)",
-            "Sam Haber-man (drums)"
+            "Owen Gardner (g)",
+            "Max Eilbacher (b, synth)",
+            "Sam Haberman (dr)"
         ],
         "duration": 40,
         "place": {
@@ -7215,7 +7215,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bart Maris"
+                "Bart Maris (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -7229,7 +7229,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bart Maris"
+            "Bart Maris (sound installation)"
         ],
         "duration": 1439,
         "place": {
@@ -7270,7 +7270,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Luc Ex"
+                "Luc Ex (sound installation)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -7284,7 +7284,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Luc Ex"
+            "Luc Ex (sound installation)"
         ],
         "duration": 1439,
         "place": {
@@ -7441,7 +7441,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Maya Dunietz \u2013 organ"
+                "Maya Dunietz (org)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -7455,7 +7455,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Maya Dunietz \u2013 organ"
+            "Maya Dunietz (org)"
         ],
         "duration": 45,
         "place": {
@@ -7496,7 +7496,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Tal Ilan"
+                "Tal Ilan (reading)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -7510,7 +7510,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Tal Ilan"
+            "Tal Ilan (reading)"
         ],
         "duration": 120,
         "place": {
@@ -7671,7 +7671,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist"
+                "Moritz Simon Geist (robots, electr)"
             ],
             "collection": "festival22",
             "tickets": "kein Ticket ben\u00f6tigt"
@@ -7685,7 +7685,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist"
+            "Moritz Simon Geist (robots, electr)"
         ],
         "duration": 600,
         "place": {
@@ -8100,17 +8100,17 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Moritz Simon Geist (robots, electronics)",
+                "Moritz Simon Geist (robots, electr)",
                 "Patrick Higgins (g)",
                 "Stickboy (dr)",
                 "Bones (el-b)",
-                "Robert Henke (electronics)",
+                "Robert Henke (electr)",
                 "Florian Walter (bcl,cl,reeds)",
                 "Tizia Zimmermann (acc)",
-                "Tina Tonagel (performance and installation)",
-                "AI by Recursion (DE)",
+                "Tina Tonagel (performance, installation)",
+                "AI by Recursion (artificial intelligence)",
                 "Bart Maris (tp)",
-                "Florina Speth (cello)",
+                "Florina Speth (clo)",
                 "Kay Sievers (robots)"
             ],
             "collection": "festival22",
@@ -8125,17 +8125,17 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Moritz Simon Geist (robots, electronics)",
+            "Moritz Simon Geist (robots, electr)",
             "Patrick Higgins (g)",
             "Stickboy (dr)",
             "Bones (el-b)",
-            "Robert Henke (electronics)",
+            "Robert Henke (electr)",
             "Florian Walter (bcl,cl,reeds)",
             "Tizia Zimmermann (acc)",
             "Tina Tonagel (performance and installation)",
-            "AI by Recursion (DE)",
+            "AI by Recursion (artificial intelligence)",
             "Bart Maris (tp)",
-            "Florina Speth (cello)",
+            "Florina Speth (clo)",
             "Kay Sievers (robots)"
         ],
         "duration": 479,
@@ -8347,13 +8347,13 @@
         "extras": {
             "lineup": [
                 "Andrew Bernstein (sax, percussion)",
-                "Owen Gardner (guitar)",
-                "Max Eilbacher (bass, synth)",
-                "Sam Haberman (drums)",
-                "Oliver Siegel (accordion, synths, percussion)",
+                "Owen Gardner (g)",
+                "Max Eilbacher (b, synth)",
+                "Sam Haberman (dr)",
+                "Oliver Siegel (acc, synth, perc)",
                 "Laura Polence (voc)",
                 "Florian Walter (bcl)",
-                "Julia Br\u00fcssel (violin)",
+                "Julia Br\u00fcssel (vl)",
                 "Simon Camatta (perc, clapping)",
                 "Carolin Pook (perc, clapping)",
                 "Max Wehner (perc, clapping)"
@@ -8371,13 +8371,13 @@
         "collection": "festival22",
         "artists": [
             "Andrew Bernstein (sax, percussion)",
-            "Owen Gardner (guitar)",
-            "Max Eilbacher (bass, synth)",
-            "Sam Haberman (drums)",
-            "Oliver Siegel (accordion, synths, percussion)",
+            "Owen Gardner (g)",
+            "Max Eilbacher (b, synth)",
+            "Sam Haberman (dr)",
+            "Oliver Siegel (acc, synth, perc)",
             "Laura Polence (voc)",
             "Florian Walter (bcl)",
-            "Julia Br\u00fcssel (violin)",
+            "Julia Br\u00fcssel (vl)",
             "Simon Camatta (perc, clapping)",
             "Carolin Pook (perc, clapping)",
             "Max Wehner (perc, clapping)"
@@ -9139,7 +9139,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jochen Rückert (electronics)"
+                "Jochen Rückert (electr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -9153,7 +9153,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jochen Rückert (electronics)"
+            "Jochen Rückert (electr)"
         ],
         "duration": 30,
         "place": {
@@ -9308,7 +9308,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Recursion Audiovisual Robotic Orchestra"
+                "Recursion Audiovisual Robotic Orchestra (robots)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -9322,7 +9322,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Recursion Audiovisual Robotic Orchestra"
+            "Recursion Audiovisual Robotic Orchestra (robots)"
         ],
         "duration": 30,
         "place": {
