@@ -210,21 +210,21 @@
         "start_date": "2023-05-27T12:05:00+02:00",
         "end_date": "2023-05-26T12:30:00+02:00",
         "description": "",
-        "artists": ["Alexey Kruglov (sax)", "Joe Grass (pedal steel)", "Stephan Deller (bass)", "Petr Talalay (dr)"]
+        "artists": ["Alexey Kruglov (sax)", "Joe Grass (pedal steel)", "Stephan Deller (cb)", "Piotr Talalay (dr)"]
     },
     {
         "id": 2023024,
         "name": "Ghost Dogs (DE)",
         "start_date": "2023-05-27T11:00:00+02:00",
         "description": "moersify @ Bettenkamper Meer",
-        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (b)", "Armin Thommesen (dr)"]
+        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (cb)", "Armin Thommesen (dr)"]
     },
     {
         "id": 2023025,
         "name": "ZAÄAR (BE)",
         "start_date": "2023-05-27T13:00:00+02:00",
         "description": "Welcome to the jungle! Für Fans von Neptunian Maximalism gibt es einen neuen Stern am Himmel: ZAÄAR. Wer Lust auf ein wenig Psychedelik und experimental Drone Doom hat, ist bei dem Auskopplungsprojekt der belgischen Formation gut aufgehoben.",
-        "artists": ["Guillaume Cazalet (voc, fl, castanets)", "JJ Duerinckx (sax)", "HP Desrosiers (BN, Santur)", "Didié Nietzche (elec)", "Andres Navarro (perc)"]
+        "artists": ["Guillaume Cazalet (voc, fl, castanets)", "Jean-Jacques Duerinckx (sax)", "Hugues Philippe Desrosiers (el-b, santur)", "Didié Nietzsche (elec)", "Andrés Navarro García (perc)"]
     },
     {
         "id": 2023026,
@@ -402,21 +402,21 @@
         "name": "moersify @ Rudolf-Schloer-Stift",
         "start_date": "2023-05-28T13:30:00+02:00",
         "description": "Rudolf-Schloer-Stift, Kranichstarße 1, 47441 Moers",
-        "artists": ["Didié Nietzch (elec)"]
+        "artists": ["Didié Nietzsche (elec)"]
     },
     {
         "id": 2023051,
         "name": "Propan (NO)",
         "start_date": "2023-05-28T14:10:00+02:00",
         "description": "Seit 2011 erforschen die Hirnklangforscherinnen Ina Sagstuen und Natali Abrahamsen Garner vom Osloer Institut Propan in kontinuierlicher Arbeit die verschiedenen Rollen und Möglichkeiten der Stimme. Ihr gewagter Ansatz zur Musik überrascht andere Klangforschende immer wieder erneut, ihre Arbeiten werden teilweise mit der Musik von Björk in ihrer experimentellsten Phase verglichen. In offenen Laborversuchen werden die eigenen Stimmen immer wieder dekonstruiert und aus detaillierten Klangzellen neu aufgebaut. Texturen, Hooklines, Grooves und ungeahnte Botenstoffe entstehen - seltsam nah und vertraut, elektronisch bearbeitet oder akustisch begleitet. Merkwürdig, dass Forschung so berührend klingen kann...",
-        "artists": ["Ina Sagstuen (voc/efx)", "Natali Abrahamsen Garner (voc/efx)"]
+        "artists": ["Ina Sagstuen (voc efx)", "Natali Abrahamsen Garner (voc efx)"]
     },
     {
         "id": 2023052,
         "name": "TEMBER Ensemble & guests (DE, IR, IT)",
         "start_date": "2023-05-28T15:10:00+02:00",
         "description": "Jin, Jiyan, Azadî! Das Tember Ensemble beschäftigt sich mit der aktuellen politischen Situation im Iran. BE-FREI-UNG! Gegründet wurde Tember von Alireza Ostovar und Azin Zahedi mit der Vision, innovative Musik in einzigartigen Atmosphären zu schaffen. Hier verbinden sich traditionelle Musikkultur mit zeitgenössischen und elektroakustischen Zugängen.Beim moers festival wird das Tember Ensemble durch den iranischen Videokünstler Arman Moghadam zum Quintett erweitert.",
-        "artists": ["Valentina Bellanova (nay, fl)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (Iranian santur)", "Arman Moghadam (live video)", "Ali Ostovar (live-electronics/Mixer)"]
+        "artists": ["Valentina Bellanova (nay, fl)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (santur)", "Arman Moghadam (live video)", "Ali Ostovar (live-electronics/Mixer)"]
     },
     {
         "id": 2023053,
@@ -481,8 +481,8 @@
         "id": 2023061,
         "name": "moersify @ Grafsschafter Wirtshaus",
         "start_date": "2023-05-27T17:30:00+02:00",
-        "description": "Guillaume Cazalet, Jean-Jacques Duerinckx, Hugues Philippe Desrosiers, Didié Nietzch (BE)",
-        "artists": ["Guillaume Cazalet (git, sitar, voc), Jean-Jacques Duerinckx (), Hugues Philippe Desrosiers (), Didié Nietzch ()"]
+        "description": "Guillaume Cazalet, Jean-Jacques Duerinckx, Hugues Philippe Desrosiers, Didié Nietzsche (BE)",
+        "artists": ["Guillaume Cazalet (git, sitar, voc), Jean-Jacques Duerinckx (sax), Hugues Philippe Desrosiers (), Didié Nietzsche (electr)"]
     },
     {
         "id": 2023062,
@@ -496,14 +496,14 @@
         "name": "Ghost Dogs (DE)",
         "start_date": "2023-05-28T11:00:00+02:00",
         "description": "moersify @ Bettenkamper Meer",
-        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (b)", "Armin Thommesen (dr)"]
+        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (cb)", "Armin Thommesen (dr)"]
     },
     {
         "id": 2023064,
         "name": "moersify @ Café Lyzeum",
         "start_date": "2023-05-28T11:00:00+02:00",
-        "description": "Alexey Kruglov, Caroline Kraabel, Didié Nietzch, Piotr Talalay (BE, RU, UK)",
-        "artists": ["Alexey Kruglov (sax)", "Caroline Kraabel (sax)", "Didié Nietzch (elec)", "Piotr Talalay (dr)"]
+        "description": "Alexey Kruglov, Caroline Kraabel, Didié Nietzsche, Piotr Talalay (BE, RU, UK)",
+        "artists": ["Alexey Kruglov (sax)", "Caroline Kraabel (sax)", "Didié Nietzsche (elec)", "Piotr Talalay (dr)"]
     },
     {
         "id": 2023065,
@@ -613,7 +613,7 @@
         "name": "Moers Sessions 2023 #4",
         "start_date": "2023-05-29T11:00:00+02:00",
         "end_date": "2023-05-29T11:30:00+02:00",
-        "artists": ["Robert Kroos (electronics)", "Sandy Ewen (git)", "Andres Navarro (perc)", "Stefan Keune (sax)", "JJ Duerinckx (sax)"]
+        "artists": ["Robert Kroos (electronics)", "Sandy Ewen (git)", "Andrés Navarro García (perc)", "Stefan Keune (sax)", "Jean-Jacques Duerinckx (sax)"]
     },
     {
         "id": 2023079,
@@ -634,7 +634,7 @@
         "name": "Ghost Dogs (DE)",
         "start_date": "2023-05-29T11:00:00+02:00",
         "description": "moersify @ Bettenkamper Meer",
-        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (b)", "Armin Thommesen (dr)"]
+        "artists": ["André Meisner (sax)", "Matthias Dymke (p)", "Steffen Molderings (cb)", "Armin Thommesen (dr)"]
     },
     {
         "id": 2023082,
@@ -703,8 +703,8 @@
         "id": 2023090,
         "name": "NEPTUNIAN MAXIMALISM (BE)",
         "start_date": "2023-05-29T21:00:00+02:00",
-        "description": "NEPTUNIAN MAXIMALISM ist eine Gemeinschaft von Musiker:innen, die ursprünglich aus Kylwiria kamen und seitdem auf der Suche nach der Zukunft des Lebens auf der Erde sind.  Auf diese Reise nehmen die Masterminds Guillaume Cazalet (bariton git, sitar, voc) und Reeds-Player Jean-Jacques Duerinckx (bs/elec, sss) mit Reshma Goolamy (b), Romain Martini (git), Didié Nietzsch (digital soundscapes, spectral), Joaquin Bermudez (amplified saz), Stephane Fedele (dr) und Lukas Melville Bouchenot (dr) eine außergewöhnliche Auswahl an „occultural engineers“ mit nach Moers. Das Tor zum Bewusstsein öffnet sich durch die Verwendung spekulativer Texte, obskurer Sprache und das Experimentieren mit klanglichen Botenstoffen.",
-        "artists": ["Romain Martini (g)", "Guillaume Cazalet (bariton guitar, sitar, voc)", "Jean-Jacques Duerinckx (bs/elec, sss)", "Reshma Goolamy (b)", "Didié Nietzsch (digital soundscapes, spectral)", "Joaquin Bermudez (amplified saz)", "Stephane Fedele (dr)", "Lukas Melville Bouchenot (dr)"]
+        "description": "NEPTUNIAN MAXIMALISM ist eine Gemeinschaft von Musiker:innen, die ursprünglich aus Kylwiria kamen und seitdem auf der Suche nach der Zukunft des Lebens auf der Erde sind.  Auf diese Reise nehmen die Masterminds Guillaume Cazalet (bariton git, sitar, voc) und Reeds-Player Jean-Jacques Duerinckx (amplified bs, sss) mit Reshma Goolamy (b), Romain Martini (git), Didié Nietzsche (sounds), Joaquin Bermudez (amplified saz), Stephane Fedele (dr) und Lukas Melville Bouchenot (dr) eine außergewöhnliche Auswahl an „occultural engineers“ mit nach Moers. Das Tor zum Bewusstsein öffnet sich durch die Verwendung spekulativer Texte, obskurer Sprache und das Experimentieren mit klanglichen Botenstoffen.",
+        "artists": ["Romain Martini (g)", "Guillaume Cazalet (bariton guitar, sitar, voc)", "Jean-Jacques Duerinckx (amplified bs, sss)", "Reshma Goolamy (b)", "Didié Nietzsche (sounds)", "Joaquin Bermudez (amplified saz)", "Stephane Fedele (dr)", "Lukas Melville Bouchenot (dr)"]
     },
     {
         "id": 2023091,

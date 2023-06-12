@@ -224,7 +224,7 @@ export default {
                         filterFn: (data, filterString) => {
                             console.log("Searching for instrument in ", data);
                             return data.some(i => {
-                                const localizedInstrument = this.$t(`instruments.${i}`);
+                                const localizedInstrument = this.$t(`instruments["${i}"]`);
                                 return localizedInstrument.includes(filterString);
                             });
                         }

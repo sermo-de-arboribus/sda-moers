@@ -282,7 +282,8 @@ function getServiceName(serviceKey) {
         case "discogs": return "Discogs";
         case "homepage": return "Homepage";
         case "jazzsession": return "The Jazz Session";
-        case "radiohoerer": return "Radiohörer @ Friends of Alan";
+        case "linkedin": return "LinkedIn";
+        case "radiohoerer": return "Radiohörer";
         case "soundcloud": return "Soundcloud";
         case "twitter": return "Twitter";
         case "wikipedia": return "Wikipedia";

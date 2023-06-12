@@ -1515,7 +1515,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jamaaladeen Tacuma - b"
+                "Jamaaladeen Tacuma (el-b)"
             ],
             "collection": "festival21",
             "attendance_mode": "online"
@@ -1529,7 +1529,7 @@
         "deleted_at": null,
         "collection": "festival21",
         "artists": [
-            "Jamaaladeen Tacuma - b"
+            "Jamaaladeen Tacuma (el-b)"
         ],
         "place": {
             "id": 9,
@@ -1840,7 +1840,7 @@
                 "Stefan Gavrilovi\u0107- vc",
                 "Mladen Arsenovi\u0107- vc",
                 "Tamara Rankovi\u0107- vc",
-                "Stevan Jovanovi\u0107 - bs"
+                "Stevan Jovanovi\u0107 - cb"
             ],
             "collection": "festival21",
             "attendance_mode": "online"
@@ -1876,7 +1876,7 @@
             "Stefan Gavrilovi\u0107- vc",
             "Mladen Arsenovi\u0107- vc",
             "Tamara Rankovi\u0107- vc",
-            "Stevan Jovanovi\u0107 - bs"
+            "Stevan Jovanovi\u0107 - cb"
         ],
         "place": {
             "id": 1,

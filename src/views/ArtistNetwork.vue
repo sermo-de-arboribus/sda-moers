@@ -13,7 +13,7 @@
             <div class="col-3 sideInfo">
                 <h2>{{$t("artistsNetwork.selectedArtist")}}</h2>
                 <h3>{{ centeredArtist.firstname }} {{ centeredArtist.surname }}</h3>
-                <p>{{$t("artistsTable.instruments")}}: {{ centeredArtist.instruments.join(", ") }}</p>
+                <p>{{$t("artistsTable.instruments")}}: {{ centeredArtist.instruments.map(i => this.$t(`instruments.${i}`)).join(", ") }}</p>
                 <h4>{{$t("artistsTable.concerts")}}</h4>
                 <ul>
                     <li v-for="cd in centeredArtist.concerts" :key="cd.id">
