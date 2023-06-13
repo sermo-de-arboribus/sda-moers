@@ -509,6 +509,7 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2392884-Gerhard-Aflenzer"}],
             "homepage": [{"type": "band", "url": "https://broadwaybigband.at/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/gerhard_aflenzer/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/broadwaybigband"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCi4KenDOC8Er7k45A4nMnlA"}]
         }
@@ -523,6 +524,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mervyn-africa-mn0002286254"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/543926-Mervyn-Africa"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/mervynafrica/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mervynafrica"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/MervynAfrica"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mervyn_Africa"}]}],
@@ -533,6 +535,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cathi-aglibut-mn0001841260"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/869958-Cathi-Aglibut"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/cathiaglibut/"}],
             "wikipedia": [{"tpye": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Die_Kn%C3%B6del"}]}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UC5QeW0ww7yF0bc0ro4JWJGg"}]
         }
@@ -543,7 +546,8 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sophie-agnel-mn0001312692"}],
             "bandcamp": [{"type": "album", "url": "https://confrontrecordings.bandcamp.com/album/isotopic"}, {"type": "album", "url": "https://anothertimbre.bandcamp.com/album/tasting"}, {"type": "album", "url": "https://davidchiesa.bandcamp.com/album/soda"}, {"type": "album", "url": "https://anothertimbre.bandcamp.com/album/spiral-inputs"}, {"type": "album", "url": "https://lionelmarchetti.bandcamp.com/album/rouge-gris-bruit-2001-improvised-music-studio"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/214096-Sophie-Agnel"}],
-            "homepage": [{"type": "personal", "url": "https://www.sophieagnel.com/"}],
+            "homepage": [{"type": "personal", "url": "https://www.sophieagnel.net/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/sophie.agnel/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Sophie%20Agnel%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/sophieagnel-music"}, {"type": "agency", "url": "https://soundcloud.com/user-734930978"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/SophieAgnel"}],
@@ -555,6 +559,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/aristide-agondanou-mn0003834698"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2762733-Aristide-Agondanou"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/explore/tags/aristideagondanou/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC0pD7XFQ3QeagmgNK07svuQ"}]
         }
     },
@@ -577,6 +582,7 @@
             "bandcamp": [{"type": "personal", "url": "https://morganagren.bandcamp.com/"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/the-music-or-the-money-2"}, {"type": "album", "url": "https://cuneiformrecords.bandcamp.com/album/mats-morgan-band-live"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/343917-Morgan-%C3%85gren"}],
             "homepage": [{"type": "personal", "url": "www.morganagren.com"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/morganagren/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Morgan%20%C3%85gren%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/morganagren"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Morgan_%C3%85gren"}]}],
@@ -643,6 +649,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sabine-ahrendt-mn0001321486"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3414669-Sabine-Ahrendt"}],
             "homepage": [{"type": "personal", "url": "https://sabineakiko.net/"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/sabineakikoahrendt/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Akiko%20Ahrendt%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sabine-akiko"}]
         }
@@ -662,6 +669,7 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1051851-Raimund-Aichinger"}],
             "homepage": [{"type": "personal", "url": "https://www.raimundaichinger.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/damekelleyy/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/troms-4"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/raimundaichinger"}]
         }
@@ -700,6 +708,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/akin-ajayi-mn0001278983"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1268014-Akin-Ajayi"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/akin_ajayimusicworldwide/"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/akin-ajayi-2"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCIAHS1kxrmkArUpmhHOzrcQ"}]
         }
@@ -742,6 +751,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mehmet-akatay-mn0001367528"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1022604-Mehmet-Akatay"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/mehmetakatayofficial/"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/mehmetakatay"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/rakatay"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCspPTu8mSNIJIEqpbYo2PPw"}]
@@ -750,7 +760,8 @@
     "JonasÅkerblom": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jonas-%C3kerblom-mn0001625517"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/621679-Jonas-%C3%85kerblom"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/621679-Jonas-%C3%85kerblom"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/akerblom.jonas/"}]
         }
     },
     "MasamiAkita": {
@@ -760,6 +771,7 @@
             "bandcamp": [{"type": "personal", "url": "https://masamiakita.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/58248-Masami-Akita"}, {"type": "personal", "url": "https://www.discogs.com/artist/12551-Merzbow"}],
             "homepage": [{"type": "personal", "url": "http://merzbow.net/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/official_merzbow/"}],
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Merzbow%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/merzbow"}, {"type": "agency", "url": "https://soundcloud.com/masamiakita"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/MerzbowOfficial"}],
@@ -798,6 +810,7 @@
             "bandcamp": [{"type": "personal", "url": "https://pheeroanaklaff.bandcamp.com/releases"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/282988-Pheeroan-Aklaff"}],
             "homepage": [{"type": "personal", "url": "https://www.pheeroanaklaff.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/paklaff/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Pheeroan%20AkLaff%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/pheeroan-aklaff"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/soundcookie"}],
@@ -815,6 +828,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sayan-aqmoldaev-mn0001350824/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5809561-%D0%A1%D0%B0%D1%8F%D0%BD-%D0%90%D2%9B%D0%BC%D0%BE%D0%BB%D0%B4%D0%B0"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/sayan_akmolda/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sayan-akmolda"}],
             "youtube": [{"type": "search", "url": "https://www.youtube.com/results?search_query=%D0%A1%D0%B0%D1%8F%D0%BD+%D0%90%D2%9B%D0%BC%D0%BE%D0%BB%D0%B4%D0%B0"}]
         },
@@ -829,7 +843,8 @@
     "DavidAknin": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-aknin-mn0002591623"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/774256-David-Aknin"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/774256-David-Aknin"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/thedavidaknin/"}]
         }
     },
     "Sunday JohnAkpan": {
@@ -840,7 +855,8 @@
     },
     "GürayAktalay": {
         "links": {
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6945412-G%C3%BCray-Aktalay"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/6945412-G%C3%BCray-Aktalay"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/g%C3%BCrayaktalay/"}]
         }
     },
     "OktayAktürk": {
@@ -874,6 +890,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/yonatan-albalak-mn0003736556"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1486336-Yonatan-Albalak"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/albi.albatros/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/albalak1"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/albalak"}]
         }
@@ -882,6 +899,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/robby-alberga-mn0001777524"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1632392-Robby-Alberga"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/robbyalberga/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-344411447"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/RobbyAlberga"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/krokobaldo"}]
@@ -897,6 +915,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/timalbright"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tim-albright-mn0000939800"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/821141-Tim-Albright"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/timalbrighttrombone/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Tim%20Albright%22"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UChniGldyFxBzbjE4uvheJZA"}]
         }
@@ -913,7 +932,11 @@
     },
     "RafaelAlcala": {
         "links": {
-            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rafael-alcala-mn0002509568"}]
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rafael-alcala-mn0002509568"}],
+            "homepage": [{"type": "personal", "url": "https://rafaelalcala.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/rafael.alcala.music/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/rafael_jazz"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@rafaelalcala1184"}]
         }
     },
     "SteveAlcott": {
@@ -929,6 +952,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mats-%C3leklint-mn0002321281"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/1847831-Mats-%C3%84leklint"}],
             "homepage": [{"type": "personal", "url": "http://www.matsaleklint.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/aleklint/"}],
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Mats%20%C3%84leklint%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/aleklint"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/matsaleklint"}],
@@ -943,6 +967,7 @@
             "bandcamp": [{"type": "album", "url": "https://rkmmusiccom.bandcamp.com/album/this-against-that"}, {"type": "album", "url": "https://wejazzrecords.bandcamp.com/album/with-ralph-alessi"}, {"type": "album", "url": "https://rkmmusiccom.bandcamp.com/album/vice-virtue"}, {"type": "album", "url": "https://ferdinandoromano.bandcamp.com/album/totem-feat-ralph-alessi"}, {"type": "album", "url": "https://alexkoo.bandcamp.com/album/appleblueseagreen"}, {"type": "album", "url": "https://babel-label.bandcamp.com/album/sugar-blade"}, {"type": "album", "url": "https://cloudmakers-trio.bandcamp.com/album/live-at-the-pizza-express-with-ralph-alessi"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/316510-Ralph-Alessi"}],
             "homepage": [{"type": "personal", "url": "http://www.ralphalessi.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/ralphalessi/"}],
             "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2013/10/15/the-jazz-session-424-ralph-alessi/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Ralph%20Alessi%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ralph-alessi-504557324"}, {"type": "agency", "url": "https://soundcloud.com/ralph-alessi"}],
@@ -957,6 +982,7 @@
             "bandcamp": [{"type": "personal", "url": "https://janalexander.bandcamp.com"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/8568702-Jan-Alexander-5"}],
             "homepage": [{"type": "personal", "url": "https://www.jan-alexander.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/j_alexander_keys/"}, {"type": "band", "url": "https://www.instagram.com/grebe_music/"}, {"type": "band", "url": "https://www.instagram.com/roneeband/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/janalexander"}]
         }
     },
@@ -1106,6 +1132,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/michelalibo"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michel-alibo-mn0000132641"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/190453-Michel-Alibo"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/godzibass972/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Michel%20Alibo%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/michel-alibo"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Michel_Alibo"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Michel_Alibo"}]}],
@@ -1127,6 +1154,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sasa-alisanovic-mn0001423151"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/932035-Saša-Ališanović"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/sasaalisanovic/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/sasabas1968god"}]
         }
     },
@@ -1134,6 +1162,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/thomas-alkier-mn0000595702"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/319517-Thomas-Alkier"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/thomasalkier/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Thomas%20Alkier%22"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Thomas_Alkier"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Thomas_Alkier"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCNCERw6LSbjIZ3BoErPHreA"}]
@@ -1145,6 +1174,7 @@
             "bandcamp": [{"type": "album", "url": "https://altvinyl.bandcamp.com/album/mensch-mensch-mensch"}, {"type": "album", "url": "https://nivuniconnu.bandcamp.com/album/frost"}, {"type": "album", "url": "https://zarekberlin.bandcamp.com/album/salz"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/447845-Liz-Allbee"}],
             "homepage": [{"type": "personal", "url": "http://lizallbee.net/"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/lizallbee/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Liz%20Allbee%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/liz-allbee"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Liz_Allbee"}]}],
@@ -1157,6 +1187,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/eddie-allen-mn0000168880"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/282197-Eddie-Allen"}],
             "homepage": [{"type": "personal", "url": "http://eddieallen.net/"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/eddieallentrumpet/"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/EddieAllenJazz"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Eddie_Allen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Eddie_Allen_(jazz_musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Eddie_Allen"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Eddie_Allen"}]}]
         }
@@ -1168,6 +1199,7 @@
             "bandcamp": [{"type": "personal", "url": "https://geriallen.bandcamp.com/"}, {"type": "album", "url": "https://storyvillerecords.bandcamp.com/album/some-aspects-of-water"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/289790-Geri-Allen"}],
             "homepage": [{"type": "personal", "url": "https://geriallen.com/"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/geriallen/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Geri%20Allen%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/geri-allen-official"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/GeriAllenMusic"}],
@@ -1180,6 +1212,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/MarshallAllen"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marshall-allen-mn0000299353"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/252033-Marshall-Allen"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/marshallallensunraarkestra/"}],
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/musiktipps/nach-hoeren/?s=%22Marshall+Allen%22"}]
         }
     },
@@ -1194,6 +1227,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/simonallen"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/simon-allen-mn0001063703"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/513864-Simon-Allen"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/simonallensaxophone/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/simonssaxophone"}]
         }
     },
@@ -1204,6 +1238,7 @@
             "bandcamp": [{"type": "personal", "url": "https://tonyallen.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/9786-Tony-Allen"}],
             "homepage": [{"type": "personal", "url": "http://tonyallenafrobeat.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/allencodrum/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Tony%20Allen%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/tonyallenofficial"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Tony_Allen_(Schlagzeuger)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Tony_Allen_(musician)"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Tony_Allen"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Tony_Allen"}]}],
@@ -1216,6 +1251,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ben-allison-mn0000154091"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/327519-Ben-Allison"}],
             "homepage": [{"type": "search", "url": "https://benallison.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/benallisonmusic/"}],
             "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2011/03/24/the-jazz-session-251-ben-allison/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Ben%20Allison%22"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/benallisonmusic"}],
@@ -1262,6 +1298,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/mishaalperin"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/misha-alperin-mn0000897758"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/315640-Mikhail-Alperin"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/mishaalperin/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Misha%20Alperin%22"}, {"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Mikhail%20Alperin%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/mikhail-alperin"}, {"type": "agency", "url": "https://soundcloud.com/misha-alperin-official"}, {"type": "agency", "url": "https://soundcloud.com/misha-alperin"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Michail_Alperin"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Mikhail_Alperin"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Misha_Alperin"}]}],
@@ -1271,7 +1308,8 @@
     "Nia BeyAl-Rasul": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nia-bey-al-rasul-mn0001425566"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2181900-Nia-Bey-Al-Rasul"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2181900-Nia-Bey-Al-Rasul"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/niabeyalrasul/"}]
         }
     },
     "DennisAlston": {
@@ -1299,6 +1337,7 @@
             "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/live-performances"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/319388-Maarten-Altena"}],
             "homepage": [{"type": "personal", "url": "http://www.altena.nl/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/maartenvanregterenaltena/"}, {"type": "personal", "url": "https://www.instagram.com/maartenvanregterenaltena/"}],
             "radiohoerer": [{"type": "search", "url":"https://radiohoerer.info/?category_name=nach-hoeren&s=%22Maarten%20Altena%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/maartenaltenaofficial"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Maarten_Altena"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Maarten_Altena"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Maarten_Altena"}]}],
@@ -1329,16 +1368,13 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/barry-altschul-mn0000140067"}],
             "bandcamp": [{"type": "album", "url": "https://samrivers.bandcamp.com/album/reunion-live-in-new-york"}, {"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/news-no-news"}, {"type": "album", "url": "https://gebhardullmann.bandcamp.com/album/desert-songs-and-other-landscapes"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/260591-Barry-Altschul"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/maartenvanregterenaltena/"}],
             "jazzsession": [{"type": "interview", "url": "https://www.thejazzsession.com/2012/01/16/the-jazz-session-338-barry-altschul/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Barry%20Altschul%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/barry-altschul"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/AltschulBarry"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Barry_Altschul"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Barry_Altschul"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Barry_Altschul"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Barry_Altschul"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCq1iAL6p94bIhdrb6bXHXlg"}]
-        }
-    },
-    "Abdel Latifal-Ubaydi": {
-        "links": {
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3486175-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF%D9%8A"}]
         }
     },
     "PauloAlvares": {
@@ -1362,8 +1398,8 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gui-amabis-mn0002057115"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/925080-Gui-Amabis"}],
             "homepage": [{"type": "personal", "url": "http://guiamabis.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/guiamabis/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/guiamabis"}],
-            "twitter": [{"type": "personal", "url": "https://twitter.com/AmabisGui"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/guiamabisoficial"}]
         }
     },
@@ -1373,6 +1409,7 @@
             "bandcamp": [{"type": "personal", "url": "https://miguelamado.bandcamp.com"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1763325-Miguel-Amado"}],
             "homepage": [{"type": "personal", "url": "http://www.miguelamado.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/miguelamadobass/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Miguel%20Amado%22"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/lxjazz"}]
         }
@@ -1390,6 +1427,7 @@
             "bandcamp": [{"type": "personal", "url": "https://orenambarchi.bandcamp.com/"}, {"type": "personal", "url": "https://orenambarchiemego.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/549-Oren-Ambarchi"}],
             "homepage": [{"type": "personal", "url": "https://orenambarchi.com/"}],
+            "instagram": [{"type": "label", "url": "https://www.instagram.com/black_truffle_panna_cotta/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Oren%20Ambarchi%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/orenambarchi"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/orenambarchi"}],
@@ -1429,6 +1467,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sam-amidon-mn0000621340"}],
             "bandcamp": [{"type": "personal", "url": "https://samamidon.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/891506-Sam-Amidon"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/samamidon/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Sam%20Amidon%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/sam-amidon-official"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/samamidon"}]
@@ -1452,6 +1491,8 @@
         "links": {
             "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-nicolai-amrehn"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3334711-Nicolai-Amrehn"}],
+            "homepage": [{"type": "personal", "url": "https://www.nicolai-amrehn.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/nicolaiamrehn/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/nicolaiamrehn"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/nicolai_amrehn"}],
             "wikipedia": [{"ype": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Nicolai_Amrehn"}]}],
@@ -1497,6 +1538,7 @@
             "bandcamp": [{"type": "band", "url": "https://jonasogarild.bandcamp.com/"}, {"type": "album", "url": "https://confrontrecordings.bandcamp.com/album/tales-of-hackney"}, {"type": "album", "url": "https://storyvillerecords.bandcamp.com/album/under-the-rainbow"}, {"type": "album", "url": "https://storyvillerecords.bandcamp.com/album/space-is-the-place"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/268963-Arild-Andersen"}],
             "homepage": [{"type": "personal", "url": "http://www.arildandersen.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/aa.bass/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Arild%20Andersen%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/arild-andersen"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Arild_Andersen"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Arild_Andersen"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Arild_Andersen"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Arild_Andersen"}]}],
@@ -1510,6 +1552,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ingimar-andersen-mn0002575589"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5311747-Ingimar-Andersen"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/vatnshaus/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ingimar-andersen"}]
         }
     },
@@ -1552,6 +1595,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/reidanderson"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/reid-anderson-mn0000460713"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/303941-Reid-Anderson"}],
+            "instagram": [{"type": "band", "url": "https://www.instagram.com/thebadplus/"}],
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?s=%22Reid%20Anderson%22&category_name=nach-hoeren"}],
             "twitter": [{"type": "band", "url": "https://twitter.com/Thebadplus"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Reid_Anderson_(Musiker)"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Reid_Anderson"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Reid_Anderson"}]}],
@@ -7081,6 +7125,11 @@
             "homepage": [{"type": "personal", "url": "https://www.cecileondesmartenot.com/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/cecilelartigau"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/clartigau_ondes"}]
+        }
+    },
+    "Abdel Latifal-Ubaydi": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3486175-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF%D9%8A"}]
         }
     },
     "IngridLaubrock": {
