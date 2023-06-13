@@ -1613,6 +1613,8 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/paulinho-andrade-mn0001359334"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4131331-Paulinho-Andrade"}],
+            "homepage": [{"type": "personal", "url": "http://paulinhoandrade.com.br/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/paulinho_andrade_sax/"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/paulinho-andrade"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/paulinhoandrad"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/7pasax"}]
@@ -1623,6 +1625,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/antonis-andreou-mn0002404440"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2134130-%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82-%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%BF%CF%85"}],
             "homepage": [{"type": "personal", "url": "https://myspace.com/adonisandreou"}, {"type": "band", "url": "http://pinkmartini.com/member/antonis-andreou-trombone/"}, {"type": "interview", "url": "http://pinkmartini.com/meet-pink-martini-trombonist-antonis-andreou/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/antonisandreou/"}],
             "youtube": [{"type": "search", "url": "https://www.youtube.com/results?search_query=Antonis+Andreou"}]
         },
         "notes": {
@@ -1654,8 +1657,9 @@
     "NiaAndrews": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/nia-andrews-mn0002375593"}],
-            "bandcamp": [{"type": "personal", "url": "https://niaandrews.bandcamp.com/"}],
+            "bandcamp": [{"type": "personal", "url": "https://niaandrews.bandcamp.com/"}, {"type": "album", "url": "https://worldgalaxyrecords.bandcamp.com/album/no-place-is-safe"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1573879-Nia-Andrews"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/niaandrews/"}],
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?s=%22Nia%20Andrews%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/niaandrews"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/niaandrews"}],
@@ -1667,13 +1671,16 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/maxandrzejewski"}],
             "bandcamp": [{ "type": "personal", "url": "https://maxandrzejewski.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2988944-Max-Andrzejewski"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/max_andrzejewski/"}],
             "twitter": [{ "type": "personal", "url": "https://twitter.com/AndrzejewskiMax"}]
         }
     },
     "YannisAnft": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/yannisanft"}],
+            "bandcamp": [{"type": "band", "url": "https://delusionalmind1.bandcamp.com"}],
             "discogs": [{"type": "personal", "url": "!https://www.discogs.com/de/artist/7464286-Yannis-Anft"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/yyard_music/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Yannis%20Anft%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/yannis-anft-333486322"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Yannis_Anft"}]}]
@@ -1691,7 +1698,8 @@
     "NanniAngeli": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/2236944-Nanni-Angeli"}],
-            "homepage": [{"type": "personal", "url": "http://www.nanniangeli.it"}]
+            "homepage": [{"type": "personal", "url": "http://www.nanniangeli.it"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/nanniangelifotografo/"}]
         }
     },
     "PaoloAngeli": {
@@ -1701,6 +1709,7 @@
             "bandcamp": [{"type": "personal", "url": "https://angelimanucheproductions.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/516009-Paolo-Angeli"}],
             "homepage": [{"type": "personal", "url": "http://www.paoloangeli.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/paoloangeliofficial/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?s=%22Paolo%20Angeli%22&category_name=nach-hoeren"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/angeli-productions"}, {"type": "agency", "url": "https://soundcloud.com/paoloangeli"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/paoloangeli"}],
@@ -1709,7 +1718,8 @@
     },
     "BrunoAngeloni": {
         "links": {
-            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2714176-Bruno-Angeloni"}]
+            "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2714176-Bruno-Angeloni"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC7yowHFUtchsOOJBYzFgRDg"}]
         }
     },
     "StefanAngelov": {
@@ -2419,6 +2429,28 @@
     "AyankojoAyanwola": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://www.facebook.com/ayanwola.ayankojo.7/"}]
+        }
+    },
+    "CamaeAyewa": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/camae-ayewa"}],
+            "allmusic": [{"type": "band", "url": "https://www.allmusic.com/artist/moor-mother-mn0003539795"}, {"type": "personal", "url": "https://www.allmusic.com/artist/camae-ayewa-mn0003711968"}],
+            "bandcamp": [{"type": "personal", "url": "https://moormother.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7658913-Camae-Ayewa"}],
+            "homepage": [{"type": "personal", "url": "https://moormother.net"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/moormother/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Camae%20Ayewa%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/moor-goddess"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/moormother"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Moor_Mother"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Moor_Mother"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Moor_Mother"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@moormotherofficial/"}]
+        },
+        "notes": {
+            "cs": "Umělecké jméno: Moor Mother",
+            "de": "Künstlername: Moor Mother",
+            "en": "Artist's name: Moor Mother",
+            "fr": "Pseudonyme: Moor Mother",
+            "zh": "艺名: Moor Mother"
         }
     },
     "AminaAziz": {
@@ -5088,6 +5120,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/siri-gj%C3%A6re-mn0001428520"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/838476-Siri-Gj%C3%A6re"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/sirydjari/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/tr-nderh-ns"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Siri_Gj%C3%A6re"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCya-0KNWx97aaHYFdyo5UNA"}]
@@ -7331,6 +7364,14 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/marklockett"}]
         }
     },
+    "IngridLode": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1775772-Ingrid-Lode"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/ingringering/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ingridlode"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@ingridlodemusic"}]
+        }
+    },
     "DanielLoick": {
         "links": {
             "homepage": [{"type": "personal", "url": "https://danielloick.net/"}],
@@ -9099,6 +9140,14 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCjtGIGYHbWoF6FOweNjh_6A"}]
         }
     },
+    "VirginiaQuesada": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/virginia-quesada-mn0002333277"}],
+            "bandcamp": [{"type": "album", "url": "https://nativemusicrecordings.bandcamp.com/album/porque-eres-latino"}, {"type": "album", "url": "https://tr-records.bandcamp.com/album/peppe-citarella-andr-s-rom-n-starring-virginia-quesada-quimbara-incl-franke-estevez-gigi-testa-felix-combo-joe-doppio-and-emanuele-esposito-remixes"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2892438-Virginia-Quesada"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCiiY4AQr4aMsr55EjOINf4g"}]
+        }
+    },
     "Judicael VahiniryRabaroelina": {
         "canonicalName": {
             "firstname": "Judicaël Vahiniry",
@@ -9497,6 +9546,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/torunn-sævik-mn0002604160"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1208489-Torunn-S%C3%A6vik"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/torunnsaevik/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Torunn%20S%C3%A6vik%22"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/trondheim-voices"}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCxmibO8B3lF_sKFbv8V8yxQ"}]
