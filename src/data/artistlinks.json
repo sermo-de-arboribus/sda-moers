@@ -2102,7 +2102,7 @@
     "BashirAssadi": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bashir-asadi-mn0001058887"}],
-            "homepage": [{"type": "personal", "url": "https://www.instagram.com/bashir.asadi/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/bashir.asadi/"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/watch?v=a9-TGvqVJXg"}]
         }
     },
@@ -3678,7 +3678,8 @@
     "ChristopheCostabel": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/847943-Christophe-Costabel"}],
-            "homepage": [{"type": "agency", "url": "https://blog.scottomusique.com/annuaire/2134/christophe-costabel/"}, {"type": "personal", "url": "https://www.instagram.com/christophecostabel/"}],
+            "homepage": [{"type": "agency", "url": "https://blog.scottomusique.com/annuaire/2134/christophe-costabel/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/christophecostabel/"}],
             "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/christophe-costabel-5623a6115/"}]
         }
     },
@@ -5573,6 +5574,15 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/alexanderhawkins"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/hawkinsmusic"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Alexander_Hawkins"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Alexander_Hawkins"}]}]
+        }
+    },
+    "Kari EskildHavenstrøm": {
+        "links": {
+            "bandcamp": [{"type": "album", "url": "https://eldabirmingham.bandcamp.com/album/shiny-things"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4488864-Kari-Eskild-Havenstr%C3%B8m"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kari-eskild-havenstr-m"}],
+            "twitter": [{"type": "personal", "url":" https://twitter.com/kari_eskild"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/@trondheimvoices6207"}]
         }
     },
     "BassemHawar": {
@@ -8884,7 +8894,8 @@
     },
     "TeresėPletkutė": {
         "links": {
-            "homepage": [{"type": "personal", "url": "https://www.instagram.com/terese_pletkute/"}, {"type": "agency", "url": "http://www.musikschule-saarn.de/terese-pletkute.html"}, {"type": "agency", "url": "https://www.musicbox-oxana.de/node/306"}]
+            "homepage": [{"type": "agency", "url": "http://www.musikschule-saarn.de/terese-pletkute.html"}, {"type": "agency", "url": "https://www.musicbox-oxana.de/node/306"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/terese_pletkute/"}]
         }
     },
     "CarolinPook": {
