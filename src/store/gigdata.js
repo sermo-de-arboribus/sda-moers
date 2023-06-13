@@ -264,6 +264,7 @@ function getLogoUrl(serviceKey) {
         case "allmusic": return "/allmusic-logo.png";
         case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
         case "discogs": return "/discogs-logo.png";
+        case "instagram": return "/instagram.jpg";
         case "jazzsession": return "/tjs-squarelogo.jpg";
         case "linkedin": return "/In-Blue-34.png";
         case "radiohoerer": return "/radio-icon.png";
@@ -281,6 +282,7 @@ function getServiceName(serviceKey) {
         case "bandcamp": return "Bandcamp";
         case "discogs": return "Discogs";
         case "homepage": return "Homepage";
+        case "instagram": return "Instagram";
         case "jazzsession": return "The Jazz Session";
         case "linkedin": return "LinkedIn";
         case "radiohoerer": return "Radiohörer";

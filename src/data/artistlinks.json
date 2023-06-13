@@ -48,6 +48,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/tapio-mongo-aaltonen-mn0002299993"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/332615-Mongo-Aaltonen"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/mongoaaltonen/"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCI6iqiCiZeZZCQaNuTke5-A"}]
         },
         "notes": {
@@ -74,6 +75,7 @@
             "bandcamp": [{"type": "personal", "url": "https://eivindaarset.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/32272-Eivind-Aarset"}],
             "homepage": [{"type": "personal", "url": "https://eivindaarset.com"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/eivindaarset/"}],
             "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Eivind%20Aarset%22"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/eivind-aarset"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/EivindAarset"}],
@@ -128,6 +130,7 @@
             "bandcamp": [{"type": "album", "url": "https://silkheart.bandcamp.com/album/liquid-magic"}, {"type": "album", "url": "https://nobusinessrecords.bandcamp.com/album/live"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/269222-Ahmed-Abdullah"}],
             "homepage": [{"type": "personal", "url": "https://www.ahmedian.com/"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/ahmedabdullahtrumpet/"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ahmed_Abdullah"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ahmed_Abdullah"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Ahmed_Abdullah"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ahmed_Abdullah"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCl2hPr4lp5lkulBVGuw_SVQ"}]
         },
@@ -148,8 +151,10 @@
     "MariéAbe": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/marie-abe-mn0002613686"}],
+            "bandcamp": [{"type": "band", "url": "https://japonizeelephants.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3058283-Mari%C3%A9-Abe"}],
             "homepage": [{"type": "band", "url": "http://thejaponizeelephants.com/marie-abe"}, {"type": "agency", "url": "http://www.bu.edu/musicology/faculty/marie-abe"}],
+            "instagram": [{"type": "band", "url": "https://www.instagram.com/japonizeelephants/"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCmJh0pFEH4JxYOFXztt93Ig"}]
         }
     },
@@ -158,6 +163,7 @@
             "allaboutjazz": [{"type": "search", "url": "https://www.allaboutjazz.com/tag-mesay-abebaye"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mesay-abebaye-mn0003419477"}],
             "homepage": [{"type": "band", "url": "https://fendika.org/fendika-stories/2020/5/27/mesay"}],
+            "instagram": [{"type": "band", "url": "https://www.instagram.com/fendikaculturalcenter/"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/AbebayeMesay"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC9SCPXQC6HyRydj1HjcJvGQ"}, {"type": "personal", "url": "https://www.youtube.com/channel/UC_GXO3n7zM71GERwWdFGf2w"}]
         }
@@ -169,6 +175,7 @@
         "links": {
             "allmusic": [{"type":"personal", "url": "https://www.allmusic.com/artist/queen-salawa-abeni-mn0001010176"}, {"type": "personal", "url": "https://www.allmusic.com/artist/queen-salawa-abeni-mn0001789936"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3957199-Queen-Salawa-Abeni"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/officialsalawaabeni/"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/alhajaqueensalawaabeni"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Salawa_Abeni"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCWzm0JdVQTsBto-Gvgs10qw"}]
@@ -188,6 +195,7 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/lennart-%C3berg-mn0000238338"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/277541-Lennart-%C3%85berg"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/lennart%C3%A5berg/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Lennart%20%C3%85berg%22"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/lennartaberg4"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Lennart_%C3%85berg"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Lennart_%C3%85berg"}]}],
@@ -196,7 +204,8 @@
     },
     "YasuhikoAbeta": {
         "links": {
-            "homepage": [{"type": "band", "url": "http://shibusa.net/sche2/sche30.cgi?cm=1"}]
+            "homepage": [{"type": "band", "url": "http://shibusa.net/sche2/sche30.cgi?cm=1"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/abeta_yasuhiko/"}]
         }
     },
     "EbenezerAbiodun": {
@@ -223,6 +232,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/sophie-abraham-mn0002992752"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/3592310-Sophie-Abraham"}],
             "homepage": [{"type": "personal", "url": "http://sophie-abraham.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/sophieabrahammusic/"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UC9ePpCkatqMhJqdpEliQEgw"}]
         }
     },
@@ -242,6 +252,7 @@
             "bandcamp": [{"type": "agency", "url": "https://muhalrichardabrams.bandcamp.com/"}, {"type": "album", "url": "https://karlrecords.bandcamp.com/album/celestial-birds"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/295402-Muhal-Richard-Abrams"}],
             "homepage": [{"type": "personal", "url": "http://www.muhalrichardabrams.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/groove.mu/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Muhal%20Richard%20Abrams%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/muhal-richard-abrams"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/groovemu"}],
@@ -285,6 +296,7 @@
         "links": {
             "bandcamp": [{ "type": "band", "url": "https://thenotwist.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/31168-Micha-Acher"}, { "type": "band", "url": "https://www.discogs.com/artist/616-The-Notwist" } ],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/michaacher/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Micha%20Acher%22"}]
         }
     },
@@ -296,6 +308,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/be%C3%B1at-achiary-mn0000141581"}],
             "bandcamp": [{"type": "album", "url": "https://destination-out.bandcamp.com/album/the-seven-circles-dedicated-to-peter-kowald"}, {"type": "album", "url": "https://33revpermi.bandcamp.com/album/etage-34-be-at-achiary"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/894194-Be%C3%B1at-Achiary"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/be%C3%B1atachiary/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Be%C3%B1at%20Achiary%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/benatachiary"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Be%C3%B1at_Achiary"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Be%C3%B1at_Achiary"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Be%C3%B1at_Achiary"}]}],
@@ -309,6 +322,7 @@
             "bandcamp": [{"type": "personal", "url": "https://idrisackamoor.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/857508-Idris-Ackamoor"}],
             "homepage": [{"type": "band", "url": "http://www.culturalodyssey.org/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/idrisackamoor/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Idris%20Ackamoor%22"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/drisckamoor"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Idris_Ackamoor"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Idris_Ackamoor"}]}]
@@ -328,6 +342,7 @@
             "bandcamp": [{"type": "album", "url": "https://relativepitchrecords.bandcamp.com/album/unexpected-twins"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/249689-Bruce-Ackley"}],
             "homepage": [{"type": "band", "url": "https://www.rova.org/about-us/bruce-ackley.html"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/bruceackley/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Bruce%20Ackley%22"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Rova_Saxophone_Quartet"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Rova_Saxophone_Quartet"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Rova_Saxophone_Quartet"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Rova_Saxophone_Quartet"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzId0ZewxzoE6CDccGd-4eA"}]
@@ -342,7 +357,8 @@
     "DanAdams": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dan-adams-mn0000589754"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/852986-Dan-Adams"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/852986-Dan-Adams"}],
+            "instagram": [{"type": "band", "url": "https://www.instagram.com/oxbow_the_band/"}]
         }
     },
     "GeorgeAdams": {
@@ -363,6 +379,7 @@
             "bandcamp": [{"type": "personal", "url": "https://steveadams.bandcamp.com/"}, {"type": "band", "url": "https://hanesadams.bandcamp.com/"}, {"type": "album", "url": "https://artifactrecordings.bandcamp.com/album/a-few-eccentricities-art-3002-2017"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/466100-Steve-Adams"}],
             "homepage": [{"type": "personal", "url": "http://saxsteveadams.com/"}],
+            "instagram": [{"type": "band", "url": "https://www.instagram.com/rovaarts/"}],
             "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Steve%20Adams%22"}],
             "twitter": [{"type": "band", "url": "https://twitter.com/RovaSax"}]
         }
@@ -371,6 +388,7 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1670822-%D0%90%D0%BD%D1%82%D0%BE%D0%BD-%D0%90%D0%B4%D0%B0%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9"}],
             "homepage": [{"type": "personal", "url": "https://school.adasinsky.org/"}, {"type": "band", "url": "http://www.derevo.org/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/anton_adasinskiy/"}],
             "soundcloud": [{"type": "interview", "url": "https://soundcloud.com/malinatv/adasinsky_derevo"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Anton_Alexandrowitsch_Adassinski"}]}],
             "youtube": [{"type": "band", "url": "https://www.youtube.com/user/DEREVOcompany"}]
@@ -390,6 +408,7 @@
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/kingsunnyade"}],
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/king-sunny-ade-mn0000771297"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/83811-King-Sunny-Ade"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/iamkingsunnyade/"}],
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/kingsunnyade"}],
             "twitter": [{"type": "personal", "url": "https://twitter.com/king_sunnyade"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/King_Sunny_Ad%C3%A9"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/King_Sunny_Ad%C3%A9"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/King_Sunny_Ad%C3%A9"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/King_Sunny_Ad%C3%A9"}]}],
@@ -405,7 +424,8 @@
     },
     "RasakAdegoke": {
         "links": {
-            "homepage": [{"type": "personal", "url": "https://www.facebook.com/alhajirasak.adegoke"}]
+            "homepage": [{"type": "personal", "url": "https://www.facebook.com/alhajirasak.adegoke"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/alhajirasakadegoke/"}]
         }
     },
     "MichaelAdekoya": {
@@ -439,7 +459,8 @@
     "OyinadeAdeniran": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oyinade-adeniran-mn0001263885"}],
-            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/365857-Oyinade-Adeniran"}]
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/365857-Oyinade-Adeniran"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/oyinadeadeniran/"}]
         }
     },
     "IyaboAdenirian": {
@@ -456,6 +477,7 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/joana-m-aderi-mn0003396972"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/864604-Joana-Aderi"}],
             "homepage": [{"type": "personal", "url": "https://www.eiko-music.com/"}, {"type": "agency", "url":"https://www.schoolofsound.ch/trainer/joana-maria-aderi/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/joanaaderi/"}],
             "radiohoerer": [{"type": "interview", "url": "https://www.srf.ch/audio/sounds/interview-mit-phall-fatale?id=10746809"}, {"type": "interview", "url": "https://www.srf.ch/audio/jazz-collection/abbey-lincoln-die-kraft-der-selbstbestimmung?id=11793355"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/joana-eiko"}, {"type": "agency", "url": "https://soundcloud.com/audiokonzept/joana-aderi_lueged-vo-ba-rg"}],
             "youtube": [{"type": "interview", "url": "https://www.youtube.com/watch?v=C4owWMT3eRo"}, {"type": "band", "url": "https://www.youtube.com/user/phallfatale"}]
@@ -472,6 +494,7 @@
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5010574-Clarence-Adoo"}],
             "homepage": [{"type": "personal", "url": "http://www.clarenceadoo.co.uk/"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/clarenceadoo/"}],
             "soundcloud": [{"type": "interview", "url": "https://soundcloud.com/sagegateshead/clarence-adoo-tells-us-about-pioneering-work-hes-doing-with-rns-moves"}, {"type": "interview", "url": "https://soundcloud.com/toryoung96/clarence-adoo-the-accident-a-found-hope"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Jazz_Warriors"}]}]
         }
