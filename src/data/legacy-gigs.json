@@ -3277,7 +3277,7 @@
     },
     {
       "name": "Elephant9 (NOR)",
-      "description": "Besetzung: Ståle Storløkken (keys), Nikolai Hængsle Eilertsen (b), Torstein Lofthus (dr)",
+      "description": "Besetzung: Ståle Storløkken (keyb), Nikolai Hængsle Eilertsen (b), Torstein Lofthus (dr)",
       "id": "d5e281",
       "start_date": "2009-05-29T00:00:00Z"
     },
@@ -3666,8 +3666,8 @@
       "start_date": "2007-05-28T00:00:00Z"
     },
     {
-      "name": "Frischzelle at moers festival",
-      "description": "Besetzung: Berlin\/Köln: Eric Schaefer_dr, Clayton Thomas (b), Lu Hübsch (tu), Axel Dörner (tp), Matthias Muche (tb), Sven Hahne (electr) Peking: Wu Na_ghu (zheng), „\u00848gg\u0093“ Fu Yu and Jia Haiqing (electr, visuals), Yan Jun (electr), Shenggy (dr) Trondheim\/Oslo: Klaus Holm (as, cl), Kim Myhr (g), Martin Taxt (tu), Lars Myrvoll (electr), Eivind Lønning (tp), Espen Reinertsen (ts, fl)",
+      "name": "Frischzelle at moers festival (Berlin/Köln \u2012 Peking \u2012 Trondheim\/Oslo)",
+      "description": "Besetzung: Eric Schaefer (dr), Clayton Thomas (b), Lu Hübsch (tu), Axel Dörner (tp), Matthias Muche (tb), Sven Hahne (electr), Wu Na_ghu (zheng), „\u00848gg\u0093“ Fu Yu (electr, visuals), Jia Haiqing (electr, visuals), Yan Jun (electr), Shenggy (dr), Klaus Holm (as, cl), Kim Myhr (g), Martin Taxt (tu), Lars Myrvoll (electr), Eivind Lønning (tp), Espen Reinertsen (ts, fl)",
       "id": "d5e608",
       "start_date": "2007-05-28T00:00:00Z"
     },
@@ -4531,7 +4531,7 @@
     },
     {
       "name": "Tony Martinez & The Cuban Power (CUB)",
-      "description": "Besetzung: Tony Martinez (voc, as, ts, fl), Arnaldo Martinez (voc), Virginia Quesada (voc), Eduardo Cespedes (voc), Leandro Saint-Hill (ts, ss, fl), Eugenio Samón (tr), Leonardo Gobin (tb), Dudu Penz (b), César Correa (p, keyb), Juan Carlos Abreu (timbales), Rodrigo Rodriguez (congas)",
+      "description": "Besetzung: Tony Martinez (voc, as, ts, fl), Arnaldo Martinez (voc), Virginia Quesada (voc), Eduardo Céspedes (voc), Leandro Saint-Hill (ts, ss, fl), Eugenio Samón (tr), Leonardo Gobin (tb), Dudu Penz (b), César Correa (p, keyb), Juan Carlos Abreu (timbales), Rodrigo Rodriguez (congas)",
       "id": "d5e1498",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4591,7 +4591,7 @@
     },
     {
       "name": "Supersilent (NOR)",
-      "description": "Besetzung: Deathprod \/ Helge Steen (treatments), Stale Storlokken (keyb), Arve Henrikson (tp), Jarle Vespestad (dr), Audun Strype (sound)",
+      "description": "Besetzung: Deathprod \/ Helge Steen (treatments), Ståle Storløkken (keyb), Arve Henrikson (tp), Jarle Vespestad (dr), Audun Strype (sound)",
       "id": "d5e1555",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4795,7 +4795,7 @@
     },
     {
       "name": "Tony Allen & Black Voices (NGA) @ African Dance Night",
-      "description": "Besetzung: Tony Allen (voc, dr), Jean-Francois Kelner (g), Cêsar Anot (b), Jean-Phillipe Dary (keyb), DJ Doctor L (DJ)",
+      "description": "Besetzung: Tony Allen (voc, dr), Jean-Francois Kelner (g), Cêsar Anot (el-b), Jean-Phillipe Dary (keyb), DJ Doctor L (DJ)",
       "id": "d5e1766",
       "start_date": "2000-06-11T00:00:00Z"
     },
@@ -5964,8 +5964,8 @@
       "start_date": "2011-06-13T00:00:00Z"
     },
     {
-      "name": "\"Crime Scene\" Bergen Big Band feat. Terje Rypdal, Palle Mikkelborg & Stale Storlokken (NOR\/DK)",
-      "description": "Besetzung: Terje Rypdal (g), Palle Mikkelborg (tp), Ståle Storløkken (keys), Olav Dale (reeds), Jan Kåre Hystad (reeds), Ole Jakob Hystad (reeds), Zoltan Vincze (reeds), Michael Barnes (reeds), Martin Winter (tp), Sebastian Haukås (tp), Are Ovesen (tp), Reid Gilje (tp), Øyvind Hage (tb), Rune Hannisdal (tb), Pål Roseth (tb), Kjell Erik Husom (tb), Thomas Dahl (g), Helge Lilletvedt (p), Magne Thormodsæter (b), Frank Jakobsen (dr), Paolo Vinnaccia (dr)",
+      "name": "\"Crime Scene\" Bergen Big Band feat. Terje Rypdal, Palle Mikkelborg & Ståle Storløkken (NOR\/DK)",
+      "description": "Besetzung: Terje Rypdal (el-g), Palle Mikkelborg (tp), Ståle Storløkken (keyb), Olav Dale (reeds), Jan Kåre Hystad (reeds), Ole Jakob Hystad (reeds), Zoltan Vincze (reeds), Michael Barnes (reeds), Martin Winter (tp), Sebastian Haukås (tp), Are Ovesen (tp), Reid Gilje (tp), Øyvind Hage (tb), Rune Hannisdal (tb), Pål Roseth (tb), Kjell Erik Husom (tb), Thomas Dahl (g), Helge Lilletvedt (p), Magne Thormodsæter (b), Frank Jakobsen (dr), Paolo Vinnaccia (dr)",
       "id": "d6e1312",
       "start_date": "2010-05-21T00:00:00Z"
     },

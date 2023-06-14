@@ -18,8 +18,8 @@
         "end_date": "2023-05-26T18:20.000000+02:00",
         "description": "(London/Moers) Das Cafe OTO ist in London der! Ort für Free Jazz, Improvisierte Musik und Experimentelles mit Live-Musik an sieben Abenden der Woche. Gemeinsam haben das Cafe OTO und das moers festival nun ein umfangreiches Residence-Projekt mit mehreren Residenzen in London auf die Beine gestellt, bei dem Künstler:innen aus NRW und den UK zusammentreffen. Die Ergebnisse aus diesen Kollaborationen werden in London und auf dem moers festival 2023 und 2024 uraufgeführt.\n\n       Teil des Programmes sind u. a. Elvin Brandhi und Joel Grip. Elvin Brandhis improvisierte Vokalakrobatik zieht die Logik auf links, zugunsten eines kompromisslosen Ausrufs. Das, was da aus ihrem Mund dringt wird Eins mit elektronisch-rhythmischen Konstellationen. Joel Grip spielt mit der jeweiligen Situation und zerlegt sie in ihre Spannung und ihren Sound. Klangsprache und Timing seines Bassspiels beziehen sich auf die lange Geschichte seines Instruments mit allen daraus entstandenen Strömungen.",
         "artists": [
-            "Elvin Brandhi (voc, elec)",
-            "Tabea Lara Ngozi Briggs (voc, hrp, elec)",
+            "Elvin Brandhi (voc, electr)",
+            "Tabea Lara Ngozi Briggs (voc, hrp, electr)",
             "Joel Grip (b)"
         ]
     },
@@ -30,7 +30,7 @@
         "end_date": "2023-05-26T19:20:00.000000+02:00",
         "description": "FYEAR schlägt eine Brücke zwischen Improvisation und Komposition, elektronischer und akustischer Instrumentierung, Sprache und abstrakter Vokalisation und kombiniert einen schrillen Puls mit einem weitreichenden Gefühl von Freiheit. Die Mixed-Media-Kompositionen beschwören die Dringlichkeit des unruhigen Moments herauf und werfen gleichzeitig einen Blick in die Zukunft.",
         "artists": [
-            "Jason Sharp (bass sax, bs, elec, comp)",
+            "Jason Sharp (bass sax, bs, electr, comp)",
             "Joe Grass (pedal steel)",
             "Jesse Zubot (vl)",
             "Joshua Zubot (vl)",
@@ -112,7 +112,7 @@
             "Sophia Domancich (p)",
             "Amélie Grould (perc)",
             "Thierry Waziniak (dr, perc)",
-            "Diemo Schwarz (elec)"
+            "Diemo Schwarz (electr)"
         ]
     },
     {
@@ -178,7 +178,7 @@
         "start_date": "2023-05-26T22:35:00+02:00",
         "end_date": "2023-05-26T23:00:30+02:00",
         "description": "",
-        "artists": ["Tone Åse (voc, elec)", "Guylaine Cosseron (voc)", "Isabelle Duthoit (voc, cl)"]
+        "artists": ["Tone Åse (voc, electr)", "Guylaine Cosseron (voc)", "Isabelle Duthoit (voc, cl)"]
     },
     {
         "id": 2023020,
@@ -224,7 +224,7 @@
         "name": "ZAÄAR (BE)",
         "start_date": "2023-05-27T13:00:00+02:00",
         "description": "Welcome to the jungle! Für Fans von Neptunian Maximalism gibt es einen neuen Stern am Himmel: ZAÄAR. Wer Lust auf ein wenig Psychedelik und experimental Drone Doom hat, ist bei dem Auskopplungsprojekt der belgischen Formation gut aufgehoben.",
-        "artists": ["Guillaume Cazalet (voc, fl, castanets)", "Jean-Jacques Duerinckx (sax)", "Hugues Philippe Desrosiers (el-b, santur)", "Didié Nietzsche (elec)", "Andrés Navarro García (perc)"]
+        "artists": ["Guillaume Cazalet (voc, fl, castanets)", "Jean-Jacques Duerinckx (sax)", "Hugues Philippe Desrosiers (el-b, santur)", "Didié Nietzsche (electr)", "Andrés Navarro García (perc)"]
     },
     {
         "id": 2023026,
@@ -238,7 +238,7 @@
         "name": "Trondheim Voices: Folklore (NO)",
         "start_date": "2023-05-27T14:00:00+02:00",
         "description": "Das norwegische Nonett kehrt nach 2019 gleich mit zwei Projekten zurück nach Moers: Zum einen fließen in „Folklore“ Tradition, zeitgenössische Improvisation, Anleihen aus György Ligetis Klangsprache, Live-Elektronik und Lichtkunst ineinander. Zum anderen verneigen sich mit „Lux Aeterna :Remix“ die Sängerinnen vor dem prägenden Chorwerk Ligetis.",
-        "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)", "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)", "Ståle Storløkken (elec)"]
+        "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)", "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)", "Ståle Storløkken (electr)"]
     },
     {
         "id": 2023028,
@@ -294,7 +294,7 @@
         "name": "Ensemble Icosikaihenagone / Volumes II, fiction for musicians only (AT, CH, FR)",
         "start_date": "2023-05-27T17:00:00+02:00",
         "description": "Mit einer Besetzung aus verschiedenen Instrumenten und einer unkonventionellen Herangehensweise an Komposition und Improvisation schafft das 21-köpfige Ensemble Icosikaihenagone unter der Leitung des französischen Komponisten und Bassisten Benjamin Duboc eine faszinierende Klanglandschaft. Die Musiker*innen lassen sich von unterschiedlichen Epochen und Stilen inspirieren - von traditionellen Volksweisen über moderne Klassik bis hin zu experimentellen Klängen.",
-        "artists": ["Benjamin Duboc (b)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (as)", "Mathias Naon (vl)", "Gaël Mevel (clo)", "Jean Daufresne (tu)", "Jean-Sébastien Mariage (e-git)", "Diemo Schwarz (elec)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (ccl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
+        "artists": ["Benjamin Duboc (b)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (as)", "Mathias Naon (vl)", "Gaël Mevel (clo)", "Jean Daufresne (tu)", "Jean-Sébastien Mariage (e-git)", "Diemo Schwarz (electr)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (ccl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
     },
     {
         "id": 2023036,
@@ -322,7 +322,7 @@
         "name": "MUSIC FROM KYLWIRIA (DE, US, CY)",
         "start_date": "2023-05-27T20:04:00+02:00",
         "description": "Mit fünf Jahren erfand György Ligeti Kylwiria, ein utopisches Land mit eigener Sprache, Grammatik, sozialer Ordnung und Gerechtigkeit, das er mit 13 wieder verließ. Das moers festival kehrt dorthin zurück… Zu Ligetis 100. Geburtstag hat das moers festival die Auftragskomposition MUSIC FROM KYLWIRIA an sechs Komponist:innen vergeben, deren Schaffen von Ligetis Musik geprägt wurde: Nate Wooley, Lucia Kilger, Vassos Nicolaou, Theresia Philipp, André O. Möller und Carolin Pook. Den Klangkörper bilden fünf der sechs Komponist:innen sowie, unter der Leitung von Susanne Blumenthal, das offene und internationale Kollektiv ColLAB Cologne, bestehend aus Studierenden der Hochschule für Musik und Tanz Köln. Das ColLAB Cologne agiert auf höchstem künstlerischem Niveau an der Schnittstelle von Performance, Improvisation und der Interpretation komponierter Musik. Die Auftragskomposition wird am 27.05. in Moers uraufgeführt und im Rahmen der Ligeti 100-Woche zwei Stunden lang live im WDR3-Hörfunk übertragen.",
-        "artists": ["Lucia Kilger (comp)", "Vassos Nicolaou (elec, comp)", "Theresia Philipp (sax, comp)", "André O. Möller (g, comp)", "Carolin Pook (v, comp)", "Laura Cocks (fl)", "Christian Sharpe (tp)", "Maéva Rabassa (hrp)", "Adele Thoma (p)", "Liga Korne (p)", "Carlotta Ramos (b)", "Rita Soares (perc)", "Yukari Yagi (perc)", "Susanne Blumenthal (cond)"]
+        "artists": ["Lucia Kilger (comp)", "Vassos Nicolaou (electr, comp)", "Theresia Philipp (sax, comp)", "André O. Möller (g, comp)", "Carolin Pook (v, comp)", "Laura Cocks (fl)", "Christian Sharpe (tp)", "Maéva Rabassa (hrp)", "Adele Thoma (p)", "Liga Korne (p)", "Carlotta Ramos (b)", "Rita Soares (perc)", "Yukari Yagi (perc)", "Susanne Blumenthal (cond)"]
     },
     {
         "id": 2023040,
@@ -402,7 +402,7 @@
         "name": "moersify @ Rudolf-Schloer-Stift",
         "start_date": "2023-05-28T13:30:00+02:00",
         "description": "Rudolf-Schloer-Stift, Kranichstarße 1, 47441 Moers",
-        "artists": ["Didié Nietzsche (elec)"]
+        "artists": ["Didié Nietzsche (electr)"]
     },
     {
         "id": 2023051,
@@ -416,7 +416,7 @@
         "name": "TEMBER Ensemble & guests (DE, IR, IT)",
         "start_date": "2023-05-28T15:10:00+02:00",
         "description": "Jin, Jiyan, Azadî! Das Tember Ensemble beschäftigt sich mit der aktuellen politischen Situation im Iran. BE-FREI-UNG! Gegründet wurde Tember von Alireza Ostovar und Azin Zahedi mit der Vision, innovative Musik in einzigartigen Atmosphären zu schaffen. Hier verbinden sich traditionelle Musikkultur mit zeitgenössischen und elektroakustischen Zugängen.Beim moers festival wird das Tember Ensemble durch den iranischen Videokünstler Arman Moghadam zum Quintett erweitert.",
-        "artists": ["Valentina Bellanova (nay, fl)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (santur)", "Arman Moghadam (live video)", "Ali Ostovar (live-electronics/Mixer)"]
+        "artists": ["Valentina Bellanova (nay, fl)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (santur)", "Arman Moghadam (live video)", "Ali Ostovar (electr, mixer)"]
     },
     {
         "id": 2023053,
@@ -503,7 +503,7 @@
         "name": "moersify @ Café Lyzeum",
         "start_date": "2023-05-28T11:00:00+02:00",
         "description": "Alexey Kruglov, Caroline Kraabel, Didié Nietzsche, Piotr Talalay (BE, RU, UK)",
-        "artists": ["Alexey Kruglov (sax)", "Caroline Kraabel (sax)", "Didié Nietzsche (elec)", "Piotr Talalay (dr)"]
+        "artists": ["Alexey Kruglov (sax)", "Caroline Kraabel (sax)", "Didié Nietzsche (electr)", "Piotr Talalay (dr)"]
     },
     {
         "id": 2023065,
@@ -534,7 +534,7 @@
         "name": "Viola Yip / Noa Even (HK, US)",
         "start_date": "2023-05-28T21:40:00+02:00",
         "description": "Kreisschaltungskompositionen für selbst kreiierte elektronische Sextanten, gehackte assimilierte Gegenstände mutiger Seefrauschaft, Soundsturmgehacktes, erstaunlich differenziertes Brizzeln im unteren Mittenfrequenzspektrum bei psychedelisch-eleganter Drift. Viola wird eins mit ihrer Dau, mit ihren neuronalen Willenstransmittern, wie eine plastikbefreite See wohl zu klingen habe. In ihren Hochseeklangräumen bleibt sogar noch Zeit und Raum für über Holzblättchen und Luftsäulen übermittelte, behende gegriffene zeitgenössische Klangrätsel. Eigentlich wollten Noa und Viola sich heute auf der anderen Rheinseite zum Tanze treffen, beim Musikclub100 im Ruhrorter Lokal Harmonie. Denn dies wäre genau die geographische Mitte zwischen Hongkong und Philadelphia gewesen. Hat aber heute geschlossen und da wird sich halt ein paar Grad backbord in Moers getroffen. Ahoi, Mono-no-Aware!",
-        "artists": ["Viola Yip (elec)", "Noa Even (ts)"]
+        "artists": ["Viola Yip (electr)", "Noa Even (ts)"]
     },
     {
         "id": 2023069,
@@ -550,7 +550,7 @@
         "description": "",
         "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)",
             "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)",
-            "Ståle Storløkken (elec)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
+            "Ståle Storløkken (electr)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
             "Eva-Maria Schappé (voc)", "Dorothea Winkel (voc)", "Johanna Zimmer (voc)", "Michelle Ryan (voc)", "Aya Tsujimoto (voc)", 
             "Dorothea Jakob (voc)", "Sophie Harr (voc)", "Sabine Czinczel (voc)", "Stefanie Gläser-Blumenschein (voc)", 
             "Judith Hilger (voc)", "Ulrike Koch (voc)", "Wiebke Wighardt (voc)", "Filippa Möres-Busch (voc)", "Sandra Stahlheber (voc)",
@@ -564,7 +564,7 @@
         "name": "Crystal Peñalosa (US)",
         "start_date": "2023-05-28T22:15:00+02:00",
         "description": "Wenn Crystal Peñalosa nach Inspiration sucht, stromert sie einfach durch die Straßen Kylwirias. Saugt demütig Eindrücke auf, lässt sie auf sich wirken und lässt sich von Lichtblitzen im Unterbewusstsein leiten. Dann verbinden sich frequenzmäandernde Soundscapes, innerste Gedanken, Lautheit, mutige Positionierungen zu aktuellen Diskursen - und allem, was sonst noch klanginhaltlich gerade so wichtig erscheint…  Ein authentischer AUFBRUCH. Fesselnd und mit Tiefe.",
-        "artists": ["Crystal Peñalosa (elec, voc)"]
+        "artists": ["Crystal Peñalosa (electr, voc)"]
     },
     {
         "id": 2023072,
@@ -578,14 +578,14 @@
         "name": "Burkina Electric (AT, BF)",
         "start_date": "2023-05-28T23:20:00+02:00",
         "description": "Der Schlagzeuger, Elektronik-Musiker und Komponist Lukas Ligeti vereint in seinen Kompositionen verschiedenste musikalische Traditionen, darunter die europäische Avantgarde, Jazz, Experimentelle Musik sowie Einflüsse verschiedener Musikkulturen des afrikanischen Kontinents. Damit folgt er den Spuren seines Vaters, der ebenfalls ein weitreichendes Interesse an traditioneller afrikanischer Musik hatte und sich u. a. intensiv mit der simbabwischen Shona-Musik oder pygmäischer Musik beschäftigte. Aus einem Projekt Lukas Ligetis mit Musiker:innen aus Burkina Faso entstand 2007 die Formation Burkina Electric. Deren Musik ist eine Verbindung burkinischer Musiktradition, Elektronik, westlicher Avantgarde sowie modernem Tanz mit traditionellen Elementen.",
-        "artists": ["Lukas Ligeti (dr, elec)", "Vicky Lamour (dance)", "Zoko Zoko (dance)", "Maï Lingani (voc)", "Wende K. Blass (git)"]
+        "artists": ["Lukas Ligeti (dr, electr)", "Vicky Lamour (dance)", "Zoko Zoko (dance)", "Maï Lingani (voc)", "Wende K. Blass (git)"]
     },
     {
         "id": 2023074,
         "name": "Pharmakon (US)",
         "start_date": "2023-05-28T23:25:00+02:00",
         "description": "Margaret Chardiet lernte früh, ihrer Intuition zu vertrauen. In New York City wuchs sie auf und in der lokalen Musik- und Kunstszene heran. Das kulturelle Geschehen in der Stadt faszinierte sie. Bereits im Alter von 16 Jahren entschied sie, sich ganzheitlich der Kunst zu widmen: Pharmakon war geboren und ist nun, 17 Jahre später, selbst schon im Teenageralter. Immer zwischen BE-FREI-UNG und AUFBRUCH, bleiben Chardiets Einflüsse aus der Punkmusik, in deren Bereich sie bereits Teil mehrerer Bands war, allgegenwärtig. Harter Sound und Elektronik bilden eine Symbiose, die durch Solokünstlerin Chardiets Performance erst lebendig wird. Mittlerweile lässt sich die Musik von Pharmakon auch in Filmen wie Transfiguration (2017) und Sound of Metal (2019) finden.",
-        "artists": ["Margaret Chardiet (elec, voc)"]
+        "artists": ["Margaret Chardiet (electr, voc)"]
     },
     {
         "id": 2023075,
@@ -598,7 +598,7 @@
         "id": 2023076,
         "name": "Putan Club (FR, IT)",
         "start_date": "2023-05-28T23:59:00+02:00",
-        "description": "FeministEltronicIndustrialAvantRockTechnoWorldSauvagerie\nDer Putan Club ist ein einzigartiger musikalischer Geheimbund der Italienerin Gianna Greco (b, voc) und dem Franzosen François R. Cambuzat (git, elec, voc). Energieblitze aus experimentellem Post-Punk, Noise Rock und elektronischem Sound bilden magnetische Wirbel zu einer schillernd klingenden Nervenzellenkirmes. Greco's kraftvoller Gesang und Cambuzat's komplexes Gitarrenspiel -hypnotisierend, kompromisslos, energisch und voller MUT: ein Aufruf zum Handeln, eine dringende und kompromisslose Stimme in einer Welt, die oft zu ängstlich ist, um sich zu äußern.",
+        "description": "FeministEltronicIndustrialAvantRockTechnoWorldSauvagerie\nDer Putan Club ist ein einzigartiger musikalischer Geheimbund der Italienerin Gianna Greco (b, voc) und dem Franzosen François R. Cambuzat (git, electr, voc). Energieblitze aus experimentellem Post-Punk, Noise Rock und elektronischem Sound bilden magnetische Wirbel zu einer schillernd klingenden Nervenzellenkirmes. Greco's kraftvoller Gesang und Cambuzat's komplexes Gitarrenspiel -hypnotisierend, kompromisslos, energisch und voller MUT: ein Aufruf zum Handeln, eine dringende und kompromisslose Stimme in einer Welt, die oft zu ängstlich ist, um sich zu äußern.",
         "artists": ["Gianna Greco (b, voc)", "François R. Cambuzat (git, voc, computer)"]
     },
     {
@@ -613,7 +613,7 @@
         "name": "Moers Sessions 2023 #4",
         "start_date": "2023-05-29T11:00:00+02:00",
         "end_date": "2023-05-29T11:30:00+02:00",
-        "artists": ["Robert Kroos (electronics)", "Sandy Ewen (git)", "Andrés Navarro García (perc)", "Stefan Keune (sax)", "Jean-Jacques Duerinckx (sax)"]
+        "artists": ["Robert Kroos (electr)", "Sandy Ewen (git)", "Andrés Navarro García (perc)", "Stefan Keune (sax)", "Jean-Jacques Duerinckx (sax)"]
     },
     {
         "id": 2023079,
@@ -648,21 +648,21 @@
         "name": "Recursion (DE)",
         "start_date": "2023-05-29T14:00:00+02:00",
         "description": "Jan Krause, Steven Koch und Christopher Retz vom Kollektiv Recursion sind die 16. Improviser in Residence in Moers. Das in 2019 Kunst- und Klangkollektiv ist ein Gewächs der Region, das ganz wesentlich durch das moers festival geprägt und sozialisiert wurde. Recursion verfolgt das Ziel, experimentelle Kunst und Musik in der Region zu etablieren.",
-        "artists": ["Steven Koch (elec)", "Jan Krause (git, elec)", "Chris Retz (elec)"]
+        "artists": ["Steven Koch (electr)", "Jan Krause (git, electr)", "Chris Retz (electr)"]
     },
     {
         "id": 2023084,
         "name": "HYDRA ENSEMBLE (CH, HR, NL, PO)",
         "start_date": "2023-05-29T15:00:00+02:00",
-        "description": "Hoffentlich verliert das Hydra Ensemble in Moers ein paar Köpfe! Denn Nina Hitz (vc), Lucija Gregov (vc), Gonçalo Almeida (b) und Rutger Zuydervelt (elec) wachsen immer wieder neue nach. Nach dem Online-Debüt 2020 schlängeln sich nun Cluster, Klangwolken und vielköpfige Kreationen aus dem Soundlabor aus dreieinhalb Himmelsrichtungen bis an den Niederrhein und schlagen dort neue Synapsen: AUFBRUCH - mit einem mutigen Dutzend Saiten, flirrenden Schaltkreisen und jeder Menge K(n)öpfe...",
-        "artists": ["Nina Hitz (vclo)", "Lucija Gregov (vclo)", "Gonçalo Almeida (el-b)", "Robert Kroos (elec)"]
+        "description": "Hoffentlich verliert das Hydra Ensemble in Moers ein paar Köpfe! Denn Nina Hitz (vc), Lucija Gregov (vc), Gonçalo Almeida (b) und Rutger Zuydervelt (electr) wachsen immer wieder neue nach. Nach dem Online-Debüt 2020 schlängeln sich nun Cluster, Klangwolken und vielköpfige Kreationen aus dem Soundlabor aus dreieinhalb Himmelsrichtungen bis an den Niederrhein und schlagen dort neue Synapsen: AUFBRUCH - mit einem mutigen Dutzend Saiten, flirrenden Schaltkreisen und jeder Menge K(n)öpfe...",
+        "artists": ["Nina Hitz (vclo)", "Lucija Gregov (vclo)", "Gonçalo Almeida (el-b)", "Robert Kroos (electr)"]
     },
     {
         "id": 2023085,
         "name": "Burkina Electric & Ensemble BRuCH: Égal... pas pareil... nonpareil (AT, BF, FR, CA, DE, UK)",
         "start_date": "2023-05-29T16:10:00+02:00",
         "description": "Unter der Leitung von Lukas Ligeti (Schlagzeug, Elektronik) wird dessen Werk „Égal… pas pareil… nonpareil“ im Auftrag des moers festivals um einen zweiten Satz erweitert und in der erweiterten Fassung von dem Ensembleduo Burkina Electric und BRuCH auf dem moers festival uraufgeführt. Die von Lukas Ligeti mitbegründete Formation Burkina Electric verbindet burkinische Musiktradition, Elektronik, westliche Avantgarde sowie modernen Tanz mit traditionellen Elementen. Das Ensemble BRuCH legt seinen Schwerpunkt auf die Interpretation zeitgenössischer Werke des 20. und 21. Jahrhunderts, entwickelt Kompositionen in enger Zusammenarbeit mit jungen Komponist:innen und zeichnet sich durch die ungewöhnliche Besetzung mit Stimme, Flöte, Cello und Klavier aus.",
-        "artists": ["Lukas Ligeti (dr, elec)", "Vicky Lamour (dance)", "Zoko Zoko (dance)", "Maï Lingani (voc)", "Wende K. Blass (g)", "Marie Heeschen (voc)", "Sally Beck (fl)", "Ella Rohwer (vclo)", "Claudia Chan (p)"]
+        "artists": ["Lukas Ligeti (dr, electr)", "Vicky Lamour (dance)", "Zoko Zoko (dance)", "Maï Lingani (voc)", "Wende K. Blass (g)", "Marie Heeschen (voc)", "Sally Beck (fl)", "Ella Rohwer (vclo)", "Claudia Chan (p)"]
     },
     {
         "id": 2023086,
@@ -710,7 +710,7 @@
         "id": 2023091,
         "name": "Putan Club (FR, IT)",
         "start_date": "2023-05-29T22:30:00+02:00",
-        "description": "Der Putan Club ist ein einzigartiger musikalischer Geheimbund der Italienerin Gianna Greco (b, voc) und dem Franzosen François R. Cambuzat (git, elec, voc). Energieblitze aus experimentellem Post-Punk, Noise Rock und elektronischem Sound bilden magnetische Wirbel zu einer schillernd klingenden Nervenzellenkirmes. Greco's kraftvoller Gesang und Cambuzat's komplexes Gitarrenspiel -hypnotisierend, kompromisslos, energisch und voller MUT: ein Aufruf zum Handeln, eine dringende und kompromisslose Stimme in einer Welt, die oft zu ängstlich ist, um sich zu äußern.",
+        "description": "Der Putan Club ist ein einzigartiger musikalischer Geheimbund der Italienerin Gianna Greco (b, voc) und dem Franzosen François R. Cambuzat (git, electr, voc). Energieblitze aus experimentellem Post-Punk, Noise Rock und elektronischem Sound bilden magnetische Wirbel zu einer schillernd klingenden Nervenzellenkirmes. Greco's kraftvoller Gesang und Cambuzat's komplexes Gitarrenspiel -hypnotisierend, kompromisslos, energisch und voller MUT: ein Aufruf zum Handeln, eine dringende und kompromisslose Stimme in einer Welt, die oft zu ängstlich ist, um sich zu äußern.",
         "artists": ["Gianna Greco (b, voc)", "François R. Cambuzat (git, voc, computer)"]
     }
 ]
