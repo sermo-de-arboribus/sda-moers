@@ -258,8 +258,8 @@
         "id": 2023030,
         "name": "Ganelin Trio Priority (DE, IL, LT)",
         "start_date": "2023-05-27T15:20:00+02:00",
-        "description": "Vyacheslav Ganelin, russisch geborener Pianist und Keyboarder, brach 1970 mit dem ersten Avantgarde Jazz Ensemble der Sowjetunion auf und sorgte international bis weit in die 80er Jahre für Aufsehen. Nach seiner Auswanderung nach Israel Ende des Jahrzehnts landete er schließlich in Litauen. Seit 1999 bildet er, ohne Unterbrechungen, gemeinsam mit dem litauischen Saxophonisten Petras Vysniauskas und dem deutschen Schlagzeuger Klaus Kugel das Ganelin Trio Priority. Slava Ganelin findet hier musikalisch den Weg zurück in seine litauische Heimat, indem er freien Jazz mit dem – WERT – der klassischen und traditionellen Musik Litauens verwebt.",
-        "artists": ["Petras Vysniauskas (sax)", "Vyacheslav Ganelin (p, keys)", "Klaus Kugel (dr)"]
+        "description": "Vyacheslav Ganelin, russisch geborener Pianist und Keyboarder, brach 1970 mit dem ersten Avantgarde Jazz Ensemble der Sowjetunion auf und sorgte international bis weit in die 80er Jahre für Aufsehen. Nach seiner Auswanderung nach Israel Ende des Jahrzehnts landete er schließlich in Litauen. Seit 1999 bildet er, ohne Unterbrechungen, gemeinsam mit dem litauischen Saxophonisten Petras Vyšniauskas und dem deutschen Schlagzeuger Klaus Kugel das Ganelin Trio Priority. Slava Ganelin findet hier musikalisch den Weg zurück in seine litauische Heimat, indem er freien Jazz mit dem – WERT – der klassischen und traditionellen Musik Litauens verwebt.",
+        "artists": ["Petras Vyšniauskas (sax)", "Vyacheslav Ganelin (p, keys)", "Klaus Kugel (dr)"]
     },
     {
         "id": 2023031,
@@ -273,7 +273,7 @@
         "name": "Nélida Karr (GQ)",
         "start_date": "2023-05-27T16:20:00+02:00",
         "description": "Ab sofort wirft das moers festival jedes Jahr seinen Blick auf ein Land des afrikanischen Kontinents. 2023 liegt der Fokus auf Äquatorialguinea, einem der kleinsten Staaten Afrikas, der über Festland und Inseln verstreut ist und den einzig spanischsprachigen Staat des Kontinents bildet. Aus diesen politisch und gesellschaftlich schwierigen Verhältnissen wirkt die Stimme Nélida Karrs wie eine Sternschnuppe. In ihrer Musik vereinen sich die Schönheit, Würde und kulturelle Traditionen vieler Generationen. Sie ist das musikalische Gedächtnis, die Stimme Äquatorialguineas. Neben ihrer künstlerischen Arbeit engagiert sie sich in ihrer Heimat für Bildung und Chancengleichheit.",
-        "artists": ["Nélida Karr (voc, git)"]
+        "artists": ["Nelida Karr (voc, git)"]
     },
     {
         "id": 2023033,

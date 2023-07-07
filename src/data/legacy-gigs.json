@@ -85,7 +85,7 @@
     },
     {
       "name": "Loek Dikker - Waterland Big Band (NL)",
-      "description": "Besetzung: Loek Dikker (p), Leo van Oostrom (reeds), Keshavan Maslak (reeds), Ab Baars (reeds), Ferdinand Povel (reeds), Rijs Hendricks (reeds), Frank Grasso (tp), Boy Raymaakers (tp), Charles Green (tp), Nils Landgren (tb), Willem van Maanen (tb), Gerhard Zwiers (tb), Jerome Goldstein (vibes), Nico Langenhuisen (b), Joop van Eroen (dr)",
+      "description": "Besetzung: Loek Dikker (p), Leo van Oostrom (reeds), Keshavan Maslak (reeds), Ab Baars (reeds), Ferdinand Povel (reeds), Rijs Hendricks (reeds), Frank Grasso (tp), Boy Raymaakers (tp), Charles Green (tp), Nils Landgren (tb), Willem van Maanen (tb), Gerhard Zwiers (tb), Jerome Goldstein (vib), Nico Langenhuisen (b), Joop van Eroen (dr)",
       "id": "d2e335",
       "start_date": "1979-06-04T00:00:00Z"
     },
@@ -565,7 +565,7 @@
     },
     {
       "name": "Hans Reichel Trio (NL\/DE)",
-      "description": "Besetzung: Hans Reichel (g), Michel Waiszvisz (reeds), Maarten van Regteren-Altena (cb)",
+      "description": "Besetzung: Hans Reichel (g), Michel Waisvisz (reeds), Maarten van Regteren-Altena (cb)",
       "id": "d2e773",
       "start_date": "1975-05-18T00:00:00Z"
     },
@@ -973,7 +973,7 @@
     },
     {
       "name": "Fred Frith & Keep the Dog (USA\/CAN\/GB\/JPN)",
-      "description": "Besetzung: Fred Frith (g, b, v), Rene Lussier (g, b), Jean Derome (as, bs, fl), Zeena Parkins (keyb, acc, el-harp), Bob Ostertag (radio, tapes, sampling), Kevin Norton (dr, Marimba), special guests: Heiner Goebbels (p), John Zorn (reeds), Tenko (voc)",
+      "description": "Besetzung: Fred Frith (g, b, v), Rene Lussier (g, b), Jean Derome (as, bs, fl), Zeena Parkins (keyb, acc, el-harp), Bob Ostertag (radio, tapes, sampling), Kevin Norton (dr, Marimba), Heiner Goebbels (p), John Zorn (reeds), Tenko (voc)",
       "id": "d3e324",
       "start_date": "1989-05-14T00:00:00Z"
     },
@@ -2677,7 +2677,7 @@
     },
     {
       "name": "Michel Waisvisz (NL)",
-      "description": "Besetzung: a one-man-electro-orchestra with child voices, Michel Waisvisz (electr)",
+      "description": "Besetzung: Michel Waisvisz (electr)",
       "id": "d4e815",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -3199,7 +3199,7 @@
     },
     {
       "name": "L'Impossible Trio (FRA)",
-      "description": "Besetzung: Philippe Deschepper (g), Michael Godard (tu), Youval Micenmacher (dr, zarb, derbouka)",
+      "description": "Besetzung: Philippe Deschepper (g), Michel Godard (tu), Youval Micenmacher (dr, zarb, derbouka)",
       "id": "d4e1269",
       "start_date": "1990-06-03T00:00:00Z"
     },
@@ -4399,7 +4399,7 @@
     },
     {
       "name": "Queen Salawa Abeni & The Waka Modernizer@African Dance Night",
-      "description": "Besetzung: Queen Salawa Abeni (voc), Jelili Balogun (bg-voc), Ajalaruru Asinmiyu (bg-voc), Tunde Adekoyan (g), Gbenga Ogun (keys, p), Oroh Angiama (el-b), Ayan Ayandosu (talking drum), Rasak Adegoke (talking drum), Lekan Babalola (conga, perc), Toyin Adeogun (dr)",
+      "description": "Besetzung: Queen Salawa Abeni (voc), Jelili Balogun (bg-voc), Ajalaruru Asinmiyu (bg-voc), Tunde Adekoyan (g), Gbenga Ogun (keys, p), Oroh Angiama (el-b), Ayan Ayandosu (talking drum), Rasak Adegoke (talking drum), Lekan Babalola (congas, perc), Toyin Adeogun (dr)",
       "id": "d5e1357",
       "start_date": "2002-05-19T00:00:00Z"
     },
@@ -4531,7 +4531,7 @@
     },
     {
       "name": "Tony Martinez & The Cuban Power (CUB)",
-      "description": "Besetzung: Tony Martinez (voc, as, ts, fl), Arnaldo Martinez (voc), Virginia Quesada (voc), Eduardo Céspedes (voc), Leandro Saint-Hill (ts, ss, fl), Eugenio Samón (tr), Leonardo Gobin (tb), Dudu Penz (b), César Correa (p, keyb), Juan Carlos Abreu (timbales), Rodrigo Rodriguez (congas)",
+      "description": "Besetzung: Tony Martinez (voc, as, ts, fl), Arnaldo Martinez (voc), Virginia Quesada (voc), Eduardo Céspedes (voc), Leandro Saint-Hill (ts, ss, fl), Eugenio Samón (tr), Leonardo Gobin (tb), Dudu Penz (el-b), César Correa (p, keyb), Juan Carlos Abreu (timbales), Rodrigo Rodriguez (congas)",
       "id": "d5e1498",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4855,7 +4855,7 @@
     },
     {
       "name": "CP Unit (USA)",
-      "description": "Besetzung: Chris Pitsiokos (comp, asax, electr), Sam Lisabeth (g), Henry Fraser (eb), Jason Nazary (dr, electr)",
+      "description": "Besetzung: Chris Pitsiokos (comp, as, electr), Sam Lisabeth (g), Henry Fraser (eb), Jason Nazary (dr, electr)",
       "id": "d6e270",
       "start_date": "2018-05-18T00:00:00Z"
     },
@@ -4897,7 +4897,7 @@
     },
     {
       "name": "Schime Trio + 2 (SRB)",
-      "description": "Besetzung: Sava Miletić (key), Predrag Milutinović (dr), Boris Šainović (b), Rastko Obradović (tsax), Luka Ignjatović(asax)",
+      "description": "Besetzung: Sava Miletić (key), Predrag Milutinović (dr), Boris Šainović (b), Rastko Obradović (ts), Luka Ignjatović (as)",
       "id": "d6e302",
       "start_date": "2018-05-19T00:00:00Z"
     },
@@ -5143,7 +5143,7 @@
     },
     {
       "name": "Ingrid Laubrock Orchestral Pieces: Vogelfrei \/ Contemporary Chaos Practices (USA\/DE)",
-      "description": "Besetzung: Ingrid Laubrock (ts, comp), Nate Wooley (tp), Kris Davis (p), Mary Halvorson (g), Taylor Ho Bynum (tp, dir), Kyoko Kitamura (voc), Kamala Sankaram (voc), Emilie Lesbros (voc), Adam Matlock (voc), Chris De Meglio (voc), Susanne Blumenthal (cond), Katharina Vogt (v), Francesca Freytag (v), Martin Schminke (v), Ani Eade Bitan (v), Olga Hancher (v), Stefanie Irgang (v), Nina Mrosek (v), Zuzanna Leharova (v), Lydia Haurenherm (va), Till Mengler (va), Pauline Buss (va), Mateusz Kwiatkowski (vc), Tom Verbeke (vc), Soraya Ansari (vc), Dennis Pientak (b), Raina Valeva (b), Levke Hollmer (fl), Roland Meschede (fl), Tamon Yashima (ob), Raphael Klockenbusch (ob), Blake Westonov (cl), Rebecca Mertel (cl), Kyu Sang Jeong (cl) Ambriose Dojat (bn), Tomoko Ebmeyer (bn), Susanne Knoop (tp), Adrian Ebmeyer (hn), Chris Brigham (hn), Matthias Schuller (tb), Till Künkler (tb), Fraser Russel (btb), Christiane Rittner (sopran), Andra Wildgrube (alt), Leonard Reso (tenor), Ferdinand Junghänel (tenor), Scott Wellstead (tenor)",
+      "description": "Besetzung: Ingrid Laubrock (ts, comp), Nate Wooley (tp), Kris Davis (p), Mary Halvorson (g), Taylor Ho Bynum (tp, dir), Kyoko Kitamura (voc), Kamala Sankaram (voc), Emilie Lesbros (voc), Adam Matlock (voc), Chris De Meglio (voc), Susanne Blumenthal (cond), Katharina Vogt (vl), Francesca Freytag (vl), Martin Schminke (vl), Ani Eade Bitan (vl), Olga Hancher (vl), Stefanie Irgang (vl), Nina Mrosek (vl), Zuzanna Leharova (vl), Lydia Haurenherm (va), Till Mengler (va), Pauline Buss (va), Mateusz Kwiatkowski (vc), Tom Verbeke (vc), Soraya Ansari (vc), Dennis Pientak (b), Raina Valeva (b), Levke Hollmer (fl), Roland Meschede (fl), Tamon Yashima (ob), Raphael Klockenbusch (ob), Blake Westonov (cl), Rebecca Mertel (cl), Kyu Sang Jeong (cl) Ambriose Dojat (bn), Tomoko Ebmeyer (bn), Susanne Knoop (tp), Adrian Ebmeyer (hn), Chris Brigham (hn), Matthias Schuller (tb), Till Künkler (tb), Fraser Russel (btb), Christiane Rittner (sopran), Andra Wildgrube (alt), Leonard Reso (tenor), Ferdinand Junghänel (tenor), Scott Wellstead (tenor)",
       "id": "d6e501",
       "start_date": "2017-06-05T00:00:00Z"
     },

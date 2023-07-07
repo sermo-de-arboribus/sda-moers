@@ -2510,10 +2510,74 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/amina_aziz_"}]
         }
     },
+    "ResidentB": {
+        "links": {
+            "discogs": [{"type": "band", "url": "https://www.discogs.com/artist/6708-The-Residents"}],
+            "homepage": [{"type": "band", "url": "https://www.residents.com/"}],
+            "wikipedia": [{"type": "band", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/The_Residents"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/The_Residents"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/The_Residents"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/The_Residents"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/The_Residents"}]}]
+        }
+    },
+    "AbBaars": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/ab-baars"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ab-baars-mn0000488795"}],
+            "bandcamp": [{"type": "personal", "url": "https://abbaars.bandcamp.com"}, {"type": "label", "url": "https://abbaarsighennemanwig.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/424421-Ab-Baars"}],
+            "homepage": [{"type": "label", "url": "http://stichtingwig.com/index.html"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/ab_baars/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/ab-baars-b7b6686/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Ab%20Baars%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ab-baars"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ab_Baars"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ab_Baars"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Ab_Baars"}]}],
+            "youtube": [{"type": "label", "url": "https://www.youtube.com/@WigRecords"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCROEGB8XcOvVdgda0sTnXaA"}]
+        }
+    },
     "VincentBababoutilabo": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/5245062-Vincent-Bababoutilabo"}, {"type": "band", "url": "https://www.discogs.com/artist/6369943-%C3%89t%C3%A9-Large"}],
             "homepage": [{"type": "personal", "url": "https://bababoutilabo.jimdofree.com/"}]
+        }
+    },
+    "LekanBabalola": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/lekan-babalola"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/lekan-babalola-mn0000606528"}],
+            "bandcamp": [{"type": "album", "url": "https://mrbongo.bandcamp.com/album/songs-of-icon"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/291027-Lekan-Babalola"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/lekanbabalola/"}, {"type": "band", "url": "https://www.instagram.com/lekansacredfunkproject/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/lekan-babalola"}, {"type": "agency", "url": "https://soundcloud.com/eko-brass-band"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/LekanBabalola"}, {"type": "band", "url": "https://twitter.com/LekanFunk"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Lekan_Babalola"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@IfaYoruba22"}]
+        }
+    },
+    "MichaelBabalola": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/michael-babalola-mn0001220928"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1148567-Michael-Babalola"}]
+        }
+    },
+    "ZoroBabel": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/zoro-babel-mn0000813058"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/792428-Zoro-Babel"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/zoro_babel_zorobabel/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/zoro-babel-45482a56/"}],
+            "radiohoerer": [{"type": "search", "locales": [{"locale": "de", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Zoro%20Babel%22"}]}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/zoro-babel-891208215"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Zoro_Babel"}]}]
+        }
+    },
+    "BoglárkaBábiczki": {
+        "links": {
+            "bandcamp": [{"type": "band", "url": "https://bbqmusicc.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1664211-Boglarka-Babiczki"}],
+            "homepage": [{"type": "personal", "url": "http://larkaboglarka.art/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/boglarka.babiczki/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/boglarka-babiczki-134a80279/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/bbqmusicc"}, {"type": "band", "url": "https://soundcloud.com/halsmusik"}, {"type": "personal", "url": "https://soundcloud.com/larkjazz"}, {"type": "band", "url": "https://soundcloud.com/bbqmusicvienna"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Bogl%C3%A1rka_B%C3%A1biczki"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@larkjazz"}]
         }
     },
     "GiovanniBarcella": {
@@ -5021,6 +5085,19 @@
             "zh": "网上找不到这个歌手的资料"
         }
     },
+    "VyacheslavGanelin": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/vyacheslav-ganelin"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/vyacheslav-ganelin-mn0000812992"}],
+            "bandcamp": [{"type": "album", "url": "https://jersikarecords.bandcamp.com/album/variations"}, {"type": "album", "url": "https://oldheavenbooks.bandcamp.com/album/russian-new-music-in-china"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/345802-Vyacheslav-Ganelin"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/vyacheslavganelin/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Vyacheslav%20Ganelin%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/vyacheslavganelin"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Wjatscheslaw_Ganelin"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Vyacheslav_Ganelin"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@viacheslav-slavaganelin5340"}]
+        }
+    },
     "JanGarbarek": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://musicians.allaboutjazz.com/jangarbarek"}],
@@ -5192,6 +5269,11 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/bassport"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Reinhard_Gl%C3%B6der"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/Bassport1"}]
+        }
+    },
+    "LeonardoGobin": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5717316-Leonardo-Gobin"}]
         }
     },
     "HeinerGoebbels": {
@@ -7057,6 +7139,21 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCi7jfYZQOpOgiJX0sFTTIIw"}]
         }
     },
+    "KlausKugel": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/klaus-kugel"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/klaus-kugel-mn0000142300"}],
+            "bandcamp": [{"type": "album", "url": "https://sabirmateen.bandcamp.com/album/creation"}, {"type": "album", "url": "https://vandermark1.bandcamp.com/album/escalator"}, {"type": "album", "url": "https://vandermark1.bandcamp.com/album/no-exit-corner"}, {"type": "album", "url": "https://multikultiproject.bandcamp.com/album/affinity"}, {"type": "album", "url": "https://multikultiproject.bandcamp.com/album/switchback"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/353136-Klaus-Kugel"}],
+            "homepage": [{"type": "personal", "url": "https://www.klauskugel.com"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/klauskugel/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Klaus%20Kugel%22"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/meadowquartetwithklauskugel"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/KlausKugel"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Klaus_Kugel"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Klaus_Kugel"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCedDZCF8AVs6Yo3CPKGbRlg"}]
+        }
+    },
     "JürgenKupke": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/j%C3%BCrgen-kupke-mn0000121892"}],
@@ -8817,6 +8914,23 @@
     "MatPenman": {
         "canonicalName": { "firstname": "Matt", "surname": "Penman"}
     },
+    "DuduPenz": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/eduardo-dudu-penz-mn0001283755"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/661369-Eduardo-DuDu-Penz"}],
+            "homepage": [{"type": "personal", "url": "https://shunga0.wixsite.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/dudupenz/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/DuduPenz"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@dududpenz"}]
+        },
+        "notes": {
+            "cs": "Občanské jméno: Eduardo Penz",
+            "de": "Bürgerlicher Name: Eduardo Penz",
+            "en": "Born as: Eduardo Penz",
+            "fr": "Nom civil: Eduardo Penz",
+            "zh": "本名: Eduardo Penz"
+        }
+    },
     "FrankPerrey": {
         "canonicalName": {
             "firstname": "Frank",
@@ -9682,6 +9796,13 @@
         "canonicalName": {
             "firstname": "Akira",
             "surname": "Sakata"
+        }
+    },
+    "EugenioSamón": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1960939-Eugenio-Sam%C3%B3n"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/eugeniosamonsuarez/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/eugenio-samon-8982814a/"}]
         }
     },
     "DaveSamuels": {
@@ -11355,6 +11476,17 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/twitbiliana"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Biliana_Voutchkova"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/tubebiliana"}]
+        }
+    },
+    "PetrasVyšniauskas": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/petras-vysniauskas"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/petras-vysniauskas-mn0000843280"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1393662-Petras-Vy%C5%A1niauskas"}],
+            "homepage": [{"type": "agency", "url": "https://www.mic.lt/en/database/jazz/composers-artists/vysniauskaspetras"}],
+            "instagram": [{"type": "search", "url": "https://www.instagram.com/explore/tags/petrasvysniauskas/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Petras%20Vy%C5%A1niauskas%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Petras_Vy%C5%A1niauskas"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Petras_Vy%C5%A1niauskas"}]}]
         }
     },
     "PatrickWagner": {
