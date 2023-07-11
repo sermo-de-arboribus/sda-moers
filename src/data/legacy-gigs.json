@@ -25,7 +25,7 @@
     },
     {
       "name": "Europamerica Big Band (FR\/USA)",
-      "description": "Besetzung: Jef Gilson (keys), Francois Couturier (keys), Jean - Louis Chautemps (reeds), Philippe Maté (reeds), Andre Jaumé (reeds, cl), Alain Hatot (reeds), Patrick Bourgoin (reeds), Jacques Di Donato (reeds), Jean - Charles Capon (cello), Pierre-Yves Sorin (b), Jacques (dr), feat. Byard Lancaster (reeds)",
+      "description": "Besetzung: Jef Gilson (keys), Francois Couturier (keys), Jean - Louis Chautemps (reeds), Philippe Maté (reeds), Andre Jaumé (reeds, cl), Alain Hatot (reeds), Patrick Bourgoin (reeds), Jacques Di Donato (reeds), Jean-Charles Capon (vc), Pierre-Yves Sorin (b), Jacques (dr), feat. Byard Lancaster (reeds)",
       "id": "d2e288",
       "start_date": "1979-06-02T00:00:00Z"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "Leo Smith - Roscoe Mitchell Creative Orchestra (USA)",
-      "description": "Besetzung: Leo Smith (tp), Mike Mossmann (tp), Kenny Wheeler (tp), Rob Howard (tp), Douglas Ewart, reeds (cl), Dwight Andrews (reeds), Marty Ehrlich (reeds), Wallace McMillan (reeds), George Lewis (tb), Hugh Ragin (tp), Ray Anderson (tb), Bobby Naughton (vibes), Marilyn Crispell (p), Wes Brown (b), Paul Maddox aka Pheroen AK Laaf (dr), Roscoe Mitchell (reeds)",
+      "description": "Besetzung: Leo Smith (tp), Mike Mossmann (tp), Kenny Wheeler (tp), Rob Howard (tp), Douglas Ewart, reeds (cl), Dwight Andrews (reeds), Marty Ehrlich (reeds), Wallace McMillan (reeds), George Lewis (tb), Hugh Ragin (tp), Ray Anderson (tb), Bobby Naughton (vib), Marilyn Crispell (p), Wes Brown (b), Paul Maddox aka Pheroen AK Laaf (dr), Roscoe Mitchell (reeds)",
       "id": "d2e312",
       "start_date": "1979-06-03T00:00:00Z"
     },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Jimmy Lyons Quartet (USA)",
-      "description": "Besetzung: Jimmy Lyons (reeds), Karen Borca (bassoon), Jay Oliver (b), Paul Mercy (dr)",
+      "description": "Besetzung: Jimmy Lyons (reeds), Karen Borca (bsn), Jay Oliver (b), Paul Mercy (dr)",
       "id": "d2e339",
       "start_date": "1979-06-04T00:00:00Z"
     },
@@ -109,7 +109,7 @@
     },
     {
       "name": "Sun Ra Arkestra (USA)",
-      "description": "Besetzung: Sun Ra (p), John Gilmore (reeds), Marshall Allen (reeds), Danny Thompson (reeds), Leroy Taylor (cl), Michael Ray (tp), James Jackson (bassoon), June Tyson (dance), Arny Wilson (vibes), Richard Wilkinson (special effects)",
+      "description": "Besetzung: Sun Ra (p), John Gilmore (reeds), Marshall Allen (reeds), Danny Thompson (reeds), Leroy Taylor (cl), Michael Ray (tp), James Jackson (bsn), June Tyson (dance), Arny Wilson (vibes), Richard Wilkinson (special effects)",
       "id": "d2e352",
       "start_date": "1979-06-04T00:00:00Z"
     },
@@ -199,7 +199,7 @@
     },
     {
       "name": "Creative Music Orchestra (USA\/GB\/DE)",
-      "description": "Besetzung: Anthony Braxton (reeds), Vinny Golia (reeds, cl), Dwight Andrews (reeds), Edward „Ned“ Rothenberg (reeds), Robert Ostertag (electr), J.D. Parran (reeds), Marty Ehrlich (reeds), Leo Smith (tp, conductor), Rob Howard (tp), Michael Mossmann (tp), Kenny Wheeler (tp), George Lewis (tb), Ray Andersen (tb), Joseph Bowie (tb), James King Roosia (tb), Marilyn Crispell (p), Bobby Naughton (vibraphone), James Emery (g), Birgit Taubhorn (acc), John Lindberg (b), Brian Smith (b), Thurman Barker (dr), Bobo Shaw (dr)",
+      "description": "Besetzung: Anthony Braxton (reeds), Vinny Golia (reeds, cl), Dwight Andrews (reeds), Edward „Ned“ Rothenberg (reeds), Robert Ostertag (electr), J.D. Parran (reeds), Marty Ehrlich (reeds), Leo Smith (tp, conductor), Rob Howard (tp), Michael Mossmann (tp), Kenny Wheeler (tp), George Lewis (tb), Ray Andersen (tb), Joseph Bowie (tb), James King Roosia (tb), Marilyn Crispell (p), Bobby Naughton (vib), James Emery (g), Birgit Taubhorn (acc), John Lindberg (b), Brian Smith (b), Thurman Barker (dr), Bobo Shaw (dr)",
       "id": "d2e433",
       "start_date": "1978-05-14T00:00:00Z"
     },
@@ -223,7 +223,7 @@
     },
     {
       "name": "Leo Smith Trio (USA)",
-      "description": "Besetzung: Leo Smith (tp), Bobby Naughton (vibes), Dwight Andrews (reeds)",
+      "description": "Besetzung: Leo Smith (tp), Bobby Naughton (vib), Dwight Andrews (reeds)",
       "id": "d2e453",
       "start_date": "1978-05-15T00:00:00Z"
     },
@@ -1237,7 +1237,7 @@
     },
     {
       "name": "Canaille (CH\/FRA\/NL\/DK)",
-      "description": "Besetzung: Irène Schweizer (p, dr), Anick Nozati (voc), Marylin Mazur (perc), Anemarie Roloeffs (tb), Co Streif (reeds), Joëlle Léandre (b, performance)",
+      "description": "Besetzung: Irène Schweizer (p, dr), Anick Nozati (voc), Marylin Mazur (perc), Annemarie Roelofs (tb), Co Streif (reeds), Joëlle Léandre (cb, performance)",
       "id": "d3e555",
       "start_date": "1987-06-08T00:00:00Z"
     },
@@ -1411,7 +1411,7 @@
     },
     {
       "name": "Heiner Goebbels \"Compilation-Materialausgabe\" (USA\/Europe)",
-      "description": "Besetzung: Heiner Goebbels (p, keyb) & Arto Lindsay, Hans-Peter Gübert, Heinrich Goebel, Tom Cora, DIE TÖDLICHE DORIS, Dietrich Diedrichsen, John Zorn, Markus Oehlen, Moritz Rrr Reichelt, Fred Frith, Christoph Anders, Walter E.Baumann, Peter Bayreuther, Johannes Beck, Indulis Bilzens, Malte Burba, Frieder Butzmann, Werner Cee, Lindsay Cooper, Chris Cutler, Kurt Dahlke, PYROLATOR, Frank Dietrich, Frank Fenstermacher, Mike Hentz, HYPNOBEAT, Thomas Kapitelski, Johannes Krämer, Nikel List, LUREX 4, BRÄUNUNGSSTUDIO MALARIA, Christian Marclay, Christoph Martin, Peter Pochir, DER PLAN, Rolf Riehm, Annemarie Roelofs, Tobias Rüger, Frank Rühl, Trio, The ESSENTIALS, Andreas Schäfer, Ole Schmidt, Eliott Sharp, Norbert Umsonst, Frank Wolff and many others",
+      "description": "Besetzung: Heiner Goebbels (p, keyb) & Arto Lindsay, Hans-Peter Gübert, Heinrich Goebel, Tom Cora, DIE TÖDLICHE DORIS, Dietrich Diedrichsen, John Zorn, Markus Oehlen, Moritz Rrr Reichelt, Fred Frith, Christoph Anders, Walter E.Baumann, Peter Bayreuther, Johannes Beck, Indulis Bilzens, Malte Burba, Frieder Butzmann, Werner Cee, Lindsay Cooper, Chris Cutler, Kurt Dahlke, PYROLATOR, Frank Dietrich, Frank Fenstermacher, Mike Hentz, HYPNOBEAT, Thomas Kapitelski, Johannes Krämer, Nikel List, LUREX 4, BRÄUNUNGSSTUDIO MALARIA, Christian Marclay, Christoph Martin, Peter Pochir, DER PLAN, Rolf Riehm, Annemarie Roelofs (tb,vl), Tobias Rüger, Frank Rühl, Trio, The ESSENTIALS, Andreas Schäfer, Ole Schmidt, Eliott Sharp, Norbert Umsonst, Frank Wolff and many others",
       "id": "d3e714",
       "start_date": "1985-05-25T00:00:00Z"
     },
@@ -1423,7 +1423,7 @@
     },
     {
       "name": "Mathias Rüegg & Vienna Art Choir feat. Wolfgang Puschnig \/ Christian Radovan (CH\/AUT\/USA\/DE)",
-      "description": "Besetzung: Mathias Rüegg (comp, arr, ld), Renate Bochdansky (soprano), Maria Bayer (alto), Lis Malina (alto), Sharon Natalie (alto), Karin Riessner (alto), Peter Jelosits (tenor voc), Kurt Azesberger (tenor voc), Christof Pinz (b), Lauren Newton (leadvoc, solovoc), Johannes Prinz (b, leader of the choir), Wolfgang Puschnig (as, bcl, fl, picc, exotic fl), Herbert Joos (flh, Alphorn), Christian Radovan (tb), Woody Schabata (dulcimer, xyl)",
+      "description": "Besetzung: Mathias Rüegg (comp, arr, ld), Renate Bochdansky (soprano), Maria Bayer (alto voc), Lis Malina (alto voc), Sharon Natalie (alto voc), Karin Riessner (alto voc), Peter Jelosits (tenor voc), Kurt Azesberger (tenor voc), Christof Pinz (b), Lauren Newton (leadvoc, solovoc), Johannes Prinz (b, leader of the choir), Wolfgang Puschnig (as, bcl, fl, picc, exotic fl), Herbert Joos (flh, Alphorn), Christian Radovan (tb), Woody Schabata (dulcimer, xyl)",
       "id": "d3e725",
       "start_date": "1985-05-26T00:00:00Z"
     },
@@ -1963,7 +1963,7 @@
     },
     {
       "name": "Mike Westbrook Orchestra (GB)",
-      "description": "Besetzung: Mike Westbrook (p, tu), Chris Biscoe (as, ss, bs, fl), Lindsay Cooper (bassoon, oboe, ss) Steve Cook (b, g), Mike Davis (tp), Phil Minton (tp, voc), Dave Barry (dr, perc), Chris Hunter (as, ss, fl), Georgie Born (clo), Alan Sinclair (tu), Kate Westbrook (ten-h, piccolo, voc), Brian Godding (g), Dick Pearce (tp), Malcolm Griffiths (tb)",
+      "description": "Besetzung: Mike Westbrook (p, tu), Chris Biscoe (as, ss, bs, fl), Lindsay Cooper (bsn, oboe, ss) Steve Cook (b, g), Mike Davis (tp), Phil Minton (tp, voc), Dave Barry (dr, perc), Chris Hunter (as, ss, fl), Georgie Born (clo), Alan Sinclair (tu), Kate Westbrook (ten-h, piccolo, voc), Brian Godding (g), Dick Pearce (tp), Malcolm Griffiths (tb)",
       "id": "d3e1269",
       "start_date": "1980-05-24T00:00:00Z"
     },
@@ -2131,7 +2131,7 @@
     },
     {
       "name": "Lindsay Cooper Song Project (GB)",
-      "description": "Besetzung: Lindsay Cooper (comp), Veryan Weston (p, arr), Phil Minton (voc), Maggie Nichols (voc), Dean Brodrick (keyb, bassoon), Paul Jayasinha (tp, clo), Ian Mitchell (bcl), Robyn Schulkowsky (perc)",
+      "description": "Besetzung: Lindsay Cooper (comp), Veryan Weston (p, arr), Phil Minton (voc), Maggie Nichols (voc), Dean Brodrick (keyb, bsn), Paul Jayasinha (tp, clo), Ian Mitchell (bcl), Robyn Schulkowsky (perc)",
       "id": "d4e324",
       "start_date": "1999-05-23T00:00:00Z"
     },
@@ -2665,7 +2665,7 @@
     },
     {
       "name": "Die Knödel (AUT)",
-      "description": "Besetzung: Cathi Aglibut (vl), Christof Dienz (bassoon, Chefcompositeur), Julia Feigl (v, hölzernes Gelächter), Margreth Köll (harp), Michael Öttl (g), Andres Lackner (tp, horn), Alexandra Pedarnig (b, Hackbrett), Walter Seebacher (cl, Hackbrett)",
+      "description": "Besetzung: Cathi Aglibut (vl), Christof Dienz (bsn, Chefcompositeur), Julia Feigl (v, hölzernes Gelächter), Margreth Köll (harp), Michael Öttl (g), Andres Lackner (tp, horn), Alexandra Pedarnig (b, Hackbrett), Walter Seebacher (cl, Hackbrett)",
       "id": "d4e807",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -2785,7 +2785,7 @@
     },
     {
       "name": "The Waste Watchers (DE)",
-      "description": "Besetzung: Annemamie Roelofs (tb, v, tapes, Hörrohr) Johannes Krämer (g, electr. tapes), Dirk Marwedel (as, ss, electr)",
+      "description": "Besetzung: Annemamie Roelofs (tb, vl, tapes, Hörrohr) Johannes Krämer (g, electr. tapes), Dirk Marwedel (as, ss, electr)",
       "id": "d4e913",
       "start_date": "1993-05-29T00:00:00Z"
     },
@@ -3103,7 +3103,7 @@
     },
     {
       "name": "Eugene Chadbourne & Daffy Duck Dozen (USA)",
-      "description": "Besetzung: Dr. Eugene Chadbourne (g), Ashwin Batish (sitar), Jimmy Carl Black (dr), Evan Johns (g, lap steel), Don Preston (electr), Murray Reams (perc), Brian Ritchie (b), Leslie Ross (bassoon), Jonathan Segel (v, mand), Tony Trischka (bjo), Chris Turner (harp), Bob Wiseman (acc)",
+      "description": "Besetzung: Dr. Eugene Chadbourne (g), Ashwin Batish (sitar), Jimmy Carl Black (dr), Evan Johns (g, lap steel), Don Preston (electr), Murray Reams (perc), Brian Ritchie (b), Leslie Ross (bsn), Jonathan Segel (v, mand), Tony Trischka (bjo), Chris Turner (harp), Bob Wiseman (acc)",
       "id": "d4e1179",
       "start_date": "1991-05-19T00:00:00Z"
     },
@@ -3145,7 +3145,7 @@
     },
     {
       "name": "Sean Bergin's Mob (NL)",
-      "description": "Besetzung: Sean Bergin (reeds), Eric Boeren (tp), Walter Wierbos (tb), Paul Stocker (reeds), Tobias Delius (reeds), Jan Willem van der Ham (as, bassoon), Franky Douglas (g), Alex Maguire (p), Tristan Honsinger (clo), Ernst Glerum (b), Martin van Duynhoven (dr)",
+      "description": "Besetzung: Sean Bergin (reeds), Eric Boeren (tp), Walter Wierbos (tb), Paul Stocker (reeds), Tobias Delius (reeds), Jan Willem van der Ham (as, bsn), Franky Douglas (g), Alex Maguire (p), Tristan Honsinger (clo), Ernst Glerum (b), Martin van Duynhoven (dr)",
       "id": "d4e1226",
       "start_date": "1990-06-01T00:00:00Z"
     },
@@ -3667,7 +3667,7 @@
     },
     {
       "name": "Frischzelle at moers festival (Berlin/Köln \u2012 Peking \u2012 Trondheim\/Oslo)",
-      "description": "Besetzung: Eric Schaefer (dr), Clayton Thomas (b), Lu Hübsch (tu), Axel Dörner (tp), Matthias Muche (tb), Sven Hahne (electr), Wu Na_ghu (zheng), „\u00848gg\u0093“ Fu Yu (electr, visuals), Jia Haiqing (electr, visuals), Yan Jun (electr), Shenggy (dr), Klaus Holm (as, cl), Kim Myhr (g), Martin Taxt (tu), Lars Myrvoll (electr), Eivind Lønning (tp), Espen Reinertsen (ts, fl)",
+      "description": "Besetzung: Eric Schaefer (dr), Clayton Thomas (b), Lu Hübsch (tu), Axel Dörner (tp), Matthias Muche (tb), Sven Hahne (electr), Wu Na (zheng), „\u00848gg\u0093“ Fu Yu (electr, visuals), Jia Haiqing (electr, visuals), Yan Jun (electr), Shenggy (dr), Klaus Holm (as, cl), Kim Myhr (g), Martin Taxt (tu), Lars Myrvoll (electr), Eivind Lønning (tp), Espen Reinertsen (ts, fl)",
       "id": "d5e608",
       "start_date": "2007-05-28T00:00:00Z"
     },
@@ -3841,7 +3841,7 @@
     },
     {
       "name": "La Cité Invisible (ESP\/MAR\/FRA)",
-      "description": "Besetzung: Majid Bekass (voc), Ines Bacan (voc), Pedro Soler (g), Benat Achiary (voc), Ramon Lopez (dr, perc)",
+      "description": "Besetzung: Majid Bekass (voc), Inés Bacán (voc), Pedro Soler (g), Benat Achiary (voc), Ramon Lopez (dr, perc)",
       "id": "d5e780",
       "start_date": "2005-05-14T00:00:00Z"
     },
@@ -4213,7 +4213,7 @@
     },
     {
       "name": "Kazutoki Umezu \u0084KiKi\" Band (JPN)",
-      "description": "Besetzung: Kazutoki Umezu (as), Kido Natsuki (eg), Hayakawa Takeharu (eb), Niida Kozo (dr)",
+      "description": "Besetzung: Kazutoki Umezu (as), Kido Natsuki (el-g), Hayakawa Takeharu (el-b), Niida Kozo (dr)",
       "id": "d5e1160",
       "start_date": "2003-06-09T00:00:00Z"
     },
@@ -4225,7 +4225,7 @@
     },
     {
       "name": "Sanda Weigl & Gipsy Killer (DE\/USA)",
-      "description": "Besetzung: Sanda Weigl (voc), Anthony Coleman (p, key), Ted Reichman (acc), Doug Wiselman (cl), Curtis Hasselbrink (tb), Pablo Aslan (b), Roberto Rodriguez (dr)",
+      "description": "Besetzung: Sanda Weigl (voc), Anthony Coleman (p, key), Ted Reichman (acc), Doug Wiselman (cl), Curtis Hasselbring (tb), Pablo Aslan (b), Roberto Rodriguez (dr)",
       "id": "d5e1171",
       "start_date": "2003-06-09T00:00:00Z"
     },
@@ -4537,7 +4537,7 @@
     },
     {
       "name": "Cándido Fabre y su Banda (CUB)",
-      "description": "Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (v), Juan Simon Castillo Peña (v), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuela (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbals)",
+      "description": "Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (vl), Juan Simon Castillo Peña (v), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuela (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbals)",
       "id": "d5e1503",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4813,7 +4813,7 @@
     },
     {
       "name": "Le Grotorkèstre (FRA)",
-      "description": "Besetzung: Etienne Roche (ld, tb), Michèle Véronique (v), Marie Garait (hélicon), Pierre Flory (tu), Claudie Bouchet (tp), Elisabeth Gavalda (tp), Radek Klukowski (tp), Gilles Polzat (tp), Didier Pugeat (tp), Michel Barraud (tb), Michael Buxton (tb), Yves Marceau (tb), Phillipe Blin (fl), Michel Souyri (cl), Olivier Darcissac (cl), Nanoune Faure (ss), Chris Chanet (bs), Johannès Leis (bs), Laurent Bigot (as), Thérèse Bosc (as), Nicolas Lanier (as), Jacky Bethular (ts), Doro Di Manta (ts), Christian Verdot (ts), Philippe Neveu (ob), Viviane Estavoyer (bassoon), Marie-Claire Dupuy (vib), Agnès Binet (acc), Guy Marrec (g), Frédéric Vincent (contra-b), Marc Altavilla (perc), Jano Athénol (dr), Jean-Michel Girard (dr)",
+      "description": "Besetzung: Etienne Roche (ld, tb), Michèle Véronique (v), Marie Garait (hélicon), Pierre Flory (tu), Claudie Bouchet (tp), Elisabeth Gavalda (tp), Radek Klukowski (tp), Gilles Polzat (tp), Didier Pugeat (tp), Michel Barraud (tb), Michael Buxton (tb), Yves Marceau (tb), Phillipe Blin (fl), Michel Souyri (cl), Olivier Darcissac (cl), Nanoune Faure (ss), Chris Chanet (bs), Johannès Leis (bs), Laurent Bigot (as), Thérèse Bosc (as), Nicolas Lanier (as), Jacky Bethular (ts), Doro Di Manta (ts), Christian Verdot (ts), Philippe Neveu (ob), Viviane Estavoyer (bsn), Marie-Claire Dupuy (vib), Agnès Binet (acc), Guy Marrec (g), Frédéric Vincent (contra-b), Marc Altavilla (perc), Jano Athénol (dr), Jean-Michel Girard (dr)",
       "id": "d5e1785",
       "start_date": "2000-06-12T00:00:00Z"
     },
@@ -4825,7 +4825,7 @@
     },
     {
       "name": "Louis Sclavis New Quintet (FRA)",
-      "description": "Besetzung: Louis Sclavis (cl), Vincent Courtois (clo), Jean Luc Cappozzo (tp), Bruno Chevillon (b), François Merville (dr)",
+      "description": "Besetzung: Louis Sclavis (cl), Vincent Courtois (vc), Jean-Luc Cappozzo (tp), Bruno Chevillon (b), François Merville (dr)",
       "id": "d5e1795",
       "start_date": "2000-06-12T00:00:00Z"
     },
@@ -4879,7 +4879,7 @@
     },
     {
       "name": "Nate Wooley's Seven Storey Mountain (USA\/DE\/AUT\/CH\/SWE\/NOR)",
-      "description": "Besetzung: Nate Wooley (amplified tp), C. Spencer Yeh (amplified vl), Samara Lubelski (amplified vl), Julien Depresz (el-g), Ryan Sawyer (dr), Ben Hall (dr), Emilio Gordoa (vib), Steve Heather (vib), Marc Unternährer (tu), Chris Heenan (bcl), Per Johansson (bcl), Damir Bacikin (ptr), Nils Ostendorf (tr), Nikolaus Neuser (tr), Matthias Mueller (tn), Hilary Jeffrey (tn), Matthias Muche (btn)",
+      "description": "Besetzung: Nate Wooley (amplified tp), C. Spencer Yeh (amplified vl), Samara Lubelski (amplified vl), Julien Depresz (el-g), Ryan Sawyer (dr), Ben Hall (dr), Emilio Gordoa (vib), Steve Heather (vib), Marc Unternährer (tu), Chris Heenan (bcl), Per Johansson (bcl), Damir Bacikin (tp), Nils Ostendorf (tp), Nikolaus Neuser (tp), Matthias Mueller (tn), Hilary Jeffrey (tn), Matthias Muche (btn)",
       "id": "d6e286",
       "start_date": "2018-05-18T00:00:00Z"
     },
@@ -5005,7 +5005,7 @@
     },
     {
       "name": "Siddi Traces (GER\/IND)",
-      "description": "Besetzung: Julia Brüssel (vl, elec), Ludger Schmidt (clo, elec), Sourendro (p, harmonium), Soumyojit (voc), Biswajit (tablas), Achim Zepezauer (electronics)",
+      "description": "Besetzung: Julia Brüssel (vl, elec), Ludger Schmidt (clo, elec), Sourendro (p, harmonium), Soumyojit (voc), Biswajit (tablas), Achim Zepezauer (elec)",
       "id": "d6e383",
       "start_date": "2018-05-21T00:00:00Z"
     },
@@ -5761,7 +5761,7 @@
     },
     {
       "name": "Carla Bley \u0084La Leçon Française\u0093 (USA\/SWE\/DE)",
-      "description": "Besetzung: Carla Bley (cond), Steve Swallow (b), Bohuslän Big Band: Lennart Grahn (tp), Staffan Svensson (tp), Samuel Olsson (tp), Jan Eliasson (tp), Niclas Rydh (tb), Christer Olofsson (tb), Peter Jensen (tb), Anders Wiborg (tb), Johan Borgström (sax), Joakim Rolandson (sax), Ove Ingemarsson (sax), Mikael Karlsson (sax), Alberto Pinton (sax), Tommy Kotter (p), Göran Kroon (dr), Björn Samuelsson (producer), Ralph Soovik (producer), Dortmund Choral Academy Boys Choir, Jost Salm (künstl. Leitung), Dietrich Bednarz (Einstudierung)",
+      "description": "Besetzung: Carla Bley (cond), Steve Swallow (b), Bohuslän Big Band: Lennart Grahn (tp), Staffan Svensson (tp), Samuel Olsson (tp), Jan Eliasson (tp), Niclas Rydh (tb), Christer Olofsson (tb), Peter Jensen (tb), Anders Wiborg (tb), Johan Borgström (sax), Joakim Rolandson (sax), Ove Ingemarsson (sax), Mikael Karlsson (sax), Alberto Pinton (sax), Tommy Kotter (p), Göran Kroon (dr), Björn Samuelsson (producer), Ralph Soovik (producer), Dortmund Choral Academy Boys Choir (choir), Jost Salm (ld), Dietrich Bednarz (Einstudierung)",
       "id": "d6e1098",
       "start_date": "2012-05-27T00:00:00Z"
     },
@@ -5785,7 +5785,7 @@
     },
     {
       "name": "Iceland's New Liberation Orchestra (ISL)",
-      "description": "Besetzung: Haukur Gröndal (reeds, as, cl, fl), Jesper Lövdal (sax), Birkir Freyr Matthíasson (tp, flh), Samúel J. Samúelsson (tb), Gunnlaugur Gudmundsson (b), Þorgrímur Jónsson (b), Pétur Grétarsson (perc, elec), Scott McLemore (d)",
+      "description": "Besetzung: Haukur Gröndal (reeds, as, cl, fl), Jesper Lövdal (sax), Birkir Freyr Matthíasson (tp, flh), Samúel Jón Samúelsson (tb), Gunnlaugur Gudmundsson (b), Þorgrímur Jónsson (b), Pétur Grétarsson (perc, elec), Scott McLemore (d)",
       "id": "d6e1135",
       "start_date": "2011-06-10T00:00:00Z"
     },
@@ -5869,7 +5869,7 @@
     },
     {
       "name": "La-33 (CO)",
-      "description": "Besetzung: Guillermo Celis (voc), David Cantillo (voc), Pablo Martinez (voc), Roland Nieto (tp), Vladimir Romero (tb), Jose Miguel Vega (tb), Felipe Cardenas (sax), Santiago Mejia (keys), Sergio Mejia (b), Cipriano Rojas (congas), Juan David Fernandez (timbales), Diego Sanchez (bongos)",
+      "description": "Besetzung: Guillermo Celis (voc), David Cantillo (voc), Pablo Martinez (voc), Roland Nieto (tp), Vladimir Romero (tb), Jose Miguel Vega (tb), Felipe Cardenas (sax), Santiago Mejia (keys), Sergio Mejia (b), Cipriano Rojas (congas), Juan David Fernandez (timbales), Diego Sanchez (bo)",
       "id": "d6e1210",
       "start_date": "2011-06-11T00:00:00Z"
     },
@@ -5947,7 +5947,7 @@
     },
     {
       "name": "La-33 (CO) - Latin Dance Nights@Bollwerk",
-      "description": "Besetzung: Guillermo Celis (voc), David Cantillo (voc), Pablo Martinez (voc), Roland Nieto (tp), Vladimir Romero (tb), Jose Miguel Vega (tb), Felipe Cardenas (sax), Santiago Mejia (keys), Sergio Mejia (b), Cipriano Rojas (congas), Juan David Fernandez (timbales), Diego Sanchez (bongos)",
+      "description": "Besetzung: Guillermo Celis (voc), David Cantillo (voc), Pablo Martinez (voc), Roland Nieto (tp), Vladimir Romero (tb), Jose Miguel Vega (tb), Felipe Cardenas (sax), Santiago Mejia (keys), Sergio Mejia (b), Cipriano Rojas (congas), Juan David Fernandez (timbales), Diego Sanchez (bo)",
       "id": "d6e1278",
       "start_date": "2011-06-12T00:00:00Z"
     },

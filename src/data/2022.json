@@ -1475,9 +1475,9 @@
         "collection": "festival22",
         "artists": [
             "Francesco Bigoni (reeds)",
-            "Francesco Diodati (guitar)",
-            "Beno\u00eet Delbecq (piano)",
-            "Steve Arg\u00fcelles (drums)"
+            "Francesco Diodati (g)",
+            "Beno\u00eet Delbecq (p)",
+            "Steve Arg\u00fcelles (dr)"
         ],
         "duration": 40,
         "place": {
@@ -2028,8 +2028,8 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Asaf Schorl (bass)",
-                "Sana Nagano (violin)",
+                "Asaf Schorl (b)",
+                "Sana Nagano (vl)",
                 "Florian Walter (reeds)",
                 "Alfred Vogel (dr)"
             ],
@@ -2045,8 +2045,8 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Asaf Schorl (bass)",
-            "Sana Nagano (violin)",
+            "Asaf Schorl (b)",
+            "Sana Nagano (vl)",
             "Florian Walter (reeds)",
             "Alfred Vogel (dr)"
         ],
@@ -4231,9 +4231,9 @@
                 "Nicole Mitchell (fl)",
                 "Kolatt (performance)",
                 "Aung Kyaw Soe (maung zaing \/ chromatisches Gongspiel)",
-                "Francesco Diodati (guitar)",
+                "Francesco Diodati (g)",
                 "U Kyie Myint (chauk lone pat \/ Basstrommeln)",
-                "Michael Vatcher (drums)",
+                "Michael Vatcher (dr)",
                 "Ye Min Thu (si \/ wa \/ perc)",
                 "Achim Zepezauer (video)"
             ],
@@ -4255,9 +4255,9 @@
             "Nicole Mitchell (fl)",
             "Kolatt (performance)",
             "Aung Kyaw Soe (maung zaing \/ chromatisches Gongspiel)",
-            "Francesco Diodati (guitar)",
+            "Francesco Diodati (g)",
             "U Kyie Myint (chauk lone pat \/ Basstrommeln)",
-            "Michael Vatcher (drums)",
+            "Michael Vatcher (dr)",
             "Ye Min Thu (si \/ wa \/ perc)",
             "Achim Zepezauer (video)"
         ],
@@ -7380,10 +7380,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Ambra Chiara Michelangeli (viola)",
-                "Francesco Diodati (guitar)",
-                "Francesco Guerri (cello)",
-                "Stefano Calderano (guitar)"
+                "Ambra Chiara Michelangeli (va)",
+                "Francesco Diodati (g)",
+                "Francesco Guerri (vc)",
+                "Stefano Calderano (g)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket"
@@ -7397,10 +7397,10 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Ambra Chiara Michelangeli (viola)",
-            "Francesco Diodati (guitar)",
-            "Francesco Guerri (cello)",
-            "Stefano Calderano (guitar)"
+            "Ambra Chiara Michelangeli (va)",
+            "Francesco Diodati (g)",
+            "Francesco Guerri (vc)",
+            "Stefano Calderano (g)"
         ],
         "duration": 50,
         "place": {
@@ -7726,11 +7726,11 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Jonathan Goldberger (git)",
-                "Philipp Moser (drums)",
-                "Jason Roebke (bass)",
+                "Jonathan Goldberger (g)",
+                "Philipp Moser (dr)",
+                "Jason Roebke (b)",
                 "John Dikeman (sax)",
-                "Mat Muntz (bass)"
+                "Mat Muntz (b)"
             ],
             "collection": "festival22",
             "tickets": "ben\u00f6tigt kein Ticket"
@@ -7744,11 +7744,11 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Jonathan Goldberger (git)",
-            "Philipp Moser (drums)",
-            "Jason Roebke (bass)",
+            "Jonathan Goldberger (g)",
+            "Philipp Moser (dr)",
+            "Jason Roebke (b)",
             "John Dikeman (sax)",
-            "Mat Muntz (bass)"
+            "Mat Muntz (b)"
         ],
         "duration": 40,
         "place": {
@@ -7790,7 +7790,7 @@
         "extras": {
             "lineup": [
                 "Gon\u00e7alo Almeida (el-b)",
-                "Francesco Diodati (guitar)",
+                "Francesco Diodati (g)",
                 "Almut K\u00fchne (voc)",
                 "Laura Polence (voc)",
                 "Steffen Müller (visual design)"
@@ -7808,7 +7808,7 @@
         "collection": "festival22",
         "artists": [
             "Gon\u00e7alo Almeida (el-b)",
-            "Francesco Diodati (guitar)",
+            "Francesco Diodati (g)",
             "Almut K\u00fchne (voc)",
             "Laura Polence (voc)",
             "Steffen Müller (visual design)"
@@ -8042,7 +8042,7 @@
         "extras": {
             "lineup": [
                 "Philip Zoubek (synth)",
-                "Simon Nabatov (piano)",
+                "Simon Nabatov (p)",
                 "Jozef Dumoulin (fender rhodes)"
             ],
             "collection": "festival22",
@@ -8058,7 +8058,7 @@
         "collection": "festival22",
         "artists": [
             "Philip Zoubek (synth)",
-            "Simon Nabatov (piano)",
+            "Simon Nabatov (p)",
             "Jozef Dumoulin (fender rhodes)"
         ],
         "duration": 45,
@@ -8110,7 +8110,7 @@
                 "Tina Tonagel (performance, installation)",
                 "AI by Recursion (artificial intelligence)",
                 "Bart Maris (tp)",
-                "Florina Speth (clo)",
+                "Florina Speth (vc)",
                 "Kay Sievers (robots)"
             ],
             "collection": "festival22",
@@ -8917,10 +8917,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Tomeka Reid (cello)",
-                "Mary Halvorson (guitar)",
-                "Jason Roebke (bass)",
-                "Tomas Fujiwara (drums)"
+                "Tomeka Reid (vc)",
+                "Mary Halvorson (el-g)",
+                "Jason Roebke (b)",
+                "Tomas Fujiwara (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -8934,10 +8934,10 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Tomeka Reid (cello)",
-            "Mary Halvorson (guitar)",
-            "Jason Roebke (bass)",
-            "Tomas Fujiwara (drums)"
+            "Tomeka Reid (vc)",
+            "Mary Halvorson (el-g)",
+            "Jason Roebke (b)",
+            "Tomas Fujiwara (dr)"
         ],
         "duration": 45,
         "place": {

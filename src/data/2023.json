@@ -106,8 +106,8 @@
         "artists": [
             "Lukas Ligeti (comp)",
             "Guylaine Cosseron (voc)",
-            "Jean-Sébastien Mariage (e-g)",
-            "Jean-Luc Petit (ccl, sax)",
+            "Jean-Sébastien Mariage (el-g)",
+            "Jean-Luc Petit (cbcl, sax)",
             "Gaël Mevel (vclo)",
             "Sophia Domancich (p)",
             "Amélie Grould (perc)",
@@ -141,7 +141,7 @@
         "name": "Limosa Limosa (FI, GQ, NL)",
         "start_date": "2023-05-26T23:15:00+02:00",
         "description": "Etwas übermütig drehte das moers festival den Globus und patschte mit verbundenen Augen im ersten Versuch auf den afrikanischen Äquator. Mit Entsetzen stellte es fest, dass ausgerechnet Äquatorialguinea überhaupt keine Berührung mit der gedachten Linie hatte, sondern Landmasse und Inseln irgendwie versprengt waren. Durch die Drehung des Globus fiel allerdings unser Lieblingsbuch über Vogelkunde um, und blieb mit den Seiten über die Uferschnepfe und den Säbelschnäbler geöffnet liegen. Limosa Limosa war geboren – oder war es doch der Pied Avocet? Wie schön, dass so manche bunten Vögel vom Äquator im Sommer bis Holland und an den Niederrhein reisen. Wie schön, dass sie es sich im Winter dann südlich der Sahara und sogar auf Bioko im Warmen gemütlich machen. Die Uferschnepfe schreibt im Winter heimlich Jazzrockopern. Und sie nutzt die Zeit auf Bioko, um sich für den Sommer schöne, bunte Kleider zu schneidern. Wobei der Säbelschnäbler selbst einfach wirklich kein guter Ornithologe ist. Kennt er nichtmal Ikot, den bunten Woodpecker? Oder den finnischen Seenvogel Szafirowski?",
-        "artists": ["Nelida Karr (voc, g)","Jan Mikael Szafirowski (e-g)", "Solomon Eduok (p)","Luc Ex (b)", "Alex Ikot (dr)"]
+        "artists": ["Nelida Karr (voc, g)","Jan Mikael Szafirowski (el-g)", "Solomon Eduok (p)","Luc Ex (b)", "Alex Ikot (dr)"]
     },
     {
         "id": 2023015,
@@ -294,7 +294,7 @@
         "name": "Ensemble Icosikaihenagone / Volumes II, fiction for musicians only (AT, CH, FR)",
         "start_date": "2023-05-27T17:00:00+02:00",
         "description": "Mit einer Besetzung aus verschiedenen Instrumenten und einer unkonventionellen Herangehensweise an Komposition und Improvisation schafft das 21-köpfige Ensemble Icosikaihenagone unter der Leitung des französischen Komponisten und Bassisten Benjamin Duboc eine faszinierende Klanglandschaft. Die Musiker*innen lassen sich von unterschiedlichen Epochen und Stilen inspirieren - von traditionellen Volksweisen über moderne Klassik bis hin zu experimentellen Klängen.",
-        "artists": ["Benjamin Duboc (b)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (as)", "Mathias Naon (vl)", "Gaël Mevel (clo)", "Jean Daufresne (tu)", "Jean-Sébastien Mariage (e-git)", "Diemo Schwarz (electr)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (ccl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
+        "artists": ["Benjamin Duboc (cb)", "Sophia Domancich (p)", "Amélie Grould (perc)", "Frantz Loriot (va)", "Mathias Naon (vl)", "Gaël Mevel (vc)", "Jean Daufresne (tu)", "Jean-Sébastien Mariage (el-g)", "Diemo Schwarz (electr)", "Thierry Waziniak (perc)", "Christiane Bopp (tb)", "Jean-Luc Cappozzo (tp)", "Alexis Persigan (tb)", "Jean-Luc Petit (cbcl, sax)", "Isabelle Duthoit (voc, cl)", "Franz Hautzinger (tp)", "Guylaine Cosseron (voc)", "Dorian Marcel (b)", "Patricia Bosshard (vl)"]
     },
     {
         "id": 2023036,
@@ -357,7 +357,7 @@
         "name": "The Gavin Bryars Ensemble (UK)",
         "start_date": "2023-05-27T22:45:00+02:00",
         "description": "Das The Gavin Bryars Ensemble ist ein erweitertes Streichquartett unter der Leitung des britischen Komponisten, Bassisten und Pianisten Gavin Bryars. In den 60er Jahren war er als Jazzbassist tätig, bevor er sich der Minimal- und Experimentalmusik zuwandte. Seine konsequente und fast stoische kompositorische Haltung, hymnisch-harmonische Sätze mit dissonanten und geräuschhaften Neurotransmittern zu kontrastieren, zu dekonstruieren, erfordert lange Bögen und die Zeit, sich auf diese Tiefen einzulassen. Bryars’ „The Sinking of the Titanic“ (1975) wirkt erschreckend aktuell, „Jesus’ Blood Never Failed Me Yet“ brachte sogar Tom Waits in Bryars’ Gedankenwelt. Der große -WERT- seines Schaffens zwischen Neuer und Alter Musik liegt vielleicht in der erfrischend leichten Verbindung von Sinnlichkeit, Witz, DEMUT und Entschleunigung. Den Botenstoff GABA braucht man während dieses 90-minütigen Konzertes definitiv nicht.",
-        "artists": ["Morgan Goff (vl)", "Nick Cooper (vcl)", "Audrey Riley (vcl)", "James Woodrow (e-git)", "Yuri Bryars (b, p)", "Gavin Bryars (b, p)"]
+        "artists": ["Morgan Goff (vl)", "Nick Cooper (vcl)", "Audrey Riley (vcl)", "James Woodrow (el-g)", "Yuri Bryars (b, p)", "Gavin Bryars (b, p)"]
     },
     {
         "id": 2023045,
@@ -379,7 +379,7 @@
         "start_date": "2023-05-28T11:00:00+02:00",
         "end_date": "2023-05-28T11:30:00+02:00",
         "description": "",
-        "artists": ["Aki Rissanen (p)", "Jesse Zubot (vl)", "Raymond MacDonald (as)", "Sissel Vera Pettersen (voc)", "Jean-luc Cappozzo (tp)"]
+        "artists": ["Aki Rissanen (p)", "Jesse Zubot (vl)", "Raymond MacDonald (as)", "Sissel Vera Pettersen (voc)", "Jean-Luc Cappozzo (tp)"]
     },
     {
         "id": 2023048,
@@ -387,7 +387,7 @@
         "start_date": "2023-05-28T11:35:00+02:00",
         "end_date": "2023-05-28T12:00:00+02:00",
         "description": "",
-        "artists": ["Gonçalo Almeida (el-b)", "Raissa Mehner (git)", "Jean-Sébastien Mariage (e-git)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
+        "artists": ["Gonçalo Almeida (el-b)", "Raissa Mehner (git)", "Jean-Sébastien Mariage (el-g)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
     },
     {
         "id": 2023049,
@@ -395,7 +395,7 @@
         "start_date": "2023-05-28T12:05:00+02:00",
         "end_date": "2023-05-28T12:30:00+02:00",
         "description": "",
-        "artists": ["Damon Smith (cb)", "Klaus Kugel (dr)", "Franz Hautzinger (tp)", "Anke Lucks (tb)", "Jean-Luc Petit (cbcl, sax)", "Benjamin Duboc (bs)"]
+        "artists": ["Damon Smith (cb)", "Klaus Kugel (dr)", "Franz Hautzinger (tp)", "Anke Lucks (tb)", "Jean-Luc Petit (cbcl, sax)", "Benjamin Duboc (cb)"]
     },
     {
         "id": 2023050,
@@ -459,9 +459,9 @@
         "start_date": "2023-05-28T18:20:00+02:00",
         "description": "In Anspielung auf György Ligetis Oper Le Grand Macabre, die ihn zu einem der wichtigsten Komponisten der Neuen Musik machte, entsteht mit le petit macabre zum 100. Geburtstag Ligetis ein neues Arrangement seiner Werke, das sich über seinen gesamten Schaffenszeitraum erstreckt.",
         "artists": ["Lukas Döhler (artistic direction, arragement)", "Ferdinand Heuberger(comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
-            "Justin Cherry (fg)", "Sofie Berge (h)", "Severin Haslach (vlc)", "Femke Ehrentraut (v)", "Andreas Osterloh (as)",
+            "Justin Cherry (fg)", "Sofie Berge (h)", "Severin Haslach (vc)", "Femke Ehrentraut (vl)", "Andreas Osterloh (as)",
             "Maximilian Dickel (git)", "Juliana Dickel (ss)", "Judith Pfeiffer (fl)", "Jonah Pfeiffer (dr)", "Niklas Scheusener (cl)", 
-            "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (v, voc)"]
+            "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (vl, voc)"]
     },
     {
         "id": 2023059,
@@ -511,7 +511,7 @@
         "start_date": "2023-05-28T19:20:00+02:00",
         "description": "Unter der Leitung der französischen Komponistin und Pianistin Eve Risser lässt das zwölfköpfige Red Desert Orchestra europäische Orchesterfarben mit westafrikanischen Klangteppichen verschmelzen, ohne dabei die Bedeutung der beiden Traditionen zu schmälern. Risser fügt ihrem Red Desert Orchestra 2023 sowohl westafrikanische Balafone, Djemben und Bara hinzu sowie Sounds von Synthesizern und E-Gitarre, die sich mit Melodien und Arrangements für Holz und Blech homogen und mitunter hypnotisch verbinden. Damit schafft sie einen polyrhythmisch-orchestralen Spannungsaufbau, der das Erbe des legendären Sun Ra Arkestra wieder aufleuchten lässt. Rissers Klangwelt zieht die Zuhörenden in hypnotische Schleifen, die zu einer spirituellen und nomadischen Erfahrung führen, aus der die brillianten Solist:innen frei und mutig aufbrechen!",
         "artists": ["Eve Risser (comp, p, voc)", "Antonin-Tri Hoang (as, analog synth)", "Sakina Abdou (ts)", "Grégoire Tirtiaux (bs, qarqabas)",
-            "Nils Ostendorf (tp, analog synth)", "Matthias Müller (tb)", "Tatiana Paris (e-git, voc)", "Ophélia Hié (balafon, bara, voc)",
+            "Nils Ostendorf (tp, analog synth)", "Matthias Müller (tb)", "Tatiana Paris (el-g, voc)", "Ophélia Hié (balafon, bara, voc)",
             "Mélissa Hié (balafon, djembe, voc)", "Fanny Lasfargues (electro-acoustic bass)", "Oumarou Bambara (djembe, bara)",
             "Emmanuel Scarpa (drums, voice)", "Celine Grangey (sound engineer)", "Laurent Carrier (production)"]
     },
@@ -571,7 +571,7 @@
         "name": "Mariachi (FR)",
         "start_date": "2023-05-28T22:50:00+02:00",
         "description": "Konzert auf hoher See. Am Boden bei den Tretminen. Kontrolliertes Clustergetöse aus Frequenzbergen und drone-Kavenzmännern. Bytes, Knacken, Sirren, Elmsfeuerwork, Single-coil-Geswitche, nicht zuviel Distortion in den oberen Mitten, Jammerhaken hart am Wind, der Korpus schafft das easy. Eins mit dem Holz und den sechs Seilen. Ich segle mich frei… Ein Blick übers Vorderdeck, auf dem ein Typ mit Jesusfrisur, Kreuz und Bierbauch, Tattoos, Kutte und schmierigen Haaren herumstrolcht - Shit, hab ich dafür angeheuert? Als Schiffzimmermensch geschuftet, um mir diesen fetten Amp für meine wohlfein dosierten Feedbackschleifen zusammenzusparen? Nein, ich fand schon die Stones immer scheisse und all diese anderen Metal-Powerchord-Vollhonks. Und Du Jesus, du wirst von mir auch nicht einen einzigen Sound hören, der so oder so ähnlich klingt. Ah, bist gar nicht mehr da - wahrscheinlich schon wieder unter Deck. … Uh, ok… Bierbauch ist Jazzfan und schwimmt rüber zum Rodelberg. Ahoi Kapitän!",
-        "artists": ["Nina Garcia (e-g)"]
+        "artists": ["Nina Garcia (el-g)"]
     },
     {
         "id": 2023073,
@@ -627,7 +627,7 @@
         "name": "Moers Sessions 2023 #4",
         "start_date": "2023-05-29T12:05:00+02:00",
         "end_date": "2023-05-29T12:30:00+02:00",
-        "artists": ["Tatiana Paris (e-git, voc)", "Gebhard Ullmann (sax)", "Matthias Müller (tb)", "Damon Smith (cb)", "Emmanuel Scarpa (drums)"]
+        "artists": ["Tatiana Paris (el-g, voc)", "Gebhard Ullmann (sax)", "Matthias Müller (tb)", "Damon Smith (cb)", "Emmanuel Scarpa (drums)"]
     },
     {
         "id": 2023081,
