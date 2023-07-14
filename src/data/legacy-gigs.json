@@ -571,7 +571,7 @@
     },
     {
       "name": "Third Eye (NL\/CHN)",
-      "description": "Besetzung: Jan Huydts (el-p, reeds), Nippi Noya (congas), Ali Haurand (b), Leo de Reuter (dr, perc), Frank Köllges (e-p, dr)",
+      "description": "Besetzung: Jan Huydts (el-p, reeds), Nippi Noya (congas), Ali Haurand (b), Leo de Reuter (dr, perc), Frank Köllges (el-p, dr)",
       "id": "d2e777",
       "start_date": "1975-05-18T00:00:00Z"
     },
@@ -811,7 +811,7 @@
     },
     {
       "name": "Gunter Hampel Galaxie Dream Band (USA)",
-      "description": "Besetzung: Gunter Hampel (vib, bcl, p), Jeanne Lee (voice), Perry Robinson (cl), Mark Whitecage (a-cl, fl), Allan Praskin (reeds), Jack Gregg (b), Jonathan Kline (v), Charlie Miller (tp, fl-h)",
+      "description": "Besetzung: Gunter Hampel (vib, bcl, p), Jeanne Lee (voice), Perry Robinson (cl), Mark Whitecage (a-cl, fl), Allan Praskin (reeds), Jack Gregg (b), Jonathan Kline (vl), Charlie Miller (tp, fl-h)",
       "id": "d2e1001",
       "start_date": "1973-06-11T00:00:00Z"
     },
@@ -853,7 +853,7 @@
     },
     {
       "name": "Karl Berger Company (USA)",
-      "description": "Besetzung: Karl Berger (vibes), Ingrid Berger (voc), Peter Kowald (b), Allan Blairman (dr)",
+      "description": "Besetzung: Karl Berger (vib), Ingrid Berger (voc), Peter Kowald (b), Allan Blairman (dr)",
       "id": "d2e1055",
       "start_date": "1972-06-10T00:00:00Z"
     },
@@ -1237,7 +1237,7 @@
     },
     {
       "name": "Canaille (CH\/FRA\/NL\/DK)",
-      "description": "Besetzung: Irène Schweizer (p, dr), Anick Nozati (voc), Marylin Mazur (perc), Annemarie Roelofs (tb), Co Streif (reeds), Joëlle Léandre (cb, performance)",
+      "description": "Besetzung: Irène Schweizer (p, dr), Anick Nozati (voc), Marilyn Mazur (perc), Annemarie Roelofs (tb), Co Streif (reeds), Joëlle Léandre (cb, performance)",
       "id": "d3e555",
       "start_date": "1987-06-08T00:00:00Z"
     },
@@ -1441,7 +1441,7 @@
     },
     {
       "name": "Rimaak (BRD\/USA\/GB\/COL)",
-      "description": "Besetzung: Raimund Rennebaum (keyb), Heiner Rennebaum (g), Peter Schulte (as), Karl Farrent (tp, flh), Ulli Fricke (dr, mar), Daniel Basanta (perc), Chuck Cornish (frh), Uwe Walter (b), Berthold Holewik (v), Ina Klettke (v), Heribert Kalthoff (va), Christian Jüttendonk (vc)",
+      "description": "Besetzung: Raimund Rennebaum (keyb), Heiner Rennebaum (g), Peter Schulte (as), Karl Farrent (tp, flh), Ulli Fricke (dr, mar), Daniel Basanta (perc), Chuck Cornish (frh), Uwe Walter (b), Berthold Holewik (vl), Ina Klettke (vl), Heribert Kalthoff (va), Christian Jüttendonk (vc)",
       "id": "d3e737",
       "start_date": "1985-05-26T00:00:00Z"
     },
@@ -1507,7 +1507,7 @@
     },
     {
       "name": "Music Universe  Double Concert of Jazzdance (USA\/GB\/DE)Double Concertos of Jazzdance  feat. Bigband des WDR",
-      "description": "Besetzung: Ingrid Sertso (voc), David Mason (g), George Schutz (p), Mike Richmond (b), Danny Brubeck (dr), Karl Berger (vibes, p, leader), WDR - Bigband: Rick Kiefer (tp), Greg Ruvobo (tp), Klaus Osterloh (tp), John Eardly (tp), Jupp Keuser (tp), Heiner Wilberny (reeds), Harald Rosenstein (reeds), Oliver Peters (reeds), Rolf Römer (reeds), Paul Peucker (reeds), David Horler (tb), Henning Berg (tb), Bernt Laukamp (tb), Jeff Perkins (tb), Milan Lulic (g), Bora Rokovic (p), Jean Warland (b), Speri Karas (dr)",
+      "description": "Besetzung: Ingrid Sertso (voc), David Mason (g), George Schutz (p), Mike Richmond (b), Danny Brubeck (dr), Karl Berger (vib, p, ld), Rick Kiefer (tp), Greg Ruvobo (tp), Klaus Osterloh (tp), John Eardly (tp), Jupp Keuser (tp), Heiner Wilberny (reeds), Harald Rosenstein (reeds), Oliver Peters (reeds), Rolf Römer (reeds), Paul Peucker (reeds), David Horler (tb), Henning Berg (tb), Bernt Laukamp (tb), Jeff Perkins (tb), Milan Lulic (g), Bora Rokovic (p), Jean Warland (b), Speri Karas (dr)",
       "id": "d3e816",
       "start_date": "1984-06-09T00:00:00Z"
     },
@@ -1627,13 +1627,13 @@
     },
     {
       "name": "Music Universe (USA\/IND\/SEN\/BRA)",
-      "description": "Besetzung: Karl Berger (vibes, p), George Schulz (p), Steve Gorne (reeds), Mike Richmond (b), Trilok Gurtu (perc), Nana (perc), Ayi (b), Djeng (perc), Ing Rid (voc), Paulo Mora (as)",
+      "description": "Besetzung: Karl Berger (vib, p), George Schulz (p), Steve Gorne (reeds), Mike Richmond (b), Trilok Gurtu (perc), Nana (perc), Ayi (b), Djeng (perc), Ing Rid (voc), Paulo Mora (as)",
       "id": "d3e949",
       "start_date": "1983-05-21T00:00:00Z"
     },
     {
       "name": "Dr. Umezu Band (JPN)",
-      "description": "Besetzung: Dr. Kazutoki Umezu (reeds), Hiroaki Katayama (reeds), Takeharu Hayakawa (b), Takashi Kikuchi (dr, perc)",
+      "description": "Besetzung: Kazutoki Umezu (reeds), Hiroaki Katayama (reeds), Takeharu Hayakawa (b), Takashi Kikuchi (dr, perc)",
       "id": "d3e954",
       "start_date": "1983-05-21T00:00:00Z"
     },
@@ -2665,7 +2665,7 @@
     },
     {
       "name": "Die Knödel (AUT)",
-      "description": "Besetzung: Cathi Aglibut (vl), Christof Dienz (bsn, Chefcompositeur), Julia Feigl (v, hölzernes Gelächter), Margreth Köll (harp), Michael Öttl (g), Andres Lackner (tp, horn), Alexandra Pedarnig (b, Hackbrett), Walter Seebacher (cl, Hackbrett)",
+      "description": "Besetzung: Cathi Aglibut (vl), Christof Dienz (bsn, Chefcompositeur), Julia Feigl (vl, hölzernes Gelächter), Margreth Köll (hrp), Michael Öttl (g), Andres Lackner (tp, horn), Alexandra Pedarnig (b, Hackbrett), Walter Seebacher (cl, Hackbrett)",
       "id": "d4e807",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -2857,7 +2857,7 @@
     },
     {
       "name": "Para Transmit Orchester (DE…)",
-      "description": "Besetzung: lntermission Orchestra \/ Frank Köllges (cond) & 50 weitere Musiker",
+      "description": "Besetzung: Frank Köllges (cond) & 50 weitere Musiker",
       "id": "d4e969",
       "start_date": "1993-05-31T00:00:00Z"
     },
@@ -3103,7 +3103,7 @@
     },
     {
       "name": "Eugene Chadbourne & Daffy Duck Dozen (USA)",
-      "description": "Besetzung: Dr. Eugene Chadbourne (g), Ashwin Batish (sitar), Jimmy Carl Black (dr), Evan Johns (g, lap steel), Don Preston (electr), Murray Reams (perc), Brian Ritchie (b), Leslie Ross (bsn), Jonathan Segel (v, mand), Tony Trischka (bjo), Chris Turner (harp), Bob Wiseman (acc)",
+      "description": "Besetzung: Eugene Chadbourne (g), Ashwin Batish (sitar), Jimmy Carl Black (dr), Evan Johns (g, lap steel), Don Preston (electr), Murray Reams (perc), Brian Ritchie (b), Leslie Ross (bsn), Jonathan Segel (v, mand), Tony Trischka (bjo), Chris Turner (harp), Bob Wiseman (acc)",
       "id": "d4e1179",
       "start_date": "1991-05-19T00:00:00Z"
     },
@@ -3913,7 +3913,7 @@
     },
     {
       "name": "David Murray Cuban Big Band (CUB\/USA)",
-      "description": "Besetzung: David Murray (ts), Irving Acao Sierra (ts), Orlando Sanchez Soto (ts), Roman Filiu Oreilly (as), Ariel Bringuez Ruiz (as), Moises Marquez Leyva (bs), Bacilio Marquez Richards (tp), Alexander Brown Cabrera (tp), Rafael Arquimedes Gavilan Cana (tp), Denis Cuni Rodriguez (tb), Heikel Fabian Trimino (tb), Amauri Perez Rodriguez (tb), Yuniel Sanchez Milanes (tumbadora), Roberto Carcasses Colon (p), Narciso Reyes Hernandez (db), Olivier Valdes Rey (dr)",
+      "description": "Besetzung: David Murray (ts), Irving Acao Sierra (ts), Orlando Sanchez Soto (ts), Roman Filiu Oreilly (as), Ariel Bringuez Ruiz (as), Moises Marquez Leyva (bs), Bacilio Marquez Richards (tp), Alexander Brown Cabrera (tp), Rafael Arquimedes Gavilan Cana (tp), Denis Cuni Rodriguez (tb), Heikel Fabian Trimino (tb), Amauri Perez Rodriguez (tb), Yuniel Sanchez Milanes (tumbadora), Roberto Carcasses Colon (p), Narciso Reyes Hernandez (cb), Olivier Valdes Rey (dr)",
       "id": "d5e856",
       "start_date": "2004-05-28T00:00:00Z"
     },
@@ -4357,7 +4357,7 @@
     },
     {
       "name": "Vienna Art Orchestra - „Art & Fun.25“ (AUT\/CH)",
-      "description": "Besetzung: Mathias Rüegg (ld), Anna Lauvergnac (voc), Thorsten Benkenstein (tp), Matthieu Michel (tp), Bumi Fian (tp), Thomas Gansch (tp), Adrian Mears (tb, didgeridoo), Robert Bachner (tb), Christian Muthspiel (tb), Ed Partyka (tb, tu), Klaus Dickbauer (reeds, fl), Florian Bramböck (reeds), Harry Sokal (reeds), Andy Scherrer (ts), Herwig Gradischnig (bs), Alegre Correa (g), perc; Martin Koller (eg), Georg Breinschmid (b), Robert Riegler (eb) Mario Gonzi (dr), Jogo Mayer (dr), Ronald Matky (sounds), Reto Schubiger (lights), Thomas Hötzeneder (visual effects)",
+      "description": "Besetzung: Mathias Rüegg (ld), Anna Lauvergnac (voc), Thorsten Benkenstein (tp), Matthieu Michel (tp), Bumi Fian (tp), Thomas Gansch (tp), Adrian Mears (tb, didgeridoo), Robert Bachner (tb), Christian Muthspiel (tb), Ed Partyka (tb, tu), Klaus Dickbauer (reeds, fl), Florian Bramböck (reeds), Harry Sokal (reeds), Andy Scherrer (ts), Herwig Gradischnig (bs), Alegre Correa (g, perc), Martin Koller (el-g), Georg Breinschmid (b), Robert Riegler (eb) Mario Gonzi (dr), Jogo Mayer (dr), Ronald Matky (sounds), Reto Schubiger (lights), Thomas Hötzeneder (visual effects)",
       "id": "d5e1315",
       "start_date": "2002-05-19T00:00:00Z"
     },
@@ -4411,7 +4411,7 @@
     },
     {
       "name": "Vienna Art Orchestra - „A centenary journey“ (AUT)",
-      "description": "Besetzung: Mathias Rüegg (ld), Anna Lauvergnac (voc), Thorsten Benkenstein (tp), Matthieu Michel (tp), Bumi Fian (tp), Thomas Gansch (tp), Adrian Mears (tb, didgeridoo), Robert Bachner (tb), Christian Muthspiel (tb), Ed Partyka (tb, tu), Klaus Dickbauer (reeds, fl), Florian Bramböck (reeds), Harry Sokal (reeds), Andy Scherrer (ts), Herwig Gradischnig (bs), Alegre Correa (g, perc), Martin Koller (eg), Georg Breinschmid (b), Robert Riegler (eb), Mario Gonzi (dr), Jogo Mayer (dr), Ronald Matky (sounds), Reto Schubiger (lights), Thomas Hötzeneder (visual effects)",
+      "description": "Besetzung: Mathias Rüegg (ld), Anna Lauvergnac (voc), Thorsten Benkenstein (tp), Matthieu Michel (tp), Bumi Fian (tp), Thomas Gansch (tp), Adrian Mears (tb, didgeridoo), Robert Bachner (tb), Christian Muthspiel (tb), Ed Partyka (tb, tu), Klaus Dickbauer (reeds, fl), Florian Bramböck (reeds), Harry Sokal (reeds), Andy Scherrer (ts), Herwig Gradischnig (bs), Alegre Correa (g, perc), Martin Koller (el-g), Georg Breinschmid (b), Robert Riegler (eb), Mario Gonzi (dr), Jogo Mayer (dr), Ronald Matky (sounds), Reto Schubiger (lights), Thomas Hötzeneder (visual effects)",
       "id": "d5e1370",
       "start_date": "2002-05-20T00:00:00Z"
     },
@@ -4507,7 +4507,7 @@
     },
     {
       "name": "Electronic Lounge",
-      "description": "Besetzung: Frank Schulte (electr, concept), Gry Bagoien (voc, electronic toys), Jacob Kirkegaard (electr), David Shea (electr), Fred Frith (el-g), Lorenzo Brusci (electr), Anne Krickeberg (electric-clo), Andres Bosshard (Raumklang, Klangregie)",
+      "description": "Besetzung: Frank Schulte (electr, concept), Gry Bagøien (voc, electronic toys), Jacob Kirkegaard (electr), David Shea (electr), Fred Frith (el-g), Lorenzo Brusci (electr), Anne Krickeberg (electric-clo), Andres Bosshard (Raumklang, Klangregie)",
       "id": "d5e1476",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4537,7 +4537,7 @@
     },
     {
       "name": "Cándido Fabre y su Banda (CUB)",
-      "description": "Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (vl), Juan Simon Castillo Peña (v), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuela (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbals)",
+      "description": "Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (vl), Juan Simon Castillo Peña (vl), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuelo (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbals)",
       "id": "d5e1503",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4561,7 +4561,7 @@
     },
     {
       "name": "Electronic Lounge",
-      "description": "Besetzung: Frank Schulte (electr, concept), Gry Bagoien (voc, electronic toys), Jacob Kirkegaard (electr), David Shea (electr), Fred Frith (el-g), Lorenzo Brusci (electr), Anne Krickeberg (electric-clo), Andres Bosshard (Raumklang, Klangregie)",
+      "description": "Besetzung: Frank Schulte (electr, concept), Gry Bagøien (voc, electronic toys), Jacob Kirkegaard (electr), David Shea (electr), Fred Frith (el-g), Lorenzo Brusci (electr), Anne Krickeberg (electric-clo), Andres Bosshard (Raumklang, Klangregie)",
       "id": "d5e1528",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4633,7 +4633,7 @@
     },
     {
       "name": "Electronic Lounge",
-      "description": "Besetzung: Frank Schulte (electr, concept), Gry Bagoien (voc, electronic toys), Jacob Kirkegaard (electr), David Shea (electr), Fred Frith (el-g), Lorenzo Brusci (electr), Anne Krickeberg (electric-clo), Andres Bosshard (Raumklang, Klangregie)",
+      "description": "Besetzung: Frank Schulte (electr, concept), Gry Bagøien (voc, electronic toys), Jacob Kirkegaard (electr), David Shea (electr), Fred Frith (el-g), Lorenzo Brusci (electr), Anne Krickeberg (electric-clo), Andres Bosshard (Raumklang, Klangregie)",
       "id": "d5e1594",
       "start_date": "2001-06-04T00:00:00Z"
     },
@@ -4705,7 +4705,7 @@
     },
     {
       "name": "FM Einheit & Gry (DE\/DK)",
-      "description": "Besetzung: Gry Bagoien (voc), FM Einheit (scratches, beats, perc), Sjang Coenen (b), Saskia von Klitzing (dr)",
+      "description": "Besetzung: Gry Bagøien (voc), FM Einheit (scratches, beats, perc), Sjang Coenen (b), Saskia von Klitzing (dr)",
       "id": "d5e1681",
       "start_date": "2000-06-10T00:00:00Z"
     },
@@ -4849,13 +4849,13 @@
     },
     {
       "name": "Talibam! Hard Vibe: Matt Nelson \/ Ron Stabinsky (USA)",
-      "description": "Besetzung: Matt Mottel (key), Kevin Shea (dr), Matt Nelson (tsax), Ron Stabinsky (p)",
+      "description": "Besetzung: Matt Mottel (key), Kevin Shea (dr), Matt Nelson (ts), Ron Stabinsky (p)",
       "id": "d6e266",
       "start_date": "2018-05-18T00:00:00Z"
     },
     {
       "name": "CP Unit (USA)",
-      "description": "Besetzung: Chris Pitsiokos (comp, as, electr), Sam Lisabeth (g), Henry Fraser (eb), Jason Nazary (dr, electr)",
+      "description": "Besetzung: Chris Pitsiokos (comp, as, electr), Sam Lisabeth (g), Henry Fraser (el-b), Jason Nazary (dr, electr)",
       "id": "d6e270",
       "start_date": "2018-05-18T00:00:00Z"
     },
@@ -4951,7 +4951,7 @@
     },
     {
       "name": "Sebastian Gramss´ STATES OF PLAY (DE\/ARG\/FRA\/CH\/AUT\/NL)",
-      "description": "Besetzung: Valentin Garvie (tp), Rudi Mahall (cl), Pierre Borel (sax) Nicola Hein (g), Christian Ramond (kb), Dominik Mahnig (dr), Philip Zoubek (p), Sebastian Gramss (kb, comp), Etienne Nillesen (dr), Ludwig Kuckartz (visual art), Jörn Nettingsmeier (sound design)",
+      "description": "Besetzung: Valentin Garvie (tp), Rudi Mahall (cl), Pierre Borel (sax) Nicola Hein (g), Christian Ramond (cb), Dominik Mahnig (dr), Philip Zoubek (p), Sebastian Gramss (kb, comp), Etienne Nillesen (dr), Ludwig Kuckartz (visual art), Jörn Nettingsmeier (sound design)",
       "id": "d6e344",
       "start_date": "2018-05-20T00:00:00Z"
     },
@@ -5203,7 +5203,7 @@
     },
     {
       "name": "Jeremy Flower \u0093The Real Me\u0094 (USA\/DE)",
-      "description": "Besetzung: Carla Kihlstedt (voc, vl), Jeremy Flower (g), Jon Evans (b), Matthias Bossi (dr), Eliot Krimsky (keys), EOS Chamber Orchestra: Roland Meschede (fl), Kristof Dömötör (bcl), Christian Weidner (sax), Chris Weddle (frh), Matthias Schuller (tb), Till Künkler (tb), Maja Kwiatkowska (v), Lea Strecker (va), Tom Verbeke (clo), Mateusz Kwiatkowski (clo), Susanne Blumenthal (ld)",
+      "description": "Besetzung: Carla Kihlstedt (voc, vl), Jeremy Flower (g), Jon Evans (b), Matthias Bossi (dr), Eliot Krimsky (keys), EOS Chamber Orchestra: Roland Meschede (fl), Kristof Dömötör (bcl), Christian Weidner (sax), Chris Weddle (frh), Matthias Schuller (tb), Till Künkler (tb), Maja Kwiatkowska (v), Lea Strecker (va), Tom Verbeke (vc), Mateusz Kwiatkowski (vc), Susanne Blumenthal (ld)",
       "id": "d6e559",
       "start_date": "2016-05-14T00:00:00Z"
     },
@@ -5263,7 +5263,7 @@
     },
     {
       "name": "Lisbon Underground Music Ensemble (PRT)",
-      "description": "Besetzung: Marco Barroso (p, comp, musical director), Manuel Luís Cochofel (fl), Paulo Gaspar (cl), Ricardo Toscana (sax), João Pedro Silva (sax), José Menezes (sax), Elmano Coelho (sax), Jorge Almeida (tp), Gonçalo Marques (tp), Pedro Monteiro (tp), Ruben Santos (tb), Eduardo Lála (tb), Pedro Canhoto (tb), Miguel Amado (b), Vicky Marques (dr)",
+      "description": "Besetzung: Marco Barroso (p, comp, dir), Manuel Luís Cochofel (fl), Paulo Gaspar (cl), Ricardo Toscana (sax), João Pedro Silva (sax), José Menezes (sax), Elmano Coelho (sax), Jorge Almeida (tp), Gonçalo Marques (tp), Pedro Monteiro (tp), Ruben Santos (tb), Eduardo Lála (tb), Pedro Canhoto (tb), Miguel Amado (b), Vicky Marques (dr)",
       "id": "d6e606",
       "start_date": "2016-05-16T00:00:00Z"
     },
@@ -5311,7 +5311,7 @@
     },
     {
       "name": "Eve Risser \u0093White Desert Orchestra\u0093 (FRA)",
-      "description": "Besetzung: Sylvaine Hélary (fl), Antonin-Tri Hoang (sax, cl), Benjamin Dousteyssier (sax), Sophie Bernado (fg), Eivind Lønning (tp), Fidel Fourneyron (tb), Julien Desprez (g), Eve Risser (p, comp), Fanny Lasfargues (b), Sylvain Darrifourcq (dr)",
+      "description": "Besetzung: Sylvaine Hélary (fl), Antonin-Tri Hoang (sax, cl), Benjamin Dousteyssier (sax), Sophie Bernado (bsn), Eivind Lønning (tp), Fidel Fourneyron (tb), Julien Desprez (g), Eve Risser (p, comp), Fanny Lasfargues (b), Sylvain Darrifourcq (dr)",
       "id": "d6e655",
       "start_date": "2015-05-23T00:00:00Z"
     },
@@ -5563,7 +5563,7 @@
     },
     {
       "name": "The Dorf (DE)",
-      "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (viol), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Johannes Brackmann (tb), Alexander Giffey (tb), Denis Cuni Rodriguez (tb), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Florian Walter (sax), Veit Lange (sax), Axel Knappmeyer_sax, Andreas Wahl_git, Christian Hammer (g), Serge Corteyn (g), Kai Weiner (keys), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Denis Cosmar (sound), Jan Klare (air movement)",
+      "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (viol), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Johannes Brackmann (tb), Alexander Giffey (tb), Denis Cuni Rodriguez (tb), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Florian Walter (sax), Veit Lange (sax), Axel Knappmeyer_sax, Andreas Wahl_git, Christian Hammer (g), Serge Corteyn (g), Kai Weiner (keys), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Denis Cosmar (sounds), Jan Klare (air movement)",
       "id": "d6e899",
       "start_date": "2013-05-18T00:00:00Z"
     },
@@ -5587,7 +5587,7 @@
     },
     {
       "name": "Lenine & Martin Fondse Orchestra »The Bridge« (BRA\/NL\/DE)",
-      "description": "Besetzung: Lenine (voc, g), Martin Fondse (keys, vibrandoneon), Mete Erker (cl), Søren Siegumfeldt (sax), Irma Kort (ob), Annie Tangberg (clo), Herman van Haaren (viol), Vera van der Bie (viol), Robert Landfermann (b), Dirk-Peter Koelsch (dr)",
+      "description": "Besetzung: Lenine (voc, g), Martin Fondse (keys, vibrandoneon), Mete Erker (cl), Søren Siegumfeldt (sax), Irma Kort (oboe), Annie Tangberg (vc), Herman van Haaren (viol), Vera van der Bie (viol), Robert Landfermann (b), Dirk-Peter Koelsch (dr)",
       "id": "d6e920",
       "start_date": "2013-05-18T00:00:00Z"
     },
@@ -5646,8 +5646,8 @@
       "start_date": "2013-05-19T00:00:00Z"
     },
     {
-      "name": "Local Heroes (DE)",
-      "description": "Besetzung: NDR Big Band (DE\/FRA\/GB\/IT) »The Dark Side of the Moon« - A Tribute To Pink Floyd Solisten: Maria Pia de Vito (voc), Nguyên Lê (g), Michael Gibbs (arr, cond) NDR Big Band: Thorsten Benkenstein (tp), Nicolas Boysen (tp), Claus Stötter (tp), Reiner Winterschladen (tp), Fiete Felsch (sax), Peter Bolte (sax), Christof Lauer (sax), Lutz Büchner (sax), Frank Delle (sax), Dan Gottshall (tb), Klaus Heidenreich (tb), Stefan Lottermann (tb), Ingo Lahme (tb), Jürgen Attig (el-b), Vladyslav Sendecki (p), Gary Husband (dr), Marcio Doctor (perc), Walter Quintus (sound)",
+      "name": "Local Heroes (DE): NDR Big Band (DE\/FRA\/GB\/IT) »The Dark Side of the Moon« - A Tribute To Pink Floyd",
+      "description": "Besetzung: Maria Pia de Vito (voc), Nguyên Lê (g), Michael Gibbs (arr, cond), Thorsten Benkenstein (tp), Nicolas Boysen (tp), Claus Stötter (tp), Reiner Winterschladen (tp), Fiete Felsch (sax), Peter Bolte (sax), Christof Lauer (sax), Lutz Büchner (sax), Frank Delle (sax), Dan Gottshall (tb), Klaus Heidenreich (tb), Stefan Lottermann (tb), Ingo Lahme (tb), Jürgen Attig (el-b), Vladyslav Sendecki (p), Gary Husband (dr), Marcio Doctor (perc), Walter Quintus (sound)",
       "id": "d6e976",
       "start_date": "2013-05-20T00:00:00Z"
     },
@@ -5665,7 +5665,7 @@
     },
     {
       "name": "The Dorf (DE)",
-      "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (vl), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Adrian Prost (tb), Johannes Brackmann (tb), Alexander Giffey (tb), Alexander Morsey (tu), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Axel Knappmeyer (sax), Florian Walter (sax), Veit Lange (sax), Andreas Wahl (g), Christian Hammer (g), Serge Corteyn (g), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Uli Sigg (visuals), Denis Cosmar (sound), Jan Klare (air movement)",
+      "description": "Besetzung: Marie Daniels (voc), Anke Jochmaring (voc), Martin Verborg (vl), Ludger Schmidt (clo), Markus Türk (tp), John-Dennis Renken (tp), Adrian Prost (tb), Johannes Brackmann (tb), Alexander Giffey (tb), Alexander Morsey (tu), Christoph Berndt (sax), Felix Fritsche (sax), Gilda Razani (sax), Axel Knappmeyer (sax), Florian Walter (sax), Veit Lange (sax), Andreas Wahl (g), Christian Hammer (g), Serge Corteyn (g), Oliver Siegel (synth), Achim Kämper (elec), Jim Campbell (elec), Tim Isfort (b), Johannes Nebel (b), Volker Kamp (b), Simon Camatta (dr), Tobi Lessnow (dr), Uli Sigg (visuals), Denis Cosmar (sounds), Jan Klare (air movement)",
       "id": "d6e1011",
       "start_date": "2012-05-25T00:00:00Z"
     },
@@ -5815,7 +5815,7 @@
     },
     {
       "name": "Interactivo - Latin Dance Nights@Bollwerk",
-      "description": "Besetzung: Roberto Carcasses (keyb, voc, musical director), William Vivanco (g, voc), Francis del Rio (voc), Telmary Diaz (voc), Melvis Santa Estevez (voc), Juan Carlos Marin (tb), Julio Padron (tp, voc), Roberto Gomez (g), Carlos Rios (b), Oliver Valdes (dr), Adel Gonzalez (perc)",
+      "description": "Besetzung: Roberto Carcasses (keyb, voc, dir), William Vivanco (g, voc), Francis del Rio (voc), Telmary Diaz (voc), Melvis Santa Estevez (voc), Juan Carlos Marin (tb), Julio Padron (tp, voc), Roberto Gomez (g), Carlos Rios (b), Oliver Valdes (dr), Adel Gonzalez (perc)",
       "id": "d6e1163",
       "start_date": "2011-06-10T00:00:00Z"
     },
@@ -5875,7 +5875,7 @@
     },
     {
       "name": "Interactivo - Latin Dance Nights@Bollwerk",
-      "description": "Besetzung: Roberto Carcasses (keyb, voc, musical director), William Vivanco (g, voc), Francis del Rio (voc), Telmary Diaz (voc), Melvis Santa Estevez (voc), Juan Carlos Marin (tb), Julio Padron (tp, voc), Roberto Gomez (g), Carlos Rios (b), Oliver Valdes (dr), Adel Gonzalez (perc)",
+      "description": "Besetzung: Roberto Carcasses (keyb, voc, dir), William Vivanco (g, voc), Francis del Rio (voc), Telmary Diaz (voc), Melvis Santa Estevez (voc), Juan Carlos Marin (tb), Julio Padron (tp, voc), Roberto Gomez (g), Carlos Rios (b), Oliver Valdes (dr), Adel Gonzalez (perc)",
       "id": "d6e1217",
       "start_date": "2011-06-11T00:00:00Z"
     },

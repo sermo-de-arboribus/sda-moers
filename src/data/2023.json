@@ -127,7 +127,7 @@
         "name": "SCATTER THE ATOMS THAT REMAIN with special guest Gary Bartz (US)",
         "start_date": "2023-05-26T21:10:00+02:00",
         "description": "Musik soll nicht nach etwas oder jemandem klingen, sondern etwas Neues erzeugen. Seele soll sie haben und empowern. Dieser Anspruch von SCATTER THE ATOMS THAT REMAIN, angstfreie, kompromisslose und dennoch beflügelnde Musik zu machen, ist hoch. Ihre neue musikalisch-visuelle EMANCIPATION SUITE erzählt von BE-FREI-UNG. Und Gary Bartz (langjähriger Saxophonist bei Miles Davis) als special guest kennt sich aus mit spiritueller Freyheidt..",
-        "artists": ["Franklin Kiermyer (dr, leader)", "Davis Whitfield (p, musical director)", "Géraud Portal (b)", "Gary Bartz (sax)","Lea Brugnoli (visuals)"]
+        "artists": ["Franklin Kiermyer (dr, leader)", "Davis Whitfield (p, dir)", "Géraud Portal (b)", "Gary Bartz (sax)","Lea Brugnoli (visuals)"]
     },
     {
         "id": 2023013,
@@ -315,14 +315,14 @@
         "name": "Moerser Jazz Quartett (DE)",
         "start_date": "2023-05-27T19:33:00+02:00",
         "description": "Die Röhre, Weygoldstraße 10, 47441 Moers",
-        "artists": ["Thomas Klecha-Fauré (vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (b)"]
+        "artists": ["Thomas Klecha-Fauré (vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (cb)"]
     }, 
     {
         "id": 2023039,
         "name": "MUSIC FROM KYLWIRIA (DE, US, CY)",
         "start_date": "2023-05-27T20:04:00+02:00",
         "description": "Mit fünf Jahren erfand György Ligeti Kylwiria, ein utopisches Land mit eigener Sprache, Grammatik, sozialer Ordnung und Gerechtigkeit, das er mit 13 wieder verließ. Das moers festival kehrt dorthin zurück… Zu Ligetis 100. Geburtstag hat das moers festival die Auftragskomposition MUSIC FROM KYLWIRIA an sechs Komponist:innen vergeben, deren Schaffen von Ligetis Musik geprägt wurde: Nate Wooley, Lucia Kilger, Vassos Nicolaou, Theresia Philipp, André O. Möller und Carolin Pook. Den Klangkörper bilden fünf der sechs Komponist:innen sowie, unter der Leitung von Susanne Blumenthal, das offene und internationale Kollektiv ColLAB Cologne, bestehend aus Studierenden der Hochschule für Musik und Tanz Köln. Das ColLAB Cologne agiert auf höchstem künstlerischem Niveau an der Schnittstelle von Performance, Improvisation und der Interpretation komponierter Musik. Die Auftragskomposition wird am 27.05. in Moers uraufgeführt und im Rahmen der Ligeti 100-Woche zwei Stunden lang live im WDR3-Hörfunk übertragen.",
-        "artists": ["Lucia Kilger (comp)", "Vassos Nicolaou (electr, comp)", "Theresia Philipp (sax, comp)", "André O. Möller (g, comp)", "Carolin Pook (v, comp)", "Laura Cocks (fl)", "Christian Sharpe (tp)", "Maéva Rabassa (hrp)", "Adele Thoma (p)", "Liga Korne (p)", "Carlotta Ramos (b)", "Rita Soares (perc)", "Yukari Yagi (perc)", "Susanne Blumenthal (cond)"]
+        "artists": ["Lucia Kilger (comp)", "Vassos Nicolaou (electr, comp)", "Theresia Philipp (sax, comp)", "André O. Möller (g, comp)", "Carolin Pook (vl, comp)", "Laura Cocks (fl)", "Christian Sharpe (tp)", "Maéva Rabassa (hrp)", "Adele Thoma (p)", "Liga Korne (p)", "Carlota Ramos (cb)", "Rita Soares (perc)", "Yukari Yagi (perc)", "Susanne Blumenthal (cond)"]
     },
     {
         "id": 2023040,
@@ -458,8 +458,8 @@
         "name": "le petit macabre, Lukas Döhler, Ensemble INprogRES (DE, MX, US)",
         "start_date": "2023-05-28T18:20:00+02:00",
         "description": "In Anspielung auf György Ligetis Oper Le Grand Macabre, die ihn zu einem der wichtigsten Komponisten der Neuen Musik machte, entsteht mit le petit macabre zum 100. Geburtstag Ligetis ein neues Arrangement seiner Werke, das sich über seinen gesamten Schaffenszeitraum erstreckt.",
-        "artists": ["Lukas Döhler (artistic direction, arragement)", "Ferdinand Heuberger(comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
-            "Justin Cherry (fg)", "Sofie Berge (h)", "Severin Haslach (vc)", "Femke Ehrentraut (vl)", "Andreas Osterloh (as)",
+        "artists": ["Lukas Döhler (artistic direction, arragement)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
+            "Justin Cherry (bsn)", "Sofie Berge (h)", "Severin Haslach (vc)", "Femke Ehrentraut (vl)", "Andreas Osterloh (as)",
             "Maximilian Dickel (git)", "Juliana Dickel (ss)", "Judith Pfeiffer (fl)", "Jonah Pfeiffer (dr)", "Niklas Scheusener (cl)", 
             "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (vl, voc)"]
     },
@@ -468,7 +468,7 @@
         "name": "Moerser Jazz Quartett (DE), moersify @ Wohnungsbau Moers",
         "start_date": "2023-05-26T22:00:00+02:00",
         "description": "",
-        "artists": ["Thomas Klecha-Fauré (Vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (b)"]
+        "artists": ["Thomas Klecha-Fauré (vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (b)"]
     },
     {
         "id": 2023060,

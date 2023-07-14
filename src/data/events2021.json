@@ -659,7 +659,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Sophie Bernado - bn",
+                "Sophie Bernado - bsn",
                 "Cyprien Busolini - vl",
                 "Fr\u00e9d\u00e9ric Blondy - p",
                 "Beno\u00eet Delbecq - p",
@@ -684,7 +684,7 @@
         "deleted_at": null,
         "collection": "festival21",
         "artists": [
-            "Sophie Bernado - bn",
+            "Sophie Bernado - bsn",
             "Cyprien Busolini - vl",
             "Fr\u00e9d\u00e9ric Blondy - p",
             "Beno\u00eet Delbecq - p",
@@ -1084,8 +1084,8 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "David Murray - tsax",
-                "Bradley Jones \u2013 bs",
+                "David Murray - ts",
+                "Bradley Jones - cb",
                 "Hamid Drake - dr"
             ],
             "collection": "festival21",
@@ -1100,7 +1100,7 @@
         "deleted_at": null,
         "collection": "festival21",
         "artists": [
-            "David Murray - tsax",
+            "David Murray - ts",
             "Bradley Jones \u2013 bs",
             "Hamid Drake - dr"
         ],
