@@ -1,0 +1,399 @@
+{
+    "name": "musicInstruments",
+    "abbrev": "mi",
+    "members": [
+        {
+            "name": "windInstruments",
+            "abbrev": "wind",
+            "members": [
+                {
+                    "name": "woodwindInstruments",
+                    "abbrev": "ww",
+                    "members": [
+                        {
+                            "name": "flutes",
+                            "abbrev": "fls",
+                            "members": [
+                                {
+                                    "name": "altoFlute",
+                                    "abbrev": "afl"
+                                },
+                                {
+                                    "name": "flute",
+                                    "abbrev": "fl"
+                                },
+                                {
+                                    "name": "piccolo",
+                                    "abbrev": "picc"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "reeds",
+                            "abbrev": "reeds",
+                            "members": [
+                                {
+                                    "name": "single-reed",
+                                    "abbrev": "sreed",
+                                    "members": [
+                                        {
+                                            "name": "clarinet",
+                                            "abbrev": "cl",
+                                            "members": [
+                                                {
+                                                    "name": "bassClarinet",
+                                                    "abbrev": "bcl"
+                                                },
+                                                {
+                                                    "name": "clarinetInBFlat",
+                                                    "abbrev": "clBb"
+                                                },
+                                                {
+                                                    "name": "clarinetInEFlat",
+                                                    "abbrev": "alto-cl"
+                                                },
+                                                {
+                                                    "name": "contrabassClarinet",
+                                                    "abbrev": "cbcl"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "saxophone",
+                                            "abbrev": "sax",
+                                            "members": [
+                                                {
+                                                    "name": "altoSaxophone",
+                                                    "abbrev": "as"
+                                                },
+                                                {
+                                                    "name": "baritoneSaxophone",
+                                                    "abbrev": "bs",
+                                                    "members": [
+                                                        {
+                                                            "name": "amplifiedBaritoneSaxophone",
+                                                            "abbrev": "amplified bs"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "bassSaxophone",
+                                                    "abbrev": "bass sax"
+                                                }
+                                                {
+                                                    "name": "sopranoSaxophone",
+                                                    "abbrev": "ss"
+                                                },
+                                                {
+                                                    "name": "tenorSaxophone",
+                                                    "abbrev": "ts"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "double-reed",
+                                    "abbrev": "dreed",
+                                    "members": [
+                                        {
+                                            "name": "oboe",
+                                            "abbrev": "oboe"
+                                        },
+                                        {
+                                            "name": "bassoon",
+                                            "abbrev": "bsn"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "brassInstruments",
+                    "abbrev": "brass",
+                    "members": [
+                        {
+                            "name": "alphorn",
+                            "abbrev": "alph"
+                        },
+                        {
+                            "name": "trumpet",
+                            "abbrev": "tp",
+                            "members": [
+                                {
+                                    "name": "amplifiedTrumpet",
+                                    "abbrev": "amplified tp"
+                                },
+                                {
+                                    "name": "bugle",
+                                    "abbrev": "bugle"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "trombone",
+                            "abbrev": "tb",
+                            "members": [
+                                {
+                                    "name": "bassTrombone",
+                                    "abbrev": "btb"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tuba",
+                            "abbrev": "tu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "percussionInstruments",
+            "abbrev": "perc",
+            "members": [
+                {
+                    "name": "pitchedPercussionInstruments",
+                    "abbrev": "pitchedperc",
+                    "members": [
+                        {
+                            "name": "bells",
+                            "abbrev": "bells"
+                        },
+                        {
+                            "name": "marimba",
+                            "abbrev": "mar"
+                        },
+                        {
+                            "name": "vibraphone",
+                            "abbrev": "vib"
+                        },
+                        {
+                            "name": "xylophone",
+                            "abbrev": "xyl",
+                            "members": [
+                                {
+                                    "name": "balafon",
+                                    "abbrev": "balafon"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "unpitchedPercussionInstruments",
+                    "abbrev": "unpitchedperc",
+                    "members": [
+                        {
+                            "name": "drums",
+                            "abbrev": "dr",
+                            "members": [
+                                {
+                                    "name": "bassDrum",
+                                    "abbrev": "bdr"
+                                },
+                                {
+                                    "name": "bongos",
+                                    "abbrev": "bo"
+                                },
+                                {
+                                    "name": "snareDrum",
+                                    "abbrev": "sndr"
+                                },
+                                {
+                                    "name": "tambourine",
+                                    "abbrev": "tamb"
+                                },
+                                {
+                                    "name": "timpani",
+                                    "abbrev": "timp"
+                                }]
+                        },
+                        {
+                            "name": "castanets",
+                            "abbrev": "castanets"
+                        },
+                        {
+                            "name": "cymbals",
+                            "abbrev": "cymb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "stringInstruments",
+            "abbrev": "str",
+            "members": [
+                {
+                    "name": "bowedStringInstruments",
+                    "abbrev": "bowedstr",
+                    "members": [
+                        {
+                            "name": "doubleBass",
+                            "abbrev": "cb"
+                        },
+                        {
+                            "name": "violin",
+                            "abbrev": "vl",
+                            "members": [
+                                {
+                                    "name": "amplifiedViolin",
+                                    "abbrev": "amplified vl"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "viola",
+                            "abbrev": "va"
+                        },
+                        {
+                            "name": "cello",
+                            "abbrev": "vc"
+                        }
+                    ]
+                },
+                {
+                    "name": "pluckedStringInstruments",
+                    "abbrev": "pluckedstr",
+                    "members": [
+                        {
+                            "name": "bass",
+                            "abbrev": "b",
+                            "members": [
+                                {
+                                    "name": "electricBass",
+                                    "abbrev": "el-b"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "guitar",
+                            "abbrev": "g",
+                            "members": [
+                                {
+                                    "name": "baritoneGuitar",
+                                    "abbrev": "bar-g"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "banjo",
+                            "abbrev": "bj"
+                        },
+                        {
+                            "name": "harp",
+                            "abbrev": "hrp"
+                        },
+                        {
+                            "name": "lutes",
+                            "abbrev": "lutes",
+                            "members": [
+                                {
+                                    "name": "saz",
+                                    "abbrev": "saz",
+                                    "members": [
+                                        {
+                                            "name": "amplifiedSaz",
+                                            "abbrev": "amplified saz"
+                                        },
+                                        {
+                                            "name": "bağlama",
+                                            "abbrev": "bağlama"
+                                        },
+                                        {
+                                            "name": "kemençe",
+                                            "abbrev": "kemençe"
+                                        },
+                                        {
+                                            "name": "tanbur",
+                                            "abbrev": "tanbur"
+                                        },
+                                        {
+                                            "name": "oud",
+                                            "abbrev": "oud"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "keyboardInstruments",
+            "abbrev": "keyb",
+            "members": [
+                {
+                    "name": "accordion",
+                    "abbrev": "acc"
+                },
+                {
+                    "name": "harpsichord",
+                    "abbrev": "hps"
+                },
+                {
+                    "name": "organ",
+                    "abbrev": "org"
+                },
+                {
+                    "name": "piano",
+                    "abbrev": "p"
+                }
+            ]
+        },
+        {
+            "name": "electronicInstruments",
+            "abbrev": "electr",
+            "members": [
+                {
+                    "name": "synthesizer",
+                    "abbrev": "synth",
+                    "members": [
+                        {
+                            "name": "analogSynthesizer",
+                            "abbrev": "analog synth"
+                        }
+                    ]
+                },
+                {
+                    "name": "theremin",
+                    "abbrev": "ther"
+                },
+                {
+                    "name": "computer",
+                    "abbrev": "computer"
+                }
+            ]
+        },
+        {
+            "name": "vocalInstruments",
+            "abbrev": "voc",
+            "members": [
+                {
+                    "name": "backingVocals",
+                    "abbrev": "bg-voc"
+                }
+                {
+                    "name": "soprano",
+                    "abbrev": "sop voc"
+                },
+                {
+                    "name": "alto",
+                    "abbrev": "alto voc"
+                },
+                {
+                    "name": "tenor",
+                    "abbrev": "tenor voc"
+                },
+                {
+                    "name": "bass",
+                    "abbrev": "bvoc"
+                }
+            ]
+        }
+    ]
+}
