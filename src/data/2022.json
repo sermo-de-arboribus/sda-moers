@@ -763,10 +763,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Alessandro Palmitessa (comp, cl, sax perc)",
-                "Cosimo Erario (Gitarre)",
+                "Alessandro Palmitessa (comp, cl, sax, perc)",
+                "Cosimo Erario (g)",
                 "Bassem Hawar (Djoze-Kniegeige)",
-                "Daud Khan Sadozai (Robab  = Traditionelle afghanische Laute)",
+                "Daud Khan Sadozai (rebab)",
                 "Almut K\u00fchne (voc)"
             ],
             "collection": "festival22",
@@ -781,10 +781,10 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Alessandro Palmitessa (comp, cl, sax perc)",
-            "Cosimo Erario (Gitarre)",
+            "Alessandro Palmitessa (comp, cl, sax, perc)",
+            "Cosimo Erario (g)",
             "Bassem Hawar (Djoze-Kniegeige)",
-            "Daud Khan Sadozai (Robab  = Traditionelle afghanische Laute)",
+            "Daud Khan Sadozai (rebab)",
             "Almut K\u00fchne (voc)"
         ],
         "duration": 55,

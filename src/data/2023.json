@@ -120,7 +120,7 @@
         "name": "SEABROOK TRIO (US)",
         "start_date": "2023-05-26T21:10:00+02:00",
         "description": "Fans der Improvisierten Musik können sich mit dem Seabrook Trio auf ein Zusammentreffen dreier Ausnahmemusiker freuen: Gitarrist Brandon Seabrook kommt mit Gerald Cleaver am Schlagzeug und Cooper-Moore am „Diddley Bow“.",
-        "artists": ["Brandon Seabrook (g)","Gerald Cleaver (dr)","Cooper-Moore (Diddley Bow)"]
+        "artists": ["Brandon Seabrook (g)","Gerald Cleaver (dr)","Cooper-Moore (dbow)"]
     },
     {
         "id": 2023012,
@@ -287,7 +287,7 @@
         "name": "BURCH / CAMATTA / KRAABEL / MEHNER (DE, UK)",
         "start_date": "2023-05-27T16:35:00+02:00",
         "description": "Während Gyil-Virtuosin Burch der Festivalgemeinde durch verschiedene Husarenstückchen während der letzten Jahre bestens vertraut ist, fällt mit Caroline Kraabel eine weitgereiste Weltumspielerin in die Grafenstadt ein, die gefährliche Improvisation als Lebensweise betrachtet. Saxophonspielerisch zieht sie durchs Alltägliche, switcht überraschend zwischen Sprache und Spiel und gehört zum berüchtigten London Improvisers Orchestra. Haudegen Simon Camatta wirbelte sich ebenfalls während der letzten Jahre durch zahlreiche Abenteuer im Metamoersum und nimmt zwischen all den Trommelneuronen den Botenstoff SMS todernst. Mit Raissa Mehner bricht eine noch junge Tonpiratin, die - so scheint es - furchtlos jeder unbekannten Tonfolge entgegentritt, über den Moersbach auf in Richtung Themse. Da dieser verwegene Viererbund sich Pfingsten erstmalig in Moers versammelt, muss man auf alles gefasst sein. (Pssst: Die Befürchtung der Stadtspitze ist, dass die Be-frei-ung Britanniens am Rodelberg vorbereitet werden soll)",
-        "artists": ["Raissa Mehner (g)", "Caroline Kraabel (sax)", "Bex Burch (perc)", "Simon Camatta (dr)"]
+        "artists": ["Raissa Mehner (el-g)", "Caroline Kraabel (sax)", "Bex Burch (perc)", "Simon Camatta (dr)"]
     },
     {
         "id": 2023035,
@@ -336,35 +336,35 @@
         "name": "Deli Girls (US)",
         "start_date": "2023-05-27T20:30:00+02:00",
         "description": "moersify @ Peschkenhaus",
-        "artists": ["Danny Orlowski (voc)", "Hatechild (prod)"]
+        "artists": ["Danny Orlowski (voc)", "Hatechild (electr)"]
     },
     {
         "id": 2023042,
         "name": "Baby Sommer's Brother & Sisterhood (DE, UK)",
         "start_date": "2023-05-27T21:50:00+02:00",
         "description": "Deutsche (Free)Jazz-Geschichte aus mehreren Generationen, zigfach preisgekrönte Musiker:innen: Silke Eberhard, Ulrich Gumpert, Lina Allemano, Gebhard Ullmann, Anna Kaluza, Matthias Schubert, Anne Lucks, Robert Lucaciu, Tobias Delius, Gerhard Gschlößl, Martin Klingeberg, Nikolaus Neuser, Raymond McDonald, Frank Gratkowski - und Günter Baby Sommer, Moers-Urgestein, der auf seiner Snare seinem 80. Geburtstag im August entgegenwirbelt, ausbricht, mitreißt. Gemeinsam holen sie seit ihrer Gründung 2021 den Spirit von Chris McGregors legendärer „Brotherhood of Breath“ auf die Bühne. Baby Sommers Brother & Sisterhood verbindet mühelos Nationen und Traditionen und beweist, dass solche Kategorien endgültig überholt sind. Diese mutige Hood eint die Freude der kollektiven Improvisation zu eigenen und fremden Originalstücken, die sich 2023 neu zusammenclustern, wieder auseinanderdriften und überraschende Synapsen schlagen.",
-        "artists": ["„Assi“ Glöde (prod)", "Anke Lucks (tb)", "Anna Kaluza (as)", "Gebhard Ullmann (ts, fl, bcl)", "Gerhard Gschlößl (tb)", "Günter Baby Sommer (dr, comp, artistic direction)", "Lina Allemano (tp)", "Matthias Schubert (ts)", "Nikolaus Neuser (tp)", "Raymond MacDonald (ts, as, comp)", "Robert Lucaciu (b)", "Silke Eberhard (as)", "Uli Gumpert (p)", "Tobias Delius (ts, cl)", "Frank Gratkowski (as, cl, fl)"]
+        "artists": ["Wolf-Peter Glöde (prod)", "Anke Lucks (tb)", "Anna Kaluza (as)", "Gebhard Ullmann (ts, fl, bcl)", "Gerhard Gschlößl (tb)", "Günter Baby Sommer (dr, comp, ld)", "Lina Allemano (tp)", "Matthias Schubert (ts)", "Nikolaus Neuser (tp)", "Raymond MacDonald (ts, as, comp)", "Robert Lucaciu (cb)", "Silke Eberhard (as)", "Ulrich Gumpert (p)", "Tobias Delius (ts, cl)", "Frank Gratkowski (as, cl, fl)"]
     },
     {
         "id": 2023043,
         "name": "Aki Rissanen: Omniwerk Impressions (FI)",
         "start_date": "2023-05-27T22:00:00+02:00",
         "description": "Aki Rissanen ist ein musikalischer Einzelgänger, der mit Spielwitz und musikalischer Leichtfüßigkeit zwischen den verschiedenen Genres und Stilistiken zu springen vermag. Als einer der führenden nordeuropäischen Pianisten, hat er bereits mit vielen namhaften Vertreter*innen des Jazz zusammengearbeitet, wobei sein Augenmerk auf seinem eigenen Piano-Trio liegt, mit dem er seit vielen Jahren konsequent spielt und arbeitet. Nach Moers kommt Rissanen mit einem eigens konzipierten, neuartigen Instrument, dem Omniwerk. Dieses hybride, zweimanualige Tasteninstrument erinnert an eine Mischung aus Cembalo, Laute und Nylongitarre, das Rissanen klug mit elektronischen Klangerzeugern kombiniert. Rissanen nimmt uns in der Stadtkirche mit auf eine außergewöhnliche Klangreise zwischen alter, neuer und elektronischer Musik, zu der er auch Ligetis Étude No. 5 Arc-en-ciel exklusiv mit ins Programm aufgenommen hat.",
-        "artists": ["Aki Rissanen (Omniwerk)"]
+        "artists": ["Aki Rissanen (omniwerk)"]
     },
     {
         "id": 2023044,
         "name": "The Gavin Bryars Ensemble (UK)",
         "start_date": "2023-05-27T22:45:00+02:00",
         "description": "Das The Gavin Bryars Ensemble ist ein erweitertes Streichquartett unter der Leitung des britischen Komponisten, Bassisten und Pianisten Gavin Bryars. In den 60er Jahren war er als Jazzbassist tätig, bevor er sich der Minimal- und Experimentalmusik zuwandte. Seine konsequente und fast stoische kompositorische Haltung, hymnisch-harmonische Sätze mit dissonanten und geräuschhaften Neurotransmittern zu kontrastieren, zu dekonstruieren, erfordert lange Bögen und die Zeit, sich auf diese Tiefen einzulassen. Bryars’ „The Sinking of the Titanic“ (1975) wirkt erschreckend aktuell, „Jesus’ Blood Never Failed Me Yet“ brachte sogar Tom Waits in Bryars’ Gedankenwelt. Der große -WERT- seines Schaffens zwischen Neuer und Alter Musik liegt vielleicht in der erfrischend leichten Verbindung von Sinnlichkeit, Witz, DEMUT und Entschleunigung. Den Botenstoff GABA braucht man während dieses 90-minütigen Konzertes definitiv nicht.",
-        "artists": ["Morgan Goff (vl)", "Nick Cooper (vcl)", "Audrey Riley (vcl)", "James Woodrow (el-g)", "Yuri Bryars (b, p)", "Gavin Bryars (b, p)"]
+        "artists": ["Morgan Goff (va)", "Nick Cooper (vc)", "Audrey Riley (vc)", "James Woodrow (el-g)", "Yuri Bryars (cb, p)", "Gavin Bryars (cb, p)"]
     },
     {
         "id": 2023045,
         "name": "Mark Ernestus’ Ndagga Rhythm Force (DE, SN)",
         "start_date": "2023-05-27T23:15:00+02:00",
         "description": "Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.?AFRIKA - Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.",
-        "artists": ["Mbene Diatta Seck (voc)", "Bada Seck (Sabar)", "Baye Mamour Seck (Sabar)", "Ibou Mbaye (keys)", "Modou Mbaye (Tama/talking drum)", "Ousmane Ka (dr)", "Mark Ernestus (prod)"]
+        "artists": ["Mbéne Diatta Seck (voc)", "Bada Seck (Sabar)", "Baye Mamour Seck (Sabar)", "Ibou Mbaye (keys)", "Modou Mbaye (Tama/talking drum)", "Ousmane Ka (dr)", "Mark Ernestus (prod)"]
     },
     {
         "id": 2023046,
@@ -387,7 +387,7 @@
         "start_date": "2023-05-28T11:35:00+02:00",
         "end_date": "2023-05-28T12:00:00+02:00",
         "description": "",
-        "artists": ["Gonçalo Almeida (el-b)", "Raissa Mehner (git)", "Jean-Sébastien Mariage (el-g)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
+        "artists": ["Gonçalo Almeida (el-b)", "Raissa Mehner (el-g)", "Jean-Sébastien Mariage (el-g)", "Alexis Persigan (tb)", "David Vanzan (dr)"]
     },
     {
         "id": 2023049,
@@ -423,7 +423,7 @@
         "name": "Aki Rissanen (FI)",
         "start_date": "2023-05-28T16:05:00+02:00",
         "description": "Auch das dritte special der hybriden Reihe @the same time, welche zwei Acts an zwei verschiedenen Orten gleichzeitig auf die Bühne bringt und diese klanglich miteinander zu verschmelzen sucht, verspricht zu einem spannenden Klangabenteuer zu werden. Am Rodelberg hören wir Joe Grass an der Pedal Steel Guitar, der sich von den ihm über Kopfhörer zugespielten, inspirierenden Klängen des Omniwerks auf dieses Duett einlässt. In der Halle gibt sich gleichermaßen Aki Rissanen den ihn wiederrum erreichenden Klängen der Gayageum hin, die in gewisser Weise sogar verwandt zu denen seines etwas eigensinnigen, zweimanualigen Instruments sind. In den Genuss dessen, was die beiden Musizierenden während ihres musikalischen Rendez-vous´ gehört haben, kommt die moers-community erst am Montag, den 29. Mai 2023 im moersland(VR). Die neuronale Verknüpfung dieser beiden Klangwelten, dürfte wohl bis dato absolut unerhört sein!",
-        "artists": ["Aki Rissanen (Omniwerk)"]
+        "artists": ["Aki Rissanen (omniwerk)"]
     },
     {
         "id": 2023054,
@@ -458,7 +458,7 @@
         "name": "le petit macabre, Lukas Döhler, Ensemble INprogRES (DE, MX, US)",
         "start_date": "2023-05-28T18:20:00+02:00",
         "description": "In Anspielung auf György Ligetis Oper Le Grand Macabre, die ihn zu einem der wichtigsten Komponisten der Neuen Musik machte, entsteht mit le petit macabre zum 100. Geburtstag Ligetis ein neues Arrangement seiner Werke, das sich über seinen gesamten Schaffenszeitraum erstreckt.",
-        "artists": ["Lukas Döhler (artistic direction, arragement)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
+        "artists": ["Lukas Döhler (ld, arragement)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
             "Justin Cherry (bsn)", "Sofie Berge (h)", "Severin Haslach (vc)", "Femke Ehrentraut (vl)", "Andreas Osterloh (as)",
             "Maximilian Dickel (git)", "Juliana Dickel (ss)", "Judith Pfeiffer (fl)", "Jonah Pfeiffer (dr)", "Niklas Scheusener (cl)", 
             "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (vl, voc)"]
@@ -550,7 +550,7 @@
         "description": "",
         "artists": ["Sissel Vera Pettersen (voc)", "Tone Åse (voc)", "Natali Abrahamsen Garner (voc)", "Heidi Skjerve (voc)",
             "Anita Kaasbøll (voc)", "Kari Eskild Havenstrøm (voc)", "Siri Gjære (voc)", "Torunn Sævik (voc)", "Ingrid Lode (voc)",
-            "Ståle Storløkken (electr)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
+            "Ståle Storløkken (electr, pipe organ)", "Barbara van den Boom (voc)", "Kirsten Drope (voc)", "Wakako Nakaso (voc)", 
             "Eva-Maria Schappé (voc)", "Dorothea Winkel (voc)", "Johanna Zimmer (voc)", "Michelle Ryan (voc)", "Aya Tsujimoto (voc)", 
             "Dorothea Jakob (voc)", "Sophie Harr (voc)", "Sabine Czinczel (voc)", "Stefanie Gläser-Blumenschein (voc)", 
             "Judith Hilger (voc)", "Ulrike Koch (voc)", "Wiebke Wighardt (voc)", "Filippa Möres-Busch (voc)", "Sandra Stahlheber (voc)",
@@ -592,7 +592,7 @@
         "name": "Bloch/Mehner (DE)",
         "start_date": "2023-05-28T23:30:00+02:00",
         "description": "In unkonventioneller Besetzung aus Kirchenorgel und E-Gitarre lassen die Kölnerinnen Annie Bloch und Raissa Mehner ihre Klangwelten kollidieren. Unbefangen stellt das Duo in seinen Kompositionen und Improvisationen das Verhältnis von Wiederholung und Veränderung auf die Probe. Auf der Suche nach Schnittstellen ihrer musikalischen Einflüsse aus Jazz, Experimenteller Musik, Progressive Rock, Klassik und Folk lassen sie frappierende Klangräume entstehen - dabei kommen sich eines der ältesten und eines der jüngsten Musikinstrumente provozierend nahe. Bloch / Mehner kontrastieren nahtlos im Anschluss die große Lux Aeterna - Hommage des SWR Vokalensembles und der Trondheim Voices in der Stadtkirche.",
-        "artists": ["Annie Bloch (church organ)", "Raissa Mehner (g)"]
+        "artists": ["Annie Bloch (pipe organ)", "Raissa Mehner (el-g)"]
     },
     {
         "id": 2023076,
@@ -606,7 +606,7 @@
         "name": "Deli Girls (US)",
         "start_date": "2023-05-29T00:35:00+02:00",
         "description": "Danny Orlowski (voc) und verschiedene Produzenten bilden das queere Techno-Punk-Duo aus New York City. Ihre Musik: eine Mischung aus Industrial, Nu-Metal, Hip-Hop, Noise und Punkrock – laut, hart, energiegeladen. Doch die Musik der Deli Girls ist nicht nur laut und kraftvoll, sie ist auch eine Botschaft: Anti-Establishment, Anti-Diskriminierung, Pro-Queer, Pro-Freak. BE-FREI-UNG!",
-        "artists": ["Danny Orlowski (voc)", "Hatechild (prod)"]
+        "artists": ["Danny Orlowski (voc)", "Hatechild (electr)"]
     },
     {
         "id": 2023078,
@@ -620,7 +620,7 @@
         "name": "Moers Sessions 2023 #4",
         "start_date": "2023-05-29T11:35:00+02:00",
         "end_date": "2023-05-29T12:00:00+02:00",
-        "artists": ["Guillaume Cazalet (git, sitar, voc)", "Gianna Greco (bass)", "Gonçalo Almeida (el-b)", "Simon Camatta (dr)", "François R. Cambuzat (git, voc)", "Virginia Genta (sax)"]
+        "artists": ["Guillaume Cazalet (git, sitar, voc)", "Gianna Greco (b)", "Gonçalo Almeida (el-b)", "Simon Camatta (dr)", "François R. Cambuzat (git, voc)", "Virginia Genta (sax)"]
     },
     {
         "id": 2023080,

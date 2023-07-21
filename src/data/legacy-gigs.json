@@ -67,7 +67,7 @@
     },
     {
       "name": "Lewis Jordan Quartet (SanFrancisco\/USA)",
-      "description": "Besetzung: Lewis Jordan (reeds), George Sams (tp, fl-h), Andrew St. James (b), Carl Hoffman (dr)",
+      "description": "Besetzung: Lewis Jordan (reeds), George Sams (tp, flh), Andrew St. James (b), Carl Hoffman (dr)",
       "id": "d2e320",
       "start_date": "1979-06-03T00:00:00Z"
     },
@@ -97,7 +97,7 @@
     },
     {
       "name": "Ernst - Ludwig - Petrowsky Octett (DDR=GDR)",
-      "description": "Besetzung: Ernst-Ludwig Petrowsky (reeds), Manfred Hering (reeds), Helmut Forsthoff (reeds), Heinz Becker (tp), Conny Bauer, tb Ulli Gumpert (p), Klaus Koch (b), Baby Sommer (dr)",
+      "description": "Besetzung: Ernst-Ludwig Petrowsky (reeds), Manfred Hering (reeds), Helmut Forsthoff (reeds), Heinz Becker (tp), Conny Bauer (tb), Ulrich Gumpert (p), Klaus Koch (b), Günter Baby Sommer (dr)",
       "id": "d2e344",
       "start_date": "1979-06-04T00:00:00Z"
     },
@@ -997,7 +997,7 @@
     },
     {
       "name": "Christoph Eidens & Suburban Dreams (DE)",
-      "description": "Besetzung: Christoph Eidens (vib, mar, perc), Peter Engelhardt (g), Hartmut Kracht (b), Matthias Rumpf (dr, perc), Alphonso \"Poncho\" Valdes (Timbales, perc), Daniel Bassanta (Conga, perc)",
+      "description": "Besetzung: Christoph Eidens (vib, mar, perc), Peter Engelhardt (g), Hartmut Kracht (b), Matthias Rumpf (dr, perc), Alphonso \"Poncho\" Valdes (timbales, perc), Daniel Bassanta (congas, perc)",
       "id": "d3e344",
       "start_date": "1989-05-15T00:00:00Z"
     },
@@ -1051,7 +1051,7 @@
     },
     {
       "name": "\"Jazz Warriors\" (GB)",
-      "description": "Besetzung: Patrick Cameron (perc), Paul Sharpe (fl), Cleveland Watkiss (voc), Harry Becket (tp), Clarence Adoo (tp), Claude Deppa (tp), Andy Grappy (tu), Adrian Reid (keyb), Robin Walker (tb), Winston Rollins (tb), Steve Washington (dr), Alan Weekes (g), Wayne Batchelor & Ike Leo (Double Basses), Glenn Williams (bars), Jeff Gordon (ts), Steve Williamson (ts), Michael Rose (as), Jason Yarde (as), Carl Kirton (engineer)",
+      "description": "Besetzung: Patrick Cameron (perc), Paul Sharpe (fl), Cleveland Watkiss (voc), Harry Becket (tp), Clarence Adoo (tp), Claude Deppa (tp), Andy Grappy (tu), Adrian Reid (keyb), Robin Walker (tb), Winston Rollins (tb), Steve Washington (dr), Alan Weekes (g), Wayne Batchelor (cb), Ike Leo (cb), Glenn Williams (bs), Jeff Gordon (ts), Steve Williamson (ts), Michael Rose (as), Jason Yarde (as), Carl Kirton (engineer)",
       "id": "d3e397",
       "start_date": "1988-05-21T00:00:00Z"
     },
@@ -1099,7 +1099,7 @@
     },
     {
       "name": "Far East Ensemble (JPN)",
-      "description": "Besetzung: Dr. Kazutoki Umezu (reeds), Kang Tae Hwan (reeds), Eiichi Hayashi (reeds), Hiroaki Katayama (reeds)",
+      "description": "Besetzung: Kazutoki Umezu (reeds), Kang Tae Hwan (reeds), Eiichi Hayashi (reeds), Hiroaki Katayama (reeds)",
       "id": "d3e434",
       "start_date": "1988-05-22T00:00:00Z"
     },
@@ -1315,7 +1315,7 @@
     },
     {
       "name": "Taktlos (CH\/USA\/DDR\/GB\/FRA)",
-      "description": "Besetzung: Irène Schweizer (p), George Lewis (tb), Maggie Nichols (voc), Joëlle Léandre (b), Baby Sommer (dr, perc)",
+      "description": "Besetzung: Irène Schweizer (p), George Lewis (tb), Maggie Nichols (voc), Joëlle Léandre (cb), Günter Baby Sommer (dr, perc)",
       "id": "d3e628",
       "start_date": "1986-05-18T00:00:00Z"
     },
@@ -1333,7 +1333,7 @@
     },
     {
       "name": "Kahil El\u0091 Zabar & Orchestra Infinity (Chicago\/USA)",
-      "description": "Besetzung: Kahil El\u0091 Zabar (comp, cond), Ayo Cason (voc), Chavundaka (voc), Kiilu Rafiki (p, voc), Johnny Britt (synth, voc), Rita Warford (voc), Robert Griffin (tp), Isaiah Jackson (tb), Edward Wilkerson (reeds), Douglas Ewart (reeds), Ernest Dawkins (reeds), Mwata Bowden (reeds), Billy Bang (v), Malachi Favors (b), Aaron Dodd (tb), Oye Bisi (perc), Kewu Goggins (penc), Musa Mosley (perc), Sura Ramses (perc), Babu Atiba (perc), Eli Hoeni (perc)",
+      "description": "Besetzung: Kahil El\u0091 Zabar (comp, cond), Ayo Cason (voc), Chavundaka (voc), Kiilu Rafiki (p, voc), Johnny Britt (synth, voc), Rita Warford (voc), Robert Griffin (tp), Isaiah Jackson (tb), Edward Wilkerson (reeds), Douglas Ewart (reeds), Ernest Dawkins (reeds), Mwata Bowden (reeds), Billy Bang (vl), Malachi Favors (cb), Aaron Dodd (tb), Oye Bisi (perc), Kewu Goggins (perc), Musa Mosley (perc), Sura Ramses (perc), Babu Atiba (perc), Eli Hoeni (perc)",
       "id": "d3e640",
       "start_date": "1986-05-18T00:00:00Z"
     },
@@ -1345,7 +1345,7 @@
     },
     {
       "name": "Musique (CH)",
-      "description": "Besetzung: René Macherel (ob), Claudio Polupijjia (frh), Didier Hatt (tp), Mario Alberti (tp), Alain Bertholet (tp), Jean-François Bovard (tb), Runo Ericksson (tb), André Jaume (reeds), Daniel Bourquin (reeds), Léon Francioli (b), Jacques Ditisheim (perc), Pascal Auberson (perc), Olivier Clerc (perc)",
+      "description": "Besetzung: René Macherel (oboe), Claudio Polupijjia (frh), Didier Hatt (tp), Mario Alberti (tp), Alain Bertholet (tp), Jean-François Bovard (tb), Runo Ericksson (tb), André Jaume (reeds), Daniel Bourquin (reeds), Léon Francioli (b), Jacques Ditisheim (perc), Pascal Auberson (perc), Olivier Clerc (perc)",
       "id": "d3e651",
       "start_date": "1986-05-19T00:00:00Z"
     },
@@ -1381,7 +1381,7 @@
     },
     {
       "name": "Skeleton Crew (USA)",
-      "description": "Besetzung: Fred Frith (g, b, v), Tom Cora (clo), Zeena Parkins (harp, keyb)",
+      "description": "Besetzung: Fred Frith (el-g, el-b, vl), Tom Cora (vc), Zeena Parkins (harp, keyb)",
       "id": "d3e690",
       "start_date": "1985-05-24T00:00:00Z"
     },
@@ -1411,7 +1411,7 @@
     },
     {
       "name": "Heiner Goebbels \"Compilation-Materialausgabe\" (USA\/Europe)",
-      "description": "Besetzung: Heiner Goebbels (p, keyb) & Arto Lindsay, Hans-Peter Gübert, Heinrich Goebel, Tom Cora, DIE TÖDLICHE DORIS, Dietrich Diedrichsen, John Zorn, Markus Oehlen, Moritz Rrr Reichelt, Fred Frith, Christoph Anders, Walter E.Baumann, Peter Bayreuther, Johannes Beck, Indulis Bilzens, Malte Burba, Frieder Butzmann, Werner Cee, Lindsay Cooper, Chris Cutler, Kurt Dahlke, PYROLATOR, Frank Dietrich, Frank Fenstermacher, Mike Hentz, HYPNOBEAT, Thomas Kapitelski, Johannes Krämer, Nikel List, LUREX 4, BRÄUNUNGSSTUDIO MALARIA, Christian Marclay, Christoph Martin, Peter Pochir, DER PLAN, Rolf Riehm, Annemarie Roelofs (tb,vl), Tobias Rüger, Frank Rühl, Trio, The ESSENTIALS, Andreas Schäfer, Ole Schmidt, Eliott Sharp, Norbert Umsonst, Frank Wolff and many others",
+      "description": "Besetzung: Heiner Goebbels (p, keyb), Arto Lindsay (el-g, voc), Hans-Peter Gübert (el-g, org), Heinrich Goebel (perf), Tom Cora (vc, el-b), Wolfgang Müller (perf), Nikolaus Utermöhlen (perf), Diedrich Diederichsen (perf), John Zorn (as), Markus Oehlen (perf), Moritz Reichelt (perf), Fred Frith (el-g), Christoph Anders (perf), Walter E. Baumann (perf), Peter Bayreuther (perf), Johannes Beck (perf), Indulis Bilzens (perf), Malte Burba (perf), Frieder Butzmann (perf), Werner Cee (perf), Lindsay Cooper (bsn, oboe), Chris Cutler (dr, perc, electr), Kurt Dahlke (perf), Kurt Dahlke (perf), Frank Dietrich (perf), Frank Fenstermacher (sax), Mike Hentz (perf), James Dean Brown (electr), Thomas Kapitelski (perf), Johannes Krämer (perf), Nikel List (perf), Christian Marclay (tt), Christoph Martin (perf), Peter Pochir (perf), Rolf Riehm (perf), Annemarie Roelofs (tb,vl), Tobias Rüger (perf), Frank Rühl (perf), Trio, The ESSENTIALS, Andreas Schäfer (perf), Ole Schmidt (perf), Eliott Sharp (perf), Norbert Umsonst (perf), Frank Wolff (perf)",
       "id": "d3e714",
       "start_date": "1985-05-25T00:00:00Z"
     },
@@ -1489,13 +1489,13 @@
     },
     {
       "name": "Dr. Umezu Band (JPN)",
-      "description": "Besetzung: Kazutoki Umezu (reeds), Hiroaki Katayama (reeds), Takeharu Hayakawa (eb), Takashi Kikuchi (dr, perc)",
+      "description": "Besetzung: Kazutoki Umezu (reeds), Hiroaki Katayama (reeds), Takeharu Hayakawa (el-b), Takashi Kikuchi (dr, perc)",
       "id": "d3e798",
       "start_date": "1984-06-08T00:00:00Z"
     },
     {
       "name": "Massacre (USA\/JPN)",
-      "description": "Besetzung: Fred Frith (g), Takeharu Hayakawa (eb), Takashi Kikuchi (dr)",
+      "description": "Besetzung: Fred Frith (g), Takeharu Hayakawa (el-b), Takashi Kikuchi (dr)",
       "id": "d3e803",
       "start_date": "1984-06-08T00:00:00Z"
     },
@@ -1585,7 +1585,7 @@
     },
     {
       "name": "Yoshiaki Fujikawa & Eastasia Orchestra (JPN)",
-      "description": "Besetzung: Yoshiaki Fujikawa (as, leader), Tetsuji Yoshida (tp), Ichijuu Komiya (tp), Hiroshi Itaya (tb), Haruki Satoh (tb), Kazutoki Umezu (reeds), Keizou Inoue (reeds), Junji Hirose (reeds), Hiroaki Katayama (reeds), Keiki Midowikawa (clo), Takeharu Hayakawa (b), Sabu Toyozumi (dr), Tatsuji Yokoyama (dr)",
+      "description": "Besetzung: Yoshiaki Fujikawa (as, leader), Tetsuji Yoshida (tp), Ichijuu Komiya (tp), Hiroshi Itaya (tb), Haruki Satoh (tb), Kazutoki Umezu (reeds), Keizou Inoue (reeds), Junji Hirose (reeds), Hiroaki Katayama (reeds), Keiki Midowikawa (vc), Takeharu Hayakawa (el-b), Sabu Toyozumi (dr), Tatsuji Yokoyama (dr)",
       "id": "d3e892",
       "start_date": "1984-06-11T00:00:00Z"
     },
@@ -1609,7 +1609,7 @@
     },
     {
       "name": "Duck and Cover (USA\/GB\/DE)",
-      "description": "Besetzung: Fred Frith (g, electr), Heiner Goebbels (reeds), Alfred Harth (reeds), Dagmar Krause (voc), George Lewis (tb), Chris Cutler (dr), Tom Cora (clo)",
+      "description": "Besetzung: Fred Frith (g, electr), Heiner Goebbels (reeds), Alfred Harth (reeds), Dagmar Krause (voc), George Lewis (tb), Chris Cutler (dr), Tom Cora (vc)",
       "id": "d3e929",
       "start_date": "1983-05-20T00:00:00Z"
     },
@@ -1633,7 +1633,7 @@
     },
     {
       "name": "Dr. Umezu Band (JPN)",
-      "description": "Besetzung: Kazutoki Umezu (reeds), Hiroaki Katayama (reeds), Takeharu Hayakawa (b), Takashi Kikuchi (dr, perc)",
+      "description": "Besetzung: Kazutoki Umezu (reeds), Hiroaki Katayama (reeds), Takeharu Hayakawa (el-b), Takashi Kikuchi (dr, perc)",
       "id": "d3e954",
       "start_date": "1983-05-21T00:00:00Z"
     },
@@ -1663,7 +1663,7 @@
     },
     {
       "name": "Skeleton Crew (USA)",
-      "description": "Besetzung: Fred Frith (g, el, dr, voc), Tom Cora (clo, b, el)",
+      "description": "Besetzung: Fred Frith (g, el, dr, voc), Tom Cora (vc, el-b, electr)",
       "id": "d3e985",
       "start_date": "1983-05-22T00:00:00Z"
     },
@@ -2059,7 +2059,7 @@
     },
     {
       "name": "Bachir Attar & the Master Musicians of Jajouka (MAR)",
-      "description": "Besetzung: Bachir Attar (voc, fl), Taher Boukhzar (voc, vl, ghaita, gimbri, lira), Abdellah Boukhzar (voc, tirbouga, tebel), Mustapha Attar (tebel, ghaita), Mohamed El Attar (ghaita), Mokhtar Jaghdal (tebel), Ali Rtoubi (tebel), Bouker Talha (fl, ghaita, tarija, tebel, dancer), Mohamed Hammadi (bou jeloud, dancer)",
+      "description": "Besetzung: Bachir Attar (voc, fl), Taher Boukhzar (voc, vl, ghaita, gimbri, lyre), Abdellah Boukhzar (voc, tirbouga, tebel), Mustapha Attar (tebel, ghaita), Mohamed El Attar (ghaita), Mokhtar Jaghdal (tebel), Ali Rtoubi (tebel), Bouker Talha (fl, ghaita, tarija, tebel, dancer), Mohamed Hammadi (bou jeloud, dancer)",
       "id": "d4e269",
       "start_date": "1999-05-21T00:00:00Z"
     },
@@ -2095,7 +2095,7 @@
     },
     {
       "name": "Frank Emilio Flynn y Los Amigos (CUB)",
-      "description": "Besetzung: Frank Emilio Flynn (p), William Rubalcaba (b), Hilguero (fl), Lázaro J. Ordónez (v), Enrique Lazaga Salgado (tumbadoras), Enrique Lazaga Varona (guiro), Martha Montes (timbal)",
+      "description": "Besetzung: Frank Emilio Flynn (p), William Rubalcaba (b), Hilguero (fl), Lázaro J. Ordónez (v), Enrique Lazaga Salgado (tumbadoras), Enrique Lazaga Varona (guiro), Martha Montes (timbales)",
       "id": "d4e296",
       "start_date": "1999-05-22T00:00:00Z"
     },
@@ -2239,7 +2239,7 @@
     },
     {
       "name": "The Bektashi Breathes (TUR)",
-      "description": "Besetzung: Mehmet Hamdi Demircioglu (ses), Oktay Aktürk (ses), Zafer Tekelioglu (ses), Gürsel Kocak (ses), Arif Erdebil (ney), Ihsan Özgen (kemence), Göksel Baktagir (kanun), Yurdal Tokcan (short-necked lute), Emrullah Sengüller (clo), Fahrettin Yarkin (bendir), Gürsel Kocak (cymbals), Kani Karaca (soloist), Taner Kkalkuloglu (kanun), Sedat Basar (ud)",
+      "description": "Besetzung: Mehmet Hamdi Demircioglu (ses), Oktay Aktürk (ses), Zafer Tekelioglu (ses), Gürsel Kocak (ses), Arif Erdebil (ney), Ihsan Özgen (kemence), Göksel Baktagir (qanun), Yurdal Tokcan (short-necked lute), Emrullah Sengüller (clo), Fahrettin Yarkin (bendir), Gürsel Kocak (cymbals), Kani Karaca (soloist), Taner Kkalkuloglu (qanun), Sedat Basar (ud)",
       "id": "d4e421",
       "start_date": "1998-05-31T00:00:00Z"
     },
@@ -2371,7 +2371,7 @@
     },
     {
       "name": "Tom Cora & Roof (USA\/GB)",
-      "description": "Besetzung: Tom Cora (clo), Phil Minton (voc), Luc Ex (g), Michael Vatcher (dr)",
+      "description": "Besetzung: Tom Cora (vc), Phil Minton (voc), Luc Ex (g), Michael Vatcher (dr)",
       "id": "d4e535",
       "start_date": "1997-05-18T00:00:00Z"
     },
@@ -2419,7 +2419,7 @@
     },
     {
       "name": "Mari Boine (NOR)",
-      "description": "Besetzung: Mari Boine (voc), Roger Ludvigsen (g), Carlos Quispe (fl, charango), Helge Rimestadt (viol), Gjermund Silset (b, perc), Helge Norbakken (perc)",
+      "description": "Besetzung: Mari Boine (voc), Roger Ludvigsen (g), Carlos Quispe (fl, charango), Hege Rimestad (vl), Gjermund Silset (b, perc), Helge Norbakken (perc)",
       "id": "d4e585",
       "start_date": "1996-05-24T00:00:00Z"
     },
@@ -2563,7 +2563,7 @@
     },
     {
       "name": "The Incredible Istanbul Gipsy Band (TUR)",
-      "description": "Besetzung: Suat Diril (cl), Yildirim Doganay (v), Vedat Dinetir (ney, zuma), Ilker Censi (kanun), Bülent Karamuk (perc), Mehmet Süngü (g), Güray Aktalay (tp), Nezih Öget (b), Ayhan Kücükboyaci (perc)",
+      "description": "Besetzung: Suat Diril (cl), Yildirim Doganay (v), Vedat Dinetir (ney, zuma), Ilker Censi (qanun), Bülent Karamuk (perc), Mehmet Süngü (g), Güray Aktalay (tp), Nezih Öget (b), Ayhan Kücükboyaci (perc)",
       "id": "d4e711",
       "start_date": "1995-06-03T00:00:00Z"
     },
@@ -2671,7 +2671,7 @@
     },
     {
       "name": "The Ex & Tom Cora (NL\/USA)",
-      "description": "Besetzung: Katrin Ex (dr, voc), Terrie Ex (g), Luc Ex (b), G.W. Sok (voc), Tom Cora (clo)",
+      "description": "Besetzung: Katrin Ex (dr, voc), Terrie Ex (g), Luc Ex (b), G.W. Sok (voc), Tom Cora (vc)",
       "id": "d4e811",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -2689,7 +2689,7 @@
     },
     {
       "name": "Third Person (USA\/JPN)",
-      "description": "Besetzung: Tom Cora (clo), Samm Bennett (dr, perc), Dr. Kazutoki Umezu (reeds)",
+      "description": "Besetzung: Tom Cora (vc), Samm Bennett (dr, perc), Kazutoki Umezu (reeds)",
       "id": "d4e824",
       "start_date": "1994-05-21T00:00:00Z"
     },
@@ -2821,7 +2821,7 @@
     },
     {
       "name": "André Jaume Trio & Tavagna Piazza di Luna (FR-COR)",
-      "description": "Besetzung: André Jaume (ts, bcl, cl, fl, comp, arr), Rémi Charmasson (g), Jean-Marc Montera (g, reeds), Olivier Clerc (dr, perc), Korsische Sänger: Jackie Micaelli, Jean-Pierre Lanfranchi, Jean-Claude Albertini, Jean-Etienne Langianni, Francis Marcantei (all voc)",
+      "description": "Besetzung: André Jaume (ts, bcl, cl, fl, comp, arr), Rémi Charmasson (g), Jean-Marc Montera (g, reeds), Olivier Clerc (dr, perc), Jackie Micaelli (voc), Jean-Pierre Lanfranchi (voc), Jean-Claude Albertini (voc), Jean-Etienne Langianni (voc), Francis Marcantei (voc)",
       "id": "d4e941",
       "start_date": "1993-05-30T00:00:00Z"
     },
@@ -3073,7 +3073,7 @@
     },
     {
       "name": "Mustafa Kandisirali (TUR)",
-      "description": "Besetzung: Mustafa Kandisirali (cl), Suat Senyaylar (acc), Erkan Dedeoglu (kanun), Ismet Uras (darikuba), Cavit Deringöl (keman)",
+      "description": "Besetzung: Mustafa Kandisirali (cl), Suat Senyaylar (acc), Erkan Dedeoglu (qanun), Ismet Uras (darikuba), Cavit Deringöl (keman)",
       "id": "d4e1156",
       "start_date": "1991-05-18T00:00:00Z"
     },
@@ -3853,7 +3853,7 @@
     },
     {
       "name": "The EX Party Convoy feat. Mohammed Jimmy Mohammed (NL\/ETH\/FRA\/IT\/JPN)",
-      "description": "Besetzung: Andy Ex (g), Terrie Ex (g), GW Sok (voc), Massimo (b), Katherina Ex (dr), Xavier Charles (electr, tt), Jerome Jeanmart (homemade perc), Frederic Le Junter (voc, sound machines), Stephane Levignernont (sounds), Luca Mai (as, bs), Massimo Pupillo (b), Jacopo Battaglia (dr), Arnold de Boer (voc, g), Remko Muermans (keyb, voc), Getatchew Mekuria (ts), Tobi Delius (ts), Mary Oliver (v), Tristan Honsinger (clo), Enrst Glerum (b), Ab Baars (ts), Michael Moore (as), Cor Fuhler (p), Wolter Wierbos (tb), Thomas Heberer (tb), Han Bennink (dr), Mohammed Jimmy Mohammed (voc), Zewditu Yohannis (dance, voc), Messele Asmamaw (krar), Asnake Gebreyes (dr), Anne James Chaton (sound poet), Hisako Horikawa (dance)",
+      "description": "Besetzung: Andy Ex (g), Terrie Ex (g), GW Sok (voc), Massimo (b), Katherina Ex (dr), Xavier Charles (electr, tt), Jerome Jeanmart (homemade perc), Frederic Le Junter (voc, sound machines), Stephane Levignernont (sounds), Luca Mai (as, bs), Massimo Pupillo (b), Jacopo Battaglia (dr), Arnold de Boer (voc, g), Remko Muermans (keyb, voc), Getatchew Mekuria (ts), Tobias Delius (ts), Mary Oliver (vl), Tristan Honsinger (vc), Ernst Glerum (cb), Ab Baars (ts), Michael Moore (as), Cor Fuhler (p), Wolter Wierbos (tb), Thomas Heberer (tb), Han Bennink (dr), Mohammed Jimmy Mohammed (voc), Zewditu Yohannis (dance, voc), Messele Asmamaw (krar), Asnake Gebreyes (dr), Anne James Chaton (sound poet), Hisako Horikawa (dance)",
       "id": "d5e789",
       "start_date": "2005-05-14T00:00:00Z"
     },
@@ -3871,7 +3871,7 @@
     },
     {
       "name": "Jamaaladeen Tacuma & Basso Nouveau (USA)",
-      "description": "Besetzung: Jamaaladeen Tacuma (el-b), Gerald Veasley (6str-eb), Tyrone Brown (double bass), Warren Oree (double bass), Webb Thomas (dr)",
+      "description": "Besetzung: Jamaaladeen Tacuma (el-b), Gerald Veasley (6str-eb), Tyrone Brown (cb), Warren Oree (cb), Webb Thomas (dr)",
       "id": "d5e804",
       "start_date": "2005-05-15T00:00:00Z"
     },
@@ -3895,7 +3895,7 @@
     },
     {
       "name": "Mercan Dede (TUR)",
-      "description": "Besetzung: Mercan Dede (ney, bendir, voc, tt, samples, electr. sounds), Ismail Darici (perc), Hüseyin Ceylan (perc), Goksel Baktagi (kanun), Aykut Sütoglu (cl, tp), Mira (dance)",
+      "description": "Besetzung: Mercan Dede (ney, bendir, voc, tt, samples, electr. sounds), Ismail Darici (perc), Hüseyin Ceylan (perc), Göksel Baktagir (qanun), Aykut Sütoglu (cl, tp), Mira (dance)",
       "id": "d5e826",
       "start_date": "2005-05-16T00:00:00Z"
     },
@@ -4080,8 +4080,8 @@
       "start_date": "2004-05-31T00:00:00Z"
     },
     {
-      "name": "Brotherhood of Brass (USA) feat. Frank London's Klezmer Brass All Stars & Boban Markovic' Orkestar (SRB)",
-      "description": "Besetzung: Frank London (tp), Matt Darriau (sax), Merlin Shepherd (cl), Curtis Hasselbring (tb), Paul Morrissett (bs, hrn), Ron Caswell (tu), David Licht (dr), Boban Markovic (voc, flh), Srdjan Spasic (flh), Marko Markovic (flh), Jovica Ajdarevic (flh), Goran Spasic (ten-h), Asim Ajdinovic (ten-h), Isidor Eminovic (ten-h), Sasa Alisanovic (helicon), Dragoljub Eminovic (ten-h), Asmet Eminovic (perc) Nedzat Zumberovic (dr)",
+      "name": "Brotherhood of Brass (USA) feat. Frank London's Klezmer Brass All Stars & Boban Marković Orkestar (SRB)",
+      "description": "Besetzung: Frank London (tp), Matt Darriau (sax), Merlin Shepherd (cl), Curtis Hasselbring (tb), Paul Morrissett (bs, hrn), Ron Caswell (tu), David Licht (dr), Boban Marković (voc, flh), Srdjan Spasić (flh), Marko Marković (flh), Jovica Ajdarević (flh), Goran Spasić (ten-h), Ašim Ajdinović (ten-h), Isidor Eminović (ten-h), Sasa Alisanović (helicon), Dragoljub Eminović (ten-h), Asmet Eminović (perc), Nedzat Zumberović (dr)",
       "id": "d5e1016",
       "start_date": "2004-05-31T00:00:00Z"
     },
@@ -4117,7 +4117,7 @@
     },
     {
       "name": "Ljiljana Buttler & Mostar Sevdah Reunion (SRB\/BIH)",
-      "description": "Besetzung: Ljiljana Buttler (voc), Ilijaz Delic (voc), Mustafa Santic (acc, cl), Milic Petrovic (g), Sandi Durakovic (rhythm guitar), Kosta Latinovic (double bass), Nedeljko Kovacevic (v), Sead Avdić (dr)",
+      "description": "Besetzung: Ljiljana Buttler (voc), Ilijaz Delic (voc), Mustafa Santic (acc, cl), Milic Petrovic (g), Sandi Durakovic (rhythm guitar), Kosta Latinovic (cb), Nedeljko Kovacevic (vl), Sead Avdić (dr)",
       "id": "d5e1064",
       "start_date": "2003-06-06T00:00:00Z"
     },
@@ -4231,7 +4231,7 @@
     },
     {
       "name": "Mercan Dede (TUR)",
-      "description": "Besetzung: Mercan Dede (voc, ney, bendir, tt, samples, electronic sounds), Husnu Senlendirici (cl), Gosksel Baktagir (kanun), Mehmet Akatay (perc), Scott Russel (dr), Mira Burke (dance)",
+      "description": "Besetzung: Mercan Dede (voc, ney, bendir, tt, samples, electronic sounds), Husnu Senlendirici (cl), Göksel Baktagir (qanun), Mehmet Akatay (perc), Scott Russel (dr), Mira Burke (dance)",
       "id": "d5e1176",
       "start_date": "2003-06-09T00:00:00Z"
     },
@@ -4537,13 +4537,13 @@
     },
     {
       "name": "Cándido Fabre y su Banda (CUB)",
-      "description": "Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (vl), Juan Simon Castillo Peña (vl), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuelo (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbals)",
+      "description": "Besetzung: Cándido Fabre (voc), Omar Pupo Sánchez (voc), Zazel Maria Diaz Rodriguez (voc), Luis Ramón Hernández Reyes (g), Juan Cabrera Almeida (g), Oscar Luis Vázquez Llumbet (fl), Bernardo Andres Lopez Isaac (p), Wilfredo Fernando Alonso Naranjo (vl), Juan Simon Castillo Peña (vl), Jorge Luis Gomez Navas (keyb), Luis Arnaldo Barroso Hierrezuelo (b), Roberto Miguel Chala Cabrera (congas), Juan Semanat Gallardo (timbales)",
       "id": "d5e1503",
       "start_date": "2001-06-02T00:00:00Z"
     },
     {
       "name": "Defunkt Big Band (USA)",
-      "description": "Besetzung: Joseph Bowie (voc, tb), Byron Bowie (cond), Kelli Sae (voc), James Salter (ts), Greg Johnson (ts), Jorge Sylvester (as), Alvin Morris (as), Alex Harding (bs), John Mulkerin (tp), Danny Forrest (tp), Dwuane Eubanks (tp), Ronnie Jackson (tb), Paul Akerson (tb), Donald Miller (tb), Kim Clarke (b), Tobias Ralph (dr), Adam Klipple (keyb)",
+      "description": "Besetzung: Oliver Lake (as), Howard Johnson (bs), Kim Clarke (el-b), Byron Bowie (cond), Willard Dyson (dr), Bill Bickford (el-g), Adam Klipple (keyb), Ron Blake (ts), Clark Gayton (tb), Gary Valente (tb), Joshua Roseman (tb), Joseph Bowie (tb,voc), Gerald Brazel (tp), John Mulkerin (tp), Joseph Mac Gollehon (tp)",
       "id": "d5e1508",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4567,13 +4567,13 @@
     },
     {
       "name": "Satoko Fujii Quartet (JPN)",
-      "description": "Besetzung: Satoko Fujii (p), Natsuki Tamura (tp), Takeharu Hayakawa (eb), Tatsuya Yoshida (dr)",
+      "description": "Besetzung: Satoko Fujii (p), Natsuki Tamura (tp), Takeharu Hayakawa (el-b), Tatsuya Yoshida (dr)",
       "id": "d5e1535",
       "start_date": "2001-06-03T00:00:00Z"
     },
     {
       "name": "Boban Marković Orkestar (SRB)",
-      "description": "Besetzung: Boban Markovic (tp), Jovica Ajdarevic (tp), Srdjan Spasic (tp), Momcilo Krstic (as), Dragoljub Eminovic (ten-h), Asim Ajdinovic (ten-h), Selistar Eminovic (ten-h), Srdjan Eminovic (ten-h), Sasa Alisanovic (helicon), Srboljub Mirkovic (dr), Asmet Eminovic (dr)",
+      "description": "Besetzung: Boban Marković (tp), Jovica Ajdarević (tp), Srdjan Spasić (tp), Momcilo Krstić (as), Dragoljub Eminović (ten-h), Asim Ajdinović (ten-h), Selistar Eminović (ten-h), Srdjan Eminović (ten-h), Saša Ališanović (helicon), Srboljub Mirković (dr), Asmet Eminović (dr)",
       "id": "d5e1540",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -6133,7 +6133,7 @@
     },
     {
       "name": "Matthias Schriefl Shreefpunk plus Big Band (DE)",
-      "description": "Besetzung: Matthias Schriefl (tp, comp), Anette von Eichel (voc), Malte Dürrschnabel, Roger Hanschel, Niels Klein, Denis Gäbel, Benjamin Steil (sax), Benny Brown, Volker Deglmann, Christoph Moschberger, Matthias Knoop (tp), Felix Fromm, Tobias Wember, Matthias Muche, Achim Hartmann (tb), Johannes Behr (g), Robert Landfermann (b), Jens Düppe (dr), Jonas Burgwinkel (dr)",
+      "description": "Besetzung: Matthias Schriefl (tp, comp), Anette von Eichel (voc), Malte Dürrschnabel (sax), Roger Hanschel (sax), Niels Klein (sax), Denis Gäbel (sax), Benjamin Steil (sax), Benny Brown (tp), Volker Deglmann (tp), Christoph Moschberger (tp), Matthias Knoop (tp), Felix Fromm (tb), Tobias Wember (tb), Matthias Muche (tb), Achim Hartmann (tb), Johannes Behr (g), Robert Landfermann (cb), Jens Düppe (dr), Jonas Burgwinkel (dr)",
       "id": "d6e1469",
       "start_date": "2010-05-24T00:00:00Z"
     },

@@ -292,6 +292,30 @@
                             "abbrev": "lutes",
                             "members": [
                                 {
+                                    "name": "lyres",
+                                    "abbrev": "lyres",
+                                    "members": [
+                                        {
+                                            "name": "lyre",
+                                            "abbrev": "lyre"
+                                        },
+                                        {
+                                            "name": "krar",
+                                            "abbrev": "krar",
+                                            "members": [
+                                                {
+                                                    "name": "bass krar",
+                                                    "abbrev": "barss krar"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "rebab",
+                                    "abbrev": "rebab"
+                                },
+                                {
                                     "name": "saz",
                                     "abbrev": "saz",
                                     "members": [
@@ -318,6 +342,16 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "name": "zither",
+                            "abbrev": "zith",
+                            "members": [
+                                {
+                                    "name": "diddley bow",
+                                    "abbrev": "dbow"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -334,6 +368,10 @@
                 {
                     "name": "harpsichord",
                     "abbrev": "hps"
+                },
+                {
+                    "name": "omniwerk",
+                    "abbrev": "omniwerk"
                 },
                 {
                     "name": "organ",
