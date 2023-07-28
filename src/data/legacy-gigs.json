@@ -931,7 +931,7 @@
     },
     {
       "name": "Soldier String Ouartet (USA)",
-      "description": "Besetzung: David Soldier (v), Laura Seaton (v), Ron Lawrence (va), Mary Wooten (clo), Michael Suchorsky (dr), Ratso Harris (b)",
+      "description": "Besetzung: David Soldier (vl), Laura Seaton (vl), Ron Lawrence (va), Mary Wooten (vc), Michael Suchorsky (dr), Ratso Harris (b)",
       "id": "d3e292",
       "start_date": "1989-05-13T00:00:00Z"
     },
@@ -1987,7 +1987,7 @@
     },
     {
       "name": "Billy Bang Sextet (USA)",
-      "description": "Besetzung: Billy Bang (viol), Curtis Clark (p), Butch Morris (tp), Wilbor Morris (b), Muhammad Ali (dr), Rashid Ali (dr)",
+      "description": "Besetzung: Billy Bang (vl), Curtis Clark (p), Butch Morris (tp), Wilbor Morris (cb), Muhammad Ali (dr), Rashid Ali (dr)",
       "id": "d3e1286",
       "start_date": "1980-05-24T00:00:00Z"
     },
@@ -2077,7 +2077,7 @@
     },
     {
       "name": "Fred Anderson Trio (USA)",
-      "description": "Besetzung: Fred Anderson (ts), Harrison Bankhead (b), Chad Taylor (dr)",
+      "description": "Besetzung: Fred Anderson (ts), Harrison Bankhead (cb), Chad Taylor (dr)",
       "id": "d4e284",
       "start_date": "1999-05-22T00:00:00Z"
     },
@@ -2167,7 +2167,7 @@
     },
     {
       "name": "Granmoun Lélé (REU)",
-      "description": "Besetzung: Granmoun Lélé (voc), Thérèse Phileas (voc), Béatrice Phileas (voc), Marie Claude Phileas (voc), Urbain Phileas (voc, roulèr, pikèr), Jean-Fred Phileas (voc, sati, oudou, apungalachi, djembé, congas, roulèr, tambours malbar), Pascal Phileas (voc, sati, congas), Jean-Claude Phileas (pikèr, triangle), Angélo Phileas (kayamnb, triangle), Michel Petiaye (voc, kayamnb, triangle, tambours malbar), Fabrice Lambert (voc, congas, roulèr, sati, cabasa)",
+      "description": "Besetzung: Granmoun Lélé (voc), Thérèse Phileas (voc), Béatrice Phileas (voc), Marie Claude Phileas (voc), Urbain Phileas (voc, roulèr, pikèr), Jean-Fred Phileas (voc, sati, oudou, apungalachi, djembé, congas, roulèr, tambours malbar), Pascal Phileas (voc, sati, congas), Jean-Claude Phileas (pikèr, triangle), Angélo Phileas (kayamb, triangle), Michel Petiaye (voc, kayamb, triangle, tambours malbar), Fabrice Lambert (voc, congas, roulèr, sati, cabasa)",
       "id": "d4e352",
       "start_date": "1999-05-24T00:00:00Z"
     },
@@ -2214,8 +2214,8 @@
       "start_date": "1998-05-30T00:00:00Z"
     },
     {
-      "name": "Nils Petter Molvaer & Khmer (NOR)",
-      "description": "Besetzung: Nils Petter Molvaer (tp), Eivind Aarset (g), Audrun Erllen (b), Per Lindvall (dr), Rune Arnesen (dr), DJ Strangefruit (tt), Sven Persson (sound design), Tord Knudsen (light design)",
+      "name": "Nils Petter Molvær & Khmer (NOR)",
+      "description": "Besetzung: Nils Petter Molvær (tp), Eivind Aarset (g), Audrun Erllen (b), Per Lindvall (dr), Rune Arnesen (dr), DJ Strangefruit (tt), Sven Persson (sound design), Tord Knudsen (light design)",
       "id": "d4e401",
       "start_date": "1998-05-30T00:00:00Z"
     },
@@ -2305,7 +2305,7 @@
     },
     {
       "name": "Radio Tarifa (ESP\/SDN\/FRA)",
-      "description": "Besetzung: Benjamin Escoriza Molina (voc), Vincent Molino (fl), Jaime Muela Quesada (fl, reeds), Rafael Sanchez Duenas (perc), Sebastian Rubio Caballero (perc), El Wafir Shaikeldin Gibril (perc), Ramiro Amusategui Prado (g), Pedro Pablo Oteo Aguilar (b), Joaquin Ruiz Gomez (dance)",
+      "description": "Besetzung: Benjamin Escoriza Molina (voc), Vincent Molino (fl), Jaime Muela Quesada (fl, reeds), Rafael Sanchez Duenas (perc), Sebastian Rubio Caballero (perc), El Wafir Shaikeldin Gibril (perc), Ramiro Amusategui Prado (g), Pedro Pablo Oteo Aguilar (el-b), Joaquin Ruiz Gomez (dance)",
       "id": "d4e483",
       "start_date": "1997-05-16T00:00:00Z"
     },
@@ -3181,7 +3181,7 @@
     },
     {
       "name": "Einstürzende Neubauten (DE)",
-      "description": "Besetzung: Blixa Bargeld (g, voc), Mark Chung, b Alexander Hacke (g), F.M. Einheit (dr, perc), N.U. Unruh (perc)",
+      "description": "Besetzung: Blixa Bargeld (g, voc), Mark Chung (el-b), Alexander Hacke (g), FM Einheit (dr, perc), N.U. Unruh (perc)",
       "id": "d4e1254",
       "start_date": "1990-06-02T00:00:00Z"
     },
@@ -3522,8 +3522,8 @@
       "start_date": "2008-05-12T00:00:00Z"
     },
     {
-      "name": "",
-      "description": "Besetzung: Tallinn Connection (EST) Anne-Liis Poll (voc), Anto Pett (p, prepared piano), Jaak Sooäär (g, electr), Priit Lehto (voc), Tanel Ruben (dr, perc)",
+      "name": "Tallinn Connection (EST) ",
+      "description": "Besetzung: Anne-Liis Poll (voc), Anto Pett (p, prep p), Jaak Sooäär (g, electr), Priit Lehto (voc), Tanel Ruben (dr, perc)",
       "id": "d5e482",
       "start_date": "2008-05-12T00:00:00Z"
     },
@@ -3715,7 +3715,7 @@
     },
     {
       "name": "Arve Henriksen\/Jan Bang\/Audun Kleive (NOR)",
-      "description": "Besetzung: Arve Henriksen (tp), Jan Bang (live sampling), Audun Kleive (dr)",
+      "description": "Besetzung: Arve Henriksen (tp), Jan Bang (sampler), Audun Kleive (dr)",
       "id": "d5e671",
       "start_date": "2006-06-03T00:00:00Z"
     },
@@ -4081,7 +4081,7 @@
     },
     {
       "name": "Brotherhood of Brass (USA) feat. Frank London's Klezmer Brass All Stars & Boban Marković Orkestar (SRB)",
-      "description": "Besetzung: Frank London (tp), Matt Darriau (sax), Merlin Shepherd (cl), Curtis Hasselbring (tb), Paul Morrissett (bs, hrn), Ron Caswell (tu), David Licht (dr), Boban Marković (voc, flh), Srdjan Spasić (flh), Marko Marković (flh), Jovica Ajdarević (flh), Goran Spasić (ten-h), Ašim Ajdinović (ten-h), Isidor Eminović (ten-h), Sasa Alisanović (helicon), Dragoljub Eminović (ten-h), Asmet Eminović (perc), Nedzat Zumberović (dr)",
+      "description": "Besetzung: Frank London (tp), Matt Darriau (sax), Merlin Shepherd (cl), Curtis Hasselbring (tb), Paul Morrissett (bs, hrn), Ron Caswell (tu), David Licht (dr), Boban Marković (voc, flh), Srdjan Spasić (flh), Marko Marković (flh), Jovica Ajdarević (flh), Goran Spasić (ten-h), Ašim Ajdinović (ten-h), Isidor Eminović (ten-h), Sasa Alisanović (helicon), Dragoljub Eminović (ten-h), Ašmet Eminović (perc), Nedzat Zumberović (dr)",
       "id": "d5e1016",
       "start_date": "2004-05-31T00:00:00Z"
     },
@@ -4573,7 +4573,7 @@
     },
     {
       "name": "Boban Marković Orkestar (SRB)",
-      "description": "Besetzung: Boban Marković (tp), Jovica Ajdarević (tp), Srdjan Spasić (tp), Momcilo Krstić (as), Dragoljub Eminović (ten-h), Asim Ajdinović (ten-h), Selistar Eminović (ten-h), Srdjan Eminović (ten-h), Saša Ališanović (helicon), Srboljub Mirković (dr), Asmet Eminović (dr)",
+      "description": "Besetzung: Boban Marković (tp), Jovica Ajdarević (tp), Srdjan Spasić (tp), Momčilo Krstić (as), Dragoljub Eminović (ten-h), Asim Ajdinović (ten-h), Selistar Eminović (ten-h), Srđan Eminović (ten-h), Saša Ališanović (helicon), Srboljub Mirković (dr), Ašmet Eminović (dr)",
       "id": "d5e1540",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4705,7 +4705,7 @@
     },
     {
       "name": "FM Einheit & Gry (DE\/DK)",
-      "description": "Besetzung: Gry Bagøien (voc), FM Einheit (scratches, beats, perc), Sjang Coenen (b), Saskia von Klitzing (dr)",
+      "description": "Besetzung: Gry Bagøien (voc), FM Einheit (scratches, dr prog, perc), Sjang Coenen (b), Saskia von Klitzing (dr)",
       "id": "d5e1681",
       "start_date": "2000-06-10T00:00:00Z"
     },
@@ -4849,7 +4849,7 @@
     },
     {
       "name": "Talibam! Hard Vibe: Matt Nelson \/ Ron Stabinsky (USA)",
-      "description": "Besetzung: Matt Mottel (key), Kevin Shea (dr), Matt Nelson (ts), Ron Stabinsky (p)",
+      "description": "Besetzung: Matt Mottel (keyb), Kevin Shea (dr), Matt Nelson (ts), Ron Stabinsky (p)",
       "id": "d6e266",
       "start_date": "2018-05-18T00:00:00Z"
     },
@@ -5011,7 +5011,7 @@
     },
     {
       "name": "Talibam! Big Impakt (USA)",
-      "description": "Besetzung: Matt Mottel (key), Kevin Shea (dr, con), Ron Stabinsky (con), N.N. (dr)",
+      "description": "Besetzung: Matt Mottel (keyb), Kevin Shea (dr, congas), Ron Stabinsky (congas), N.N. (dr)",
       "id": "d6e388",
       "start_date": "2018-05-21T00:00:00Z"
     },
@@ -5131,7 +5131,7 @@
     },
     {
       "name": "Dorian Wood Ensemble Crush (USA\/DE)",
-      "description": "Besetzung: Dorian Wood (voc, p), Karin Nakayama (v), Sungkum Yang (v), Hugo Smit (vc), Slavi Grigorov (acc), Kyungwon Lee (va), Thorsten Töpp (g, arr), Reza Askari (b)",
+      "description": "Besetzung: Dorian Wood (voc, p), Karin Nakayama (vl), Sungkum Yang (vl), Hugo Smit (vc), Slavi Grigorov (acc), Kyungwon Lee (va), Thorsten Töpp (g, arr), Reza Askari (b)",
       "id": "d6e493",
       "start_date": "2017-06-05T00:00:00Z"
     },
@@ -5520,13 +5520,13 @@
       "start_date": "2014-06-09T00:00:00Z"
     },
     {
-      "name": "\"ZORNTAG\" Set one: Song Project (USA\/ARG\/BRA)",
+      "name": "„ZORNTAG“ Set one: Song Project (USA\/ARG\/BRA)",
       "description": "Besetzung: John Zorn (sax, cond), Mike Patton (voc), Jesse Harris (voc, g), Sofia Rei (voc), Marc Ribot (g), John Medeski (p), Trevor Dunn (b), Kenny Wollesen (vibes), Cyro Baptista (perc), Joey Baron (dr)",
       "id": "d6e850",
       "start_date": "2013-05-17T00:00:00Z"
     },
     {
-      "name": "\"ZORNTAG\" Set two: Illuminations (USA)",
+      "name": "„ZORNTAG“ Set two: Illuminations (USA)",
       "description": "Besetzung: Steve Gosling (p), Trevor Dunn (b), Kenny Wollesen (dr)",
       "id": "d6e857",
       "start_date": "2013-05-17T00:00:00Z"
@@ -5544,13 +5544,13 @@
       "start_date": "2013-05-17T00:00:00Z"
     },
     {
-      "name": "Set three: Moonchild \/ Templars (USA)",
+      "name": "„ZORNTAG“ Set three: Moonchild \/ Templars (USA)",
       "description": "Besetzung: Mike Patton (voc), John Medeski (org), Trevor Dunn (b), Joey Baron (dr)",
       "id": "d6e877",
       "start_date": "2013-05-17T00:00:00Z"
     },
     {
-      "name": "Set four: Dreamers (USA\/BRA)",
+      "name": "„ZORNTAG“ Set four: Dreamers (USA\/BRA)",
       "description": "Besetzung: John Zorn (cond), Marc Ribot (g), Jamie Saft (keys), Trevor Dunn (b), Kenny Wollesen (vibes), Joey Baron (dr), Cyro Baptista (perc)",
       "id": "d6e883",
       "start_date": "2013-05-17T00:00:00Z"

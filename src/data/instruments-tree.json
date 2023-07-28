@@ -23,8 +23,20 @@
                                     "abbrev": "fl"
                                 },
                                 {
+                                    "name": "ney",
+                                    "abbrev": "ney"
+                                },
+                                {
                                     "name": "piccolo",
                                     "abbrev": "picc"
+                                },
+                                {
+                                    "name": "recorder",
+                                    "abbrev": "rec"
+                                },
+                                {
+                                    "name": "ryuteki",
+                                    "abbrev": "ryuteki"
                                 }
                             ]
                         },
@@ -119,6 +131,10 @@
                             "abbrev": "alph"
                         },
                         {
+                            "name": "frenchHorn",
+                            "abbrev": "frh"
+                        },
+                        {
                             "name": "trumpet",
                             "abbrev": "tp",
                             "members": [
@@ -199,6 +215,10 @@
                                     "abbrev": "bo"
                                 },
                                 {
+                                    "name": "sabar",
+                                    "abbrev": "sabar"
+                                },
+                                {
                                     "name": "snareDrum",
                                     "abbrev": "sndr"
                                 },
@@ -212,12 +232,32 @@
                                 }]
                         },
                         {
-                            "name": "castanets",
-                            "abbrev": "castanets"
+                            "name": "clappers",
+                            "abbrev": "clappers",
+                            "members": [
+                                {
+                                    "name": "castanets",
+                                    "abbrev": "castanets"
+                                },
+                                {
+                                    "name": "garagab",
+                                    "abbrev": "garagab"
+                                }
+                            ]
                         },
                         {
                             "name": "cymbals",
                             "abbrev": "cymb"
+                        },
+                        {
+                            "name": "rattles",
+                            "abbrev": "rattles",
+                            "members": [
+                                {
+                                    "name": "kayamb",
+                                    "abbrev": "kayamb"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -387,6 +427,10 @@
             "name": "electronicInstruments",
             "abbrev": "electr",
             "members": [
+                {
+                    "name": "mixer",
+                    "abbrev": "mixer"
+                },
                 {
                     "name": "synthesizer",
                     "abbrev": "synth",

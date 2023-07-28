@@ -691,6 +691,15 @@
             "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCfdwH5EeYJ6THWk-b1ftfZA"}]
         }
     },
+    "InaSagstuen": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ina-sagstuen-mn0003220523"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3539304-Ina-Sagstuen"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/inasagstuen/"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/listentogirl"}, {"type": "band", "url": "https://soundcloud.com/skadedyr"}, {"type": "band", "url": "https://soundcloud.com/karokh"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzxTreegRYj2ph0vLTts5nQ"}]
+        }
+    },
     "BorisAinović": {
         "canonicalName": {
             "firstname": "Boris",
@@ -732,7 +741,7 @@
             "zh": "西里尔​字母的名字: Јовица Ајдаревић"
         }
     },
-    "AsimAjdinovic": {
+    "AsimAjdinović": {
         "canonicalName": {
             "firstname": "Ašim",
             "surname": "Ajdinović"
@@ -1271,6 +1280,19 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/benallisonmusic"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Ben_Allison"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Ben_Allison"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCzs2iF0hPAEGvfgrczCg1ug"}]
+        }
+    },
+    "GonçaloAlmeida": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/goncalo-almeida-36990"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/gon%C3%A7alo-almeida-mn0002845833"}],
+            "bandcamp": [{"type": "personal", "url": "https://goncaloalmeida.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/2363612-Gon%C3%A7alo-Almeida"}],
+            "homepage": [{"type": "personal", "url": "https://gonzobass.wixsite.com/gonzoalmeida"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/goncalo.almeida.bass/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Gon%C3%A7alo%20Almeida%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/goz_music"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@gonzobasszone"}]
         }
     },
     "JorgeAlmeida": {
@@ -2894,6 +2916,55 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/12200740-Jelili-Balogun"}]
         }
     },
+    "Walter vonBalter": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom diskžokovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce disc jockey",
+            "zh": "网上找不到这个唱片骑师的资料"
+        }
+    },
+    "OumarouBambara": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oumarou-bambara-mn0002301343"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/8194804-Oumarou-Bambara"}],
+            "homepage": [{"type": "personal", "url": "http://oumarou-bambara.weebly.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/mande_percussions/"}]
+        }
+    },
+    "RenatoBandeira": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/renato-bandeira-mn0003340441"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/8440836-Renato-Bandeira"}],
+            "homepage": [{"type": "personal", "url": "https://www.facebook.com/renato.bandeira.77"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/renatobandeira.s/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/renato-bandeira-3"}]
+        }
+    },
+    "BillyBang": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/billy-bang"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/billy-bang-mn0000085089"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=Billy+Bang&item_type=a"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/174749-Billy-Bang"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Billy%20Bang%22"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Billy_Bang"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Billy_Bang"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Billy_Bang"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC5LuTUP_qct5IY3PRKOA71w"}]
+        }
+    },
+    "JanBang": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/jan-bang"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jan-bang-mn0000680378"}],
+            "bandcamp": [{"type": "personal", "url": "https://janbang.bandcamp.com/"}, {"type": "band", "url": "https://eivindaarsetjanbang.bandcamp.com"}, {"type": "band", "url": "https://daifujikurajanbang.bandcamp.com"}, {"type": "band", "url": "https://melttriojanbang.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/32280-Jan-Bang"}],
+            "homepage": [{"type": "personal", "url": "https://janbang.org/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/jan-bang"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Jan_Bang"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Jan_Bang"}]}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCdYCrMyfMnbCIqBjyJuM0aw"}]
+        }
+    },
     "MatthiasBangert": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/matthias-bangert-mn0002361307"}],
@@ -2901,10 +2972,40 @@
             "homepage": [{"type": "personal", "url": "http://matthias-bangert.de/"}]
         }
     },
+    "HarrisonBankhead": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/harrison-bankhead"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/harrison-bankhead-mn0000381865"}],
+            "bandcamp": [{"type": "personal", "url": "https://harrisonbankhead.bandcamp.com"}, {"type": "band", "url": "https://bankhead-dejong-freedom.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/604426-Harrison-Bankhead"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Harrison_Bankhead"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Harrison_Bankhead"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Harrison_Bankhead"}]}]
+        }
+    },
     "StellaBanks": {
         "links": {
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/774468-Stella-Banks"}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC8CsIo_TUMhzPjj_vXouskA"}]
+        }
+    },
+    "MaximenBanouanina": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/maximin-smintho-banouanina-mn0001890271"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/5950819-Maximin-Banouanina"}]
+        }
+    },
+    "CyroBaptista": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/cyro-baptista"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/cyro-baptista-mn0000630439"}],
+            "bandcamp": [{"type": "personal", "url": "https://cyrobaptista.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/230537-Cyro-Baptista"}],
+            "homepage": [{"type": "personal", "url": "https://www.cyrobaptista.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/cyrobaptista/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Cyro%20Baptista%22"}],
+            "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/cyrobaptista"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/cyrobaptista"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Cyro_Baptista"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Cyro_Baptista"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Cyro_Baptista"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Cyro_Baptista"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@CyroBaptistanyc"}]
         }
     },
     "Anteneh TeklemariamBarago": {
@@ -3065,6 +3166,17 @@
             "radiohoerer": [{"type": "search", "locales": [{"locale": "de", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Kwame%20Bell%22"}]}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kahlil-bell-267986470"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@kahlilkwamebell"}]
+        }
+    },
+    "ValentinaBellanova": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://valentinabellanova.bandcamp.com"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/11756996-Valentina-Bellanova"}],
+            "homepage": [{"type": "personal", "url": "https://www.valentinabellanova.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/valentinabellanova/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/valentina-bellanova-47894729/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/valentina-bellanova"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@valentinabellanova"}]
         }
     },
     "AlfredoBello": {
@@ -5118,7 +5230,7 @@
             "radiohoerer": [{"type": "search", "locales": [{"locale": "de", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Moppa%20Elliott%22"}]}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/moppaelliott"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Moppa_Elliott"}]}],
-            "youtube": [{"type": "band", "url": "https://www.youtube.com/channel/UCYcr9jGaNwMSrJwGpS0Qo4Q"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCYcr9jGaNwMSrJwGpS0Qo4Q"}]
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCYcr9jGaNwMSrJwGpS0Qo4Q"}]
         }
     },
     "CamilleÉmaille": {
@@ -5139,6 +5251,32 @@
             "homepage": [{"type": "personal", "url": "https://www.james-emery.com/"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/James_Emery"}, {"locale": "de", "url": "https://en.wikipedia.org/wiki/James_Emery_(musician)"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@jamesemerymusic8016"}]
+        }
+    },
+    "AšmetEminović": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/asmet-eminovic-mn0002039665"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/960990-A%C5%A1met-Eminovi%C4%87"}]
+        }
+    },
+    "DragoljubEminović": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/dragoljub-eminovic-mn0001986022"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/932037-Dragoljub-Eminovi%C4%87"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=0vqzeuvsThM"}]
+        }
+    },
+    "SelistarEminović": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.discogs.com/de/artist/960856-Selistar-Eminovi%C4%87"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=0vqzeuvsThM"}]
+        }
+    },
+    "SrđanEminović": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/960857-Sr%C4%91an-Eminovi%C4%87"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/srdjaneminovic/"}],
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/watch?v=0vqzeuvsThM"}]
         }
     },
     "PeterEngelhardt": {
@@ -5201,6 +5339,19 @@
             "twitter": [{"type": "personal", "url": "https://twitter.com/korhanerel"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Korhan_Erel"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/user/korhanerel"}]
+        }
+    },
+    "MarkErnestus": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mark-ernestus-mn0000713430"}],
+            "bandcamp": [{"type": "band", "url": "https://ndagga.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/456229-Mark-Ernestus"}],
+            "homepage": [{"type": "band", "url": "https://ndagga.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/markernestus/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Mark%20Ernestus%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/markernestusndaggarhythmforce"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/markernestus"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Mark_Ernestus"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Mark_Ernestus"}]}]
         }
     },
     "PeterErskine": {
@@ -5404,6 +5555,15 @@
             "homepage": [{"type": "personal", "url": "http://www.johannesfink.com/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/potsalotsaxl"}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCWQEAdCKV_d6lq04gF7kQzg"}]
+        }
+    },
+    "SebastianFlaig": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3953251-Sebastian-Flaig"}],
+            "homepage": [{"type": "personal", "url": "https://www.sebastianflaig.com/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Sebastian%20Flaig%22"}],
+            "soundcloud": [{"type": "band", "url": "https://soundcloud.com/perdupain"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC8LbNm0AOkXo-c3wNJSn7YA"}]
         }
     },
     "CélineFlamen": {
@@ -7161,6 +7321,13 @@
             "surname": "Connell jr."
         }
     },
+    "OusmaneKa": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/9337468-Ousmane-Ka"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/oussoudrums/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/Ousmane20269610"}]
+        }
+    },
     "TakashiKaako": {
         "canonicalName": {
             "firstname": "Takashi",
@@ -7735,6 +7902,12 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ivan-krillzarin-mn0001774470"}],
             "homepage": [{"type": "agency", "url": "https://www.firstfridayhawaii.com/d/d/ivan-krillzarin.html"}]
+        }
+    },
+    "MomčiloKrstić": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/momcilo-krstic-mn0002041960"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/932032-Mom%C4%8Dilo-Krsti%C4%87"}]
         }
     },
     "AlexeyKruglov": {
@@ -8516,7 +8689,7 @@
             "instagram": [{"type": "band", "url": "https://www.instagram.com/bobanmarkovicorkestar/"}],
             "soundcloud": [{"type": "band", "url": "https://soundcloud.com/bobanimarcomarkovicorkesta"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Boban_Markovi%C4%87"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Boban_Markovi%C4%87"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Boban_Markovi%C4%87"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Boban_Markovi%C4%87"}]}],
-            "youtube": [{"type": "band", "url": "https://www.youtube.com/@BobanMarkovicOrkestar"}]
+            "youtube": [{"type": "band", "url": "https://www.youtube.com/@BobanMarkovicOrkestar"}, {"type": "band", "url": "https://www.youtube.com/watch?v=0vqzeuvsThM"}]
         },
         "notes": {
             "cs": "Srbskocyrilská verze jména: Бобан Марковић",
@@ -8675,6 +8848,22 @@
             "soundcloud": [{"type": "agency", "url": "https://soundcloud.com/marilyn-mazur-official"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "cs", "url": "https://cs.wikipedia.org/wiki/Marilyn_Mazur"}, {"locale": "de", "url": "https://de.wikipedia.org/wiki/Marilyn_Mazur"}, {"locale": "en", "url": "https://en.wikipedia.org/wiki/Marilyn_Mazur"}, {"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Marilyn_Mazur"}, {"locale": "nl", "url": "https://nl.wikipedia.org/wiki/Marilyn_Mazur"}]}],
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@marilynmazursmusic1744"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCbTZ-RDMXpv2NIRYBfpQrnw"}]
+        }
+    },
+    "IbouMbaye": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/ibou-mbaye"}],
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/ibou-mbaye-mn0003126768"}],
+            "bandcamp": [{"type": "band", "url": "https://ndagga.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4202122-Ibou-Mbaye"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/ibou.mbaye.31/"}]
+        }
+    },
+    "ModouMbaye": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/modou-mbaye-mn0001794903"}],
+            "bandcamp": [{"type": "band", "url": "https://ndagga.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4202124-Modou-Mbaye"}]
         }
     },
     "MarcMeeuwissen": {
@@ -8920,6 +9109,12 @@
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCNKGzbiHHNhaHndAoUno07w"}]
         }
     },
+    "SrboljubMirković": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/1126374-Srboljub-Mirkovi%C4%87"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/srboljubmirkovic/"}]
+        }
+    },
     "RoscoeMitchell": {
         "links": {
             "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/roscoe-mitchell"}],
@@ -9047,6 +9242,14 @@
             "en": "Artist's name: Knarf Rellöm",
             "fr": "Pseudonyme: Knarf Rellöm",
             "zh": "艺名: Knarf Rellöm"
+        }
+    },
+    "ArmanMoghadam": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/6827499-Arman-Moghadam"}],
+            "homepage": [{"type": "agency", "url": "https://newmediasoc.com/new-media/partners/arman-moghadam/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/armanmoghadam8/"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/armanmoghadam8"}]
         }
     },
     "FaridaMohammad Ali": {
@@ -9207,6 +9410,17 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/7423606-Kevin-Murray-5"}],
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kevin_subruckus"}]
         }
+    },
+    "KioomarsMusayyebi": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kioomars-musayyebi-mn0004266785"}],
+            "homepage": [{"type": "personal", "url": "https://kioomars-musayyebi.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/kioomars_musayyebi/"}],
+            "radiohoerer": [{"type": "search", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Kioomars%20Musayyebi%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/kioomars-msb"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/KioomarsMsb"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@KioomarsMusayyebi"}]
+        }    
     },
     "JamiruMwanje": {
         "links": {
@@ -9654,6 +9868,18 @@
             "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/klaushannesosterloh"}],
             "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Klaus_Osterloh"}]}],
             "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UC7UKUIz33cW9G0_h3FdFbzA"}]
+        }
+    },
+    "AliOstovar": {
+        "links": {
+            "bandcamp": [{"type": "personal", "url": "https://aliostovar.bandcamp.com/"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/8122586-Ali-Ostovar"}],
+            "homepage": [{"type": "personal", "url": "http://aliostovar.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/aly_ostovar/"}],
+            "linkedin": [{"type": "personal", "url": "https://www.linkedin.com/in/alireza-ostovar-49a2306b/"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/ali-ostovar"}],
+            "twitter": [{"type": "personal", "url": "https://twitter.com/AlyOstovar"}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@aliostovar"}]
         }
     },
     "PeterOteo": {
@@ -11106,6 +11332,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/@brandonseabrook6866"}, {"type": "agency", "url": "https://www.youtube.com/channel/UCynKVFAvoo3hxGwrM_Dp1ZA/about"}]
         }
     },
+    "BadaSeck": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/bada-seck-mn0001535254"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/950143-Bada-Seck"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/badaseck"}],
+            "youtube": [{"type": "agency", "url": "https://www.youtube.com/channel/UCO2Zdf5iAluOb3McON1NesQ"}]
+        }
+    },
+    "Baye MamourSeck": {
+        "links": {
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/4719648-Mamour-Seck"}]
+        }
+    },
     "Mbéne DiattaSeck": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/mbene-diatta-seck-mn0003126792"}],
@@ -11505,6 +11744,12 @@
             "en": "Nickname: Baby",
             "fr": "Sobriquet: Baby",
             "zh": "外号: Baby"
+        }
+    },
+    "SrdjanSpasić": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/srdjan-spasic-mn0002153088"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/949114-Sr%C4%91an-Spasi%C4%87"}]
         }
     },
     "FlorinaSpeth": {
@@ -12290,11 +12535,19 @@
             "youtube": [{"type": "personal", "url": "https://www.youtube.com/channel/UCVRhbYeGOFRCFaSIyYIMdPg"}]
         }
     },
+    "DavidVanzan": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/david-vanzan-mn0003419897"}],
+            "bandcamp": [{"type": "search", "url": "https://bandcamp.com/search?q=David+Vanzan&item_type=a"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/832536-David-Vanzan"}]
+        }
+    },
     "JonVarley": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jon-varley-mn0003942102"}],
             "bandcamp": [{"type": "personal", "url": "https://jonvarley.bandcamp.com/"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/4556912-Jon-Varley"}],
+            "twitter": [{"type": "band", "url": "https://twitter.com/JookloDuo"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "en", "url": "https://en.wikipedia.org/wiki/Crack_Cloud"}]}]
         }
     },
