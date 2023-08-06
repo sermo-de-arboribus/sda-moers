@@ -444,21 +444,21 @@
         "name": "Keune / Ewen / Smith (CA, DE, US)",
         "start_date": "2023-05-28T17:00:00+02:00",
         "description": "Mit Stefan Keune, Sandy Ewen und Damon Smith treffen drei konsequent eigenwillige Synapsenschaffende aufeinander. Saxophonist Keune aus Deutschland, Gitarristin Ewen aus Kanada und Kontrabassist Smith aus Amerika vereinen in ihrem gemeinsamen Spiel nicht nur ganz grundsätzlich, sondern auch durch ihr Leben und Aufwachsen an verschiedenen Orten auf der Welt persönliche Einflüsse miteinander. Was Pfingsten daraus wird? BE-FREI-UNG - energetisch, radikal und kompromisslos.",
-        "artists": ["Stefan Keune (sax)", "Sandy Ewen (git)", "Damon Smith (cb)"]
+        "artists": ["Stefan Keune (sax)", "Sandy Ewen (el-g)", "Damon Smith (cb)"]
     },
     {
         "id": 2023057,
         "name": "„Kultur? Weiß nicht, vielleicht morgen.“ Warum viele draußen bleiben und warum sich das ändern muss",
         "start_date": "2023-05-28T17:35:00+02:00",
         "description": "Discussion",
-        "artists": ["Dr. Julia Römhild (Moderation)", "Rainer Bode (Diskussion)", "Anke Fischer (Diskussion)", "Gudrun Kranacher (Diskussion)", "Kantara Karadeniz (Diskussion)", "Benjamin Pannenbecker (Diskussion)"]
+        "artists": ["Julia Römhild (moderation)", "Rainer Bode (discussion)", "Anke Fischer (discussion)", "Gudrun Kranacher (discussion)", "Kantara Karadeniz (discussion)", "Benjamin Pannenbecker (discussion)"]
     },
     {
         "id": 2023058,
         "name": "le petit macabre, Lukas Döhler, Ensemble INprogRES (DE, MX, US)",
         "start_date": "2023-05-28T18:20:00+02:00",
         "description": "In Anspielung auf György Ligetis Oper Le Grand Macabre, die ihn zu einem der wichtigsten Komponisten der Neuen Musik machte, entsteht mit le petit macabre zum 100. Geburtstag Ligetis ein neues Arrangement seiner Werke, das sich über seinen gesamten Schaffenszeitraum erstreckt.",
-        "artists": ["Lukas Döhler (ld, arragement)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
+        "artists": ["Lukas Döhler (ld, arr)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
             "Justin Cherry (bsn)", "Sofie Berge (h)", "Severin Haslach (vc)", "Femke Ehrentraut (vl)", "Andreas Osterloh (as)",
             "Maximilian Dickel (git)", "Juliana Dickel (ss)", "Judith Pfeiffer (fl)", "Jonah Pfeiffer (dr)", "Niklas Scheusener (cl)", 
             "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (vl, voc)"]

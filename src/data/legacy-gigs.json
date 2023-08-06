@@ -13,7 +13,7 @@
     },
     {
       "name": "Sun Ra solo (USA)",
-      "description": "Besetzung: Sun Ra (p, electronics)",
+      "description": "Besetzung: Sun Ra (p, electr)",
       "id": "d2e277",
       "start_date": "1979-06-01T00:00:00Z"
     },
@@ -55,7 +55,7 @@
     },
     {
       "name": "Leo Smith - Roscoe Mitchell Creative Orchestra (USA)",
-      "description": "Besetzung: Leo Smith (tp), Mike Mossmann (tp), Kenny Wheeler (tp), Rob Howard (tp), Douglas Ewart, reeds (cl), Dwight Andrews (reeds), Marty Ehrlich (reeds), Wallace McMillan (reeds), George Lewis (tb), Hugh Ragin (tp), Ray Anderson (tb), Bobby Naughton (vib), Marilyn Crispell (p), Wes Brown (b), Paul Maddox aka Pheroen AK Laaf (dr), Roscoe Mitchell (reeds)",
+      "description": "Besetzung: Leo Smith (tp), Mike Mossmann (tp), Kenny Wheeler (tp), Rob Howard (tp), Douglas Ewart (reeds, cl), Dwight Andrews (reeds), Marty Ehrlich (reeds), Wallace McMillan (reeds), George Lewis (tb), Hugh Ragin (tp), Ray Anderson (tb), Bobby Naughton (vib), Marilyn Crispell (p), Wes Brown (b), Paul Maddox aka Pheroen AK Laaf (dr), Roscoe Mitchell (reeds)",
       "id": "d2e312",
       "start_date": "1979-06-03T00:00:00Z"
     },
@@ -187,7 +187,7 @@
     },
     {
       "name": "Theo Jörgensmann Quartett (DE)",
-      "description": "Besetzung: Theo Jörgensmann (cl), Uli Pütz (reeds, horn, fl), Toto Schulte (b), Uli-Dionys Kube (dr, perc)",
+      "description": "Besetzung: Theo Jörgensmann (cl), Uli Pütz (reeds, basset-h, fl), Toto Schulte (b), Uli-Dionys Kube (dr, perc)",
       "id": "d2e425",
       "start_date": "1978-05-14T00:00:00Z"
     },
@@ -241,7 +241,7 @@
     },
     {
       "name": "Anthony Braxton Quartet (USA)",
-      "description": "Besetzung: Anthony Braxton, reeds (cl), Ray Anderson (tb), Brian Smith (b), Thurman Barker (dr)",
+      "description": "Besetzung: Anthony Braxton (reeds, cl), Ray Anderson (tb), Brian Smith (b), Thurman Barker (dr)",
       "id": "d2e465",
       "start_date": "1978-05-15T00:00:00Z"
     },
@@ -457,7 +457,7 @@
     },
     {
       "name": "The Trio (GB)",
-      "description": "Besetzung: John Surman (reeds, electronics), Barre Phillips (b), Stu Martin (dr)",
+      "description": "Besetzung: John Surman (reeds, electr), Barre Phillips (b), Stu Martin (dr)",
       "id": "d2e674",
       "start_date": "1976-06-06T00:00:00Z"
     },
@@ -631,7 +631,7 @@
     },
     {
       "name": "Synthesis (DE)",
-      "description": "Besetzung: Klaus Röder (g, electronics), Axel Petry (reeds)",
+      "description": "Besetzung: Klaus Röder (g, electr), Axel Petry (reeds)",
       "id": "d2e836",
       "start_date": "1974-05-31T00:00:00Z"
     },
@@ -991,7 +991,7 @@
     },
     {
       "name": "Louis Sclavis Sextet (FRA)",
-      "description": "Besetzung: Louis Sclavis (reeds, cl), Bruno Chevillon (b), Wolfgang Reisinger (dr), Yves Robert (tb), Francois Raulin (keyb), Ernst Reijseger (clo)",
+      "description": "Besetzung: Louis Sclavis (reeds, cl), Bruno Chevillon (b), Wolfgang Reisinger (dr), Yves Robert (tb), Francois Raulin (keyb), Ernst Reijseger (vc)",
       "id": "d3e339",
       "start_date": "1989-05-15T00:00:00Z"
     },
@@ -1531,7 +1531,7 @@
     },
     {
       "name": "Hearts & Chips (DE)",
-      "description": "Besetzung: Jürgen Dahmen (keyb, dr, computerguitar), Rainer Winterschladen (tp, fl-h), Werner Lambertz (computer, tape, sound), Walfried Böcker (b), Axel Petry (reeds, fl)",
+      "description": "Besetzung: Jürgen Dahmen (keyb, dr, computerguitar), Rainer Winterschladen (tp, fl-h), Werner Lambertz (computer, tape, sound), Walfried Böcker (cb), Axel Petry (reeds, fl)",
       "id": "d3e839",
       "start_date": "1984-06-09T00:00:00Z"
     },
@@ -1723,7 +1723,7 @@
     },
     {
       "name": "Axel Petry Quintett (DE)",
-      "description": "Besetzung: Georg Grisloff (g, perc), Jürgen Dahmen (dr, perc, p), Axel Petry (fl, cl, ss, as, perc), Jochen Schmidt (vibes, perc), Walfried Boecker (kb, perc)",
+      "description": "Besetzung: Georg Grisloff (g, perc), Jürgen Dahmen (dr, perc, p), Axel Petry (fl, cl, ss, as, perc), Jochen Schmidt (vibes, perc), Walfried Böcker (cb, perc)",
       "id": "d3e1056",
       "start_date": "1982-05-28T00:00:00Z"
     },
@@ -2149,7 +2149,7 @@
     },
     {
       "name": "Loft Leaders Orchestra (DE)",
-      "description": "Besetzung: Frank Gratkowski (as, bcl, fl), Matthias Schubert (ts), Reiner Winterschladen (tp), Nils Wogram (tb), Ernst Reijseger (clo), Dieter Manderscheid (b), Achim Krämer (dr)",
+      "description": "Besetzung: Frank Gratkowski (as, bcl, fl), Matthias Schubert (ts), Reiner Winterschladen (tp), Nils Wogram (tb), Ernst Reijseger (vc), Dieter Manderscheid (cb), Achim Krämer (dr)",
       "id": "d4e339",
       "start_date": "1999-05-24T00:00:00Z"
     },
@@ -2197,7 +2197,7 @@
     },
     {
       "name": "The Ex & ICP Orkest (NL)",
-      "description": "Besetzung: G.W. Sok (voc), Andy Ex (g), Terrie Ex (g, b), Luc Ex (b), Katrin Ex (dr), Misha Mengelberg (p), Michael Moore (reeds, cl), Wolter Wierbos (tb), Thomas Heberer (tp), Tristan Honsinger (clo), Ernst Reijseger (clo), Ernst Glerum (b), Han Bennink (dr)",
+      "description": "Besetzung: G.W. Sok (voc), Andy Ex (g), Terrie Ex (g, b), Luc Ex (b), Katrin Ex (dr), Misha Mengelberg (p), Michael Moore (reeds, cl), Wolter Wierbos (tb), Thomas Heberer (tp), Tristan Honsinger (vc), Ernst Reijseger (vc), Ernst Glerum (cb), Han Bennink (dr)",
       "id": "d4e389",
       "start_date": "1998-05-30T00:00:00Z"
     },
@@ -2527,7 +2527,7 @@
     },
     {
       "name": "Johnny Clegg Band & Sipho Mchunu (ZAF)",
-      "description": "Besetzung: Johnny Clegg (g, voc, concertina, dance), Muntu Nxele (dance, perc), Mandisa Dlanga (back-voc), Andy Grant-Innes (g, mandolin), Salomon Letwaba (b), Steve Mavuso (keyb), George Axiotis (dr), Sipho Mchunu (g)",
+      "description": "Besetzung: Johnny Clegg (g, voc, concertina, dance), Muntu Nxele (dance, perc), Mandisa Dlanga (bg-voc), Andy Grant-Innes (g, mandolin), Salomon Letwaba (b), Steve Mavuso (keyb), George Axiotis (dr), Sipho Mchunu (g)",
       "id": "d4e683",
       "start_date": "1995-06-02T00:00:00Z"
     },
@@ -2563,7 +2563,7 @@
     },
     {
       "name": "The Incredible Istanbul Gipsy Band (TUR)",
-      "description": "Besetzung: Suat Diril (cl), Yildirim Doganay (v), Vedat Dinetir (ney, zuma), Ilker Censi (qanun), Bülent Karamuk (perc), Mehmet Süngü (g), Güray Aktalay (tp), Nezih Öget (b), Ayhan Kücükboyaci (perc)",
+      "description": "Besetzung: Suat Diril (cl), Yildirim Doganay (vl), Vedat Dinetir (ney, zuma), Ilker Censi (qanun), Bülent Karamuk (perc), Mehmet Süngü (g), Güray Aktalay (tp), Nezih Öget (b), Ayhan Kücükboyaci (perc)",
       "id": "d4e711",
       "start_date": "1995-06-03T00:00:00Z"
     },
@@ -2869,7 +2869,7 @@
     },
     {
       "name": "Trio de Clarinettes \/ Arcado String Trio (FRA)",
-      "description": "Besetzung: Louis Sclavis (cl), Armand Angster (cl), Jaques Di Donato (cl), Mark Feldman (v), Ernst Reijseger (clo), Mark Dresser (b)",
+      "description": "Besetzung: Louis Sclavis (cl), Armand Angster (cl), Jaques Di Donato (cl), Mark Feldman (vl), Ernst Reijseger (vc), Mark Dresser (cb)",
       "id": "d4e977",
       "start_date": "1993-05-31T00:00:00Z"
     },
@@ -2887,7 +2887,7 @@
     },
     {
       "name": "Misha Mengelberg & ICP Octet (NL)",
-      "description": "Besetzung: Misha Mengelberg (p), Ab Baars (cl, reeds), Michael Moore (cl, reeds), Maartje ten Hoorn (v), Ernst Glerum (b), Ernst Reijseger (clo), Wolter Wierbos (tb), Han Bennink (dr)",
+      "description": "Besetzung: Misha Mengelberg (p), Ab Baars (cl, reeds), Michael Moore (cl, reeds), Maartje ten Hoorn (vl), Ernst Glerum (cb), Ernst Reijseger (vc), Wolter Wierbos (tb), Han Bennink (dr)",
       "id": "d4e1003",
       "start_date": "1992-06-05T00:00:00Z"
     },
@@ -2953,7 +2953,7 @@
     },
     {
       "name": "Ned Rothenberg \"Speaking in Tongues\" (USA)",
-      "description": "Besetzung: Ned Rothenberg, reeds (cl), Kazue Sawai (koto), Sainkho Namtchylak (voc), Keiji Haino (g), Lé Quan Ninh (perc), Robert Dick (fl), Carlos Zingaro (viol, electr), Jim Staley (tb)",
+      "description": "Besetzung: Ned Rothenberg (reeds, cl), Kazue Sawai (koto), Sainkho Namtchylak (voc), Keiji Haino (g), Lé Quan Ninh (perc), Robert Dick (fl), Carlos Zingaro (vl, electr), Jim Staley (tb)",
       "id": "d4e1054",
       "start_date": "1992-06-07T00:00:00Z"
     },
@@ -2965,7 +2965,7 @@
     },
     {
       "name": "Steffen Schorn & Claudio Puntin Duo (DE\/CH)",
-      "description": "Besetzung: Steffen Schorn (bcl, bs, cbcl), Claudio Puntin (cl, bcl, taragot)",
+      "description": "Besetzung: Steffen Schorn (bcl, bs, cbcl), Claudio Puntin (cl, bcl, tárogató)",
       "id": "d4e1062",
       "start_date": "1992-06-07T00:00:00Z"
     },
@@ -3037,7 +3037,7 @@
     },
     {
       "name": "WDR Bigband - Jerry van Royen (DE\/FRA\/USA)",
-      "description": "Besetzung: Heiner Wiberni (reeds), Harald Rosenstein (reeds), Oliver Peters (reeds), Rolf Römer (reeds), Paul Peucker (reeds), Andy Haderer (tp), Rob Bruynen (tp), Klaus Osterloh (tp), Rick Kiefer (tp), Dave Horler (tb), Henning Berg (tb), Bernt Laukamp (tb), Roy Deuvall (tb) feat. Ray Anderson (tb), Michel Godard (tu), Frank Gratkowski (as), Simon Nabatov (p), Werner Neumann (g), Tim Wells (b), Wolfgang Reisinger (dr)",
+      "description": "Besetzung: Heiner Wiberni (reeds), Harald Rosenstein (reeds), Oliver Peters (reeds), Rolf Römer (reeds), Paul Peucker (reeds), Andy Haderer (tp), Rob Bruynen (tp), Klaus Osterloh (tp), Rick Kiefer (tp), Dave Horler (tb), Henning Berg (tb), Bernt Laukamp (tb), Roy Deuvall (tb), Ray Anderson (tb), Michel Godard (tu), Frank Gratkowski (as), Simon Nabatov (p), Werner Neumann (g), Tim Wells (b), Wolfgang Reisinger (dr)",
       "id": "d4e1131",
       "start_date": "1991-05-18T00:00:00Z"
     },
@@ -3049,7 +3049,7 @@
     },
     {
       "name": "Wolfgang Puschnig \"Alpine Aspects\" & Die Amstettner Musikanten (USA\/AUT)",
-      "description": "Besetzung: Wolfgang Puschnig (reeds, arr), Linda Sharrock (voc), Jon Sass (tu), Bumi Fian (tp), Jamaaladeen Tacuma (el-b), Thomas Alkier (dr), Robert Pussecker (cond), Oskar Eder (al, picc), Ingrid Schaupp (cl, reeds), Johann Leonhartsberger (cl, reeds), Raimund Aichinger (cl, reeds), Gerhard Aflenzer (tp, flg), Franz Rappersberger (tp, flg), Hermann Berger (tb, tenor), Günter Innerlohinger (tb, tenor), Leopold Libal (tb, tenor), Herbert Klaus (tu), Wolfgang Schneider (dr)",
+      "description": "Besetzung: Wolfgang Puschnig (reeds, arr), Linda Sharrock (voc), Jon Sass (tu), Bumi Fian (tp), Jamaaladeen Tacuma (el-b), Thomas Alkier (dr), Robert Pussecker (cond), Oskar Eder (al, picc), Ingrid Schaupp (cl, reeds), Johann Leonhartsberger (cl, reeds), Raimund Aichinger (cl, reeds), Gerhard Aflenzer (tp, flg), Franz Rappersberger (tp, flh), Hermann Berger (tb), Günter Innerlohinger (tb), Leopold Libal (tb), Herbert Klaus (tu), Wolfgang Schneider (dr)",
       "id": "d4e1139",
       "start_date": "1991-05-18T00:00:00Z"
     },
@@ -3109,7 +3109,7 @@
     },
     {
       "name": "Andy Sheppard \"Soft on the Inside\" (GB)",
-      "description": "Besetzung: Andy Sheppard (ts, ss), Pete Hurt (reeds), Chris Biscoe (reeds), Stuart Brooks (tp), Claude Deppa (tp), Gary Valente (tb), Ernst Reijseger (clo), Mano Ventura (g), Orphy Robinson (vib), Steve Lodder (reeds), Dave Buxton (p, reeds), Pete Maxfield (b), Han Bennink (dr), Simon Gore (dr)",
+      "description": "Besetzung: Andy Sheppard (ts, ss), Pete Hurt (reeds), Chris Biscoe (reeds), Stuart Brooks (tp), Claude Deppa (tp), Gary Valente (tb), Ernst Reijseger (vc), Mano Ventura (g), Orphy Robinson (vib), Steve Lodder (reeds), Dave Buxton (p, reeds), Pete Maxfield (b), Han Bennink (dr), Simon Gore (dr)",
       "id": "d4e1187",
       "start_date": "1991-05-20T00:00:00Z"
     },
@@ -3367,7 +3367,7 @@
     },
     {
       "name": "Tim Isfort Tentett (DE\/CH)",
-      "description": "Besetzung: Tim Isfort (b), Jim Campbell (electr), Ania Losinger (xala), Matthias Eser (mar), Daniel Schroeteler (dr), Peter Engelhardt (g), Peter Bolte (as), Frank Bergmann (ts), Mirjam Hardenberg (clo, voc), Henning Sieverts (clo, b)",
+      "description": "Besetzung: Tim Isfort (cb), Jim Campbell (electr), Ania Losinger (xala), Matthias Eser (mar), Daniel Schroeteler (dr), Peter Engelhardt (g), Peter Bolte (as), Frank Bergmann (ts), Mirjam Hardenberg (clo, voc), Henning Sieverts (clo, b)",
       "id": "d5e352",
       "start_date": "2009-06-01T00:00:00Z"
     },
@@ -4237,13 +4237,13 @@
     },
     {
       "name": "Dampfschiff II (Morning project)",
-      "description": "Besetzung: Dominik Blum (hammond, p, analog electronics), Marino Pliakas (g,el-b), Hans Martin Müller (fl, conferencier), Jacques Demierre (p), Anne La Berge (fl, elec), Hervé Provini (dr, elec), Sabine von Werra (voc, elec), Norbert Möslang (cracked everyday-electronics), Erik M. (electronics), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond, p, analog electr), Marino Pliakas (g,el-b), Hans Martin Müller (fl, conferencier), Jacques Demierre (p), Anne La Berge (fl, elec), Hervé Provini (dr, elec), Sabine von Werra (voc, elec), Norbert Möslang (cracked everyday-electr), Erik M. (electr), Lucas Niggli (dr, perc)",
       "id": "d5e1183",
       "start_date": "2003-06-09T00:00:00Z"
     },
     {
       "name": "electronic lounge III (Morning Project)",
-      "description": "Besetzung: Frank Schulte (electr, conception), Anna Homler (voc, perf, sounds), Claus von Bebber (tt, electr), Kalle Laar (g, electr), Jan St. Werner (electr), Martin Tétreault (electr), Xavier Garcia (electr), Rosa Barba (film, installation), Michael Vorfeld (light, installation)",
+      "description": "Besetzung: Frank Schulte (electr, conception), Anna Homler (voc, perf, sounds), Claus von Bebber (tt, electr), Kalle Laar (g, electr), Jan St. Werner (electr), Martin Tétreault (electr), Xavier Garcia (electr), Rosa Barba (video, installation), Michael Vorfeld (light, installation)",
       "id": "d5e1188",
       "start_date": "2003-06-09T00:00:00Z"
     },
@@ -4273,7 +4273,7 @@
     },
     {
       "name": "Steamboat Switzerland (CH)",
-      "description": "Besetzung: Dominik Blum (hammond organ, p, electronics), Marino Pliakas (b, electronics) Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond organ, p, electr), Marino Pliakas (b, electr) Lucas Niggli (dr, perc)",
       "id": "d5e1236",
       "start_date": "2002-05-18T00:00:00Z"
     },
@@ -4309,7 +4309,7 @@
     },
     {
       "name": "Dampfschiff Schweiz (Morning Project)",
-      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electr), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
       "id": "d5e1271",
       "start_date": "2002-05-18T00:00:00Z"
     },
@@ -4369,7 +4369,7 @@
     },
     {
       "name": "Dampfschiff Schweiz (Morning Project)",
-      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electr), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
       "id": "d5e1329",
       "start_date": "2002-05-19T00:00:00Z"
     },
@@ -4447,7 +4447,7 @@
     },
     {
       "name": "Dampfschiff Schweiz (Morning Project)",
-      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electronics), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
+      "description": "Besetzung: Dominik Blum (hammond B3, p, analog electr), Stephan Wittwer (g, miscellaneous instruments), Hans-Martin Müller (fl), Philipp Schaufelberger (el-g), Marino Pliakas (g, el-b), Nils Wogram (tb), Hayden Chisholm (as, bcl), Christian Weber (cb, electr), Marcel Papaux (dr, perc), Lucas Niggli (dr, perc)",
       "id": "d5e1403",
       "start_date": "2002-05-20T00:00:00Z"
     },
@@ -4495,7 +4495,7 @@
     },
     {
       "name": "Tukki: Dakar meets the rest of the world (Morning project)",
-      "description": "Besetzung: Mola Sylla (voc, m'bira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (clo), Alexei Levin (accordeon, p), Wladimir Volkov (d-b), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
+      "description": "Besetzung: Mola Sylla (voc, mbira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (vc), Alexei Levin (acc, p), Wladimir Volkov (cb), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
       "id": "d5e1468",
       "start_date": "2001-06-02T00:00:00Z"
     },
@@ -4549,7 +4549,7 @@
     },
     {
       "name": "Tukki: Dakar meets the rest of the world (Morning project)",
-      "description": "Besetzung: Mola Sylla (voc, m'bira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (clo), Alexei Levin (accordeon, p), Wladimir Volkov (d-b), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
+      "description": "Besetzung: Mola Sylla (voc, mbira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (vc), Alexei Levin (acc, p), Wladimir Volkov (cb), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
       "id": "d5e1520",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4579,7 +4579,7 @@
     },
     {
       "name": "Tukki - Être en voyage (SEN\/NL\/RUS\/GER\/BUL\/USA)",
-      "description": "Besetzung: Mola Sylla (voc, m'bira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (lead-g), Serigne M'Backe (perc), Ernst Reijseger (clo), Alexei Levin (acc, p), Wladimir Volkov (d-b), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
+      "description": "Besetzung: Mola Sylla (voc, mbira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (vc), Alexei Levin (acc, p), Vladimir Volkov (cb), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
       "id": "d5e1545",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4597,7 +4597,7 @@
     },
     {
       "name": "Mola Sylla & Tukki (SEN) @ African Dance Night",
-      "description": "Besetzung: Mola Sylla (voc, m'bira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc)",
+      "description": "Besetzung: Mola Sylla (voc, mbira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc)",
       "id": "d5e1565",
       "start_date": "2001-06-03T00:00:00Z"
     },
@@ -4621,7 +4621,7 @@
     },
     {
       "name": "Tukki: Dakar meets the rest of the world (Morning project)",
-      "description": "Besetzung: Mola Sylla (voc, m'bira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (clo), Alexei Levin (accordeon, p), Wladimir Volkov (d-b), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
+      "description": "Besetzung: Mola Sylla (voc, mbira, xalam), Elhadj Cissoko (kora), Afée PB Kassé (g), Serigne M'Backe (perc), Ernst Reijseger (vc), Alexei Levin (acc, p), Wladimir Volkov (cb), Praful (sax, fl), Petar Doundakov (keyb, sampler), Clarence Becton (dr)",
       "id": "d5e1586",
       "start_date": "2001-06-04T00:00:00Z"
     },
@@ -4639,7 +4639,7 @@
     },
     {
       "name": "Die Regierung (CH)",
-      "description": "Besetzung: Heinz Büchel (b), Roland Altherr (voc, p), Martin Baumer (handorgel), Franco Scagnet (perc), Hans-Peter Dörig (synth (dr), Massimo Schilling (g), Hansueli Tischhauser (g)",
+      "description": "Besetzung: Heinz Büchel (b), Roland Altherr (voc, p), Martin Baumer (handorgel), Franco Scagnet (perc), Hans-Peter Dörig (synth dr), Massimo Schilling (g), Hansueli Tischhauser (g)",
       "id": "d5e1600",
       "start_date": "2001-06-04T00:00:00Z"
     },
@@ -4651,7 +4651,7 @@
     },
     {
       "name": "Fred Frith (GB)",
-      "description": "Besetzung: Fred Frith (g, electronics)",
+      "description": "Besetzung: Fred Frith (g, electr)",
       "id": "d5e1611",
       "start_date": "2001-06-04T00:00:00Z"
     },
@@ -4687,7 +4687,7 @@
     },
     {
       "name": "Action & Interaction I: Ernst Reijseger Project (NLD\/USA)",
-      "description": "Besetzung: Ernst Reijseger (cello, Louis Sclavis – cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr), Mola Sylla (voc), Ray Anderson (tb), Michel Godard (tu, serpent), Lesley Joseph (el-b), Eddy Veldman (dr), Ruben van Roon (electr, dr)",
+      "description": "Besetzung: Ernst Reijseger (vc), Louis Sclavis (cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr), Mola Sylla (voc), Ray Anderson (tb), Michel Godard (tu, serpent), Lesley Joseph (el-b), Eddy Veldman (dr), Ruben van Roon (electr, dr)",
       "id": "d5e1665",
       "start_date": "2000-06-10T00:00:00Z"
     },
@@ -4729,7 +4729,7 @@
     },
     {
       "name": "Action & Interaction I: Ernst Reijseger Project (NLD\/USA)",
-      "description": "Besetzung: Ernst Reijseger (cello, Louis Sclavis – cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr), Mola Sylla (voc), Ray Anderson (tb), Michel Godard (tu, serpent), Lesley Joseph (el-b), Eddy Veldman (dr), Ruben van Roon (electr, dr)",
+      "description": "Besetzung: Ernst Reijseger (vc), Louis Sclavis (cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr), Mola Sylla (voc), Ray Anderson (tb), Michel Godard (tu, serpent), Lesley Joseph (el-b), Eddy Veldman (dr), Ruben van Roon (electr, dr)",
       "id": "d5e1708",
       "start_date": "2000-06-11T00:00:00Z"
     },
@@ -4759,7 +4759,7 @@
     },
     {
       "name": "Ernst Reijseger@Sur Place (NL\/FRA\/USA)",
-      "description": "Besetzung: Ernst Reijseger (clo), Louis Sclavis (cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr)",
+      "description": "Besetzung: Ernst Reijseger (vc), Louis Sclavis (cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr)",
       "id": "d5e1734",
       "start_date": "2000-06-11T00:00:00Z"
     },
@@ -4801,7 +4801,7 @@
     },
     {
       "name": "Action & Interaction I: Ernst Reijseger Project (NLD\/USA)",
-      "description": "Besetzung: Ernst Reijseger (cello, Louis Sclavis – cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr), Mola Sylla (voc), Ray Anderson (tb), Michel Godard (tu, serpent), Lesley Joseph (el-b), Eddy Veldman (dr), Ruben van Roon (electr, dr)",
+      "description": "Besetzung: Ernst Reijseger (vc), Louis Sclavis (cl), Stian Carstensen (acc), Franky Douglas (g), Alan Purves (perc, dr), Mola Sylla (voc), Ray Anderson (tb), Michel Godard (tu, serpent), Lesley Joseph (el-b), Eddy Veldman (dr), Ruben van Roon (electr, dr)",
       "id": "d5e1774",
       "start_date": "2000-06-12T00:00:00Z"
     },
@@ -4837,7 +4837,7 @@
     },
     {
       "name": "Moondive III (USA\/NL)",
-      "description": "Besetzung: Mola Sylla (voc), Ray Anderson (tb), Ernst Reijseger (clo), Michel Godard (tu, serpent), Lesley Joseph (el-b) Eddy Veldman (dr), Ruben van Roon (electr, dr)",
+      "description": "Besetzung: Mola Sylla (voc), Ray Anderson (tb), Ernst Reijseger (vc), Michel Godard (tu, serpent), Lesley Joseph (el-b) Eddy Veldman (dr), Ruben van Roon (electr, dr)",
       "id": "d5e1805",
       "start_date": "2000-06-12T00:00:00Z"
     },
@@ -5197,7 +5197,7 @@
     },
     {
       "name": "Maja Osojnik & Patrick Wurzwallner \u0093Let Them Grow\u0093 (SVN\/AUT)",
-      "description": "Besetzung: Maja Osojnik (voc, live sampling, dj-cd player and other lo-fi electronics), Patrick Wurzwallner (dr), Christina Bauer (sound engineering)",
+      "description": "Besetzung: Maja Osojnik (voc, live sampling, dj-cd player and other lo-fi electr), Patrick Wurzwallner (dr), Christina Bauer (sound engineering)",
       "id": "d6e554",
       "start_date": "2016-05-14T00:00:00Z"
     },
@@ -5377,7 +5377,7 @@
     },
     {
       "name": "Trondheim Jazz Orchestra feat. Olav Mjelva & Sofia Jernberg (NOR\/SWE)",
-      "description": "Besetzung: Sofia Jernberg (voc), Olav Luksengård Mjelva (fiddle), Kari Rønnekleiv (v, va), Lene Grenager (clo), Eirik Hegdal (sax, cl), Espen Reinertsen (sax, bcl), Eivind Lønning (tp), Alexander Zethson (p), Frans Petter Eldh (b,) Jens Linell (perc), Tor Haugerud (perc)",
+      "description": "Besetzung: Sofia Jernberg (voc), Olav Luksengård Mjelva (fiddle), Kari Rønnekleiv (vl, va), Lene Grenager (vc), Eirik Hegdal (sax, cl), Espen Reinertsen (sax, bcl), Eivind Lønning (tp), Alexander Zethson (p), Frans Petter Eldh (b,) Jens Linell (perc), Tor Haugerud (perc)",
       "id": "d6e708",
       "start_date": "2015-05-25T00:00:00Z"
     },

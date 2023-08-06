@@ -19,6 +19,10 @@
                                     "abbrev": "afl"
                                 },
                                 {
+                                    "name": "exoticFlute",
+                                    "abbrev": "exotic fl"
+                                },
+                                {
                                     "name": "flute",
                                     "abbrev": "fl"
                                 },
@@ -55,6 +59,10 @@
                                                 {
                                                     "name": "bassClarinet",
                                                     "abbrev": "bcl"
+                                                },
+                                                {
+                                                    "name": "bassetHorn",
+                                                    "abbrev": "basset-h"
                                                 },
                                                 {
                                                     "name": "clarinetInBFlat",
@@ -101,6 +109,10 @@
                                                     "abbrev": "ts"
                                                 }
                                             ]
+                                        },
+                                        {
+                                            "name": "tárogató",
+                                            "abbrev": "tárogató"
                                         }
                                     ]
                                 },
@@ -177,6 +189,14 @@
                         {
                             "name": "bells",
                             "abbrev": "bells"
+                        },
+                        {
+                            "name": "lamellophone",
+                            "abbrev": "lamel",
+                            "members": {
+                                "name": "mbira",
+                                "abbrev": "mbira"
+                            }
                         },
                         {
                             "name": "marimba",
@@ -325,7 +345,17 @@
                         },
                         {
                             "name": "harp",
-                            "abbrev": "hrp"
+                            "abbrev": "hrp",
+                            "members": [
+                                {
+                                    "name": "electricHarp",
+                                    "abbrev": "el-hrp"
+                                },
+                                {
+                                    "name": "kora",
+                                    "abbrev": "kora"
+                                }
+                            ]
                         },
                         {
                             "name": "lutes",
@@ -380,6 +410,10 @@
                                             "abbrev": "oud"
                                         }
                                     ]
+                                },
+                                {
+                                    "name": "xalam",
+                                    "abbrev": "xalam"
                                 }
                             ]
                         },
