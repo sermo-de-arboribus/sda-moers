@@ -2067,8 +2067,10 @@
     "AntoineArnera": {
         "links": {
             "allmusic": [{ "type": "personal", "url": "https://www.allmusic.com/artist/antoine-arnera-mn0003286062"}, {"type": "band", "url": "https://www.allmusic.com/artist/poil-mn0003286090"}],
-            "bandcamp": [{"type": "band", "url": "https://poil.bandcamp.com/"}],
+            "bandcamp": [{"type": "personal", "url": "https://gwynwurst.bandcamp.com"}, {"type": "band", "url": "https://poil.bandcamp.com/"}],
             "discogs": [{ "type": "personal", "url": "https://www.discogs.com/artist/2928404-Antoine-Arnera"}, { "type": "band", "url": "https://www.discogs.com/artist/2928403-Poil-2"}],
+            "facebook": [{"type": "personal", "url": "https://www.facebook.com/toni.lafouine"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/user-250792223"}],
             "wikipedia": [{"type": "band", "locales": [{"locale": "fr", "url": "https://fr.wikipedia.org/wiki/Poil_(groupe)"}]}]
         }
     },
@@ -2892,6 +2894,22 @@
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/jelili-balogun-mn0001951239"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/artist/12200740-Jelili-Balogun"}]
+        }
+    },
+    "Walter vonBalter": {
+        "notes": {
+            "cs": "V internetu jsem nenašel informace o tom houslistovi",
+            "de": "Online keine Infos über diesen Künstler gefunden",
+            "en": "Could not find any information about this artist online",
+            "fr": "Sur internet je n'ai pas trouvé des informations sur ce violoniste",
+            "zh": "网上找不到这个音乐家的资料"
+        }
+    },
+    "OumarouBambara": {
+        "links": {
+            "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/oumarou-bambara-mn0002301343"}],
+            "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/8194804-Oumarou-Bambara"}],
+            "facebook": [{"type": "personal", "url": "https://www.facebook.com/profile.php?id=100087581287951"}]
         }
     },
     "MatthiasBangert": {
@@ -6413,6 +6431,18 @@
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/rob-henke-mn0000230992"}],
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/876630-Rob-Henke"}],
             "homepage": [{"type": "personal", "url": "http://www.robhenke.com/"}]
+        }
+    },
+    "JoachimHenn": {
+        "links": {
+            "homepage": [{"type": "personal", "url": "https://www.joachimhenn.de"}]
+        },
+        "notes": {
+            "cs": "Přezdívka: Aki",
+            "de": "Spitzname: Aki",
+            "en": "Nickname: Aki",
+            "fr": "Sobriquet: Aki",
+            "zh": "外号: Aki"
         }
     },
     "IanHenry": {

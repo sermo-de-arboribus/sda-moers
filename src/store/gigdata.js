@@ -79,7 +79,8 @@ module.exports = {
                         commit("setLoading", false);
                 })
             } else { */
-                events = [...addAdditionalData(require("../data/backup-2021-04-14.json")), ...require("../data/2021.json"), ...require("../data/2022.json"), ...require("../data/2023.json")];
+                events = [...addAdditionalData(require("../data/backup-2021-04-14.json")), ...require("../data/2021.json"), 
+                    ...require("../data/2022.json"), ...require("../data/2023.json"), ...require("../data/2024.json")];
                 commit("updateEvents", events);
                 console.log("fetched events from local backup");
                 commit("updateVueTablePage");
@@ -264,6 +265,7 @@ function getLogoUrl(serviceKey) {
         case "allmusic": return "/allmusic-logo.png";
         case "bandcamp": return "/bandcamp-button-bc-circle-aqua-32.png";
         case "discogs": return "/discogs-logo.png";
+        case "facebook": return "/facebook.svg";
         case "instagram": return "/instagram.jpg";
         case "jazzsession": return "/tjs-squarelogo.jpg";
         case "linkedin": return "/In-Blue-34.png";
@@ -281,6 +283,7 @@ function getServiceName(serviceKey) {
         case "allmusic": return "Allmusic";
         case "bandcamp": return "Bandcamp";
         case "discogs": return "Discogs";
+        case "facebook": return "Facebook";
         case "homepage": return "Homepage";
         case "instagram": return "Instagram";
         case "jazzsession": return "The Jazz Session";
