@@ -1206,11 +1206,11 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Chris Pitsiokos - as, elec",
-                "Wendy Eisenberg - g",
-                "Richard Lenz - bs",
-                "Kevin Murray - dr",
-                "Aaron Edgcomb - dr, perc"
+                "Chris Pitsiokos (as, elec)",
+                "Wendy Eisenberg (el-g)",
+                "Richard Lenz (el-b)",
+                "Kevin Murray (dr)",
+                "Aaron Edgcomb (dr, perc)"
             ],
             "collection": "festival21",
             "attendance_mode": "online"
@@ -1224,11 +1224,11 @@
         "deleted_at": null,
         "collection": "festival21",
         "artists": [
-            "Chris Pitsiokos - as, elec",
-            "Wendy Eisenberg - g",
-            "Richard Lenz - bs",
-            "Kevin Murray - dr",
-            "Aaron Edgcomb - dr, perc"
+            "Chris Pitsiokos (as, elec)",
+            "Wendy Eisenberg (el-g)",
+            "Richard Lenz (el-b)",
+            "Kevin Murray (dr)",
+            "Aaron Edgcomb (dr, perc)"
         ],
         "place": {
             "id": 1,

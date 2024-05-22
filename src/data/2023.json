@@ -2,13 +2,13 @@
     {
         "id": 2023001,
         "name": "Editrix (US)",
-        "start_date": "2023-05-26T16:45:00.000000+02:00",
-        "end_date": "2023-05-26T17:25:00.000000+02:00",
+        "start_date": "2023-05-26T16:45:00+02:00",
+        "end_date": "2023-05-26T17:25:00+02:00",
         "description": "Gitarrist:in Wendy Eisenberg kehrt nach their fulminanten Auftritt mit Strictly Missionary 2021 mit der Formation Editrix  und einem Soloset zurück nach Moers. Editrix sind ein erster Vorgeschmack auf das, was euch Pfingsten 2023 (auch) in Moers erwartet: Bands und Projects abseits aller Klischees, voller Energie, klug und mit Haltung. Lang lebe die Avantgarde!",
         "artists": [
-            "Steve Cameron (b)",
+            "Steve Cameron (el-b)",
             "Josh Daniel (dr)",
-            "Wendy Eisenberg (git, voc)"
+            "Wendy Eisenberg (el-g, voc)"
         ]
     },
     {
@@ -363,15 +363,15 @@
         "id": 2023045,
         "name": "Mark Ernestus’ Ndagga Rhythm Force (DE, SN)",
         "start_date": "2023-05-27T23:15:00+02:00",
-        "description": "Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.?AFRIKA - Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.",
-        "artists": ["Mbéne Diatta Seck (voc)", "Bada Seck (Sabar)", "Baye Mamour Seck (Sabar)", "Ibou Mbaye (keys)", "Modou Mbaye (Tama/talking drum)", "Ousmane Ka (dr)", "Mark Ernestus (prod)"]
+        "description": "Mit seiner Ndagga Rhythm Force verklangschmilzt Mark Ernestus seine westafrikanische Herkunft mit seinen musikalischen Wurzeln in der deutschen Techno- und Dub-Szene. Senegalesische Gesänge treffen auf schnelle - zum Teil analog, zum Teil digital produzierte - Polyrhythmik. Ein Synapsenknoten aus traditionellem WERT, wuchtigem Gesang, Tanz und Electronics. AUFBRUCH - tanzend ins Herz Dakars.",
+        "artists": ["Mbéne Diatta Seck (voc)", "Bada Seck (sabar)", "Baye Mamour Seck (sabar)", "Ibou Mbaye (keys)", "Modou Mbaye (talking dr)", "Ousmane Ka (dr)", "Mark Ernestus (prod)"]
     },
     {
         "id": 2023046,
         "name": "Wendy Eisenberg (US)",
-        "start_date": "2023-05-28T:00:25:00+02:00",
+        "start_date": "2023-05-28T00:25:00+02:00",
         "description": "Gitarrist:in Wendy Eisenberg kehrt nach their fulminanten Auftritt mit Strictly Missionary 2021 mit einem Soloset zurück nach Moers.",
-        "artists": ["Wendy Eisenberg (git, voc)"]
+        "artists": ["Wendy Eisenberg (el-g, voc)"]
     },
     {
         "id": 2023047,
@@ -416,7 +416,7 @@
         "name": "TEMBER Ensemble & guests (DE, IR, IT)",
         "start_date": "2023-05-28T15:10:00+02:00",
         "description": "Jin, Jiyan, Azadî! Das Tember Ensemble beschäftigt sich mit der aktuellen politischen Situation im Iran. BE-FREI-UNG! Gegründet wurde Tember von Alireza Ostovar und Azin Zahedi mit der Vision, innovative Musik in einzigartigen Atmosphären zu schaffen. Hier verbinden sich traditionelle Musikkultur mit zeitgenössischen und elektroakustischen Zugängen.Beim moers festival wird das Tember Ensemble durch den iranischen Videokünstler Arman Moghadam zum Quintett erweitert.",
-        "artists": ["Valentina Bellanova (nay, fl)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (santur)", "Arman Moghadam (live video)", "Ali Ostovar (electr, mixer)"]
+        "artists": ["Valentina Bellanova (ney, rec)", "Sebastian Flaig (perc)", "Kioomars Musayyebi (santur)", "Arman Moghadam (live video)", "Ali Ostovar (electr, mixer)"]
     },
     {
         "id": 2023053,
@@ -444,21 +444,21 @@
         "name": "Keune / Ewen / Smith (CA, DE, US)",
         "start_date": "2023-05-28T17:00:00+02:00",
         "description": "Mit Stefan Keune, Sandy Ewen und Damon Smith treffen drei konsequent eigenwillige Synapsenschaffende aufeinander. Saxophonist Keune aus Deutschland, Gitarristin Ewen aus Kanada und Kontrabassist Smith aus Amerika vereinen in ihrem gemeinsamen Spiel nicht nur ganz grundsätzlich, sondern auch durch ihr Leben und Aufwachsen an verschiedenen Orten auf der Welt persönliche Einflüsse miteinander. Was Pfingsten daraus wird? BE-FREI-UNG - energetisch, radikal und kompromisslos.",
-        "artists": ["Stefan Keune (sax)", "Sandy Ewen (git)", "Damon Smith (cb)"]
+        "artists": ["Stefan Keune (sax)", "Sandy Ewen (el-g)", "Damon Smith (cb)"]
     },
     {
         "id": 2023057,
         "name": "„Kultur? Weiß nicht, vielleicht morgen.“ Warum viele draußen bleiben und warum sich das ändern muss",
         "start_date": "2023-05-28T17:35:00+02:00",
         "description": "Discussion",
-        "artists": ["Dr. Julia Römhild (Moderation)", "Rainer Bode (Diskussion)", "Anke Fischer (Diskussion)", "Gudrun Kranacher (Diskussion)", "Kantara Karadeniz (Diskussion)", "Benjamin Pannenbecker (Diskussion)"]
+        "artists": ["Julia Römhild (moderation)", "Rainer Bode (discussion)", "Anke Fischer (discussion)", "Gudrun Kranacher (discussion)", "Kantara Karadeniz (discussion)", "Benjamin Pannenbecker (discussion)"]
     },
     {
         "id": 2023058,
         "name": "le petit macabre, Lukas Döhler, Ensemble INprogRES (DE, MX, US)",
         "start_date": "2023-05-28T18:20:00+02:00",
         "description": "In Anspielung auf György Ligetis Oper Le Grand Macabre, die ihn zu einem der wichtigsten Komponisten der Neuen Musik machte, entsteht mit le petit macabre zum 100. Geburtstag Ligetis ein neues Arrangement seiner Werke, das sich über seinen gesamten Schaffenszeitraum erstreckt.",
-        "artists": ["Lukas Döhler (ld, arragement)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
+        "artists": ["Lukas Döhler (ld, arr)", "Ferdinand Heuberger (comp)", "Pamela Soria (comp)", "Leh-Qiao Liao (cond)", "Elisabeth Maliks (cl)", 
             "Justin Cherry (bsn)", "Sofie Berge (h)", "Severin Haslach (vc)", "Femke Ehrentraut (vl)", "Andreas Osterloh (as)",
             "Maximilian Dickel (git)", "Juliana Dickel (ss)", "Judith Pfeiffer (fl)", "Jonah Pfeiffer (dr)", "Niklas Scheusener (cl)", 
             "Farbod Ahmadi (vl)", "Flora Batista (cl)", "Ethan Iverson (p)", "Silke Eberhard (sax)", "Eddy Kwon (vl, voc)"]
@@ -468,7 +468,7 @@
         "name": "Moerser Jazz Quartett (DE), moersify @ Wohnungsbau Moers",
         "start_date": "2023-05-26T22:00:00+02:00",
         "description": "",
-        "artists": ["Thomas Klecha-Fauré (vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (b)"]
+        "artists": ["Thomas Klecha-Fauré (vib)", "Rolf Hildebrand (dr)", "Matthias Dymke (p)", "Matthias Bangert (cb)"]
     },
     {
         "id": 2023060,

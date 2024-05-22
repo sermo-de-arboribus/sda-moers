@@ -2935,7 +2935,7 @@
         "name": "moersify: Flock Unplugged live radio recording for Worldwide FM (UK, US)",
         "start_date": "2022-06-04T12:30:00Z",
         "end_date": "2022-06-04T13:00:00Z",
-        "description": "Besetzung: Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics), Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy), Al MacSween (prepared piano, moog sub37), Sarathy Korwar (drums, tabla)",
+        "description": "Besetzung: Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electr), Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy), Al MacSween (prepared piano, moog sub37), Sarathy Korwar (drums, tabla)",
         "page_id": 370,
         "url": null,
         "image_path": null,
@@ -2946,7 +2946,7 @@
         "extras": {
             "tickets": "kein Ticket ben\u00f6tigt",
             "lineup": [
-                "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
+                "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electr)",
                 "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
                 "Al MacSween (prepared piano, moog sub37)",
                 "Sarathy Korwar (drums, tabla)"
@@ -2962,7 +2962,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
+            "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electr)",
             "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
             "Al MacSween (prepared piano, moog sub37)",
             "Sarathy Korwar (drums, tabla)"
@@ -4109,10 +4109,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Hunter Hunt-Hendrix (guitar, vocals)",
-                "Mario Miron (guitar)",
-                "Tia Vincent-Clark (bass)",
-                "Leo Didkovsky (drums)"
+                "Hunter Hunt-Hendrix (el-g, vocals)",
+                "Mario Miron (el-g)",
+                "Tia Vincent-Clark (el-b)",
+                "Leo Didkovsky (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -4126,10 +4126,10 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Hunter Hunt-Hendrix (guitar, vocals)",
-            "Mario Miron (guitar)",
-            "Tia Vincent-Clark (bass)",
-            "Leo Didkovsky (drums)"
+            "Hunter Hunt-Hendrix (el-g, voc)",
+            "Mario Miron (el-g)",
+            "Tia Vincent-Clark (el-b)",
+            "Leo Didkovsky (dr)"
         ],
         "duration": 45,
         "place": {
@@ -4518,7 +4518,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
+                "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electr)",
                 "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
                 "Al MacSween (prepared piano, moog sub37)",
                 "Sarathy Korwar (drums, tabla)"
@@ -4535,7 +4535,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electronics)",
+            "Bex Burch (gyil, vib, bd, shakers, bells, gong, snare, electr)",
             "Tamar Osborn (bcl, fl, ss, EHX deluxe memory boy)",
             "Al MacSween (prepared piano, moog sub37)",
             "Sarathy Korwar (drums, tabla)"
@@ -4799,7 +4799,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Pavel Milyakov (electronics, guitar)"
+                "Pavel Milyakov (electr, guitar)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket"
@@ -4813,7 +4813,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Pavel Milyakov (electronics, guitar)"
+            "Pavel Milyakov (electr, guitar)"
         ],
         "duration": 45,
         "place": {
@@ -5879,7 +5879,7 @@
                 "Irmi Wolvin (vc)",
                 "Martin Burk (cb)",
                 "Edward Reardon (synth)",
-                "Bernhard Loibner (modular electronics)",
+                "Bernhard Loibner (modular electr)",
                 "Valentin Duit (dr)"
             ],
             "tickets": "Festivalticket"
@@ -5907,7 +5907,7 @@
                 "Irmi Wolvin (vc)",
                 "Martin Burk (cb)",
                 "Edward Reardon (synth)",
-                "Bernhard Loibner (modular electronics)",
+                "Bernhard Loibner (modular electr)",
                 "Valentin Duit (dr)"
         ],
         "duration": 50,
@@ -6118,9 +6118,9 @@
                 "Tobias Klein (as)",
                 "Bart Maris (tp)",
                 "John Dikeman (ts)",
-                "Jasper Stadhouders (guitar)",
-                "Gon\u00e7alo Almeida (el-b)",
-                "Philipp Moser (drums)"
+                "Jasper Stadhouders (g)",
+                "Gon\u00e7alo Almeida (cb)",
+                "Philipp Moser (dr)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket\/M\u00d6RZZ Ticket"
@@ -6139,9 +6139,9 @@
             "Tobias Klein (as)",
             "Bart Maris (tp)",
             "John Dikeman (ts)",
-            "Jasper Stadhouders (guitar)",
-            "Gon\u00e7alo Almeida (el-b)",
-            "Philipp Moser (drums)"
+            "Jasper Stadhouders (g)",
+            "Gon\u00e7alo Almeida (cb)",
+            "Philipp Moser (dr)"
         ],
         "duration": 45,
         "place": {
@@ -6290,7 +6290,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Wolff Parkinson White (electronics)",
+                "Wolff Parkinson White (electr)",
                 "Hayden Chisholm (voc, as, fl, melodica)"
             ],
             "collection": "festival22",
@@ -6305,7 +6305,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Wolff Parkinson White (electronics)",
+            "Wolff Parkinson White (electr)",
             "Hayden Chisholm (voc, as, fl, melodica)"
         ],
         "duration": 45,
@@ -6582,7 +6582,7 @@
                 "Lisa Hofmaninger (sax)",
                 "Angelika Niescier (sax)",
                 "Francesco Bigoni (sax)",
-                "Hay-den Chisholm (sax)"
+                "Hayden Chisholm (sax)"
             ],
             "collection": "festival22",
             "tickets": "Festivalticket (Festivalhalle) \/ Festivalticket\/M\u00d6RZZ Ticket (Rodelberg)"
@@ -6603,7 +6603,7 @@
             "Lisa Hofmaninger (sax)",
             "Angelika Niescier (sax)",
             "Francesco Bigoni (sax)",
-            "Hay-den Chisholm (sax)"
+            "Hayden Chisholm (sax)"
         ],
         "duration": 30,
         "place": {
@@ -6913,10 +6913,10 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Hunter Hunt-Hendrix (guitar, vocals)",
-                "Mario Miron (guitar)",
-                "Tia Vincent-Clark (bass)",
-                "Leo Did-kovsky (drums)",
+                "Hunter Hunt-Hendrix (el-g, vocals)",
+                "Mario Miron (el-g)",
+                "Tia Vincent-Clark (el-b)",
+                "Leo Didkovsky (dr)",
                 "Evelien Jaspers (vl)",
                 "Floris Faber (alt vl)",
                 "Otto Bakker (vc)",
@@ -6937,10 +6937,10 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Hunter Hunt-Hendrix (guitar, vocals)",
-            "Mario Miron (guitar)",
-            "Tia Vincent-Clark (bass)",
-            "Leo Did-kovsky (drums)",
+            "Hunter Hunt-Hendrix (el-g, voc)",
+            "Mario Miron (el-g)",
+            "Tia Vincent-Clark (el-b)",
+            "Leo Didkovsky (dr)",
             "Evelien Jaspers (vl)",
             "Floris Faber (alt vl)",
             "Otto Bakker (vc)",
@@ -7789,7 +7789,7 @@
         "platform_id": null,
         "extras": {
             "lineup": [
-                "Gon\u00e7alo Almeida (el-b)",
+                "Gon\u00e7alo Almeida (cb)",
                 "Francesco Diodati (g)",
                 "Almut K\u00fchne (voc)",
                 "Laura Polence (voc)",
@@ -7807,7 +7807,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Gon\u00e7alo Almeida (el-b)",
+            "Gon\u00e7alo Almeida (cb)",
             "Francesco Diodati (g)",
             "Almut K\u00fchne (voc)",
             "Laura Polence (voc)",
@@ -8275,7 +8275,7 @@
         "name": "moersify: Musicians of Spinifex (DE, NL, PT)",
         "start_date": "2022-06-06T14:00:00Z",
         "end_date": "2022-06-06T14:30:00Z",
-        "description": "Besetzung: Philipp Moser (dr), Gon\u00e7alo Almeida (el-b), Jasper Stadhouders (git), Tobias Klein (as)",
+        "description": "Besetzung: Philipp Moser (dr), Gon\u00e7alo Almeida (cb), Jasper Stadhouders (git), Tobias Klein (as)",
         "page_id": 379,
         "url": null,
         "image_path": null,
@@ -8286,8 +8286,8 @@
         "extras": {
             "lineup": [
                 "Philipp Moser (dr)",
-                "Gon\u00e7alo Almeida (el-b)",
-                "Jasper Stadhouders (git)",
+                "Gon\u00e7alo Almeida (cb)",
+                "Jasper Stadhouders (g)",
                 "Tobias Klein (as)"
             ],
             "tickets": "kein Ticket ben\u00f6tigt",
@@ -8303,8 +8303,8 @@
         "collection": "festival22",
         "artists": [
             "Philipp Moser (dr)",
-            "Gon\u00e7alo Almeida (el-b)",
-            "Jasper Stadhouders (git)",
+            "Gon\u00e7alo Almeida (cb)",
+            "Jasper Stadhouders (g)",
             "Tobias Klein (as)"
         ],
         "duration": 30,
@@ -8751,7 +8751,7 @@
         "extras": {
             "lineup": [
                 "Anna Webber (sax)",
-                "gamin (korean woodwinds)",
+                "Gamin Kang (korean woodwinds)",
                 "Mat Muntz (bagpipe, b)",
                 "Vicente Hansen Atria (dr, elec)"
             ],
@@ -8768,7 +8768,7 @@
         "collection": "festival22",
         "artists": [
             "Anna Webber (tenor sax)",
-            "gamin (korean woodwinds)",
+            "Gamin Kang (korean woodwinds)",
             "Mat Muntz (bagpipe, b)",
             "Vicente Hansen Atria (dr, elec)"
         ],
@@ -9085,7 +9085,7 @@
         "extras": {
             "collection": "festival22",
             "lineup": [
-                "Robert Henke (electronics)"
+                "Robert Henke (electr)"
             ],
             "tickets": "Festivalticket"
         },
@@ -9098,7 +9098,7 @@
         "deleted_at": null,
         "collection": "festival22",
         "artists": [
-            "Robert Henke (electronics)"
+            "Robert Henke (electr)"
         ],
         "duration": 60,
         "place": {

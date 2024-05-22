@@ -19,12 +19,28 @@
                                     "abbrev": "afl"
                                 },
                                 {
+                                    "name": "exoticFlute",
+                                    "abbrev": "exotic fl"
+                                },
+                                {
                                     "name": "flute",
                                     "abbrev": "fl"
                                 },
                                 {
+                                    "name": "ney",
+                                    "abbrev": "ney"
+                                },
+                                {
                                     "name": "piccolo",
                                     "abbrev": "picc"
+                                },
+                                {
+                                    "name": "recorder",
+                                    "abbrev": "rec"
+                                },
+                                {
+                                    "name": "ryuteki",
+                                    "abbrev": "ryuteki"
                                 }
                             ]
                         },
@@ -43,6 +59,10 @@
                                                 {
                                                     "name": "bassClarinet",
                                                     "abbrev": "bcl"
+                                                },
+                                                {
+                                                    "name": "bassetHorn",
+                                                    "abbrev": "basset-h"
                                                 },
                                                 {
                                                     "name": "clarinetInBFlat",
@@ -89,6 +109,10 @@
                                                     "abbrev": "ts"
                                                 }
                                             ]
+                                        },
+                                        {
+                                            "name": "tárogató",
+                                            "abbrev": "tárogató"
                                         }
                                     ]
                                 },
@@ -117,6 +141,10 @@
                         {
                             "name": "alphorn",
                             "abbrev": "alph"
+                        },
+                        {
+                            "name": "frenchHorn",
+                            "abbrev": "frh"
                         },
                         {
                             "name": "trumpet",
@@ -163,6 +191,14 @@
                             "abbrev": "bells"
                         },
                         {
+                            "name": "lamellophone",
+                            "abbrev": "lamel",
+                            "members": {
+                                "name": "mbira",
+                                "abbrev": "mbira"
+                            }
+                        },
+                        {
                             "name": "marimba",
                             "abbrev": "mar"
                         },
@@ -199,6 +235,10 @@
                                     "abbrev": "bo"
                                 },
                                 {
+                                    "name": "sabar",
+                                    "abbrev": "sabar"
+                                },
+                                {
                                     "name": "snareDrum",
                                     "abbrev": "sndr"
                                 },
@@ -212,12 +252,32 @@
                                 }]
                         },
                         {
-                            "name": "castanets",
-                            "abbrev": "castanets"
+                            "name": "clappers",
+                            "abbrev": "clappers",
+                            "members": [
+                                {
+                                    "name": "castanets",
+                                    "abbrev": "castanets"
+                                },
+                                {
+                                    "name": "garagab",
+                                    "abbrev": "garagab"
+                                }
+                            ]
                         },
                         {
                             "name": "cymbals",
                             "abbrev": "cymb"
+                        },
+                        {
+                            "name": "rattles",
+                            "abbrev": "rattles",
+                            "members": [
+                                {
+                                    "name": "kayamb",
+                                    "abbrev": "kayamb"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -285,7 +345,17 @@
                         },
                         {
                             "name": "harp",
-                            "abbrev": "hrp"
+                            "abbrev": "hrp",
+                            "members": [
+                                {
+                                    "name": "electricHarp",
+                                    "abbrev": "el-hrp"
+                                },
+                                {
+                                    "name": "kora",
+                                    "abbrev": "kora"
+                                }
+                            ]
                         },
                         {
                             "name": "lutes",
@@ -340,6 +410,10 @@
                                             "abbrev": "oud"
                                         }
                                     ]
+                                },
+                                {
+                                    "name": "xalam",
+                                    "abbrev": "xalam"
                                 }
                             ]
                         },
@@ -387,6 +461,10 @@
             "name": "electronicInstruments",
             "abbrev": "electr",
             "members": [
+                {
+                    "name": "mixer",
+                    "abbrev": "mixer"
+                },
                 {
                     "name": "synthesizer",
                     "abbrev": "synth",
