@@ -11510,6 +11510,19 @@
             "discogs": [{"type": "personal", "url": "https://www.discogs.com/de/artist/3180416-Reto-Schubiger"}]
         }
     },
+    "StefanSchultze": {
+        "links": {
+            "allaboutjazz": [{"type": "personal", "url": "https://www.allaboutjazz.com/musicians/stefan-schultze"}],
+            "bandcamp": [{"type":"personal", "url": "https://stefanschultze.bandcamp.com/"}],
+            "facebook": [{"type": "personal", "url": "https://www.facebook.com/profile.php?id=100016496733990"}],
+            "homepage": [{"type": "personal", "url": "https://stefanschultze.com/"}],
+            "instagram": [{"type": "personal", "url": "https://www.instagram.com/stefanschultzemusic?igsh=dGEyd2cwZ3R1bHRo"}],
+            "radiohoerer": [{"type": "personal", "url": "https://radiohoerer.info/?category_name=nach-hoeren&s=%22Stefan%20Schultze%22"}],
+            "soundcloud": [{"type": "personal", "url": "https://soundcloud.com/stefanschultze"}],
+            "wikipedia": [{"type": "personal", "locales": [{"locale": "de", "url": "https://de.wikipedia.org/wiki/Stefan_Schultze"}]}],
+            "youtube": [{"type": "personal", "url": "https://www.youtube.com/@stefanschultzemusic"}]
+        }
+    },
     "KaiSchumacher": {
         "links": {
             "allmusic": [{"type": "personal", "url": "https://www.allmusic.com/artist/kai-schumacher-mn0002387800"}],

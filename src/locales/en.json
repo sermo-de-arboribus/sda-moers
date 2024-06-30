@@ -30,7 +30,7 @@
     "firstname": "First name",
     "instruments": "Instruments",
     "intro": "Welcome to {websiteCreator}'s page with infos on musicians who have played at Moers Festival since 1972. Unlike the festival's official website this table here puts a spotlight on the individual artists rather than bands and bandleaders. By using the sorting and filtering functions for artists, years or instruments it is eay to find answers to your individual questions.",
-    "intro2": "I have described the origin and motivation for creating this website (in German) in a {guestarticle} on the radio listener's blog. The impetus was given by a {tweet}. For the years 2019 to 2022 the information on this website is based on the open festival data of {dataProvider}, data of the earlier festivals is taken from the festival's website and is being appended by information from the program documents. The links to further information on the artists have also been added by me. If you want to download the data for your own purposes, feel free to do so using the data export link above.",
+    "intro2": "I have described the origin and motivation for creating this website (in German) in a {guestarticle} on the radio listener's blog. The impetus was given by a {tweet}. For the years 2019 to 2023 the information on this website is based on the open festival data of {dataProvider}, data of the earlier festivals is taken from the festival's website and is being appended by information from the program documents. The links to further information on the artists have also been added by me. If you want to download the data for your own purposes, feel free to do so using the data export link above.",
     "links": "Links",
     "notes": "Notes",
     "pagination": {
